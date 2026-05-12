@@ -5,8 +5,8 @@ _Generated May 12, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/
 
 ## Executive Summary
 
-We tracked **38 open DevOps / SRE / Platform / Cloud roles** in Israel this week
-across 2 sources. **0 of those (0.0%)
+We tracked **125 open DevOps / SRE / Platform / Cloud roles** in Israel this week
+across 3 sources. **1 of those (0.8%)
 are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Week-over-Week Trends
@@ -15,12 +15,12 @@ _This is the first weekly snapshot — trend data will appear next week._
 
 ## Top 10 In-Demand Skills
 
-1. **CI/CD** — 27 mentions
-2. **AWS** — 25 mentions
-3. **Security** — 24 mentions
-4. **Kubernetes** — 22 mentions
-5. **GCP** — 20 mentions
-6. **Azure** — 17 mentions
+1. **Security** — 28 mentions
+2. **CI/CD** — 27 mentions
+3. **AWS** — 25 mentions
+4. **Kubernetes** — 23 mentions
+5. **GCP** — 21 mentions
+6. **Azure** — 18 mentions
 7. **Python** — 17 mentions
 8. **Argo CD** — 15 mentions
 9. **Observability** — 14 mentions
@@ -33,17 +33,17 @@ _This is the first weekly snapshot — trend data will appear next week._
 3. **Transmitsecurity** — 5 open roles
 4. **Nice** — 4 open roles
 5. **Riskified** — 3 open roles
-6. **Unity3D** — 2 open roles
-7. **Via** — 2 open roles
-8. **Axonius** — 2 open roles
-9. **Gongio** — 1 open role
-10. **Appsflyer** — 1 open role
+6. **NVIDIA AI** — 3 open roles
+7. **Agoda** — 3 open roles
+8. **Unity3D** — 2 open roles
+9. **Via** — 2 open roles
+10. **Axonius** — 2 open roles
 
 ## Seniority Distribution
 
-- **Junior**: 0.0% ``
-- **Mid**: 39.5% `███████████████`
-- **Senior**: 60.5% `████████████████████████`
+- **Junior**: 0.8% ``
+- **Mid**: 59.2% `███████████████████████`
+- **Senior**: 40.0% `████████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -55,15 +55,19 @@ _This is the first weekly snapshot — trend data will appear next week._
 
 ## Location Breakdown
 
-- **Tel Aviv** — 28
-- **Raanana** — 4
+- **Tel Aviv** — 80
+- **Israel (other)** — 23
+- **Raanana** — 8
+- **Haifa** — 4
 - **Remote** — 4
+- **Jerusalem** — 3
+- **Petah Tikva** — 2
 - **Herzliya** — 1
-- **Israel (other)** — 1
 
 ## Sources
 
-- greenhouse: 34
+- linkedin: 85
+- greenhouse: 36
 - remoteok: 4
 
 ## Methodology
