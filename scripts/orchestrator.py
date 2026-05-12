@@ -156,6 +156,23 @@ def main():
         len(raw_jobs) - len(deduped),
     )
 
+    # 2.5. First-seen tagging (for "new in last 24h" feature)
+    import seen_jobs as _sj  # noqa: WPS433
+
+    seen_path = os.path.join(DATA_DIR, "seen_jobs.json")
+    seen = _sj.load_seen(seen_path)
+    deduped, new_today_count = _sj.stamp_jobs(deduped, seen)
+    seen = _sj.prune_old(seen, max_age_days=90)
+    _sj.save_seen(seen_path, seen)
+    new_in_last_24h = _sj.filter_recent(deduped, within_days=1)
+    new_in_last_7d = _sj.filter_recent(deduped, within_days=7)
+    B.LOG.info(
+        "First-seen tagging: %d new today, %d new in last 7d, %d total tracked",
+        new_today_count,
+        len(new_in_last_7d),
+        len(seen),
+    )
+
     # 3. Analyze
     stats = analysis.analyze(deduped)
     stats["week"] = datetime.now().isocalendar()
@@ -229,6 +246,10 @@ def main():
             "salary_disclosure_rate": stats.get("salary_disclosure_rate", 0.0),
             "top_hiring_strength": stats.get("top_hiring_strength", []),
             "company_hiring_strength": stats.get("company_hiring_strength", {}),
+            # NEW: daily cadence metrics
+            "new_count_24h": new_today_count,
+            "new_count_7d": len(new_in_last_7d),
+            "total_tracked_jobs": len(seen),
         },
         "deltas": deltas,
         "diagnostics": diagnostics,
@@ -247,8 +268,39 @@ def main():
                 "source": j["source"],
                 "url": j["url"],
                 "posted_at": j.get("posted_at", ""),
+                "first_seen_at": j.get("first_seen_at", ""),
+                "is_new_today": j.get("is_new_today", False),
+                "days_open": j.get("days_open", 0),
             }
             for j in stats["enriched_jobs"]
+        ],
+        # NEW: ready-to-render slim list of "new today"
+        "new_in_last_24h": [
+            {
+                "title": j["title"],
+                "company": j.get("company", ""),
+                "location": j.get("location", ""),
+                "seniority": j.get("seniority", ""),
+                "skills": ", ".join(j.get("skills_extracted", []) or []),
+                "source": j["source"],
+                "url": j.get("url", ""),
+                "first_seen_at": j.get("first_seen_at", ""),
+            }
+            for j in new_in_last_24h
+        ],
+        # And the wider 7-day window for "fresh this week"
+        "new_in_last_7d": [
+            {
+                "title": j["title"],
+                "company": j.get("company", ""),
+                "location": j.get("location", ""),
+                "seniority": j.get("seniority", ""),
+                "skills": ", ".join(j.get("skills_extracted", []) or []),
+                "source": j["source"],
+                "url": j.get("url", ""),
+                "first_seen_at": j.get("first_seen_at", ""),
+            }
+            for j in new_in_last_7d
         ],
     }
     latest_path = os.path.join(REPORTS_DIR, "latest.json")
@@ -270,6 +322,8 @@ def main():
     print(f"  RUN COMPLETE — Week {week_str}")
     print("=" * 80)
     print(f"  Total jobs (deduped): {stats['total_jobs']}")
+    print(f"  🔥 New today:         {new_today_count}")
+    print(f"  📅 New last 7d:       {len(new_in_last_7d)}")
     print(
         f"  Junior-friendly:      {stats['junior_count']} ({stats['junior_pct']:.1f}%)"
     )

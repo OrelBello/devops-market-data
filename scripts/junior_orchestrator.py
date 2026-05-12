@@ -605,6 +605,23 @@ def main():
     deduped = dedup_jr(raw)
     B.LOG.info("After dedup: %d (%d duplicates)", len(deduped), len(raw) - len(deduped))
 
+    # First-seen tagging (for "new in last 24h" feature)
+    import seen_jobs as _sj  # noqa: WPS433
+
+    seen_path = os.path.join(DATA_DIR, "seen_jr_jobs.json")
+    seen = _sj.load_seen(seen_path)
+    deduped, jr_new_today_count = _sj.stamp_jobs(deduped, seen)
+    seen = _sj.prune_old(seen, max_age_days=90)
+    _sj.save_seen(seen_path, seen)
+    jr_new_24h = _sj.filter_recent(deduped, within_days=1)
+    jr_new_7d = _sj.filter_recent(deduped, within_days=7)
+    B.LOG.info(
+        "Junior first-seen tagging: %d new today, %d new in last 7d, %d total tracked",
+        jr_new_today_count,
+        len(jr_new_7d),
+        len(seen),
+    )
+
     stats = analyze_jr(deduped)
     stats["week"] = week
     stats["diagnostics"] = diagnostics
@@ -650,6 +667,9 @@ def main():
             "top_companies": stats["top_companies"],
             "location_distribution": stats["location_distribution"],
             "needs_review_count": stats["needs_review_count"],
+            "new_count_24h": jr_new_today_count,
+            "new_count_7d": len(jr_new_7d),
+            "total_tracked_jobs": len(seen),
         },
         "diagnostics": diagnostics,
         "report_md_path": md_path,
@@ -666,8 +686,37 @@ def main():
                 "needs_review": j.get("needs_jd_review", False),
                 "source": j.get("source", ""),
                 "url": j.get("url", ""),
+                "first_seen_at": j.get("first_seen_at", ""),
+                "is_new_today": j.get("is_new_today", False),
+                "days_open": j.get("days_open", 0),
             }
             for j in sorted(deduped, key=lambda x: -x.get("learning_score", 0))
+        ],
+        "new_in_last_24h": [
+            {
+                "title": j.get("title", ""),
+                "company": j.get("company", ""),
+                "location": j.get("location", ""),
+                "bucket": j.get("junior_bucket", ""),
+                "stack": ", ".join(j.get("stack_matched", []) or []),
+                "score": j.get("learning_score", 0),
+                "url": j.get("url", ""),
+                "first_seen_at": j.get("first_seen_at", ""),
+            }
+            for j in sorted(jr_new_24h, key=lambda x: -x.get("learning_score", 0))
+        ],
+        "new_in_last_7d": [
+            {
+                "title": j.get("title", ""),
+                "company": j.get("company", ""),
+                "location": j.get("location", ""),
+                "bucket": j.get("junior_bucket", ""),
+                "stack": ", ".join(j.get("stack_matched", []) or []),
+                "score": j.get("learning_score", 0),
+                "url": j.get("url", ""),
+                "first_seen_at": j.get("first_seen_at", ""),
+            }
+            for j in sorted(jr_new_7d, key=lambda x: -x.get("learning_score", 0))
         ],
     }
     latest_path = os.path.join(REPORTS_DIR, "jr_latest.json")
