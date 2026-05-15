@@ -23,12 +23,14 @@ jobs:
         with:
           python-version: '3.12'
 
+      # No pip install needed — platform is stdlib-only.
+
       - name: Run the main DevOps market platform
         run: python scripts/orchestrator.py
 
       - name: Run the junior pipeline
         run: python scripts/junior_orchestrator.py
-        continue-on-error: true
+        continue-on-error: true   # junior pipeline can fail on LinkedIn rate limits without breaking the main run
 
       - name: Generate landing page
         run: python scripts/landing_page.py
@@ -38,9 +40,11 @@ jobs:
         run: |
           git config user.email "bot@orelbello.com"
           git config user.name  "DevOps Market Bot"
+          # seen_jobs.json files MUST be committed so first-seen tracking survives across runs.
           git add reports/latest.json reports/jr_latest.json reports/index.html \
                   reports/report_*.md reports/linkedin_*.md \
                   reports/jr_report_*.md reports/jr_linkedin_*.md \
+                  reports/devops-jobs-israel-*.xlsx \
                   data/history/*.json \
                   data/seen_jobs.json data/seen_jr_jobs.json 2>/dev/null || true
           if git diff --cached --quiet; then
