@@ -2,14 +2,14 @@
 
 I track every open DevOps / SRE / Platform Engineering / Cloud role in Israel and publish the data publicly. Here's what this week looks like:
 
-📊 34 open roles across major Israeli tech companies + global boards
-👥 0 of those (0.0%) are junior-friendly
+📊 116 open roles across major Israeli tech companies + global boards
+👥 1 of those (0.9%) are junior-friendly
 
 🔥 Most-demanded skills:
-CI/CD • AWS • Kubernetes • Security • GCP
+Security • CI/CD • AWS • Kubernetes • GCP
 
 🏢 Top hiring companies:
-Jfrog, Nice, Payoneer, Riskified, Unity3D
+Jfrog, Nice, Payoneer, Transmitsecurity, Riskified
 
 Why I do this: I mentor 600+ DevOps engineers in @FlipTheScript and they kept asking "what should I learn?" and "who's hiring juniors?" Instead of guessing, I built an automated platform that answers those questions every Sunday — with real data.
 
