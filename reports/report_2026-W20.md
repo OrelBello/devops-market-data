@@ -5,7 +5,7 @@ _Generated May 15, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/
 
 ## Executive Summary
 
-We tracked **121 open DevOps / SRE / Platform / Cloud roles** in Israel this week
+We tracked **114 open DevOps / SRE / Platform / Cloud roles** in Israel this week
 across 3 sources. **0 of those (0.0%)
 are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
@@ -16,7 +16,7 @@ _This is the first weekly snapshot — trend data will appear next week._
 ## Top 10 In-Demand Skills
 
 1. **CI/CD** — 26 mentions
-2. **Security** — 25 mentions
+2. **Security** — 26 mentions
 3. **AWS** — 24 mentions
 4. **Kubernetes** — 23 mentions
 5. **GCP** — 21 mentions
@@ -42,8 +42,8 @@ _This is the first weekly snapshot — trend data will appear next week._
 ## Seniority Distribution
 
 - **Junior**: 0.0% ``
-- **Mid**: 57.0% `██████████████████████`
-- **Senior**: 43.0% `█████████████████`
+- **Mid**: 59.6% `███████████████████████`
+- **Senior**: 40.4% `████████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -55,10 +55,10 @@ _This is the first weekly snapshot — trend data will appear next week._
 
 ## Location Breakdown
 
-- **Tel Aviv** — 81
-- **Israel (other)** — 15
+- **Tel Aviv** — 73
+- **Israel (other)** — 17
 - **Raanana** — 9
-- **Petah Tikva** — 4
+- **Petah Tikva** — 3
 - **Netanya** — 3
 - **Haifa** — 3
 - **Remote** — 3
@@ -66,7 +66,7 @@ _This is the first weekly snapshot — trend data will appear next week._
 
 ## Sources
 
-- linkedin: 81
+- linkedin: 74
 - greenhouse: 36
 - remoteok: 4
 

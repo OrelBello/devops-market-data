@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-05-15T11:38:33",
+  "generated_at": "2026-05-15T12:14:05",
   "week": "2026-W20",
   "stats_for_sheets": {
-    "total_jobs": 33,
+    "total_jobs": 31,
     "by_source": {
       "greenhouse": 5,
-      "linkedin": 26,
+      "linkedin": 24,
       "remoteok": 2
     },
     "bucket_distribution": {
-      "Help Desk / IT Support": 20,
-      "SysAdmin / NOC": 9,
-      "Junior DevOps": 2,
+      "Help Desk / IT Support": 18,
+      "SysAdmin / NOC": 10,
+      "Junior DevOps": 1,
       "Trainee / Bootcamp Grad": 1,
       "Junior SRE / Cloud / Platform": 1
     },
     "top_stack": [
       [
         "Troubleshooting",
-        25
-      ],
-      [
-        "Bash/Shell",
-        19
+        23
       ],
       [
         "Networking",
-        19
-      ],
-      [
-        "Linux",
         18
       ],
       [
-        "Cloud (any)",
-        14
+        "Bash/Shell",
+        16
       ],
       [
-        "Python",
+        "Linux",
+        15
+      ],
+      [
+        "Cloud (any)",
         13
       ],
       [
         "Monitoring",
-        13
-      ],
-      [
-        "Azure",
         12
       ],
       [
-        "Automation",
-        10
+        "Python",
+        11
+      ],
+      [
+        "Azure",
+        11
       ],
       [
         "Active Directory",
         9
       ],
       [
-        "AWS",
+        "Automation",
         8
+      ],
+      [
+        "AWS",
+        7
       ],
       [
         "Virtualization",
         7
       ],
       [
-        "CI/CD",
-        4
-      ],
-      [
         "Git",
         4
       ],
       [
-        "Terraform/IaC",
+        "GCP",
+        4
+      ],
+      [
+        "Windows Server",
         4
       ]
     ],
@@ -119,7 +119,7 @@
         1
       ],
       [
-        "Gini-Apps",
+        "Nova Ltd.",
         1
       ],
       [
@@ -140,38 +140,38 @@
       ]
     ],
     "location_distribution": {
-      "Tel Aviv": 16,
-      "Israel (other)": 12,
-      "Haifa": 2,
+      "Tel Aviv": 14,
+      "Israel (other)": 13,
       "Raanana": 1,
       "Herzliya": 1,
+      "Haifa": 1,
       "Netanya": 1
     },
     "needs_review_count": 0,
-    "new_count_24h": 33,
-    "new_count_7d": 33,
-    "total_tracked_jobs": 33
+    "new_count_24h": 1,
+    "new_count_7d": 31,
+    "total_tracked_jobs": 34
   },
   "diagnostics": {
     "greenhouse": {
       "jobs": 5,
-      "elapsed_s": 13.5,
+      "elapsed_s": 25.7,
       "ok": true
     },
     "linkedin": {
-      "jobs": 28,
-      "elapsed_s": 142.2,
+      "jobs": 27,
+      "elapsed_s": 146.0,
       "ok": true
     },
     "remoteok": {
       "jobs": 2,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     }
   },
   "report_md_path": "/home/runner/work/devops-market-data/devops-market-data/reports/jr_report_2026-W20.md",
   "linkedin_md_path": "/home/runner/work/devops-market-data/devops-market-data/reports/jr_linkedin_2026-W20.md",
-  "snapshot_path": "/home/runner/work/devops-market-data/devops-market-data/data/snapshots/jr_jobs_20260515_113833.json",
+  "snapshot_path": "/home/runner/work/devops-market-data/devops-market-data/data/snapshots/jr_jobs_20260515_121405.json",
   "jobs_for_sheet": [
     {
       "title": "Developer Support Engineer",
@@ -197,20 +197,6 @@
       "needs_review": false,
       "source": "linkedin",
       "url": "https://il.linkedin.com/jobs/view/junior-devops-engineer-at-the-center-for-educational-technology-cet-4401072488",
-      "first_seen_at": "2026-05-15",
-      "is_new_today": true,
-      "days_open": 0
-    },
-    {
-      "title": "Junior DevOps Engineer",
-      "company": "Gini-Apps",
-      "location": "Herzliya, Tel Aviv District, Israel",
-      "bucket": "Junior DevOps",
-      "stack": "Linux, Python, Bash/Shell, AWS, Kubernetes, CI/CD, Terraform/IaC, Troubleshooting",
-      "score": 100,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/junior-devops-engineer-at-gini-apps-4404896510",
       "first_seen_at": "2026-05-15",
       "is_new_today": true,
       "days_open": 0
@@ -281,34 +267,6 @@
       "needs_review": false,
       "source": "greenhouse",
       "url": "https://www.transmitsecurity.com/about/careers/job?gh_jid=8533931002",
-      "first_seen_at": "2026-05-15",
-      "is_new_today": true,
-      "days_open": 0
-    },
-    {
-      "title": "Technical Support Engineer",
-      "company": "Outpost24",
-      "location": "Tel Aviv District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Linux, Python, Bash/Shell, Azure, Automation, Troubleshooting",
-      "score": 47,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/technical-support-engineer-at-outpost24-4411657094",
-      "first_seen_at": "2026-05-15",
-      "is_new_today": true,
-      "days_open": 0
-    },
-    {
-      "title": "Support Engineer",
-      "company": "Regatta Data",
-      "location": "Binyamina, Haifa District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Linux, Python, Bash/Shell, Cloud (any), Networking, Monitoring, Automation, Troubleshooting",
-      "score": 47,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/support-engineer-at-regatta-data-4366167298",
       "first_seen_at": "2026-05-15",
       "is_new_today": true,
       "days_open": 0
@@ -617,6 +575,20 @@
       "needs_review": false,
       "source": "linkedin",
       "url": "https://il.linkedin.com/jobs/view/technical-support-eng-at-ultra-information-solutions-4412395476",
+      "first_seen_at": "2026-05-15",
+      "is_new_today": true,
+      "days_open": 0
+    },
+    {
+      "title": "System Engineer IM",
+      "company": "Nova Ltd.",
+      "location": "Rehovot, Center District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Python, Troubleshooting",
+      "score": 16,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/system-engineer-im-at-nova-ltd-4413884631",
       "first_seen_at": "2026-05-15",
       "is_new_today": true,
       "days_open": 0
@@ -658,16 +630,6 @@
       "first_seen_at": "2026-05-15"
     },
     {
-      "title": "Junior DevOps Engineer",
-      "company": "Gini-Apps",
-      "location": "Herzliya, Tel Aviv District, Israel",
-      "bucket": "Junior DevOps",
-      "stack": "Linux, Python, Bash/Shell, AWS, Kubernetes, CI/CD, Terraform/IaC, Troubleshooting",
-      "score": 100,
-      "url": "https://il.linkedin.com/jobs/view/junior-devops-engineer-at-gini-apps-4404896510",
-      "first_seen_at": "2026-05-15"
-    },
-    {
       "title": "IT Support Specialist",
       "company": "Aidoc",
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
@@ -715,26 +677,6 @@
       "stack": "Bash/Shell, AWS, Azure, GCP, Cloud (any), Networking",
       "score": 47,
       "url": "https://www.transmitsecurity.com/about/careers/job?gh_jid=8533931002",
-      "first_seen_at": "2026-05-15"
-    },
-    {
-      "title": "Technical Support Engineer",
-      "company": "Outpost24",
-      "location": "Tel Aviv District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Linux, Python, Bash/Shell, Azure, Automation, Troubleshooting",
-      "score": 47,
-      "url": "https://il.linkedin.com/jobs/view/technical-support-engineer-at-outpost24-4411657094",
-      "first_seen_at": "2026-05-15"
-    },
-    {
-      "title": "Support Engineer",
-      "company": "Regatta Data",
-      "location": "Binyamina, Haifa District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Linux, Python, Bash/Shell, Cloud (any), Networking, Monitoring, Automation, Troubleshooting",
-      "score": 47,
-      "url": "https://il.linkedin.com/jobs/view/support-engineer-at-regatta-data-4366167298",
       "first_seen_at": "2026-05-15"
     },
     {
@@ -955,6 +897,16 @@
       "stack": "Bash/Shell, Monitoring, Troubleshooting",
       "score": 17,
       "url": "https://il.linkedin.com/jobs/view/technical-support-eng-at-ultra-information-solutions-4412395476",
+      "first_seen_at": "2026-05-15"
+    },
+    {
+      "title": "System Engineer IM",
+      "company": "Nova Ltd.",
+      "location": "Rehovot, Center District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Python, Troubleshooting",
+      "score": 16,
+      "url": "https://il.linkedin.com/jobs/view/system-engineer-im-at-nova-ltd-4413884631",
       "first_seen_at": "2026-05-15"
     },
     {
@@ -990,16 +942,6 @@
       "first_seen_at": "2026-05-15"
     },
     {
-      "title": "Junior DevOps Engineer",
-      "company": "Gini-Apps",
-      "location": "Herzliya, Tel Aviv District, Israel",
-      "bucket": "Junior DevOps",
-      "stack": "Linux, Python, Bash/Shell, AWS, Kubernetes, CI/CD, Terraform/IaC, Troubleshooting",
-      "score": 100,
-      "url": "https://il.linkedin.com/jobs/view/junior-devops-engineer-at-gini-apps-4404896510",
-      "first_seen_at": "2026-05-15"
-    },
-    {
       "title": "IT Support Specialist",
       "company": "Aidoc",
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
@@ -1047,26 +989,6 @@
       "stack": "Bash/Shell, AWS, Azure, GCP, Cloud (any), Networking",
       "score": 47,
       "url": "https://www.transmitsecurity.com/about/careers/job?gh_jid=8533931002",
-      "first_seen_at": "2026-05-15"
-    },
-    {
-      "title": "Technical Support Engineer",
-      "company": "Outpost24",
-      "location": "Tel Aviv District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Linux, Python, Bash/Shell, Azure, Automation, Troubleshooting",
-      "score": 47,
-      "url": "https://il.linkedin.com/jobs/view/technical-support-engineer-at-outpost24-4411657094",
-      "first_seen_at": "2026-05-15"
-    },
-    {
-      "title": "Support Engineer",
-      "company": "Regatta Data",
-      "location": "Binyamina, Haifa District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Linux, Python, Bash/Shell, Cloud (any), Networking, Monitoring, Automation, Troubleshooting",
-      "score": 47,
-      "url": "https://il.linkedin.com/jobs/view/support-engineer-at-regatta-data-4366167298",
       "first_seen_at": "2026-05-15"
     },
     {
@@ -1287,6 +1209,16 @@
       "stack": "Bash/Shell, Monitoring, Troubleshooting",
       "score": 17,
       "url": "https://il.linkedin.com/jobs/view/technical-support-eng-at-ultra-information-solutions-4412395476",
+      "first_seen_at": "2026-05-15"
+    },
+    {
+      "title": "System Engineer IM",
+      "company": "Nova Ltd.",
+      "location": "Rehovot, Center District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Python, Troubleshooting",
+      "score": 16,
+      "url": "https://il.linkedin.com/jobs/view/system-engineer-im-at-nova-ltd-4413884631",
       "first_seen_at": "2026-05-15"
     },
     {
