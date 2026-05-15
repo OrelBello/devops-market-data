@@ -317,6 +317,15 @@ def main():
     except Exception as e:  # noqa: BLE001
         B.LOG.warning("Landing page generation skipped: %s", e)
 
+    # 9. Generate downloadable Excel snapshot
+    try:
+        import excel_export as _xl  # noqa: WPS433
+
+        _xl.render()
+        B.LOG.info("Saved Excel snapshot files")
+    except Exception as e:  # noqa: BLE001
+        B.LOG.warning("Excel export skipped: %s", e)
+
     # ---- Summary ----
     print("\n" + "=" * 80)
     print(f"  RUN COMPLETE — Week {week_str}")
