@@ -723,6 +723,15 @@ def main():
     with open(latest_path, "w", encoding="utf-8") as f:
         json.dump(latest, f, indent=2, ensure_ascii=False)
 
+    # Generate junior-only Excel snapshot
+    try:
+        import excel_export as _xl  # noqa: WPS433
+
+        _xl.render_junior()
+        B.LOG.info("Saved junior Excel snapshot files")
+    except Exception as e:  # noqa: BLE001
+        B.LOG.warning("Junior Excel export skipped: %s", e)
+
     print("\n" + "=" * 80)
     print(f"  JUNIOR PIPELINE RUN COMPLETE — Week {week}")
     print("=" * 80)

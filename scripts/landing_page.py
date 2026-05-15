@@ -161,8 +161,11 @@ th {{ background: #21262d; color: var(--muted); font-weight: 600; text-transform
 .num {{ text-align: right; font-variant-numeric: tabular-nums; }}
 a {{ color: var(--accent); text-decoration: none; }}
 a:hover {{ text-decoration: underline; }}
-.cta {{ display: inline-block; background: var(--accent); color: var(--bg); padding: 0.75rem 1.5rem; border-radius: 8px; font-weight: 600; margin-top: 1rem; }}
-.cta:hover {{ background: var(--purple); color: var(--text); text-decoration: none; }}
+.cta {{ display: inline-block; background: var(--accent); color: var(--bg); padding: 0.75rem 1.5rem; border-radius: 8px; font-weight: 600; margin-top: 1rem; transition: all 0.2s; }}
+.cta:hover {{ background: var(--purple); color: var(--text); text-decoration: none; transform: translateY(-1px); }}
+.cta-secondary {{ background: var(--green); }}
+.cta-tertiary {{ background: transparent; color: var(--text); border: 1px solid #30363d; }}
+.cta-tertiary:hover {{ background: #21262d; color: var(--text); }}
 footer {{ text-align: center; color: var(--muted); padding: 2rem 0; font-size: 0.9rem; border-top: 1px solid #30363d; margin-top: 3rem; }}
 </style>
 </head>
@@ -172,7 +175,11 @@ footer {{ text-align: center; color: var(--muted); padding: 2rem 0; font-size: 0
   <h1>🇮🇱 Israeli DevOps Job Market</h1>
   <div class="subtitle">The authoritative weekly report — open data, open methodology</div>
   <div class="meta">Week {_esc(week)} · Generated {_esc(generated)} · Maintained by <a href="https://www.linkedin.com/in/orel-bello/">Orel Bello</a> for <a href="https://www.linkedin.com/groups/12877927/">FlipTheScript</a></div>
-  <div style="margin-top:1.5rem"><a class="cta" href="{main_sheet_url}" target="_blank">Open the live dashboard →</a></div>
+  <div style="margin-top:1.5rem; display:flex; gap:0.75rem; flex-wrap:wrap; justify-content:center">
+    <a class="cta cta-secondary" href="./devops-jobs-israel-latest.xlsx" download>📥 Excel — All DevOps</a>
+    <a class="cta cta-secondary" href="./devops-juniors-israel-latest.xlsx" download>🪜 Excel — Juniors only</a>
+    <a class="cta cta-tertiary" href="./latest.json">📄 Raw JSON</a>
+  </div>
 </header>
 
 <div class="hero">

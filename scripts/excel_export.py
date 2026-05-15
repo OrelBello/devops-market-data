@@ -552,6 +552,242 @@ def _prep_sheets(
 # ---------------------------------------------------------------------------
 
 
+def _prep_junior_sheets(jr: Dict[str, Any]) -> List[Dict[str, Any]]:
+    """
+    Build a junior-FOCUSED workbook (no main DevOps data — just the pipeline).
+    Designed for FlipTheScript mentees: actionable, opinionated, study-resource oriented.
+    """
+    s = jr.get("stats_for_sheets", {})
+    week = jr.get("week", "")
+    generated = jr.get("generated_at", "")
+    jobs = jr.get("jobs_for_sheet", [])
+    sorted_jobs = sorted(jobs, key=lambda x: -(x.get("score") or 0))
+    new_24h = jr.get("new_in_last_24h", [])
+
+    sheets: List[Dict[str, Any]] = []
+
+    # ----- Summary -----
+    summary_rows: List[List[Any]] = [["Metric", "Value"]]
+    summary_rows += [
+        ["Week", week],
+        ["Generated", generated],
+        ["Total junior-pipeline matches", s.get("total_jobs", 0)],
+        ["🔥 New today (24h)", s.get("new_count_24h", 0)],
+        ["📅 New last 7 days", s.get("new_count_7d", 0)],
+        ["📊 Total tracked (cumulative)", s.get("total_tracked_jobs", 0)],
+        ["", ""],
+        [
+            "What this is",
+            "Entry-level / IT / Help Desk / SysAdmin / Junior DevOps roles in Israel",
+        ],
+        ["Filter", "Each role REQUIRES DevOps stack tech — so you'll be paid to learn"],
+        ["Sort", "By Learning Score (0–100) — higher = more DevOps stack to absorb"],
+        ["", ""],
+        ["Maintained by", "Orel Bello (FlipTheScript • AWS Community Builder)"],
+        ["Live site", "https://orelbello.com/devops-jobs-israel"],
+        ["Data source", "https://jobs.orelbello.com/"],
+        ["Community", "https://www.linkedin.com/groups/12877927/"],
+        ["", ""],
+        ["By bucket", ""],
+    ]
+    for name, count in sorted(
+        (s.get("bucket_distribution") or {}).items(), key=lambda x: -x[1]
+    ):
+        summary_rows.append([name, count])
+    summary_rows += [
+        ["", ""],
+        ["By source", ""],
+    ]
+    for src, n in sorted((s.get("by_source") or {}).items(), key=lambda x: -x[1]):
+        summary_rows.append([src, n])
+    sheets.append(
+        {
+            "name": "Summary",
+            "rows": summary_rows,
+            "title": "🪜 Israeli DevOps — Junior Pipeline",
+        }
+    )
+
+    # ----- Top Picks (sorted by Learning Score, top 25) -----
+    pick_rows: List[List[Any]] = [
+        [
+            "Rank",
+            "Role",
+            "Company",
+            "Location",
+            "Bucket",
+            "Learning Score",
+            "Stack you'll work with",
+            "Source",
+            "Apply URL",
+            "First Seen",
+        ]
+    ]
+    for i, j in enumerate(sorted_jobs[:25], 1):
+        pick_rows.append(
+            [
+                i,
+                j.get("title", ""),
+                j.get("company", ""),
+                j.get("location", ""),
+                j.get("bucket", ""),
+                j.get("score", 0),
+                j.get("stack", ""),
+                j.get("source", ""),
+                j.get("url", ""),
+                j.get("first_seen_at", ""),
+            ]
+        )
+    sheets.append(
+        {
+            "name": "🪜 Top Picks",
+            "rows": pick_rows,
+            "url_columns": [8],
+            "autofilter": True,
+        }
+    )
+
+    # ----- All Matches (full table, sortable) -----
+    all_rows: List[List[Any]] = [
+        [
+            "Title",
+            "Company",
+            "Location",
+            "Bucket",
+            "Learning Score",
+            "Stack",
+            "Needs JD Review",
+            "Source",
+            "URL",
+            "First Seen",
+            "Days Open",
+        ]
+    ]
+    for j in sorted_jobs:
+        all_rows.append(
+            [
+                j.get("title", ""),
+                j.get("company", ""),
+                j.get("location", ""),
+                j.get("bucket", ""),
+                j.get("score", 0),
+                j.get("stack", ""),
+                "yes" if j.get("needs_review") else "no",
+                j.get("source", ""),
+                j.get("url", ""),
+                j.get("first_seen_at", ""),
+                j.get("days_open", 0),
+            ]
+        )
+    sheets.append(
+        {
+            "name": "All Matches",
+            "rows": all_rows,
+            "url_columns": [8],
+            "autofilter": True,
+        }
+    )
+
+    # ----- New in Last 24h -----
+    if new_24h:
+        n_rows: List[List[Any]] = [
+            [
+                "Role",
+                "Company",
+                "Bucket",
+                "Learning Score",
+                "Stack",
+                "URL",
+                "First Seen",
+            ]
+        ]
+        for j in sorted(new_24h, key=lambda x: -(x.get("score") or 0)):
+            n_rows.append(
+                [
+                    j.get("title", ""),
+                    j.get("company", ""),
+                    j.get("bucket", ""),
+                    j.get("score", 0),
+                    j.get("stack", ""),
+                    j.get("url", ""),
+                    j.get("first_seen_at", ""),
+                ]
+            )
+        sheets.append(
+            {
+                "name": "🔥 New Today",
+                "rows": n_rows,
+                "url_columns": [5],
+                "autofilter": True,
+            }
+        )
+
+    # ----- Stack Demand (with study tips!) -----
+    # Curated learning resources per skill
+    study_tips = {
+        "Linux": "Free: linuxjourney.com + 'The Linux Command Line' book",
+        "Python": "Automate the Boring Stuff (free book) + python.org tutorial",
+        "Bash/Shell": "Free: linuxjourney.com + try OverTheWire bandit wargame",
+        "AWS": "AWS Skill Builder (free) → SAA-C03 cert (~$150 exam)",
+        "Azure": "AZ-900 Fundamentals → AZ-104 path on MS Learn (free)",
+        "GCP": "Google Cloud Skills Boost (free) → ACE cert",
+        "Cloud (any)": "Pick one cloud, study free fundamentals first",
+        "Docker": "Free Docker Get Started tutorial + build 3 home-lab containers",
+        "Kubernetes": "kubernetes.io tutorials → minikube on laptop → KCNA cert",
+        "CI/CD": "Free: GitHub Actions docs + practice on a personal repo",
+        "Git": "Pro Git book (free online) + create a learning repo",
+        "Terraform/IaC": "HashiCorp Learn (free) + build a 3-tier app on AWS",
+        "Networking": "Cisco Packet Tracer (free) + study CCNA blueprint",
+        "Monitoring": "Prometheus + Grafana docs, deploy on minikube",
+        "Active Directory": "Microsoft Learn AD module + home lab Windows Server",
+        "Automation": "Start with Python + Bash; build 3 small home-lab automations",
+        "Troubleshooting": "Practice with TryHackMe + read SRE Workbook ch 12",
+    }
+    sd_rows: List[List[Any]] = [
+        ["Skill", "Roles requiring it", "What to learn / where to start"]
+    ]
+    for name, count in (s.get("top_stack") or [])[:25]:
+        sd_rows.append(
+            [
+                name,
+                count,
+                study_tips.get(name, "Search 'free <skill> tutorial' on YouTube"),
+            ]
+        )
+    sheets.append({"name": "Stack Demand", "rows": sd_rows})
+
+    # ----- Buckets (with pivot-path advice) -----
+    pivot_advice = {
+        "Junior DevOps": "Direct DevOps role — apply aggressively. Rare and competitive.",
+        "Junior SRE / Cloud / Platform": "Often paired with on-call. Strong learning track.",
+        "Junior SysAdmin / Linux": "12-18 months → Junior DevOps. Strengthen Linux + Python + AWS.",
+        "Help Desk / IT Support": "Tier 1/2 → SysAdmin → Junior DevOps. ~24 month path.",
+        "SysAdmin / NOC": "Already in IT — strengthen Linux + automation → apply to DevOps in 12-18mo.",
+        "Trainee / Bootcamp Grad": "Cyclical — surge after bootcamp graduations (Aug/Feb).",
+    }
+    b_rows: List[List[Any]] = [["Bucket", "Count", "Pivot path advice"]]
+    for name, count in sorted(
+        (s.get("bucket_distribution") or {}).items(), key=lambda x: -x[1]
+    ):
+        b_rows.append([name, count, pivot_advice.get(name, "")])
+    sheets.append({"name": "Buckets", "rows": b_rows})
+
+    # ----- Diagnostics -----
+    diag_rows: List[List[Any]] = [["Source", "Jobs", "OK", "Error"]]
+    for src, info in (jr.get("diagnostics") or {}).items():
+        diag_rows.append(
+            [
+                src,
+                info.get("jobs", 0),
+                "yes" if info.get("ok") else "no",
+                info.get("error", ""),
+            ]
+        )
+    sheets.append({"name": "Diagnostics", "rows": diag_rows})
+
+    return sheets
+
+
 def write_xlsx(
     out_path: str, main: Dict[str, Any], jr: Optional[Dict[str, Any]] = None
 ) -> str:
@@ -635,5 +871,88 @@ def render() -> Tuple[str, str]:
     return week_path, latest_path
 
 
+def write_junior_xlsx(out_path: str, jr: Dict[str, Any]) -> str:
+    """Write a junior-focused workbook (no main DevOps data)."""
+    sheets_data = _prep_junior_sheets(jr)
+    shared_strings: Dict[str, int] = {}
+
+    sheet_xmls: List[str] = []
+    sheet_rels_xmls: List[Optional[str]] = []
+    for s in sheets_data:
+        sheet_xml, hyperlinks = _build_sheet_xml(
+            s["rows"],
+            shared_strings,
+            freeze_header=True,
+            autofilter=s.get("autofilter", False),
+            title_row=s.get("title"),
+            url_columns=s.get("url_columns") or [],
+        )
+        sheet_xmls.append(sheet_xml)
+        sheet_rels_xmls.append(_build_sheet_rels(hyperlinks))
+
+    sheet_names = [s["name"] for s in sheets_data]
+    sheet_overrides = "\n  ".join(
+        f'<Override PartName="/xl/worksheets/sheet{i + 1}.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml"/>'
+        for i in range(len(sheets_data))
+    )
+
+    os.makedirs(os.path.dirname(out_path) or ".", exist_ok=True)
+    with zipfile.ZipFile(out_path, "w", zipfile.ZIP_DEFLATED) as zf:
+        zf.writestr(
+            "[Content_Types].xml", CONTENT_TYPES.format(sheet_overrides=sheet_overrides)
+        )
+        zf.writestr("_rels/.rels", ROOT_RELS)
+        zf.writestr("xl/workbook.xml", _build_workbook(sheet_names))
+        zf.writestr(
+            "xl/_rels/workbook.xml.rels", _build_workbook_rels(len(sheets_data))
+        )
+        zf.writestr("xl/styles.xml", STYLES_XML)
+        zf.writestr("xl/sharedStrings.xml", _build_shared_strings(shared_strings))
+        for i, xml in enumerate(sheet_xmls):
+            zf.writestr(f"xl/worksheets/sheet{i + 1}.xml", xml)
+            if sheet_rels_xmls[i]:
+                zf.writestr(
+                    f"xl/worksheets/_rels/sheet{i + 1}.xml.rels", sheet_rels_xmls[i]
+                )
+
+    return out_path
+
+
+def render_junior() -> Tuple[str, str]:
+    """
+    Read jr_latest.json from reports/ and write:
+      reports/devops-juniors-israel-<WEEK>.xlsx
+      reports/devops-juniors-israel-latest.xlsx
+    Returns (week_path, latest_path).
+    """
+    jr_latest = os.path.join(REPORTS, "jr_latest.json")
+    if not os.path.exists(jr_latest):
+        raise FileNotFoundError(
+            f"{jr_latest} not found — run junior_orchestrator.py first"
+        )
+    with open(jr_latest, "r", encoding="utf-8") as f:
+        jr = json.load(f)
+
+    week = jr.get("week", datetime.now().strftime("%Y-W%U"))
+    safe_week = re.sub(r"[^A-Za-z0-9_-]", "", week)
+    week_path = os.path.join(REPORTS, f"devops-juniors-israel-{safe_week}.xlsx")
+    latest_path = os.path.join(REPORTS, "devops-juniors-israel-latest.xlsx")
+    write_junior_xlsx(week_path, jr)
+    write_junior_xlsx(latest_path, jr)
+    print(f"✓ Wrote {week_path} ({os.path.getsize(week_path):,} bytes)")
+    print(f"✓ Wrote {latest_path} ({os.path.getsize(latest_path):,} bytes)")
+    return week_path, latest_path
+
+
 if __name__ == "__main__":
-    render()
+    import sys
+
+    if len(sys.argv) > 1 and sys.argv[1] == "junior":
+        render_junior()
+    else:
+        render()
+        # also try junior if jr_latest exists
+        try:
+            render_junior()
+        except FileNotFoundError:
+            pass
