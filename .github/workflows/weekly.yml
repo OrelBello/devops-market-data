@@ -1,8 +1,10 @@
-name: Weekly DevOps Market Run
+name: DevOps Market Run
 
+# Schedule: Sun–Fri at 06:00 UTC = 09:00 IL (skip Saturday — Israeli market closed)
+# Manual trigger always available via "Run workflow" in the Actions tab.
 on:
   schedule:
-    - cron: '0 9 * * *'
+    - cron: '0 6 * * 0,1,2,3,4,5'
   workflow_dispatch: {}
 
 permissions:
@@ -11,7 +13,7 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 30
     steps:
       - name: Check out the repo
         uses: actions/checkout@v4
@@ -21,20 +23,29 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Run the platform
+      - name: Run the main DevOps market platform
         run: python scripts/orchestrator.py
+
+      - name: Run the junior pipeline
+        run: python scripts/junior_orchestrator.py
+        continue-on-error: true
 
       - name: Generate landing page
         run: python scripts/landing_page.py
+        continue-on-error: true
 
       - name: Commit fresh data back to the repo
         run: |
           git config user.email "bot@orelbello.com"
           git config user.name  "DevOps Market Bot"
-          git add reports/latest.json reports/index.html reports/report_*.md reports/linkedin_*.md data/history/*.json
+          git add reports/latest.json reports/jr_latest.json reports/index.html \
+                  reports/report_*.md reports/linkedin_*.md \
+                  reports/jr_report_*.md reports/jr_linkedin_*.md \
+                  data/history/*.json \
+                  data/seen_jobs.json data/seen_jr_jobs.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Weekly refresh: $(date -u +'%Y-W%V')"
+            git commit -m "Refresh: $(date -u +'%Y-%m-%d')"
             git push
           fi
