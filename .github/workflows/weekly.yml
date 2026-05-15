@@ -10,7 +10,7 @@ on:
 permissions:
   contents: write
 
-# Prevent overlapping runs from pushing at the same time
+# Prevent overlapping runs from pushing simultaneously
 concurrency:
   group: devops-market-data
   cancel-in-progress: false
@@ -25,6 +25,10 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: Sync latest remote state
+        run: |
+          git pull --rebase origin main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -64,9 +68,6 @@ jobs:
           else
             git commit -m "Refresh: $(date -u +'%Y-%m-%d')"
 
-            # Sync with latest remote changes before pushing
-            git pull --rebase origin main
-
-            # Push rebased commit
+            # Push freshly rebased commit
             git push origin main
           fi
