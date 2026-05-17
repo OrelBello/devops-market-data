@@ -1,15 +1,15 @@
 # 🪜 Israeli DevOps — Junior Pipeline Report — 2026-W20
 
-_Generated May 15, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated May 17, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 > **Who this is for:** anyone in IT / Help Desk / Support / SysAdmin / Bootcamp grad / career-switcher who wants to break into DevOps. Every role on this list **requires DevOps stack tech** (Linux, Python, AWS, Docker, K8s, CI/CD…) — meaning you'll be paid to learn the right tools.
 
 ## This week, by the numbers
 
-We tracked **32 junior-pipeline roles** in Israel that mention real DevOps stack:
+We tracked **28 junior-pipeline roles** in Israel that mention real DevOps stack:
 
-- **Help Desk / IT Support** — 19
+- **Help Desk / IT Support** — 15
 - **SysAdmin / NOC** — 10
 - **Junior DevOps** — 1
 - **Trainee / Bootcamp Grad** — 1
@@ -21,16 +21,16 @@ We tracked **32 junior-pipeline roles** in Israel that mention real DevOps stack
 
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
-1. **Troubleshooting** — required in 23 roles
-2. **Networking** — required in 21 roles
-3. **Linux** — required in 17 roles
-4. **Bash/Shell** — required in 16 roles
+1. **Troubleshooting** — required in 20 roles
+2. **Networking** — required in 17 roles
+3. **Linux** — required in 16 roles
+4. **Bash/Shell** — required in 14 roles
 5. **Cloud (any)** — required in 14 roles
-6. **Azure** — required in 13 roles
-7. **Python** — required in 12 roles
-8. **Monitoring** — required in 11 roles
-9. **Automation** — required in 10 roles
-10. **Active Directory** — required in 9 roles
+6. **Azure** — required in 12 roles
+7. **Python** — required in 11 roles
+8. **Monitoring** — required in 10 roles
+9. **Active Directory** — required in 9 roles
+10. **Automation** — required in 8 roles
 
 ## 🏢 Companies hiring for the pipeline
 
@@ -133,13 +133,6 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/help-desk-technician-at-migdal-capital-markets-4414548410)
 
-### IT Specialist — Port.io
-📍 Tel Aviv District, Israel • 🎯 Learning Score: 40/100 • 🪜 Help Desk / IT Support
-
-**Stack you'll work with:** Python, Bash/Shell, Git, Networking, Automation, Troubleshooting
-
-🔗 [View role](https://il.linkedin.com/jobs/view/it-specialist-at-port-io-4414114905)
-
 ### Global Service Desk Representative — Radware
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 37/100 • 🪜 Help Desk / IT Support
 
@@ -153,6 +146,13 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 **Stack you'll work with:** Linux, Python, Networking, Active Directory, Windows Server
 
 🔗 [View role](https://il.linkedin.com/jobs/view/control-m-system-administrator-3047-at-isracard-4405630305)
+
+### NOC Operator — Raft Technologies
+📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 36/100 • 🪜 SysAdmin / NOC
+
+**Stack you'll work with:** Linux, Python, Networking, Monitoring, Troubleshooting
+
+🔗 [View role](https://il.linkedin.com/jobs/view/noc-operator-at-raft-technologies-4406458748)
 
 
 ## How the score works
