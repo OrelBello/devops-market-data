@@ -4,7 +4,7 @@ name: DevOps Market Run
 # Manual trigger always available via "Run workflow" in the Actions tab.
 on:
   schedule:
-    - cron: '0 6 * * 0,1,2,3,4,5'
+    - cron: '7 6 * * 0,1,2,3,4,5'
   workflow_dispatch: {}
 
 permissions:
