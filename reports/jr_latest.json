@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-05-18T07:47:58",
+  "generated_at": "2026-05-18T10:24:53",
   "week": "2026-W21",
   "stats_for_sheets": {
-    "total_jobs": 32,
+    "total_jobs": 30,
     "by_source": {
       "greenhouse": 6,
-      "linkedin": 24,
+      "linkedin": 22,
       "remoteok": 2
     },
     "bucket_distribution": {
       "Help Desk / IT Support": 18,
-      "SysAdmin / NOC": 10,
-      "Junior DevOps": 2,
+      "SysAdmin / NOC": 9,
+      "Junior DevOps": 1,
       "Trainee / Bootcamp Grad": 1,
       "Junior SRE / Cloud / Platform": 1
     },
     "top_stack": [
       [
         "Troubleshooting",
-        24
+        22
       ],
       [
         "Networking",
@@ -26,18 +26,14 @@
       ],
       [
         "Linux",
-        17
+        15
       ],
       [
         "Bash/Shell",
-        16
-      ],
-      [
-        "Cloud (any)",
         14
       ],
       [
-        "Python",
+        "Cloud (any)",
         13
       ],
       [
@@ -45,45 +41,45 @@
         13
       ],
       [
+        "Python",
+        12
+      ],
+      [
         "Automation",
         10
       ],
       [
         "Active Directory",
-        10
+        9
       ],
       [
         "Monitoring",
-        10
+        9
       ],
       [
         "AWS",
-        8
+        7
       ],
       [
         "Virtualization",
-        6
-      ],
-      [
-        "Terraform/IaC",
-        5
-      ],
-      [
-        "CI/CD",
-        4
+        7
       ],
       [
         "Git",
+        4
+      ],
+      [
+        "Terraform/IaC",
+        4
+      ],
+      [
+        "GCP",
         4
       ]
     ],
     "top_companies": [
       [
         "abra",
-        2
-      ],
-      [
-        "SQLink Group",
         2
       ],
       [
@@ -115,10 +111,6 @@
         1
       ],
       [
-        "Gini-Apps",
-        1
-      ],
-      [
         "Droxi",
         1
       ],
@@ -135,44 +127,52 @@
         1
       ],
       [
+        "SQLink Group",
+        1
+      ],
+      [
         "Isracard",
+        1
+      ],
+      [
+        "Eurolaser Technologies Ltd",
         1
       ]
     ],
     "location_distribution": {
-      "Tel Aviv": 14,
+      "Tel Aviv": 13,
       "Israel (other)": 12,
-      "Haifa": 2,
       "Raanana": 1,
       "Herzliya": 1,
       "Jerusalem": 1,
-      "Netanya": 1
+      "Netanya": 1,
+      "Haifa": 1
     },
     "needs_review_count": 0,
-    "new_count_24h": 2,
-    "new_count_7d": 32,
+    "new_count_24h": 0,
+    "new_count_7d": 30,
     "total_tracked_jobs": 38
   },
   "diagnostics": {
     "greenhouse": {
       "jobs": 6,
-      "elapsed_s": 15.4,
+      "elapsed_s": 16.1,
       "ok": true
     },
     "linkedin": {
-      "jobs": 27,
-      "elapsed_s": 146.9,
+      "jobs": 25,
+      "elapsed_s": 150.0,
       "ok": true
     },
     "remoteok": {
       "jobs": 2,
-      "elapsed_s": 0.2,
+      "elapsed_s": 2.1,
       "ok": true
     }
   },
   "report_md_path": "/home/runner/work/devops-market-data/devops-market-data/reports/jr_report_2026-W21.md",
   "linkedin_md_path": "/home/runner/work/devops-market-data/devops-market-data/reports/jr_linkedin_2026-W21.md",
-  "snapshot_path": "/home/runner/work/devops-market-data/devops-market-data/data/snapshots/jr_jobs_20260518_074758.json",
+  "snapshot_path": "/home/runner/work/devops-market-data/devops-market-data/data/snapshots/jr_jobs_20260518_102453.json",
   "jobs_for_sheet": [
     {
       "title": "Developer Support Engineer",
@@ -198,20 +198,6 @@
       "needs_review": false,
       "source": "linkedin",
       "url": "https://il.linkedin.com/jobs/view/junior-devops-engineer-at-the-center-for-educational-technology-cet-4401072488",
-      "first_seen_at": "2026-05-15",
-      "is_new_today": false,
-      "days_open": 3
-    },
-    {
-      "title": "Junior DevOps Engineer",
-      "company": "Gini-Apps",
-      "location": "Herzliya, Tel Aviv District, Israel",
-      "bucket": "Junior DevOps",
-      "stack": "Linux, Python, Bash/Shell, AWS, Kubernetes, CI/CD, Terraform/IaC, Troubleshooting",
-      "score": 100,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/junior-devops-engineer-at-gini-apps-4404896510",
       "first_seen_at": "2026-05-15",
       "is_new_today": false,
       "days_open": 3
@@ -413,20 +399,6 @@
       "days_open": 3
     },
     {
-      "title": "Technical Support Engineer New Window",
-      "company": "Kramer Europe",
-      "location": "Center District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Linux, Bash/Shell, Cloud (any), Networking, Monitoring, Troubleshooting",
-      "score": 34,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/technical-support-engineer%0Anew-window-at-kramer-europe-4399396097",
-      "first_seen_at": "2026-05-15",
-      "is_new_today": false,
-      "days_open": 3
-    },
-    {
       "title": "Tier II III UC Support Engineer",
       "company": "TTEC Digital",
       "location": "Hyderabad",
@@ -483,20 +455,6 @@
       "days_open": 3
     },
     {
-      "title": "System Administrator",
-      "company": "SQLink Group",
-      "location": "Haifa District, Israel",
-      "bucket": "SysAdmin / NOC",
-      "stack": "Linux, Monitoring, Active Directory, Troubleshooting",
-      "score": 24,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/system-administrator-at-sqlink-group-4410133391",
-      "first_seen_at": "2026-05-15",
-      "is_new_today": false,
-      "days_open": 3
-    },
-    {
       "title": "NOC Operator",
       "company": "abra",
       "location": "Center District, Israel",
@@ -523,6 +481,20 @@
       "first_seen_at": "2026-05-18",
       "is_new_today": true,
       "days_open": 0
+    },
+    {
+      "title": "Help Desk (24892)",
+      "company": "Yael Group",
+      "location": "Kfar Saba, Center District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Linux, Networking, Monitoring, Virtualization, Troubleshooting",
+      "score": 23,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/help-desk-24892-at-yael-group-4410129423",
+      "first_seen_at": "2026-05-15",
+      "is_new_today": false,
+      "days_open": 3
     },
     {
       "title": "IT Operations Engineer",
@@ -667,16 +639,6 @@
       "first_seen_at": "2026-05-15"
     },
     {
-      "title": "Junior DevOps Engineer",
-      "company": "Gini-Apps",
-      "location": "Herzliya, Tel Aviv District, Israel",
-      "bucket": "Junior DevOps",
-      "stack": "Linux, Python, Bash/Shell, AWS, Kubernetes, CI/CD, Terraform/IaC, Troubleshooting",
-      "score": 100,
-      "url": "https://il.linkedin.com/jobs/view/junior-devops-engineer-at-gini-apps-4404896510",
-      "first_seen_at": "2026-05-15"
-    },
-    {
       "title": "IT Support Specialist",
       "company": "Aidoc",
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
@@ -817,16 +779,6 @@
       "first_seen_at": "2026-05-15"
     },
     {
-      "title": "Technical Support Engineer New Window",
-      "company": "Kramer Europe",
-      "location": "Center District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Linux, Bash/Shell, Cloud (any), Networking, Monitoring, Troubleshooting",
-      "score": 34,
-      "url": "https://il.linkedin.com/jobs/view/technical-support-engineer%0Anew-window-at-kramer-europe-4399396097",
-      "first_seen_at": "2026-05-15"
-    },
-    {
       "title": "Tier II III UC Support Engineer",
       "company": "TTEC Digital",
       "location": "Hyderabad",
@@ -867,16 +819,6 @@
       "first_seen_at": "2026-05-15"
     },
     {
-      "title": "System Administrator",
-      "company": "SQLink Group",
-      "location": "Haifa District, Israel",
-      "bucket": "SysAdmin / NOC",
-      "stack": "Linux, Monitoring, Active Directory, Troubleshooting",
-      "score": 24,
-      "url": "https://il.linkedin.com/jobs/view/system-administrator-at-sqlink-group-4410133391",
-      "first_seen_at": "2026-05-15"
-    },
-    {
       "title": "NOC Operator",
       "company": "abra",
       "location": "Center District, Israel",
@@ -895,6 +837,16 @@
       "score": 23,
       "url": "https://careers.lightricks.com/position?gh_jid=8553629002&gh_jid=8553629002",
       "first_seen_at": "2026-05-18"
+    },
+    {
+      "title": "Help Desk (24892)",
+      "company": "Yael Group",
+      "location": "Kfar Saba, Center District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Linux, Networking, Monitoring, Virtualization, Troubleshooting",
+      "score": 23,
+      "url": "https://il.linkedin.com/jobs/view/help-desk-24892-at-yael-group-4410129423",
+      "first_seen_at": "2026-05-15"
     },
     {
       "title": "IT Operations Engineer",
