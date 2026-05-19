@@ -7,54 +7,47 @@ _Generated May 19, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/
 
 ## This week, by the numbers
 
-We tracked **30 junior-pipeline roles** in Israel that mention real DevOps stack:
+We tracked **33 junior-pipeline roles** in Israel that mention real DevOps stack:
 
-- **Help Desk / IT Support** — 18
-- **SysAdmin / NOC** — 9
+- **Help Desk / IT Support** — 20
+- **SysAdmin / NOC** — 10
 - **Junior DevOps** — 1
-- **Trainee / Bootcamp Grad** — 1
 - **Junior SRE / Cloud / Platform** — 1
+- **Trainee / Bootcamp Grad** — 1
 
-(2 additional LinkedIn-only postings need manual JD review for stack — see "All Jobs" tab in the dashboard.)
+(0 additional LinkedIn-only postings need manual JD review for stack — see "All Jobs" tab in the dashboard.)
 
 ## 🔥 What stack do these roles need?
 
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
-1. **Troubleshooting** — required in 21 roles
-2. **Networking** — required in 19 roles
-3. **Linux** — required in 13 roles
-4. **Bash/Shell** — required in 13 roles
-5. **Cloud (any)** — required in 13 roles
-6. **Azure** — required in 13 roles
-7. **Python** — required in 12 roles
-8. **Automation** — required in 10 roles
-9. **Active Directory** — required in 9 roles
-10. **Monitoring** — required in 7 roles
+1. **Troubleshooting** — required in 27 roles
+2. **Networking** — required in 22 roles
+3. **Linux** — required in 16 roles
+4. **Cloud (any)** — required in 16 roles
+5. **Azure** — required in 15 roles
+6. **Python** — required in 13 roles
+7. **Bash/Shell** — required in 13 roles
+8. **Automation** — required in 11 roles
+9. **Active Directory** — required in 10 roles
+10. **Virtualization** — required in 8 roles
 
 ## 🏢 Companies hiring for the pipeline
 
-1. **abra** — 2 role(s)
+1. **abra** — 3 role(s)
 2. **Nice** — 1 role(s)
 3. **Payoneer** — 1 role(s)
-4. **Jfrog** — 1 role(s)
-5. **Taboola** — 1 role(s)
-6. **Appsflyer** — 1 role(s)
-7. **Transmitsecurity** — 1 role(s)
-8. **Lightricks** — 1 role(s)
-9. **The Center for Educational Technology (CET)** — 1 role(s)
-10. **Google** — 1 role(s)
+4. **Taboola** — 1 role(s)
+5. **Appsflyer** — 1 role(s)
+6. **Transmitsecurity** — 1 role(s)
+7. **Lightricks** — 1 role(s)
+8. **The Center for Educational Technology (CET)** — 1 role(s)
+9. **Google** — 1 role(s)
+10. **Nova Ltd.** — 1 role(s)
 
 ## ⭐ Top 15 highest-scoring roles this week
 
 (Score = breadth of DevOps stack × bucket relevance. Higher = more learning value.)
-
-### Developer Support Engineer — Jfrog
-📍 Tel Aviv/ Netanya, Israel • 🎯 Learning Score: 100/100 • 🪜 Help Desk / IT Support
-
-**Stack you'll work with:** Linux, Python, Bash/Shell, AWS, Azure, Cloud (any)
-
-🔗 [View role](https://join.jfrog.com/job/?job=7563041&gh_jid=7563041)
 
 ### Junior DevOps Engineer — The Center for Educational Technology (CET)
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 100/100 • 🪜 Junior DevOps
@@ -62,6 +55,20 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 **Stack you'll work with:** Linux, Python, Bash/Shell, AWS, Azure, GCP
 
 🔗 [View role](https://il.linkedin.com/jobs/view/junior-devops-engineer-at-the-center-for-educational-technology-cet-4401072488)
+
+### Developer Support Engineer — JFrog
+📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 100/100 • 🪜 Help Desk / IT Support
+
+**Stack you'll work with:** Linux, Python, Bash/Shell, AWS, Azure, Cloud (any)
+
+🔗 [View role](https://il.linkedin.com/jobs/view/developer-support-engineer-at-jfrog-4410725405)
+
+### IT Support Specialist — Aidoc
+📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 71/100 • 🪜 Help Desk / IT Support
+
+**Stack you'll work with:** Linux, AWS, Azure, GCP, Cloud (any), Terraform/IaC
+
+🔗 [View role](https://il.linkedin.com/jobs/view/it-support-specialist-at-aidoc-4402893693)
 
 ### Junior Emulation Engineer, University Graduate, Google Cloud — Google
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 57/100 • 🪜 Junior SRE / Cloud / Platform
@@ -126,13 +133,6 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/it-support-specialist-temporary-position-at-cato-networks-4394155925)
 
-### Help Desk Technician — Migdal Capital Markets
-📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 40/100 • 🪜 Help Desk / IT Support
-
-**Stack you'll work with:** Linux, Bash/Shell, Azure, Networking, Virtualization, Active Directory
-
-🔗 [View role](https://il.linkedin.com/jobs/view/help-desk-technician-at-migdal-capital-markets-4414548410)
-
 ### IT Specialist — Port.io
 📍 Tel Aviv District, Israel • 🎯 Learning Score: 40/100 • 🪜 Help Desk / IT Support
 
@@ -147,12 +147,12 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/global-service-desk-representative-at-radware-4407743786)
 
-### Control-M System Administrator 3047 — Isracard
-📍 Center District, Israel • 🎯 Learning Score: 36/100 • 🪜 SysAdmin / NOC
+### IT Support Specialist — Regulus
+📍 Tirat Karmel, Haifa District, Israel • 🎯 Learning Score: 37/100 • 🪜 Help Desk / IT Support
 
-**Stack you'll work with:** Linux, Python, Networking, Active Directory, Windows Server
+**Stack you'll work with:** Linux, Python, Bash/Shell, Networking, Troubleshooting
 
-🔗 [View role](https://il.linkedin.com/jobs/view/control-m-system-administrator-3047-at-isracard-4405630305)
+🔗 [View role](https://il.linkedin.com/jobs/view/it-support-specialist-at-regulus-4404728303)
 
 
 ## How the score works
