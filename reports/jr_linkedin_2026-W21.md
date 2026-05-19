@@ -11,7 +11,7 @@ I tracked every entry-level / IT / Help Desk / SysAdmin / Junior DevOps role in 
 Troubleshooting • Networking • Linux • Bash/Shell • Cloud (any)
 
 🏢 Companies hiring junior pipeline:
-abra, Nice, Jfrog, Taboola
+abra, Nice, Payoneer, Jfrog
 
 If you're an IT/Help Desk/SysAdmin and you want to land a DevOps job in 12-24 months, your career path is right here. Apply to roles where you'll be working with the tools you want to grow into — not roles that just keep you on Windows tickets forever.
 

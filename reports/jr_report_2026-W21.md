@@ -1,6 +1,6 @@
 # 🪜 Israeli DevOps — Junior Pipeline Report — 2026-W21
 
-_Generated May 18, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated May 19, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 > **Who this is for:** anyone in IT / Help Desk / Support / SysAdmin / Bootcamp grad / career-switcher who wants to break into DevOps. Every role on this list **requires DevOps stack tech** (Linux, Python, AWS, Docker, K8s, CI/CD…) — meaning you'll be paid to learn the right tools.
@@ -15,34 +15,34 @@ We tracked **30 junior-pipeline roles** in Israel that mention real DevOps stack
 - **Trainee / Bootcamp Grad** — 1
 - **Junior SRE / Cloud / Platform** — 1
 
-(0 additional LinkedIn-only postings need manual JD review for stack — see "All Jobs" tab in the dashboard.)
+(2 additional LinkedIn-only postings need manual JD review for stack — see "All Jobs" tab in the dashboard.)
 
 ## 🔥 What stack do these roles need?
 
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
-1. **Troubleshooting** — required in 22 roles
-2. **Networking** — required in 20 roles
-3. **Linux** — required in 15 roles
-4. **Bash/Shell** — required in 14 roles
+1. **Troubleshooting** — required in 21 roles
+2. **Networking** — required in 19 roles
+3. **Linux** — required in 13 roles
+4. **Bash/Shell** — required in 13 roles
 5. **Cloud (any)** — required in 13 roles
 6. **Azure** — required in 13 roles
 7. **Python** — required in 12 roles
 8. **Automation** — required in 10 roles
 9. **Active Directory** — required in 9 roles
-10. **Monitoring** — required in 9 roles
+10. **Monitoring** — required in 7 roles
 
 ## 🏢 Companies hiring for the pipeline
 
 1. **abra** — 2 role(s)
 2. **Nice** — 1 role(s)
-3. **Jfrog** — 1 role(s)
-4. **Taboola** — 1 role(s)
-5. **Appsflyer** — 1 role(s)
-6. **Transmitsecurity** — 1 role(s)
-7. **Lightricks** — 1 role(s)
-8. **The Center for Educational Technology (CET)** — 1 role(s)
-9. **Droxi** — 1 role(s)
+3. **Payoneer** — 1 role(s)
+4. **Jfrog** — 1 role(s)
+5. **Taboola** — 1 role(s)
+6. **Appsflyer** — 1 role(s)
+7. **Transmitsecurity** — 1 role(s)
+8. **Lightricks** — 1 role(s)
+9. **The Center for Educational Technology (CET)** — 1 role(s)
 10. **Google** — 1 role(s)
 
 ## ⭐ Top 15 highest-scoring roles this week
@@ -63,13 +63,6 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/junior-devops-engineer-at-the-center-for-educational-technology-cet-4401072488)
 
-### IT Support Specialist — Aidoc
-📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 71/100 • 🪜 Help Desk / IT Support
-
-**Stack you'll work with:** Linux, AWS, Azure, GCP, Cloud (any), Terraform/IaC
-
-🔗 [View role](https://il.linkedin.com/jobs/view/it-support-specialist-at-aidoc-4402893693)
-
 ### Junior Emulation Engineer, University Graduate, Google Cloud — Google
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 57/100 • 🪜 Junior SRE / Cloud / Platform
 
@@ -84,12 +77,19 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/sap-ecc-system-administrator-at-eurolaser-technologies-ltd-4407326979)
 
-### System Administrator (36330) — מרטנס | Mertens – מקבוצת מלם תים
+### IT Corp System Administrator — Payoneer
+📍 Herzliya, Tel Aviv District, Israel • 🎯 Learning Score: 48/100 • 🪜 SysAdmin / NOC
+
+**Stack you'll work with:** Bash/Shell, Azure, Cloud (any), Networking, Virtualization, Active Directory
+
+🔗 [View role](https://www.payoneer.com/careers/position/7916835/?gh_jid=7916835)
+
+### System Administrator (36311) — מרטנס | Mertens – מקבוצת מלם תים
 📍 Center District, Israel • 🎯 Learning Score: 48/100 • 🪜 SysAdmin / NOC
 
-**Stack you'll work with:** Linux, Bash/Shell, Networking, Monitoring, Virtualization, Active Directory
+**Stack you'll work with:** Linux, Python, Networking, Monitoring, Virtualization, Windows Server
 
-🔗 [View role](https://il.linkedin.com/jobs/view/system-administrator-36330-at-%D7%9E%D7%A8%D7%98%D7%A0%D7%A1-mertens-%E2%80%93-%D7%9E%D7%A7%D7%91%D7%95%D7%A6%D7%AA-%D7%9E%D7%9C%D7%9D-%D7%AA%D7%99%D7%9D-4414582227)
+🔗 [View role](https://il.linkedin.com/jobs/view/system-administrator-36311-at-%D7%9E%D7%A8%D7%98%D7%A0%D7%A1-mertens-%E2%80%93-%D7%9E%D7%A7%D7%91%D7%95%D7%A6%D7%AA-%D7%9E%D7%9C%D7%9D-%D7%AA%D7%99%D7%9D-4416210373)
 
 ### IT Specialist — Transmitsecurity
 📍 Tel Aviv-Yafo, Gush Dan, Israel • 🎯 Learning Score: 47/100 • 🪜 Help Desk / IT Support
