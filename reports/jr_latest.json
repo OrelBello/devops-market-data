@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-20T05:11:58",
+  "generated_at": "2026-05-20T09:53:38",
   "week": "2026-W21",
   "stats_for_sheets": {
-    "total_jobs": 37,
+    "total_jobs": 38,
     "by_source": {
       "greenhouse": 6,
-      "linkedin": 29,
+      "linkedin": 30,
       "remoteok": 2
     },
     "bucket_distribution": {
-      "Help Desk / IT Support": 23,
-      "SysAdmin / NOC": 11,
+      "SysAdmin / NOC": 18,
+      "Help Desk / IT Support": 17,
       "Junior DevOps": 1,
       "Trainee / Bootcamp Grad": 1,
       "Junior SRE / Cloud / Platform": 1
@@ -18,62 +18,62 @@
     "top_stack": [
       [
         "Troubleshooting",
-        30
+        28
       ],
       [
         "Networking",
-        24
-      ],
-      [
-        "Linux",
-        16
+        26
       ],
       [
         "Cloud (any)",
+        21
+      ],
+      [
+        "Linux",
+        20
+      ],
+      [
+        "Bash/Shell",
+        17
+      ],
+      [
+        "Automation",
+        17
+      ],
+      [
+        "Python",
         16
       ],
       [
         "Azure",
-        16
-      ],
-      [
-        "Bash/Shell",
-        14
-      ],
-      [
-        "Python",
-        13
-      ],
-      [
-        "Automation",
-        12
-      ],
-      [
-        "Active Directory",
-        12
+        15
       ],
       [
         "Virtualization",
+        13
+      ],
+      [
+        "Active Directory",
+        13
+      ],
+      [
+        "Monitoring",
         11
       ],
       [
         "AWS",
-        9
-      ],
-      [
-        "Monitoring",
-        9
+        10
       ],
       [
         "Windows Server",
         6
       ],
       [
-        "GCP",
-        4
+        "Terraform/IaC",
+        5
       ],
       [
-        "CI/CD",
+        "GCP",
         4
       ]
     ],
@@ -81,6 +81,10 @@
       [
         "abra",
         4
+      ],
+      [
+        "Extreme",
+        2
       ],
       [
         "Nice",
@@ -115,6 +119,10 @@
         1
       ],
       [
+        "Align Technology",
+        1
+      ],
+      [
         "Nova Ltd.",
         1
       ],
@@ -129,51 +137,43 @@
       [
         "SuperCom (NASDAQ: SPCB)",
         1
-      ],
-      [
-        "Isracard",
-        1
-      ],
-      [
-        "Eurolaser Technologies Ltd",
-        1
       ]
     ],
     "location_distribution": {
-      "Tel Aviv": 17,
-      "Israel (other)": 13,
-      "Haifa": 2,
+      "Tel Aviv": 16,
+      "Israel (other)": 16,
       "Raanana": 1,
       "Herzliya": 1,
       "Jerusalem": 1,
       "Petah Tikva": 1,
-      "Netanya": 1
+      "Netanya": 1,
+      "Haifa": 1
     },
     "needs_review_count": 0,
-    "new_count_24h": 4,
-    "new_count_7d": 37,
-    "total_tracked_jobs": 51
+    "new_count_24h": 8,
+    "new_count_7d": 38,
+    "total_tracked_jobs": 59
   },
   "diagnostics": {
     "greenhouse": {
       "jobs": 6,
-      "elapsed_s": 17.4,
+      "elapsed_s": 15.6,
       "ok": true
     },
     "linkedin": {
-      "jobs": 32,
-      "elapsed_s": 148.0,
+      "jobs": 33,
+      "elapsed_s": 151.1,
       "ok": true
     },
     "remoteok": {
       "jobs": 2,
-      "elapsed_s": 0.2,
+      "elapsed_s": 0.1,
       "ok": true
     }
   },
   "report_md_path": "/home/runner/work/devops-market-data/devops-market-data/reports/jr_report_2026-W21.md",
   "linkedin_md_path": "/home/runner/work/devops-market-data/devops-market-data/reports/jr_linkedin_2026-W21.md",
-  "snapshot_path": "/home/runner/work/devops-market-data/devops-market-data/data/snapshots/jr_jobs_20260520_051158.json",
+  "snapshot_path": "/home/runner/work/devops-market-data/devops-market-data/data/snapshots/jr_jobs_20260520_095338.json",
   "jobs_for_sheet": [
     {
       "title": "Junior DevOps Engineer",
@@ -204,6 +204,34 @@
       "days_open": 0
     },
     {
+      "title": "System Administrator",
+      "company": "Sela",
+      "location": "Center District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Python, Bash/Shell, Azure, Cloud (any), CI/CD, Networking, Virtualization, Active Directory, Automation, Troubleshooting",
+      "score": 84,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/system-administrator-at-sela-4413398653",
+      "first_seen_at": "2026-05-20",
+      "is_new_today": true,
+      "days_open": 0
+    },
+    {
+      "title": "HPC Operations Engineer",
+      "company": "NVIDIA",
+      "location": "Yokneam Ilit, North District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Python, Bash/Shell, Cloud (any), Docker, Terraform/IaC, Networking, Monitoring, Active Directory, Automation, Troubleshooting",
+      "score": 84,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/hpc-operations-engineer-at-nvidia-4395489433",
+      "first_seen_at": "2026-05-20",
+      "is_new_today": true,
+      "days_open": 0
+    },
+    {
       "title": "IT Support Specialist",
       "company": "Aidoc",
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
@@ -216,6 +244,48 @@
       "first_seen_at": "2026-05-15",
       "is_new_today": false,
       "days_open": 5
+    },
+    {
+      "title": "Linux System Administrator",
+      "company": "abra",
+      "location": "Center District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Bash/Shell, Kubernetes, Terraform/IaC, Networking, Monitoring, Automation, Troubleshooting",
+      "score": 64,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/linux-system-administrator-at-abra-4406502401",
+      "first_seen_at": "2026-05-20",
+      "is_new_today": true,
+      "days_open": 0
+    },
+    {
+      "title": "System Administrator",
+      "company": "Gotfriends",
+      "location": "Tel Aviv District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Python, Docker, Kubernetes, Networking, Virtualization, Automation",
+      "score": 60,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/system-administrator-at-gotfriends-4412870787",
+      "first_seen_at": "2026-05-20",
+      "is_new_today": true,
+      "days_open": 0
+    },
+    {
+      "title": "Linux HPC Systems Engineer",
+      "company": "Ben-Gurion University of the Negev",
+      "location": "Be'er Sheva, South District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Python, Bash/Shell, Cloud (any), Kubernetes, Networking, Automation",
+      "score": 60,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/linux-hpc-systems-engineer-at-ben-gurion-university-of-the-negev-4412773313",
+      "first_seen_at": "2026-05-20",
+      "is_new_today": true,
+      "days_open": 0
     },
     {
       "title": "Junior Emulation Engineer, University Graduate, Google Cloud",
@@ -302,6 +372,20 @@
       "days_open": 5
     },
     {
+      "title": "Support Engineer",
+      "company": "Regatta Data",
+      "location": "Binyamina, Haifa District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Linux, Python, Bash/Shell, Cloud (any), Networking, Monitoring, Automation, Troubleshooting",
+      "score": 47,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/support-engineer-at-regatta-data-4366167298",
+      "first_seen_at": "2026-05-15",
+      "is_new_today": false,
+      "days_open": 5
+    },
+    {
       "title": "IT Technical Support",
       "company": "Nice",
       "location": "Israel - Raanana",
@@ -330,6 +414,20 @@
       "days_open": 5
     },
     {
+      "title": "NOC Engineer - Intern position",
+      "company": "Align Technology",
+      "location": "Petah Tikva, Center District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Bash/Shell, AWS, Cloud (any), Monitoring, Virtualization, Troubleshooting",
+      "score": 40,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/noc-engineer-intern-position-at-align-technology-4303646784",
+      "first_seen_at": "2026-05-20",
+      "is_new_today": true,
+      "days_open": 0
+    },
+    {
       "title": "Help Desk Technician",
       "company": "Migdal Capital Markets",
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
@@ -356,20 +454,6 @@
       "first_seen_at": "2026-05-15",
       "is_new_today": false,
       "days_open": 5
-    },
-    {
-      "title": "IT Support Specialist",
-      "company": "Regulus",
-      "location": "Tirat Karmel, Haifa District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Linux, Python, Bash/Shell, Networking, Troubleshooting",
-      "score": 37,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/it-support-specialist-at-regulus-4404728303",
-      "first_seen_at": "2026-05-19",
-      "is_new_today": false,
-      "days_open": 1
     },
     {
       "title": "Global Service Desk Representative",
@@ -414,20 +498,6 @@
       "days_open": 5
     },
     {
-      "title": "IT Support Engineer",
-      "company": "proteanTecs",
-      "location": "Haifa, Haifa District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Linux, Azure, Cloud (any), Monitoring, Active Directory, Troubleshooting",
-      "score": 34,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/it-support-engineer-at-proteantecs-4373568445",
-      "first_seen_at": "2026-05-19",
-      "is_new_today": false,
-      "days_open": 1
-    },
-    {
       "title": "Tier II III UC Support Engineer",
       "company": "TTEC Digital",
       "location": "Hyderabad",
@@ -456,18 +526,18 @@
       "days_open": 1
     },
     {
-      "title": "Tier 2 Technical Support",
-      "company": "Moon Active",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Python, Bash/Shell, Monitoring, Automation, Troubleshooting",
-      "score": 30,
+      "title": "Linux System Administrator",
+      "company": "Extreme",
+      "location": "Center District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, AWS, Cloud (any), Databases",
+      "score": 32,
       "needs_review": false,
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/tier-2-technical-support-at-moon-active-4398349619",
-      "first_seen_at": "2026-05-15",
-      "is_new_today": false,
-      "days_open": 5
+      "url": "https://il.linkedin.com/jobs/view/linux-system-administrator-at-extreme-4410984686",
+      "first_seen_at": "2026-05-20",
+      "is_new_today": true,
+      "days_open": 0
     },
     {
       "title": "Network Operations Center Engineer",
@@ -540,20 +610,6 @@
       "days_open": 2
     },
     {
-      "title": "Technical Support Engineer",
-      "company": "Navina",
-      "location": "Ramat Gan, Tel Aviv District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Python, CI/CD, Troubleshooting",
-      "score": 23,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/technical-support-engineer-at-navina-4397936369",
-      "first_seen_at": "2026-05-20",
-      "is_new_today": true,
-      "days_open": 0
-    },
-    {
       "title": "IT Operations Engineer",
       "company": "Taboola",
       "location": "Gurugram, India",
@@ -610,20 +666,6 @@
       "days_open": 5
     },
     {
-      "title": "Help Desk Specialist",
-      "company": "abra",
-      "location": "Center District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "AWS, Networking, Virtualization, Troubleshooting",
-      "score": 20,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/help-desk-specialist-at-abra-4416498966",
-      "first_seen_at": "2026-05-20",
-      "is_new_today": true,
-      "days_open": 0
-    },
-    {
       "title": "IT Support Technician",
       "company": "Avalere Health",
       "location": "Washington DC",
@@ -636,34 +678,6 @@
       "first_seen_at": "2026-05-15",
       "is_new_today": false,
       "days_open": 5
-    },
-    {
-      "title": "Help Desk",
-      "company": "Reline IT Solutions",
-      "location": "Nes Ziona, Center District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Azure, Networking, Troubleshooting",
-      "score": 17,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/help-desk-at-reline-it-solutions-4412222902",
-      "first_seen_at": "2026-05-18",
-      "is_new_today": false,
-      "days_open": 2
-    },
-    {
-      "title": "IT Technician",
-      "company": "Airobotics",
-      "location": "Petah Tikva, Center District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Linux, Networking, Troubleshooting",
-      "score": 17,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/it-technician-at-airobotics-4329813196",
-      "first_seen_at": "2026-05-19",
-      "is_new_today": false,
-      "days_open": 1
     },
     {
       "title": "System Engineer IM",
@@ -680,18 +694,18 @@
       "days_open": 5
     },
     {
-      "title": "Technical Support Engineer",
-      "company": "morning by Green Invoice",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "title": "Technical Support Specialist",
+      "company": "Intezer",
+      "location": "Tel Aviv District, Israel",
       "bucket": "Help Desk / IT Support",
-      "stack": "Bash/Shell, Troubleshooting",
+      "stack": "Python, Troubleshooting",
       "score": 13,
       "needs_review": false,
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/technical-support-engineer-at-morning-by-green-invoice-4368658163",
-      "first_seen_at": "2026-05-15",
-      "is_new_today": false,
-      "days_open": 5
+      "url": "https://il.linkedin.com/jobs/view/technical-support-specialist-at-intezer-4417050672",
+      "first_seen_at": "2026-05-20",
+      "is_new_today": true,
+      "days_open": 0
     }
   ],
   "new_in_last_24h": [
@@ -706,6 +720,76 @@
       "first_seen_at": "2026-05-20"
     },
     {
+      "title": "System Administrator",
+      "company": "Sela",
+      "location": "Center District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Python, Bash/Shell, Azure, Cloud (any), CI/CD, Networking, Virtualization, Active Directory, Automation, Troubleshooting",
+      "score": 84,
+      "url": "https://il.linkedin.com/jobs/view/system-administrator-at-sela-4413398653",
+      "first_seen_at": "2026-05-20"
+    },
+    {
+      "title": "HPC Operations Engineer",
+      "company": "NVIDIA",
+      "location": "Yokneam Ilit, North District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Python, Bash/Shell, Cloud (any), Docker, Terraform/IaC, Networking, Monitoring, Active Directory, Automation, Troubleshooting",
+      "score": 84,
+      "url": "https://il.linkedin.com/jobs/view/hpc-operations-engineer-at-nvidia-4395489433",
+      "first_seen_at": "2026-05-20"
+    },
+    {
+      "title": "Linux System Administrator",
+      "company": "abra",
+      "location": "Center District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Bash/Shell, Kubernetes, Terraform/IaC, Networking, Monitoring, Automation, Troubleshooting",
+      "score": 64,
+      "url": "https://il.linkedin.com/jobs/view/linux-system-administrator-at-abra-4406502401",
+      "first_seen_at": "2026-05-20"
+    },
+    {
+      "title": "System Administrator",
+      "company": "Gotfriends",
+      "location": "Tel Aviv District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Python, Docker, Kubernetes, Networking, Virtualization, Automation",
+      "score": 60,
+      "url": "https://il.linkedin.com/jobs/view/system-administrator-at-gotfriends-4412870787",
+      "first_seen_at": "2026-05-20"
+    },
+    {
+      "title": "Linux HPC Systems Engineer",
+      "company": "Ben-Gurion University of the Negev",
+      "location": "Be'er Sheva, South District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Python, Bash/Shell, Cloud (any), Kubernetes, Networking, Automation",
+      "score": 60,
+      "url": "https://il.linkedin.com/jobs/view/linux-hpc-systems-engineer-at-ben-gurion-university-of-the-negev-4412773313",
+      "first_seen_at": "2026-05-20"
+    },
+    {
+      "title": "NOC Engineer - Intern position",
+      "company": "Align Technology",
+      "location": "Petah Tikva, Center District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Bash/Shell, AWS, Cloud (any), Monitoring, Virtualization, Troubleshooting",
+      "score": 40,
+      "url": "https://il.linkedin.com/jobs/view/noc-engineer-intern-position-at-align-technology-4303646784",
+      "first_seen_at": "2026-05-20"
+    },
+    {
+      "title": "Linux System Administrator",
+      "company": "Extreme",
+      "location": "Center District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, AWS, Cloud (any), Databases",
+      "score": 32,
+      "url": "https://il.linkedin.com/jobs/view/linux-system-administrator-at-extreme-4410984686",
+      "first_seen_at": "2026-05-20"
+    },
+    {
       "title": "Network Operations Center Engineer",
       "company": "Extreme",
       "location": "Center District, Israel",
@@ -716,23 +800,13 @@
       "first_seen_at": "2026-05-20"
     },
     {
-      "title": "Technical Support Engineer",
-      "company": "Navina",
-      "location": "Ramat Gan, Tel Aviv District, Israel",
+      "title": "Technical Support Specialist",
+      "company": "Intezer",
+      "location": "Tel Aviv District, Israel",
       "bucket": "Help Desk / IT Support",
-      "stack": "Python, CI/CD, Troubleshooting",
-      "score": 23,
-      "url": "https://il.linkedin.com/jobs/view/technical-support-engineer-at-navina-4397936369",
-      "first_seen_at": "2026-05-20"
-    },
-    {
-      "title": "Help Desk Specialist",
-      "company": "abra",
-      "location": "Center District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "AWS, Networking, Virtualization, Troubleshooting",
-      "score": 20,
-      "url": "https://il.linkedin.com/jobs/view/help-desk-specialist-at-abra-4416498966",
+      "stack": "Python, Troubleshooting",
+      "score": 13,
+      "url": "https://il.linkedin.com/jobs/view/technical-support-specialist-at-intezer-4417050672",
       "first_seen_at": "2026-05-20"
     }
   ],
@@ -758,6 +832,26 @@
       "first_seen_at": "2026-05-20"
     },
     {
+      "title": "System Administrator",
+      "company": "Sela",
+      "location": "Center District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Python, Bash/Shell, Azure, Cloud (any), CI/CD, Networking, Virtualization, Active Directory, Automation, Troubleshooting",
+      "score": 84,
+      "url": "https://il.linkedin.com/jobs/view/system-administrator-at-sela-4413398653",
+      "first_seen_at": "2026-05-20"
+    },
+    {
+      "title": "HPC Operations Engineer",
+      "company": "NVIDIA",
+      "location": "Yokneam Ilit, North District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Python, Bash/Shell, Cloud (any), Docker, Terraform/IaC, Networking, Monitoring, Active Directory, Automation, Troubleshooting",
+      "score": 84,
+      "url": "https://il.linkedin.com/jobs/view/hpc-operations-engineer-at-nvidia-4395489433",
+      "first_seen_at": "2026-05-20"
+    },
+    {
       "title": "IT Support Specialist",
       "company": "Aidoc",
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
@@ -766,6 +860,36 @@
       "score": 71,
       "url": "https://il.linkedin.com/jobs/view/it-support-specialist-at-aidoc-4402893693",
       "first_seen_at": "2026-05-15"
+    },
+    {
+      "title": "Linux System Administrator",
+      "company": "abra",
+      "location": "Center District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Bash/Shell, Kubernetes, Terraform/IaC, Networking, Monitoring, Automation, Troubleshooting",
+      "score": 64,
+      "url": "https://il.linkedin.com/jobs/view/linux-system-administrator-at-abra-4406502401",
+      "first_seen_at": "2026-05-20"
+    },
+    {
+      "title": "System Administrator",
+      "company": "Gotfriends",
+      "location": "Tel Aviv District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Python, Docker, Kubernetes, Networking, Virtualization, Automation",
+      "score": 60,
+      "url": "https://il.linkedin.com/jobs/view/system-administrator-at-gotfriends-4412870787",
+      "first_seen_at": "2026-05-20"
+    },
+    {
+      "title": "Linux HPC Systems Engineer",
+      "company": "Ben-Gurion University of the Negev",
+      "location": "Be'er Sheva, South District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Python, Bash/Shell, Cloud (any), Kubernetes, Networking, Automation",
+      "score": 60,
+      "url": "https://il.linkedin.com/jobs/view/linux-hpc-systems-engineer-at-ben-gurion-university-of-the-negev-4412773313",
+      "first_seen_at": "2026-05-20"
     },
     {
       "title": "Junior Emulation Engineer, University Graduate, Google Cloud",
@@ -828,6 +952,16 @@
       "first_seen_at": "2026-05-15"
     },
     {
+      "title": "Support Engineer",
+      "company": "Regatta Data",
+      "location": "Binyamina, Haifa District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Linux, Python, Bash/Shell, Cloud (any), Networking, Monitoring, Automation, Troubleshooting",
+      "score": 47,
+      "url": "https://il.linkedin.com/jobs/view/support-engineer-at-regatta-data-4366167298",
+      "first_seen_at": "2026-05-15"
+    },
+    {
       "title": "IT Technical Support",
       "company": "Nice",
       "location": "Israel - Raanana",
@@ -848,6 +982,16 @@
       "first_seen_at": "2026-05-15"
     },
     {
+      "title": "NOC Engineer - Intern position",
+      "company": "Align Technology",
+      "location": "Petah Tikva, Center District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Bash/Shell, AWS, Cloud (any), Monitoring, Virtualization, Troubleshooting",
+      "score": 40,
+      "url": "https://il.linkedin.com/jobs/view/noc-engineer-intern-position-at-align-technology-4303646784",
+      "first_seen_at": "2026-05-20"
+    },
+    {
       "title": "Help Desk Technician",
       "company": "Migdal Capital Markets",
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
@@ -866,16 +1010,6 @@
       "score": 40,
       "url": "https://il.linkedin.com/jobs/view/it-specialist-at-port-io-4414114905",
       "first_seen_at": "2026-05-15"
-    },
-    {
-      "title": "IT Support Specialist",
-      "company": "Regulus",
-      "location": "Tirat Karmel, Haifa District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Linux, Python, Bash/Shell, Networking, Troubleshooting",
-      "score": 37,
-      "url": "https://il.linkedin.com/jobs/view/it-support-specialist-at-regulus-4404728303",
-      "first_seen_at": "2026-05-19"
     },
     {
       "title": "Global Service Desk Representative",
@@ -908,16 +1042,6 @@
       "first_seen_at": "2026-05-15"
     },
     {
-      "title": "IT Support Engineer",
-      "company": "proteanTecs",
-      "location": "Haifa, Haifa District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Linux, Azure, Cloud (any), Monitoring, Active Directory, Troubleshooting",
-      "score": 34,
-      "url": "https://il.linkedin.com/jobs/view/it-support-engineer-at-proteantecs-4373568445",
-      "first_seen_at": "2026-05-19"
-    },
-    {
       "title": "Tier II III UC Support Engineer",
       "company": "TTEC Digital",
       "location": "Hyderabad",
@@ -938,14 +1062,14 @@
       "first_seen_at": "2026-05-19"
     },
     {
-      "title": "Tier 2 Technical Support",
-      "company": "Moon Active",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Python, Bash/Shell, Monitoring, Automation, Troubleshooting",
-      "score": 30,
-      "url": "https://il.linkedin.com/jobs/view/tier-2-technical-support-at-moon-active-4398349619",
-      "first_seen_at": "2026-05-15"
+      "title": "Linux System Administrator",
+      "company": "Extreme",
+      "location": "Center District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, AWS, Cloud (any), Databases",
+      "score": 32,
+      "url": "https://il.linkedin.com/jobs/view/linux-system-administrator-at-extreme-4410984686",
+      "first_seen_at": "2026-05-20"
     },
     {
       "title": "Network Operations Center Engineer",
@@ -998,16 +1122,6 @@
       "first_seen_at": "2026-05-18"
     },
     {
-      "title": "Technical Support Engineer",
-      "company": "Navina",
-      "location": "Ramat Gan, Tel Aviv District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Python, CI/CD, Troubleshooting",
-      "score": 23,
-      "url": "https://il.linkedin.com/jobs/view/technical-support-engineer-at-navina-4397936369",
-      "first_seen_at": "2026-05-20"
-    },
-    {
       "title": "IT Operations Engineer",
       "company": "Taboola",
       "location": "Gurugram, India",
@@ -1048,16 +1162,6 @@
       "first_seen_at": "2026-05-15"
     },
     {
-      "title": "Help Desk Specialist",
-      "company": "abra",
-      "location": "Center District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "AWS, Networking, Virtualization, Troubleshooting",
-      "score": 20,
-      "url": "https://il.linkedin.com/jobs/view/help-desk-specialist-at-abra-4416498966",
-      "first_seen_at": "2026-05-20"
-    },
-    {
       "title": "IT Support Technician",
       "company": "Avalere Health",
       "location": "Washington DC",
@@ -1066,26 +1170,6 @@
       "score": 20,
       "url": "https://remoteOK.com/remote-jobs/remote-it-support-technician-avalere-health-1131591",
       "first_seen_at": "2026-05-15"
-    },
-    {
-      "title": "Help Desk",
-      "company": "Reline IT Solutions",
-      "location": "Nes Ziona, Center District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Azure, Networking, Troubleshooting",
-      "score": 17,
-      "url": "https://il.linkedin.com/jobs/view/help-desk-at-reline-it-solutions-4412222902",
-      "first_seen_at": "2026-05-18"
-    },
-    {
-      "title": "IT Technician",
-      "company": "Airobotics",
-      "location": "Petah Tikva, Center District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Linux, Networking, Troubleshooting",
-      "score": 17,
-      "url": "https://il.linkedin.com/jobs/view/it-technician-at-airobotics-4329813196",
-      "first_seen_at": "2026-05-19"
     },
     {
       "title": "System Engineer IM",
@@ -1098,14 +1182,14 @@
       "first_seen_at": "2026-05-15"
     },
     {
-      "title": "Technical Support Engineer",
-      "company": "morning by Green Invoice",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "title": "Technical Support Specialist",
+      "company": "Intezer",
+      "location": "Tel Aviv District, Israel",
       "bucket": "Help Desk / IT Support",
-      "stack": "Bash/Shell, Troubleshooting",
+      "stack": "Python, Troubleshooting",
       "score": 13,
-      "url": "https://il.linkedin.com/jobs/view/technical-support-engineer-at-morning-by-green-invoice-4368658163",
-      "first_seen_at": "2026-05-15"
+      "url": "https://il.linkedin.com/jobs/view/technical-support-specialist-at-intezer-4417050672",
+      "first_seen_at": "2026-05-20"
     }
   ]
 }

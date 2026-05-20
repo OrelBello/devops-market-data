@@ -7,10 +7,10 @@ _Generated May 20, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/
 
 ## This week, by the numbers
 
-We tracked **37 junior-pipeline roles** in Israel that mention real DevOps stack:
+We tracked **38 junior-pipeline roles** in Israel that mention real DevOps stack:
 
-- **Help Desk / IT Support** — 23
-- **SysAdmin / NOC** — 11
+- **SysAdmin / NOC** — 18
+- **Help Desk / IT Support** — 17
 - **Junior DevOps** — 1
 - **Trainee / Bootcamp Grad** — 1
 - **Junior SRE / Cloud / Platform** — 1
@@ -21,29 +21,29 @@ We tracked **37 junior-pipeline roles** in Israel that mention real DevOps stack
 
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
-1. **Troubleshooting** — required in 30 roles
-2. **Networking** — required in 24 roles
-3. **Linux** — required in 16 roles
-4. **Cloud (any)** — required in 16 roles
-5. **Azure** — required in 16 roles
-6. **Bash/Shell** — required in 14 roles
-7. **Python** — required in 13 roles
-8. **Automation** — required in 12 roles
-9. **Active Directory** — required in 12 roles
-10. **Virtualization** — required in 11 roles
+1. **Troubleshooting** — required in 28 roles
+2. **Networking** — required in 26 roles
+3. **Cloud (any)** — required in 21 roles
+4. **Linux** — required in 20 roles
+5. **Bash/Shell** — required in 17 roles
+6. **Automation** — required in 17 roles
+7. **Python** — required in 16 roles
+8. **Azure** — required in 15 roles
+9. **Virtualization** — required in 13 roles
+10. **Active Directory** — required in 13 roles
 
 ## 🏢 Companies hiring for the pipeline
 
 1. **abra** — 4 role(s)
-2. **Nice** — 1 role(s)
-3. **Payoneer** — 1 role(s)
-4. **Taboola** — 1 role(s)
-5. **Appsflyer** — 1 role(s)
-6. **Transmitsecurity** — 1 role(s)
-7. **Lightricks** — 1 role(s)
-8. **The Center for Educational Technology (CET)** — 1 role(s)
-9. **Google** — 1 role(s)
-10. **Nova Ltd.** — 1 role(s)
+2. **Extreme** — 2 role(s)
+3. **Nice** — 1 role(s)
+4. **Payoneer** — 1 role(s)
+5. **Taboola** — 1 role(s)
+6. **Appsflyer** — 1 role(s)
+7. **Transmitsecurity** — 1 role(s)
+8. **Lightricks** — 1 role(s)
+9. **The Center for Educational Technology (CET)** — 1 role(s)
+10. **Google** — 1 role(s)
 
 ## ⭐ Top 15 highest-scoring roles this week
 
@@ -63,12 +63,47 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/system-administrator-at-supercom-nasdaq-spcb-4413317216)
 
+### System Administrator — Sela
+📍 Center District, Israel • 🎯 Learning Score: 84/100 • 🪜 SysAdmin / NOC
+
+**Stack you'll work with:** Linux, Python, Bash/Shell, Azure, Cloud (any), CI/CD
+
+🔗 [View role](https://il.linkedin.com/jobs/view/system-administrator-at-sela-4413398653)
+
+### HPC Operations Engineer — NVIDIA
+📍 Yokneam Ilit, North District, Israel • 🎯 Learning Score: 84/100 • 🪜 SysAdmin / NOC
+
+**Stack you'll work with:** Linux, Python, Bash/Shell, Cloud (any), Docker, Terraform/IaC
+
+🔗 [View role](https://il.linkedin.com/jobs/view/hpc-operations-engineer-at-nvidia-4395489433)
+
 ### IT Support Specialist — Aidoc
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 71/100 • 🪜 Help Desk / IT Support
 
 **Stack you'll work with:** Linux, AWS, Azure, GCP, Cloud (any), Terraform/IaC
 
 🔗 [View role](https://il.linkedin.com/jobs/view/it-support-specialist-at-aidoc-4402893693)
+
+### Linux System Administrator — abra
+📍 Center District, Israel • 🎯 Learning Score: 64/100 • 🪜 SysAdmin / NOC
+
+**Stack you'll work with:** Linux, Bash/Shell, Kubernetes, Terraform/IaC, Networking, Monitoring
+
+🔗 [View role](https://il.linkedin.com/jobs/view/linux-system-administrator-at-abra-4406502401)
+
+### System Administrator — Gotfriends
+📍 Tel Aviv District, Israel • 🎯 Learning Score: 60/100 • 🪜 SysAdmin / NOC
+
+**Stack you'll work with:** Linux, Python, Docker, Kubernetes, Networking, Virtualization
+
+🔗 [View role](https://il.linkedin.com/jobs/view/system-administrator-at-gotfriends-4412870787)
+
+### Linux HPC Systems Engineer — Ben-Gurion University of the Negev
+📍 Be'er Sheva, South District, Israel • 🎯 Learning Score: 60/100 • 🪜 SysAdmin / NOC
+
+**Stack you'll work with:** Linux, Python, Bash/Shell, Cloud (any), Kubernetes, Networking
+
+🔗 [View role](https://il.linkedin.com/jobs/view/linux-hpc-systems-engineer-at-ben-gurion-university-of-the-negev-4412773313)
 
 ### Junior Emulation Engineer, University Graduate, Google Cloud — Google
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 57/100 • 🪜 Junior SRE / Cloud / Platform
@@ -112,47 +147,12 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/technical-support-engineer-at-outpost24-4411657094)
 
-### IT Technical Support — Nice
-📍 Israel - Raanana • 🎯 Learning Score: 44/100 • 🪜 Help Desk / IT Support
+### Support Engineer — Regatta Data
+📍 Binyamina, Haifa District, Israel • 🎯 Learning Score: 47/100 • 🪜 Help Desk / IT Support
 
-**Stack you'll work with:** Linux, Python, Bash/Shell, Cloud (any), Networking, Automation
+**Stack you'll work with:** Linux, Python, Bash/Shell, Cloud (any), Networking, Monitoring
 
-🔗 [View role](https://boards.eu.greenhouse.io/nice/jobs/4765960101?gh_jid=4765960101)
-
-### IT Support Specialist - Temporary position — Cato Networks
-📍 Tel Aviv District, Israel • 🎯 Learning Score: 44/100 • 🪜 Help Desk / IT Support
-
-**Stack you'll work with:** Python, Bash/Shell, Azure, Cloud (any), Networking, Automation
-
-🔗 [View role](https://il.linkedin.com/jobs/view/it-support-specialist-temporary-position-at-cato-networks-4394155925)
-
-### Help Desk Technician — Migdal Capital Markets
-📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 40/100 • 🪜 Help Desk / IT Support
-
-**Stack you'll work with:** Linux, Bash/Shell, Azure, Networking, Virtualization, Active Directory
-
-🔗 [View role](https://il.linkedin.com/jobs/view/help-desk-technician-at-migdal-capital-markets-4414548410)
-
-### IT Specialist — Port.io
-📍 Tel Aviv District, Israel • 🎯 Learning Score: 40/100 • 🪜 Help Desk / IT Support
-
-**Stack you'll work with:** Python, Bash/Shell, Git, Networking, Automation, Troubleshooting
-
-🔗 [View role](https://il.linkedin.com/jobs/view/it-specialist-at-port-io-4414114905)
-
-### IT Support Specialist — Regulus
-📍 Tirat Karmel, Haifa District, Israel • 🎯 Learning Score: 37/100 • 🪜 Help Desk / IT Support
-
-**Stack you'll work with:** Linux, Python, Bash/Shell, Networking, Troubleshooting
-
-🔗 [View role](https://il.linkedin.com/jobs/view/it-support-specialist-at-regulus-4404728303)
-
-### Global Service Desk Representative — Radware
-📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 37/100 • 🪜 Help Desk / IT Support
-
-**Stack you'll work with:** Linux, Azure, Cloud (any), Networking, Monitoring, Active Directory
-
-🔗 [View role](https://il.linkedin.com/jobs/view/global-service-desk-representative-at-radware-4407743786)
+🔗 [View role](https://il.linkedin.com/jobs/view/support-engineer-at-regatta-data-4366167298)
 
 
 ## How the score works

@@ -5,19 +5,19 @@ _Generated May 20, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/
 
 ## Executive Summary
 
-We tracked **121 open DevOps / SRE / Platform / Cloud roles** in Israel this week
+We tracked **123 open DevOps / SRE / Platform / Cloud roles** in Israel this week
 across 3 sources. **0 of those (0.0%)
 are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Week-over-Week Trends
 
-📈 **Total jobs**: +1 (+0.8%) vs 2026-W20
+📈 **Total jobs**: +3 (+2.5%) vs 2026-W20
 📊 **Junior % change**: +0.0 pp
 
 **Rising skills:**
 - Observability: 17 → 20 (+3)
 - AWS: 24 → 25 (+1)
-- Grafana: 7 → 8 (+1)
+- Terraform: 13 → 14 (+1)
 - Security: 26 → 27 (+1)
 - Networking: 11 → 12 (+1)
 
@@ -26,7 +26,7 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 - Azure: 19 → 18 (-1)
 - GCP: 21 → 20 (-1)
 
-**New companies in top 15:** Glassbox, Unilink Ltd., Silverfort, Teads, Qualitest
+**New companies in top 15:** Glassbox, Unilink Ltd., Silverfort, Teads, Play Perfect
 
 ## Top 10 In-Demand Skills
 
@@ -57,8 +57,8 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 ## Seniority Distribution
 
 - **Junior**: 0.0% ``
-- **Mid**: 62.8% `█████████████████████████`
-- **Senior**: 37.2% `██████████████`
+- **Mid**: 63.4% `█████████████████████████`
+- **Senior**: 36.6% `██████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -74,14 +74,14 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 - **Israel (other)** — 19
 - **Raanana** — 7
 - **Petah Tikva** — 7
+- **Haifa** — 5
 - **Remote** — 4
 - **Netanya** — 3
-- **Haifa** — 3
 - **Herzliya** — 1
 
 ## Sources
 
-- linkedin: 78
+- linkedin: 80
 - greenhouse: 38
 - remoteok: 5
 
