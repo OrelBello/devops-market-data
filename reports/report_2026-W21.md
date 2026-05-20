@@ -1,23 +1,23 @@
 # Israeli DevOps Job Market Report — 2026-W21
 
-_Generated May 19, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated May 20, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 ## Executive Summary
 
-We tracked **116 open DevOps / SRE / Platform / Cloud roles** in Israel this week
+We tracked **121 open DevOps / SRE / Platform / Cloud roles** in Israel this week
 across 3 sources. **0 of those (0.0%)
 are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Week-over-Week Trends
 
-📉 **Total jobs**: -4 (-3.3%) vs 2026-W20
+📈 **Total jobs**: +1 (+0.8%) vs 2026-W20
 📊 **Junior % change**: +0.0 pp
 
 **Rising skills:**
 - Observability: 17 → 20 (+3)
 - AWS: 24 → 25 (+1)
-- Terraform: 13 → 14 (+1)
+- Grafana: 7 → 8 (+1)
 - Security: 26 → 27 (+1)
 - Networking: 11 → 12 (+1)
 
@@ -26,7 +26,7 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 - Azure: 19 → 18 (-1)
 - GCP: 21 → 20 (-1)
 
-**New companies in top 15:** Unilink Ltd., Teads, Elbit Systems Israel, Similarweb
+**New companies in top 15:** Glassbox, Unilink Ltd., Silverfort, Teads, Qualitest
 
 ## Top 10 In-Demand Skills
 
@@ -48,17 +48,17 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 3. **Payoneer** — 5 open roles
 4. **Transmitsecurity** — 4 open roles
 5. **Riskified** — 3 open roles
-6. **Unity3D** — 2 open roles
-7. **Via** — 2 open roles
-8. **Gongio** — 2 open roles
-9. **Axonius** — 2 open roles
-10. **Kela Technologies** — 2 open roles
+6. **Apple** — 3 open roles
+7. **Unity3D** — 2 open roles
+8. **Via** — 2 open roles
+9. **Gongio** — 2 open roles
+10. **Axonius** — 2 open roles
 
 ## Seniority Distribution
 
 - **Junior**: 0.0% ``
-- **Mid**: 59.5% `███████████████████████`
-- **Senior**: 40.5% `████████████████`
+- **Mid**: 62.8% `█████████████████████████`
+- **Senior**: 37.2% `██████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -70,18 +70,18 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Location Breakdown
 
-- **Tel Aviv** — 74
-- **Israel (other)** — 12
-- **Raanana** — 8
+- **Tel Aviv** — 76
+- **Israel (other)** — 19
+- **Raanana** — 7
 - **Petah Tikva** — 7
-- **Haifa** — 5
-- **Netanya** — 4
 - **Remote** — 4
+- **Netanya** — 3
+- **Haifa** — 3
 - **Herzliya** — 1
 
 ## Sources
 
-- linkedin: 73
+- linkedin: 78
 - greenhouse: 38
 - remoteok: 5
 
