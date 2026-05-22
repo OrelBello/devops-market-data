@@ -1,16 +1,16 @@
 # 🪜 Israeli DevOps — Junior Pipeline Report — 2026-W21
 
-_Generated May 21, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated May 22, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 > **Who this is for:** anyone in IT / Help Desk / Support / SysAdmin / Bootcamp grad / career-switcher who wants to break into DevOps. Every role on this list **requires DevOps stack tech** (Linux, Python, AWS, Docker, K8s, CI/CD…) — meaning you'll be paid to learn the right tools.
 
 ## This week, by the numbers
 
-We tracked **35 junior-pipeline roles** in Israel that mention real DevOps stack:
+We tracked **41 junior-pipeline roles** in Israel that mention real DevOps stack:
 
-- **Help Desk / IT Support** — 20
-- **SysAdmin / NOC** — 11
+- **Help Desk / IT Support** — 27
+- **SysAdmin / NOC** — 10
 - **Trainee / Bootcamp Grad** — 2
 - **Junior DevOps** — 1
 - **Junior SRE / Cloud / Platform** — 1
@@ -21,29 +21,29 @@ We tracked **35 junior-pipeline roles** in Israel that mention real DevOps stack
 
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
-1. **Troubleshooting** — required in 28 roles
-2. **Networking** — required in 23 roles
-3. **Cloud (any)** — required in 19 roles
-4. **Azure** — required in 18 roles
-5. **Linux** — required in 16 roles
-6. **Python** — required in 12 roles
-7. **Automation** — required in 12 roles
-8. **Active Directory** — required in 12 roles
-9. **Bash/Shell** — required in 11 roles
-10. **Virtualization** — required in 10 roles
+1. **Troubleshooting** — required in 34 roles
+2. **Networking** — required in 26 roles
+3. **Cloud (any)** — required in 20 roles
+4. **Azure** — required in 19 roles
+5. **Linux** — required in 18 roles
+6. **Bash/Shell** — required in 16 roles
+7. **Automation** — required in 15 roles
+8. **Python** — required in 14 roles
+9. **Active Directory** — required in 13 roles
+10. **AWS** — required in 10 roles
 
 ## 🏢 Companies hiring for the pipeline
 
 1. **abra** — 3 role(s)
-2. **Nice** — 1 role(s)
-3. **Payoneer** — 1 role(s)
+2. **proteanTecs** — 2 role(s)
+3. **Nice** — 1 role(s)
 4. **Taboola** — 1 role(s)
 5. **Appsflyer** — 1 role(s)
 6. **Transmitsecurity** — 1 role(s)
 7. **Lightricks** — 1 role(s)
 8. **The Center for Educational Technology (CET)** — 1 role(s)
 9. **Google** — 1 role(s)
-10. **SuperCom (NASDAQ: SPCB)** — 1 role(s)
+10. **Nova Ltd.** — 1 role(s)
 
 ## ⭐ Top 15 highest-scoring roles this week
 
@@ -71,11 +71,11 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 🔗 [View role](https://il.linkedin.com/jobs/view/it-support-specialist-at-aidoc-4402893693)
 
 ### Junior Emulation Engineer, University Graduate, Google Cloud — Google
-📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 57/100 • 🪜 Junior SRE / Cloud / Platform
+📍 Haifa District, Israel • 🎯 Learning Score: 57/100 • 🪜 Junior SRE / Cloud / Platform
 
 **Stack you'll work with:** Python, Bash/Shell, GCP, Cloud (any), Networking
 
-🔗 [View role](https://il.linkedin.com/jobs/view/junior-emulation-engineer-university-graduate-google-cloud-at-google-4414165506)
+🔗 [View role](https://il.linkedin.com/jobs/view/junior-emulation-engineer-university-graduate-google-cloud-at-google-4414157765)
 
 ### SAP ECC System Administrator — Eurolaser Technologies Ltd
 📍 Kfar Saba, Center District, Israel • 🎯 Learning Score: 52/100 • 🪜 SysAdmin / NOC
@@ -91,19 +91,19 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/it-technician-at-wiz-4406744541)
 
-### IT Corp System Administrator — Payoneer
-📍 Herzliya, Tel Aviv District, Israel • 🎯 Learning Score: 48/100 • 🪜 SysAdmin / NOC
-
-**Stack you'll work with:** Bash/Shell, Azure, Cloud (any), Networking, Virtualization, Active Directory
-
-🔗 [View role](https://www.payoneer.com/careers/position/7916835/?gh_jid=7916835)
-
 ### System Administrator (36311) — מרטנס | Mertens – מקבוצת מלם תים
 📍 Center District, Israel • 🎯 Learning Score: 48/100 • 🪜 SysAdmin / NOC
 
 **Stack you'll work with:** Linux, Python, Networking, Monitoring, Virtualization, Windows Server
 
 🔗 [View role](https://il.linkedin.com/jobs/view/system-administrator-36311-at-%D7%9E%D7%A8%D7%98%D7%A0%D7%A1-mertens-%E2%80%93-%D7%9E%D7%A7%D7%91%D7%95%D7%A6%D7%AA-%D7%9E%D7%9C%D7%9D-%D7%AA%D7%99%D7%9D-4416210373)
+
+### IT Corp System Administrator — Payoneer
+📍 Herzliya, Tel Aviv District, Israel • 🎯 Learning Score: 48/100 • 🪜 SysAdmin / NOC
+
+**Stack you'll work with:** Bash/Shell, Azure, Cloud (any), Networking, Virtualization, Active Directory
+
+🔗 [View role](https://il.linkedin.com/jobs/view/it-corp-system-administrator-at-payoneer-4416274281)
 
 ### IT Specialist — Transmitsecurity
 📍 Tel Aviv-Yafo, Gush Dan, Israel • 🎯 Learning Score: 47/100 • 🪜 Help Desk / IT Support
@@ -112,19 +112,19 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://www.transmitsecurity.com/about/careers/job?gh_jid=8533931002)
 
-### Technical Support Engineer — Outpost24
-📍 Tel Aviv District, Israel • 🎯 Learning Score: 47/100 • 🪜 Help Desk / IT Support
-
-**Stack you'll work with:** Linux, Python, Bash/Shell, Azure, Automation, Troubleshooting
-
-🔗 [View role](https://il.linkedin.com/jobs/view/technical-support-engineer-at-outpost24-4411657094)
-
 ### Support Engineer — Regatta Data
 📍 Binyamina, Haifa District, Israel • 🎯 Learning Score: 47/100 • 🪜 Help Desk / IT Support
 
 **Stack you'll work with:** Linux, Python, Bash/Shell, Cloud (any), Networking, Monitoring
 
 🔗 [View role](https://il.linkedin.com/jobs/view/support-engineer-at-regatta-data-4366167298)
+
+### Technical Support Engineer — Outpost24
+📍 Tel Aviv District, Israel • 🎯 Learning Score: 47/100 • 🪜 Help Desk / IT Support
+
+**Stack you'll work with:** Linux, Python, Bash/Shell, Azure, Automation, Troubleshooting
+
+🔗 [View role](https://il.linkedin.com/jobs/view/technical-support-engineer-at-outpost24-4411657094)
 
 ### IT Technical Support — Nice
 📍 Israel - Raanana • 🎯 Learning Score: 44/100 • 🪜 Help Desk / IT Support
