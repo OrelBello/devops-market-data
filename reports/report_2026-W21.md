@@ -5,35 +5,35 @@ _Generated May 24, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/
 
 ## Executive Summary
 
-We tracked **98 open DevOps / SRE / Platform / Cloud roles** in Israel this week
-across 3 sources. **0 of those (0.0%)
+We tracked **109 open DevOps / SRE / Platform / Cloud roles** in Israel this week
+across 2 sources. **1 of those (0.9%)
 are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Week-over-Week Trends
 
-📉 **Total jobs**: -22 (-18.3%) vs 2026-W20
-📊 **Junior % change**: +0.0 pp
+📉 **Total jobs**: -11 (-9.2%) vs 2026-W20
+📊 **Junior % change**: +0.9 pp
 
 **Rising skills:**
 - Helm: 0 → 7 (+7)
 
 **Falling skills:**
 - CI/CD: 27 → 19 (-8)
-- Kubernetes: 24 → 17 (-7)
 - Grafana: 7 → 0 (-7)
-- Azure: 19 → 13 (-6)
+- Kubernetes: 24 → 17 (-7)
 - GCP: 21 → 15 (-6)
+- Azure: 19 → 13 (-6)
 
-**New companies in top 15:** Elbit Systems Israel, abra, NVIDIA, Lendbuzz, Medulla
+**New companies in top 15:** Elbit Systems Israel, abra, NVIDIA, Medulla, Play Perfect
 
 ## Top 10 In-Demand Skills
 
-1. **Security** — 23 mentions
+1. **Security** — 22 mentions
 2. **AWS** — 21 mentions
 3. **CI/CD** — 19 mentions
 4. **Kubernetes** — 17 mentions
-5. **Observability** — 15 mentions
-6. **GCP** — 15 mentions
+5. **GCP** — 15 mentions
+6. **Observability** — 14 mentions
 7. **Python** — 14 mentions
 8. **Azure** — 13 mentions
 9. **Argo CD** — 11 mentions
@@ -43,8 +43,8 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 1. **Jfrog** — 6 open roles
 2. **Nice** — 5 open roles
-3. **Transmitsecurity** — 4 open roles
-4. **Elbit Systems Israel** — 4 open roles
+3. **Elbit Systems Israel** — 5 open roles
+4. **Transmitsecurity** — 4 open roles
 5. **Riskified** — 3 open roles
 6. **abra** — 3 open roles
 7. **NVIDIA** — 3 open roles
@@ -54,9 +54,9 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Seniority Distribution
 
-- **Junior**: 0.0% ``
-- **Mid**: 54.1% `█████████████████████`
-- **Senior**: 45.9% `██████████████████`
+- **Junior**: 0.9% ``
+- **Mid**: 56.0% `██████████████████████`
+- **Senior**: 43.1% `█████████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -68,20 +68,19 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Location Breakdown
 
-- **Tel Aviv** — 60
-- **Israel (other)** — 15
+- **Tel Aviv** — 68
+- **Israel (other)** — 16
 - **Raanana** — 7
-- **Haifa** — 7
-- **Petah Tikva** — 4
-- **Netanya** — 2
+- **Petah Tikva** — 7
+- **Haifa** — 6
+- **Netanya** — 3
 - **Herzliya** — 1
 - **Jerusalem** — 1
 
 ## Sources
 
-- linkedin: 65
+- linkedin: 77
 - greenhouse: 32
-- remoteok: 1
 
 ## Methodology
 
