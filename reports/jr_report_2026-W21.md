@@ -9,8 +9,8 @@ _Generated May 24, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/
 
 We tracked **36 junior-pipeline roles** in Israel that mention real DevOps stack:
 
-- **Help Desk / IT Support** — 21
-- **SysAdmin / NOC** — 12
+- **Help Desk / IT Support** — 20
+- **SysAdmin / NOC** — 13
 - **Junior DevOps** — 1
 - **Trainee / Bootcamp Grad** — 1
 - **Junior SRE / Cloud / Platform** — 1
@@ -22,15 +22,15 @@ We tracked **36 junior-pipeline roles** in Israel that mention real DevOps stack
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
 1. **Troubleshooting** — required in 28 roles
-2. **Networking** — required in 25 roles
-3. **Linux** — required in 21 roles
-4. **Cloud (any)** — required in 19 roles
-5. **Bash/Shell** — required in 15 roles
-6. **Azure** — required in 15 roles
-7. **Python** — required in 14 roles
-8. **Automation** — required in 14 roles
-9. **Monitoring** — required in 11 roles
-10. **Active Directory** — required in 10 roles
+2. **Networking** — required in 23 roles
+3. **Linux** — required in 20 roles
+4. **Cloud (any)** — required in 18 roles
+5. **Bash/Shell** — required in 17 roles
+6. **Python** — required in 15 roles
+7. **Automation** — required in 15 roles
+8. **Azure** — required in 13 roles
+9. **Monitoring** — required in 10 roles
+10. **Active Directory** — required in 9 roles
 
 ## 🏢 Companies hiring for the pipeline
 
@@ -77,6 +77,13 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/hpc-operations-engineer-at-nvidia-4395489433)
 
+### System Administrator — Sela
+📍 Center District, Israel • 🎯 Learning Score: 84/100 • 🪜 SysAdmin / NOC
+
+**Stack you'll work with:** Linux, Python, Bash/Shell, Azure, Cloud (any), CI/CD
+
+🔗 [View role](https://il.linkedin.com/jobs/view/system-administrator-at-sela-4413398653)
+
 ### IT Support Specialist — Aidoc
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 71/100 • 🪜 Help Desk / IT Support
 
@@ -97,6 +104,13 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 **Stack you'll work with:** Linux, Python, Docker, Kubernetes, Networking, Virtualization
 
 🔗 [View role](https://il.linkedin.com/jobs/view/system-administrator-at-gotfriends-4412870787)
+
+### Linux HPC Systems Engineer — Ben-Gurion University of the Negev
+📍 Be'er Sheva, South District, Israel • 🎯 Learning Score: 60/100 • 🪜 SysAdmin / NOC
+
+**Stack you'll work with:** Linux, Python, Bash/Shell, Cloud (any), Kubernetes, Networking
+
+🔗 [View role](https://il.linkedin.com/jobs/view/linux-hpc-systems-engineer-at-ben-gurion-university-of-the-negev-4412773313)
 
 ### Junior Emulation Engineer, University Graduate, Google Cloud — Google
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 57/100 • 🪜 Junior SRE / Cloud / Platform
@@ -126,13 +140,6 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/technical-support-engineer-at-outpost24-4411657094)
 
-### Support Engineer — Regatta Data
-📍 Binyamina, Haifa District, Israel • 🎯 Learning Score: 47/100 • 🪜 Help Desk / IT Support
-
-**Stack you'll work with:** Linux, Python, Bash/Shell, Cloud (any), Networking, Monitoring
-
-🔗 [View role](https://il.linkedin.com/jobs/view/support-engineer-at-regatta-data-4366167298)
-
 ### IT Technical Support — Nice
 📍 Israel - Raanana • 🎯 Learning Score: 44/100 • 🪜 Help Desk / IT Support
 
@@ -146,13 +153,6 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 **Stack you'll work with:** Python, Bash/Shell, Azure, Cloud (any), Networking, Automation
 
 🔗 [View role](https://il.linkedin.com/jobs/view/it-support-specialist-temporary-position-at-cato-networks-4394155925)
-
-### Help Desk Technician — Migdal Capital Markets
-📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 40/100 • 🪜 Help Desk / IT Support
-
-**Stack you'll work with:** Linux, Bash/Shell, Azure, Networking, Virtualization, Active Directory
-
-🔗 [View role](https://il.linkedin.com/jobs/view/help-desk-technician-at-migdal-capital-markets-4414548410)
 
 
 ## How the score works
