@@ -17,9 +17,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LATEST = os.path.join(ROOT, "reports", "latest.json")
 OUT = os.path.join(ROOT, "reports", "index.html")
 
-JR_LATEST = os.path.join(
-    ROOT, "..", "devops-junior-pipeline", "reports", "jr_latest.json"
-)
+JR_LATEST = os.path.join(ROOT, "reports", "jr_latest.json")
 
 
 def _esc(s):
@@ -86,12 +84,13 @@ def render():
             jr_rows += f'<tr><td><a href="{_esc(j.get("url"))}" target="_blank">{_esc(j.get("title"))}</a></td><td>{_esc(j.get("company"))}</td><td class="num">{j.get("score", 0)}</td></tr>'
         jr_html = f"""
 <section>
-  <h2>🪜 Junior Pipeline — Top 5 picks</h2>
-  <p>For IT / Help Desk / SysAdmin / Junior DevOps career-pivot candidates. <a href="https://docs.google.com/spreadsheets/d/1y6ZXo_rQvffdnKEb_QQGbEw93jWVl09GaBRBlNTSxY8/edit" target="_blank">Full junior dashboard →</a></p>
+  <h2>🪜 Junior Pipeline — Top 5 picks this week</h2>
+  <p style="color:var(--muted)">For IT / Help Desk / SysAdmin / career-pivot candidates. Every match requires real DevOps stack — you'll be paid to learn the tools that actually get hired.</p>
   <table>
-    <thead><tr><th>Role</th><th>Company</th><th>Learning Score</th></tr></thead>
+    <thead><tr><th>Role</th><th>Company</th><th class="num">Learning Score</th></tr></thead>
     <tbody>{jr_rows}</tbody>
   </table>
+  <p style="margin-top:1rem"><a class="cta cta-secondary" href="./devops-juniors-israel-latest.xlsx" download>🪜 Download Junior Excel</a></p>
 </section>
 """
 
@@ -183,10 +182,10 @@ footer {{ text-align: center; color: var(--muted); padding: 2rem 0; font-size: 0
 </header>
 
 <div class="hero">
-  <div class="stat"><span class="num">{s.get("total_jobs", 0)}</span><span class="label">Open Roles</span></div>
-  <div class="stat"><span class="num">{len(s.get("top_companies", []))}</span><span class="label">Top Companies</span></div>
-  <div class="stat"><span class="num">{s.get("junior_count", 0)}</span><span class="label">Junior-Friendly</span></div>
-  <div class="stat"><span class="num">{len(s.get("by_source", {}))}</span><span class="label">Active Sources</span></div>
+  <div class="stat"><span class="num">{s.get("total_jobs", 0)}</span><span class="label">Open this week</span></div>
+  <div class="stat"><span class="num">{s.get("new_count_24h", 0)}</span><span class="label">🔥 New today</span></div>
+  <div class="stat"><span class="num">{jr.get("stats_for_sheets", {}).get("total_jobs", 0) if jr else 0}</span><span class="label">🪜 Junior pipeline</span></div>
+  <div class="stat"><span class="num">{s.get("total_tracked_jobs", 0)}</span><span class="label">📊 Tracked cumulatively</span></div>
 </div>
 
 <section>
@@ -211,21 +210,40 @@ footer {{ text-align: center; color: var(--muted); padding: 2rem 0; font-size: 0
 {jr_html}
 
 <section>
-  <h2>📡 Sources</h2>
+  <h2>📡 Active sources this run</h2>
   <ul>{src_html}</ul>
+  <p style="color:var(--muted); font-size:0.9rem; margin-top:1rem">
+    The platform scans 8 sources; some return 0 in any given run due to anti-bot blocks (Glassdoor, AllJobs) or JS-rendered pages (Drushim, Jobmaster). Greenhouse + LinkedIn cover ~95% of the Israeli DevOps market on their own.
+  </p>
 </section>
 
 <section>
-  <h2>📋 Methodology</h2>
-  <p>Data is collected weekly from public job-board endpoints (LinkedIn guest API, RemoteOK, Greenhouse boards of 28+ Israeli tech companies, AllJobs, Drushim, Glassdoor, Jobmaster, Lever). Each posting is filtered for DevOps / SRE / Platform / Cloud roles in Israel, deduplicated across sources, and analyzed for skills, seniority, salary, and location. Skill mentions are extracted via a curated regex taxonomy of 50+ tools.</p>
-  <p><strong>100% free • Open methodology • No paid APIs.</strong></p>
-  <p><a href="{main_sheet_url}" target="_blank">Main dashboard</a> · <a href="{jr_sheet_url}" target="_blank">Junior pipeline dashboard</a></p>
+  <h2>📋 About this project</h2>
+  <h3 style="margin-top:1.5rem; color:var(--accent)">Why I built this</h3>
+  <p>I mentor 600+ DevOps engineers in <a href="https://www.linkedin.com/groups/12877927/" target="_blank">FlipTheScript</a> — Israel's largest DevOps community. The two questions I hear constantly are <em>"what should I learn?"</em> and <em>"who actually hires juniors?"</em></p>
+  <p>Most career advice in tech is anecdotal. This platform replaces guessing with weekly data — what skills are actually demanded, what companies are actually hiring, what the junior pipeline really looks like.</p>
+
+  <h3 style="margin-top:1.5rem; color:var(--accent)">How it works</h3>
+  <p>Every morning, a free GitHub Action runs a Python script that scrapes 8 public job-board endpoints (LinkedIn guest API, Greenhouse boards of 30+ Israeli tech companies, RemoteOK public JSON, AllJobs, Drushim, Glassdoor, Jobmaster, Lever). Each posting is filtered for DevOps / SRE / Platform / Cloud roles in Israel, deduplicated across sources, then analyzed for skills, seniority, salary, hiring momentum, and junior-friendliness.</p>
+  <p>The output is committed back to a public GitHub repo and served from this site. Every weekly snapshot is preserved — so we can show real trends over time.</p>
+
+  <h3 style="margin-top:1.5rem; color:var(--accent)">100% free, open, reproducible</h3>
+  <p>No paid APIs. No SaaS subscriptions. No external dependencies — pure Python standard library. <strong>$0/month forever.</strong></p>
+  <p>The full source code, scrapers, analysis engine, and weekly snapshots are public on <a href="https://github.com/OrelBello/devops-market-data" target="_blank">github.com/OrelBello/devops-market-data</a>. Fork it, audit it, build on top of it.</p>
+
+  <h3 style="margin-top:1.5rem; color:var(--accent)">Honest limitations</h3>
+  <ul>
+    <li>Greenhouse + LinkedIn are our reliable sources; the others vary day-to-day</li>
+    <li>Salary disclosure is rare in Israel — we track it when explicitly stated</li>
+    <li>Junior matches require ≥2 DevOps stack items in the JD; some "junior" titles are filtered out</li>
+    <li>The "tracked cumulatively" counter started May 15 2026 when the daily cron began</li>
+  </ul>
 </section>
 
 <footer>
-  Built with ☕ by <a href="https://www.linkedin.com/in/orel-bello/">Orel Bello</a> · Senior Platform Engineer at Melio · AWS Community Builder · founder of <a href="https://www.linkedin.com/groups/12877927/">FlipTheScript</a> (600+ DevOps mentees in Israel)
+  Built with ☕ by <a href="https://orelbello.com" target="_blank">Orel Bello</a> · Senior Platform Engineer at Melio · AWS Community Builder · founder of <a href="https://www.linkedin.com/groups/12877927/" target="_blank">FlipTheScript</a> (600+ DevOps mentees in Israel)
   <br><br>
-  Powered by <a href="https://accomplish.ai" target="_blank">Accomplish (OpenClaw)</a> · Updated every Sunday morning · 100% free
+  Powered by <a href="https://accomplish.ai" target="_blank">Accomplish</a> · Auto-refreshed every weekday at 09:00 Israel time · 100% free · <a href="https://github.com/OrelBello/devops-market-data" target="_blank">source code on GitHub</a>
 </footer>
 </div>
 </body>

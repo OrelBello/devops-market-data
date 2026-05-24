@@ -47,10 +47,10 @@ from scrapers import (
     drushim,
     glassdoor,
     greenhouse,
+    indeed_il,
     jobmaster,
     lever,
     linkedin,
-    remoteok,
 )  # noqa: E402
 import analysis  # noqa: E402
 import normalize  # noqa: E402
@@ -65,14 +65,16 @@ REPORTS_DIR = os.path.join(ROOT, "reports")
 
 # (name, callable, default_max_jobs) - order matters for the report's "by_source" table
 SOURCES: List[Tuple[str, Callable[[int], List[Dict[str, Any]]], int]] = [
+    # === Israel-focused workhorses ===
     ("greenhouse", greenhouse.scrape, 400),
     ("linkedin", linkedin.scrape, 250),
+    ("indeed_il", indeed_il.scrape, 150),
+    # === Best-effort Israeli (often blocked/SPA) ===
     ("lever", lever.scrape, 100),
-    ("remoteok", remoteok.scrape, 200),
     ("alljobs", alljobs.scrape, 150),
     ("drushim", drushim.scrape, 150),
     ("jobmaster", jobmaster.scrape, 100),
-    ("glassdoor", glassdoor.scrape, 80),
+    # ("glassdoor", glassdoor.scrape, 80),  # Disabled — consistent 403 from CI + local
 ]
 
 
@@ -149,11 +151,16 @@ def main():
     # 1-2. Scrape + dedupe
     raw_jobs, diagnostics = run_scrapers(only=args.source, quick=args.quick)
     B.LOG.info("Raw jobs collected: %d", len(raw_jobs))
-    deduped = normalize.dedup(raw_jobs)
+    # Drop jobs without a URL — they're not actionable for users
+    with_url = [j for j in raw_jobs if (j.get("url") or "").strip()]
+    dropped_no_url = len(raw_jobs) - len(with_url)
+    if dropped_no_url:
+        B.LOG.info("Dropped %d jobs with no URL (not actionable)", dropped_no_url)
+    deduped = normalize.dedup(with_url)
     B.LOG.info(
         "After dedup: %d jobs (%d duplicates removed)",
         len(deduped),
-        len(raw_jobs) - len(deduped),
+        len(with_url) - len(deduped),
     )
 
     # 2.5. First-seen tagging (for "new in last 24h" feature)

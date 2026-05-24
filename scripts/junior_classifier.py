@@ -36,6 +36,11 @@ TITLE_BUCKETS: List[Tuple[str, List[str]]] = [
             r"\bdevops\b.*\bjunior\b",
             r"\bdevops\b.*\bjr\.?\b",
             r"\bentry[\s-]?level\b.*\bdevops\b",
+            r"\bassociate\b.*\bdevops\b",
+            r"\bdevops\b.*\bassociate\b",
+            r"\bdevops\s*engineer\s*[I1]\b",  # "DevOps Engineer I" or "DevOps Engineer 1"
+            r"\bdevops\b.*\b(intern|apprentice|new\s*grad|graduate)\b",
+            r"\b(intern|apprentice|new\s*grad|graduate)\b.*\bdevops\b",
         ],
     ),
     (
@@ -46,6 +51,11 @@ TITLE_BUCKETS: List[Tuple[str, List[str]]] = [
             r"\b(sre|cloud|platform|infra)\b.*\bjunior\b",
             r"\b(graduate|trainee|intern|associate)\b.*\b(devops|sre|cloud|platform|infra)\b",
             r"\b(devops|sre|cloud|platform|infra)\b.*\b(graduate|trainee|intern|associate)\b",
+            r"\b(sre|cloud|platform|infra)\s*engineer\s*[I1]\b",
+            r"\bsite\s*reliability\s*engineer\s*[I1]\b",
+            r"\bcloud\s*solutions\s*engineer\s*[I1]\b",
+            r"\bnew\s*grad\b.*\b(cloud|platform|infra|devops|sre|site reliability)\b",
+            r"\b(cloud|platform|infra|devops|sre|site reliability)\b.*\bnew\s*grad\b",
         ],
     ),
     (
@@ -55,6 +65,7 @@ TITLE_BUCKETS: List[Tuple[str, List[str]]] = [
             r"\b(sysadmin|system administrator|linux)\b.*\bjunior\b",
             r"\bjunior\b.*\bsystem(s)? engineer\b",
             r"\bjr\.?\b.*\bsystem(s)? engineer\b",
+            r"\bassociate\b.*\b(sysadmin|system administrator|linux)\b",
         ],
     ),
     (
@@ -101,11 +112,21 @@ TITLE_BUCKETS: List[Tuple[str, List[str]]] = [
             r"\bapprentice\b",
             r"\bcadet\b",
             r"\bintern\b",
-            r"\bcareer (transition|switch|change)\b",
-            r"\bno experience\b",
+            r"\binternship\b",
+            r"\bcareer\s+(transition|switch|change)\b",
+            r"\bno\s+experience\b",
+            r"\bnew\s*grad(uate)?\b",
+            r"\bgraduate\s+program\b",
+            r"\buniversity\s+graduate\b",
+            r"\bstudent\b",
+            r"\bworking\s+student\b",
+            r"\bstudies?\s+track\b",
             r"בוגר.*קורס",
             r"מתאמן",
             r"חניך",
+            r"מתחיל",
+            r"ללא\s+ניסיון",
+            r"סטודנט",
         ],
     ),
 ]
@@ -357,13 +378,23 @@ def learning_score(stack_items: List[str], bucket: str) -> int:
 # Per-bucket thresholds. Stronger junior buckets get more lenient stack requirements
 # because the title alone signals career intent. Help Desk/SysAdmin titles are more
 # ambiguous so we require a stronger stack signal in the JD.
+# Looser thresholds — junior market is small, prioritize coverage over precision.
+# Explicit junior titles (Junior DevOps, Junior SRE, Trainee) require ZERO stack proof.
+# Less explicit (SysAdmin, Help Desk) require 1 stack item.
 BUCKET_THRESHOLDS = {
-    "Junior DevOps": (1, 1),
-    "Junior SRE / Cloud / Platform": (1, 1),
-    "Junior SysAdmin / Linux": (2, 1),
-    "Help Desk / IT Support": (2, 1),
-    "SysAdmin / NOC": (2, 1),
-    "Trainee / Bootcamp Grad": (1, 0),
+    "Junior DevOps": (0, 0),  # title alone is sufficient
+    "Junior SRE / Cloud / Platform": (0, 0),
+    "Trainee / Bootcamp Grad": (0, 0),
+    "Junior SysAdmin / Linux": (1, 0),
+    "Help Desk / IT Support": (1, 0),
+    "SysAdmin / NOC": (1, 0),
+}
+
+# Buckets where the title is so explicit that we skip stack-checking entirely.
+EXPLICIT_JUNIOR_BUCKETS = {
+    "Junior DevOps",
+    "Junior SRE / Cloud / Platform",
+    "Trainee / Bootcamp Grad",
 }
 
 
@@ -383,14 +414,28 @@ def is_junior_pipeline(
     if not bucket:
         return {"match": False, "reason": "title not junior-pipeline"}
 
+    # Always extract stack for scoring + UI even if we don't gate on it
+    text = f"{title}\n{description}"
+    stack = extract_stack(text)
+    core = [s for s in stack if s in CORE_STACK]
+
+    # Short-circuit for explicit junior buckets: title alone is enough proof
+    if bucket in EXPLICIT_JUNIOR_BUCKETS:
+        return {
+            "match": True,
+            "bucket": bucket,
+            "stack_matched": stack,
+            "stack_count": len(stack),
+            "core_stack_count": len(core),
+            "learning_score": learning_score(stack, bucket),
+            "reason": "explicit junior title (no stack proof needed)",
+        }
+
     bucket_min, bucket_core = BUCKET_THRESHOLDS.get(bucket, (2, 1))
     if min_stack is None:
         min_stack = bucket_min
     if min_core_stack is None:
         min_core_stack = bucket_core
-
-    text = f"{title}\n{description}"
-    stack = extract_stack(text)
     if len(stack) < min_stack:
         return {
             "match": False,
@@ -399,7 +444,6 @@ def is_junior_pipeline(
             "stack_count": len(stack),
             "reason": f"only {len(stack)} stack item(s) (need {min_stack})",
         }
-    core = [s for s in stack if s in CORE_STACK]
     if len(core) < min_core_stack:
         return {
             "match": False,
