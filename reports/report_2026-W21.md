@@ -5,13 +5,13 @@ _Generated May 24, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/
 
 ## Executive Summary
 
-We tracked **109 open DevOps / SRE / Platform / Cloud roles** in Israel this week
+We tracked **111 open DevOps / SRE / Platform / Cloud roles** in Israel this week
 across 2 sources. **1 of those (0.9%)
 are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Week-over-Week Trends
 
-📉 **Total jobs**: -11 (-9.2%) vs 2026-W20
+📉 **Total jobs**: -9 (-7.5%) vs 2026-W20
 📊 **Junior % change**: +0.9 pp
 
 **Rising skills:**
@@ -19,16 +19,16 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 **Falling skills:**
 - CI/CD: 27 → 19 (-8)
-- Grafana: 7 → 0 (-7)
 - Kubernetes: 24 → 17 (-7)
+- Grafana: 7 → 0 (-7)
 - GCP: 21 → 15 (-6)
 - Azure: 19 → 13 (-6)
 
-**New companies in top 15:** Elbit Systems Israel, abra, NVIDIA, Medulla, Play Perfect
+**New companies in top 15:** Elbit Systems Israel, abra, NVIDIA, Lendbuzz, Medulla
 
 ## Top 10 In-Demand Skills
 
-1. **Security** — 22 mentions
+1. **Security** — 23 mentions
 2. **AWS** — 21 mentions
 3. **CI/CD** — 19 mentions
 4. **Kubernetes** — 17 mentions
@@ -43,8 +43,8 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 1. **Jfrog** — 6 open roles
 2. **Nice** — 5 open roles
-3. **Elbit Systems Israel** — 5 open roles
-4. **Transmitsecurity** — 4 open roles
+3. **Transmitsecurity** — 4 open roles
+4. **Elbit Systems Israel** — 4 open roles
 5. **Riskified** — 3 open roles
 6. **abra** — 3 open roles
 7. **NVIDIA** — 3 open roles
@@ -55,8 +55,8 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 ## Seniority Distribution
 
 - **Junior**: 0.9% ``
-- **Mid**: 56.0% `██████████████████████`
-- **Senior**: 43.1% `█████████████████`
+- **Mid**: 60.4% `████████████████████████`
+- **Senior**: 38.7% `███████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -68,9 +68,9 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Location Breakdown
 
-- **Tel Aviv** — 68
-- **Israel (other)** — 16
-- **Raanana** — 7
+- **Tel Aviv** — 67
+- **Israel (other)** — 18
+- **Raanana** — 8
 - **Petah Tikva** — 7
 - **Haifa** — 6
 - **Netanya** — 3
@@ -79,7 +79,7 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Sources
 
-- linkedin: 77
+- linkedin: 79
 - greenhouse: 32
 
 ## Methodology
