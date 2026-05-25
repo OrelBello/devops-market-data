@@ -5,40 +5,37 @@ _Generated May 25, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/
 
 ## Executive Summary
 
-We tracked **104 open DevOps / SRE / Platform / Cloud roles** in Israel this week
+We tracked **98 open DevOps / SRE / Platform / Cloud roles** in Israel this week
 across 2 sources. **1 of those (1.0%)
 are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Week-over-Week Trends
 
-📉 **Total jobs**: -7 (-6.3%) vs 2026-W21
+📉 **Total jobs**: -13 (-11.7%) vs 2026-W21
 📊 **Junior % change**: +0.1 pp
 
 **Rising skills:**
-- Grafana: 0 → 6 (+6)
-- GCP: 15 → 16 (+1)
-- Prometheus: 5 → 6 (+1)
-- Kubernetes: 17 → 18 (+1)
-- Python: 14 → 15 (+1)
+- Networking: 8 → 9 (+1)
 
 **Falling skills:**
-- Linux: 5 → 0 (-5)
+- Docker: 8 → 7 (-1)
+- Helm: 7 → 6 (-1)
 - Security: 23 → 22 (-1)
 
-**New companies in top 15:** Unity3D, Mobileye, BMC Software
+**New companies in top 15:** Unity3D, BMC Software
 
 ## Top 10 In-Demand Skills
 
-1. **AWS** — 22 mentions
-2. **Security** — 22 mentions
-3. **CI/CD** — 20 mentions
-4. **Kubernetes** — 18 mentions
-5. **GCP** — 16 mentions
-6. **Observability** — 15 mentions
-7. **Python** — 15 mentions
-8. **Azure** — 14 mentions
-9. **Argo CD** — 12 mentions
-10. **Terraform** — 10 mentions
+1. **Security** — 22 mentions
+2. **AWS** — 21 mentions
+3. **CI/CD** — 19 mentions
+4. **Kubernetes** — 17 mentions
+5. **GCP** — 15 mentions
+6. **Observability** — 14 mentions
+7. **Python** — 14 mentions
+8. **Azure** — 13 mentions
+9. **Argo CD** — 11 mentions
+10. **Terraform** — 9 mentions
 
 ## Top 10 Hiring Companies
 
@@ -46,18 +43,18 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 2. **Nice** — 5 open roles
 3. **Transmitsecurity** — 4 open roles
 4. **Riskified** — 3 open roles
-5. **abra** — 3 open roles
+5. **NVIDIA** — 3 open roles
 6. **Elbit Systems Israel** — 3 open roles
 7. **Unity3D** — 2 open roles
 8. **Via** — 2 open roles
-9. **Gongio** — 2 open roles
-10. **Axonius** — 2 open roles
+9. **Axonius** — 2 open roles
+10. **Lendbuzz** — 2 open roles
 
 ## Seniority Distribution
 
 - **Junior**: 1.0% ``
-- **Mid**: 61.5% `████████████████████████`
-- **Senior**: 37.5% `███████████████`
+- **Mid**: 62.2% `████████████████████████`
+- **Senior**: 36.7% `██████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -69,19 +66,19 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Location Breakdown
 
-- **Tel Aviv** — 68
-- **Israel (other)** — 16
-- **Raanana** — 6
-- **Haifa** — 5
-- **Petah Tikva** — 3
-- **Netanya** — 3
-- **Jerusalem** — 2
+- **Tel Aviv** — 63
+- **Israel (other)** — 18
+- **Petah Tikva** — 6
+- **Raanana** — 5
+- **Netanya** — 2
+- **Haifa** — 2
 - **Herzliya** — 1
+- **Jerusalem** — 1
 
 ## Sources
 
-- linkedin: 71
-- greenhouse: 33
+- linkedin: 66
+- greenhouse: 32
 
 ## Methodology
 
