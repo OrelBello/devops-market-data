@@ -1,93 +1,89 @@
 {
-  "generated_at": "2026-06-11T10:56:37",
+  "generated_at": "2026-06-12T10:39:35",
   "week": "2026-W24",
   "stats_for_sheets": {
-    "total_jobs": 71,
+    "total_jobs": 77,
     "by_source": {
       "greenhouse": 10,
-      "linkedin": 60,
+      "linkedin": 66,
       "remoteok": 1
     },
     "bucket_distribution": {
-      "Help Desk / IT Support": 46,
-      "SysAdmin / NOC": 14,
-      "Trainee / Bootcamp Grad": 8,
+      "Help Desk / IT Support": 49,
+      "SysAdmin / NOC": 19,
+      "Trainee / Bootcamp Grad": 6,
       "Junior SRE / Cloud / Platform": 2,
       "Junior SysAdmin / Linux": 1
     },
     "top_stack": [
       [
         "Troubleshooting",
-        50
+        54
       ],
       [
         "Networking",
-        26
+        29
       ],
       [
         "Cloud (any)",
-        19
+        25
+      ],
+      [
+        "Active Directory",
+        23
       ],
       [
         "Bash/Shell",
-        19
+        21
       ],
       [
         "Python",
         18
       ],
       [
-        "Active Directory",
-        16
-      ],
-      [
         "Automation",
-        15
-      ],
-      [
-        "Linux",
-        13
+        18
       ],
       [
         "Monitoring",
+        17
+      ],
+      [
+        "Linux",
+        14
+      ],
+      [
+        "Azure",
         13
       ],
       [
         "Virtualization",
-        8
+        11
       ],
       [
         "AWS",
-        7
+        10
       ],
       [
-        "CI/CD",
-        6
+        "Windows Server",
+        5
       ],
       [
-        "Azure",
-        6
+        "GCP",
+        5
       ],
       [
-        "Git",
+        "Terraform/IaC",
         4
-      ],
-      [
-        "Docker",
-        3
       ]
     ],
     "top_companies": [
-      [
-        "abra",
-        4
-      ],
       [
         "Elbit Systems Israel",
         4
       ],
       [
-        "Extreme",
+        "abra",
         3
       ],
       [
@@ -107,11 +103,11 @@
         2
       ],
       [
-        "Unity South APAC (SEA, ANZ, IND Subcont.)",
+        "Unilink Ltd.",
         2
       ],
       [
-        "Unity",
+        "Extreme",
         2
       ],
       [
@@ -131,47 +127,51 @@
         1
       ],
       [
-        "Droxi",
+        "Intel",
         1
       ],
       [
         "MDA Space",
         1
+      ],
+      [
+        "Droxi",
+        1
       ]
     ],
     "location_distribution": {
-      "Tel Aviv": 36,
-      "Israel (other)": 22,
-      "Haifa": 9,
+      "Tel Aviv": 42,
+      "Israel (other)": 21,
+      "Haifa": 10,
       "Petah Tikva": 2,
       "Raanana": 1,
       "Herzliya": 1
     },
     "needs_review_count": 0,
-    "new_count_24h": 9,
-    "new_count_7d": 21,
-    "total_tracked_jobs": 236
+    "new_count_24h": 10,
+    "new_count_7d": 27,
+    "total_tracked_jobs": 246
   },
   "diagnostics": {
     "greenhouse": {
       "jobs": 10,
-      "elapsed_s": 13.7,
+      "elapsed_s": 13.4,
       "ok": true
     },
     "linkedin": {
-      "jobs": 67,
-      "elapsed_s": 140.3,
+      "jobs": 73,
+      "elapsed_s": 145.8,
       "ok": true
     },
     "remoteok": {
       "jobs": 1,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     }
   },
   "report_md_path": "/home/runner/work/devops-market-data/devops-market-data/reports/jr_report_2026-W24.md",
   "linkedin_md_path": "/home/runner/work/devops-market-data/devops-market-data/reports/jr_linkedin_2026-W24.md",
-  "snapshot_path": "/home/runner/work/devops-market-data/devops-market-data/data/snapshots/jr_jobs_20260611_105637.json",
+  "snapshot_path": "/home/runner/work/devops-market-data/devops-market-data/data/snapshots/jr_jobs_20260612_103935.json",
   "jobs_for_sheet": [
     {
       "title": "Developer Support Engineer",
@@ -185,21 +185,35 @@
       "url": "https://join.jfrog.com/job/?job=7563041&gh_jid=7563041",
       "first_seen_at": "2026-05-15",
       "is_new_today": false,
-      "days_open": 27
+      "days_open": 28
     },
     {
-      "title": "Linux System Administrator",
-      "company": "Nuvoton Technology Israel Ltd",
-      "location": "Herzliya, Tel Aviv District, Israel",
+      "title": "System Engineer",
+      "company": "Paragon",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
       "bucket": "SysAdmin / NOC",
-      "stack": "Linux, Python, Bash/Shell, Docker, Kubernetes, CI/CD, Git, Terraform/IaC, Networking, Monitoring, Virtualization, Automation, Troubleshooting",
+      "stack": "Linux, Python, Bash/Shell, AWS, GCP, Cloud (any), Docker, Kubernetes, Git, Terraform/IaC, Networking, Monitoring, Virtualization, Active Directory, Automation, Troubleshooting",
       "score": 100,
       "needs_review": false,
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/linux-system-administrator-at-nuvoton-technology-israel-ltd-4417322206",
-      "first_seen_at": "2026-05-24",
+      "url": "https://il.linkedin.com/jobs/view/system-engineer-at-paragon-4425617619",
+      "first_seen_at": "2026-06-12",
+      "is_new_today": true,
+      "days_open": 0
+    },
+    {
+      "title": "‫System Engineer",
+      "company": "JobsSeek",
+      "location": "Kiryat Ono, Tel Aviv District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Python, Bash/Shell, AWS, Azure, Cloud (any), Docker, Kubernetes, Terraform/IaC, Networking, Virtualization, Windows Server, Automation",
+      "score": 100,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/%E2%80%ABsystem-engineer-at-jobsseek-4415191565",
+      "first_seen_at": "2026-06-05",
       "is_new_today": false,
-      "days_open": 18
+      "days_open": 7
     },
     {
       "title": "Junior IT / Cloud Specialist - 235226",
@@ -212,8 +226,8 @@
       "source": "linkedin",
       "url": "https://il.linkedin.com/jobs/view/junior-it-cloud-specialist-235226-at-experis-israel-4423620429",
       "first_seen_at": "2026-06-11",
-      "is_new_today": true,
-      "days_open": 0
+      "is_new_today": false,
+      "days_open": 1
     },
     {
       "title": "Junior Emulation Engineer, University Graduate, Google Cloud",
@@ -227,21 +241,7 @@
       "url": "https://il.linkedin.com/jobs/view/junior-emulation-engineer-university-graduate-google-cloud-at-google-4414165506",
       "first_seen_at": "2026-05-15",
       "is_new_today": false,
-      "days_open": 27
-    },
-    {
-      "title": "Technical Support Engineer",
-      "company": "Fortinet",
-      "location": "Herzliya, Tel Aviv District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Python, Bash/Shell, AWS, GCP, Cloud (any), Networking, Virtualization, Troubleshooting",
-      "score": 54,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/technical-support-engineer-at-fortinet-4393535304",
-      "first_seen_at": "2026-05-31",
-      "is_new_today": false,
-      "days_open": 11
+      "days_open": 28
     },
     {
       "title": "Window infrastructure & DevOps Student",
@@ -255,7 +255,35 @@
       "url": "https://il.linkedin.com/jobs/view/window-infrastructure-devops-student-at-intel-4402131061",
       "first_seen_at": "2026-05-24",
       "is_new_today": false,
-      "days_open": 18
+      "days_open": 19
+    },
+    {
+      "title": "Experienced IT System Administrator",
+      "company": "iFOR FINTECH",
+      "location": "Herzliya, Tel Aviv District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Bash/Shell, AWS, Azure, Cloud (any), Monitoring, Virtualization, Active Directory",
+      "score": 52,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/experienced-it-system-administrator-at-ifor-fintech-4419287305",
+      "first_seen_at": "2026-06-03",
+      "is_new_today": false,
+      "days_open": 9
+    },
+    {
+      "title": "IT Support Specialist",
+      "company": "Aidoc",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Linux, Bash/Shell, Git, Terraform/IaC, Networking, Automation, Troubleshooting",
+      "score": 51,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/it-support-specialist-at-aidoc-4423356724",
+      "first_seen_at": "2026-06-05",
+      "is_new_today": false,
+      "days_open": 7
     },
     {
       "title": "IT Specialist",
@@ -269,21 +297,35 @@
       "url": "https://www.transmitsecurity.com/about/careers/job?gh_jid=8533931002",
       "first_seen_at": "2026-05-15",
       "is_new_today": false,
-      "days_open": 27
+      "days_open": 28
     },
     {
-      "title": "Technical Support Specialist",
-      "company": "Upwind Security",
-      "location": "Ramat Gan, Tel Aviv District, Israel",
+      "title": "IT Specialist",
+      "company": "Transmit Security",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
       "bucket": "Help Desk / IT Support",
-      "stack": "Linux, Cloud (any), Docker, Kubernetes, Networking, Monitoring, Databases, Troubleshooting",
+      "stack": "Bash/Shell, AWS, Azure, GCP, Cloud (any), Networking",
       "score": 47,
       "needs_review": false,
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/technical-support-specialist-at-upwind-security-4377864560",
-      "first_seen_at": "2026-05-31",
+      "url": "https://il.linkedin.com/jobs/view/it-specialist-at-transmit-security-4409875183",
+      "first_seen_at": "2026-06-01",
       "is_new_today": false,
       "days_open": 11
+    },
+    {
+      "title": "IT Support Engineer",
+      "company": "Candex",
+      "location": "Ramat Gan, Tel Aviv District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Bash/Shell, AWS, Azure, GCP, Cloud (any), Troubleshooting",
+      "score": 47,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/it-support-engineer-at-candex-4410031859",
+      "first_seen_at": "2026-06-12",
+      "is_new_today": true,
+      "days_open": 0
     },
     {
       "title": "Support Engineer",
@@ -297,21 +339,7 @@
       "url": "https://il.linkedin.com/jobs/view/support-engineer-at-regatta-data-4366167298",
       "first_seen_at": "2026-05-15",
       "is_new_today": false,
-      "days_open": 27
-    },
-    {
-      "title": "Cloud Infrastructure & Technical Support Specialist",
-      "company": "The Squadron Israel - Hatayeset",
-      "location": "Ramat HaSharon, Tel Aviv District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "AWS, Cloud (any), Git, Terraform/IaC, Networking, Automation, Troubleshooting",
-      "score": 44,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/cloud-infrastructure-technical-support-specialist-at-the-squadron-israel-hatayeset-4421938671",
-      "first_seen_at": "2026-06-11",
-      "is_new_today": true,
-      "days_open": 0
+      "days_open": 28
     },
     {
       "title": "IT Support Specialist - Temporary position",
@@ -325,7 +353,7 @@
       "url": "https://il.linkedin.com/jobs/view/it-support-specialist-temporary-position-at-cato-networks-4394155925",
       "first_seen_at": "2026-05-15",
       "is_new_today": false,
-      "days_open": 27
+      "days_open": 28
     },
     {
       "title": "NOC Engineer - Intern position",
@@ -339,7 +367,7 @@
       "url": "https://il.linkedin.com/jobs/view/noc-engineer-intern-position-at-align-technology-4303646784",
       "first_seen_at": "2026-05-20",
       "is_new_today": false,
-      "days_open": 22
+      "days_open": 23
     },
     {
       "title": "Technical Support Engineer",
@@ -353,7 +381,35 @@
       "url": "https://il.linkedin.com/jobs/view/technical-support-engineer-at-bria-ai-4420446496",
       "first_seen_at": "2026-05-29",
       "is_new_today": false,
-      "days_open": 13
+      "days_open": 14
+    },
+    {
+      "title": "System Administrator",
+      "company": "CodeValue",
+      "location": "Yokneam Ilit, North District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Cloud (any), Networking, Virtualization, Active Directory, Windows Server, Troubleshooting",
+      "score": 36,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/system-administrator-at-codevalue-4421843930",
+      "first_seen_at": "2026-06-05",
+      "is_new_today": false,
+      "days_open": 7
+    },
+    {
+      "title": "NOC Operator",
+      "company": "Raft Technologies",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Python, Networking, Monitoring, Troubleshooting",
+      "score": 36,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/noc-operator-at-raft-technologies-4406458748",
+      "first_seen_at": "2026-05-15",
+      "is_new_today": false,
+      "days_open": 28
     },
     {
       "title": "AI Operations Engineer",
@@ -366,22 +422,22 @@
       "source": "linkedin",
       "url": "https://il.linkedin.com/jobs/view/ai-operations-engineer-at-droxi-4426788584",
       "first_seen_at": "2026-06-11",
-      "is_new_today": true,
-      "days_open": 0
+      "is_new_today": false,
+      "days_open": 1
     },
     {
-      "title": "Linux System Administrator",
-      "company": "comblack",
-      "location": "North District, Israel",
+      "title": "System Administrator",
+      "company": "Menora Mivtachim Group",
+      "location": "Tel Aviv District, Israel",
       "bucket": "SysAdmin / NOC",
-      "stack": "Linux, Bash/Shell, Automation, Troubleshooting",
+      "stack": "Azure, Cloud (any), Virtualization, Active Directory, Automation, Troubleshooting",
       "score": 32,
       "needs_review": false,
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/linux-system-administrator-at-comblack-4425486490",
-      "first_seen_at": "2026-06-11",
-      "is_new_today": true,
-      "days_open": 0
+      "url": "https://il.linkedin.com/jobs/view/system-administrator-at-menora-mivtachim-group-4416620227",
+      "first_seen_at": "2026-05-19",
+      "is_new_today": false,
+      "days_open": 24
     },
     {
       "title": "IT Specialist",
@@ -395,7 +451,7 @@
       "url": "https://join.jfrog.com/job/?job=7988127&gh_jid=7988127",
       "first_seen_at": "2026-06-09",
       "is_new_today": false,
-      "days_open": 2
+      "days_open": 3
     },
     {
       "title": "Helpdesk Specialist",
@@ -409,21 +465,21 @@
       "url": "https://job-boards.greenhouse.io/similarweb/jobs/7988656",
       "first_seen_at": "2026-06-09",
       "is_new_today": false,
-      "days_open": 2
+      "days_open": 3
     },
     {
-      "title": "IT Support Specialist",
-      "company": "Innoviz Technologies",
-      "location": "Rosh HaAyin, Center District, Israel",
+      "title": "Help Desk Administrator",
+      "company": "Check Point Software",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
       "bucket": "Help Desk / IT Support",
-      "stack": "Linux, Bash/Shell, Networking, Active Directory, Troubleshooting",
+      "stack": "Linux, Azure, Cloud (any), Active Directory, Troubleshooting",
       "score": 30,
       "needs_review": false,
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/it-support-specialist-at-innoviz-technologies-4407119527",
-      "first_seen_at": "2026-05-31",
-      "is_new_today": false,
-      "days_open": 11
+      "url": "https://il.linkedin.com/jobs/view/help-desk-administrator-at-check-point-software-4427626178",
+      "first_seen_at": "2026-06-12",
+      "is_new_today": true,
+      "days_open": 0
     },
     {
       "title": "Junior Network Operations Center Engineer",
@@ -437,7 +493,7 @@
       "url": "https://il.linkedin.com/jobs/view/junior-network-operations-center-engineer-at-extreme-4416668921",
       "first_seen_at": "2026-05-20",
       "is_new_today": false,
-      "days_open": 22
+      "days_open": 23
     },
     {
       "title": "IT Desktop Support Engineer (Freelance / Backfill)",
@@ -451,21 +507,7 @@
       "url": "https://il.linkedin.com/jobs/view/it-desktop-support-engineer-freelance-backfill-at-allied-worldwide-4423894444",
       "first_seen_at": "2026-06-03",
       "is_new_today": false,
-      "days_open": 8
-    },
-    {
-      "title": "AI Bootcamp Course 2",
-      "company": "abra",
-      "location": "Center District, Israel",
-      "bucket": "Trainee / Bootcamp Grad",
-      "stack": "CI/CD, Git",
-      "score": 26,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/ai-bootcamp-course-2-at-abra-4383549364",
-      "first_seen_at": "2026-05-15",
-      "is_new_today": false,
-      "days_open": 27
+      "days_open": 9
     },
     {
       "title": "NOC Operator",
@@ -479,7 +521,7 @@
       "url": "https://il.linkedin.com/jobs/view/noc-operator-at-abra-4413899531",
       "first_seen_at": "2026-05-15",
       "is_new_today": false,
-      "days_open": 27
+      "days_open": 28
     },
     {
       "title": "IT Support Specialist",
@@ -493,21 +535,7 @@
       "url": "https://il.linkedin.com/jobs/view/it-support-specialist-at-qb-systems-ltd-4418941372",
       "first_seen_at": "2026-05-26",
       "is_new_today": false,
-      "days_open": 16
-    },
-    {
-      "title": "Technical Support Engineer",
-      "company": "Navina",
-      "location": "Ramat Gan, Tel Aviv District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Python, CI/CD, Troubleshooting",
-      "score": 23,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/technical-support-engineer-at-navina-4397936369",
-      "first_seen_at": "2026-05-20",
-      "is_new_today": false,
-      "days_open": 22
+      "days_open": 17
     },
     {
       "title": "IT Service Desk Specialist",
@@ -521,7 +549,7 @@
       "url": "https://careers.appsflyer.com/jobs/position/8527726002?gh_jid=8527726002",
       "first_seen_at": "2026-05-15",
       "is_new_today": false,
-      "days_open": 27
+      "days_open": 28
     },
     {
       "title": "System Administrator (10156)",
@@ -535,7 +563,49 @@
       "url": "https://il.linkedin.com/jobs/view/system-administrator-10156-at-bynet-data-communications-4422796719",
       "first_seen_at": "2026-06-10",
       "is_new_today": false,
-      "days_open": 1
+      "days_open": 2
+    },
+    {
+      "title": "IT Specialist",
+      "company": "Riverside",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Bash/Shell, Networking, Automation, Troubleshooting",
+      "score": 20,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/it-specialist-at-riverside-4409620033",
+      "first_seen_at": "2026-05-15",
+      "is_new_today": false,
+      "days_open": 28
+    },
+    {
+      "title": "Data Center IT Technician",
+      "company": "Nebius",
+      "location": "Modiin-Maccabim-Reut, Center District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Linux, Cloud (any), Monitoring, Troubleshooting",
+      "score": 20,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/data-center-it-technician-at-nebius-4425236974",
+      "first_seen_at": "2026-06-12",
+      "is_new_today": true,
+      "days_open": 0
+    },
+    {
+      "title": "Service Desk Analyst 11am 8pm",
+      "company": "Slipstream Life Sciences",
+      "location": "Pennsylvania, Pennsylvania, United States",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Azure, Networking, Active Directory, Troubleshooting",
+      "score": 20,
+      "needs_review": false,
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-service-desk-analyst-11am-8pm-slipstream-life-sciences-1133289",
+      "first_seen_at": "2026-06-12",
+      "is_new_today": true,
+      "days_open": 0
     },
     {
       "title": "Linux Software Embedded Engineer (Junior position)",
@@ -549,7 +619,7 @@
       "url": "https://il.linkedin.com/jobs/view/linux-software-embedded-engineer-junior-position-at-mda-space-4422723139",
       "first_seen_at": "2026-06-10",
       "is_new_today": false,
-      "days_open": 1
+      "days_open": 2
     },
     {
       "title": "Strategy Analyst Student",
@@ -563,35 +633,7 @@
       "url": "https://boards.eu.greenhouse.io/nice/jobs/4854356101?gh_jid=4854356101",
       "first_seen_at": "2026-06-04",
       "is_new_today": false,
-      "days_open": 7
-    },
-    {
-      "title": "Junior IT Support Technician-Temporary 10 Months",
-      "company": "Augury",
-      "location": "Haifa District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Linux, Networking, Troubleshooting",
-      "score": 17,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/junior-it-support-technician-temporary-10-months-at-augury-4418665913",
-      "first_seen_at": "2026-05-24",
-      "is_new_today": false,
-      "days_open": 18
-    },
-    {
-      "title": "Technical Support Eng.",
-      "company": "Ultra Information Solutions",
-      "location": "Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Bash/Shell, Monitoring, Troubleshooting",
-      "score": 17,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/technical-support-eng-at-ultra-information-solutions-4412395476",
-      "first_seen_at": "2026-05-15",
-      "is_new_today": false,
-      "days_open": 27
+      "days_open": 8
     },
     {
       "title": "System Engineer IM",
@@ -605,21 +647,7 @@
       "url": "https://il.linkedin.com/jobs/view/system-engineer-im-at-nova-ltd-4413884631",
       "first_seen_at": "2026-05-15",
       "is_new_today": false,
-      "days_open": 27
-    },
-    {
-      "title": "Linux System Administrator",
-      "company": "Extreme",
-      "location": "Center District, Israel",
-      "bucket": "SysAdmin / NOC",
-      "stack": "Linux, Networking",
-      "score": 16,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/linux-system-administrator-at-extreme-4426735920",
-      "first_seen_at": "2026-06-11",
-      "is_new_today": true,
-      "days_open": 0
+      "days_open": 28
     },
     {
       "title": "Avionics Systems Engineering Student",
@@ -633,7 +661,7 @@
       "url": "https://il.linkedin.com/jobs/view/avionics-systems-engineering-student-at-elbit-systems-israel-4412574130",
       "first_seen_at": "2026-05-24",
       "is_new_today": false,
-      "days_open": 18
+      "days_open": 19
     },
     {
       "title": "Systems Engineering Student",
@@ -647,7 +675,7 @@
       "url": "https://il.linkedin.com/jobs/view/systems-engineering-student-at-elbit-systems-israel-4405545785",
       "first_seen_at": "2026-05-25",
       "is_new_today": false,
-      "days_open": 17
+      "days_open": 18
     },
     {
       "title": "Student for Strength and Dynamics Analysis team",
@@ -661,35 +689,7 @@
       "url": "https://il.linkedin.com/jobs/view/student-for-strength-and-dynamics-analysis-team-at-elbit-systems-israel-4421930557",
       "first_seen_at": "2026-06-08",
       "is_new_today": false,
-      "days_open": 3
-    },
-    {
-      "title": "Help Desk Technician",
-      "company": "Extreme",
-      "location": "Petah Tikva, Center District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Bash/Shell, Active Directory",
-      "score": 13,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/help-desk-technician-at-extreme-4426743545",
-      "first_seen_at": "2026-06-11",
-      "is_new_today": true,
-      "days_open": 0
-    },
-    {
-      "title": "טכנאי/ת Help Desk",
-      "company": "Genie",
-      "location": "Ashdod, South District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Bash/Shell, Active Directory",
-      "score": 13,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/%D7%98%D7%9B%D7%A0%D7%90%D7%99-%D7%AA-help-desk-at-genie-4427161897",
-      "first_seen_at": "2026-06-11",
-      "is_new_today": true,
-      "days_open": 0
+      "days_open": 4
     },
     {
       "title": "Help Desk Technician (IT Support Specialist)",
@@ -703,7 +703,7 @@
       "url": "https://il.linkedin.com/jobs/view/help-desk-technician-it-support-specialist-at-unilink-ltd-4426750419",
       "first_seen_at": "2026-06-10",
       "is_new_today": false,
-      "days_open": 1
+      "days_open": 2
     },
     {
       "title": "Help Desk Technician",
@@ -717,7 +717,35 @@
       "url": "https://il.linkedin.com/jobs/view/help-desk-technician-at-evoke-4418935839",
       "first_seen_at": "2026-05-25",
       "is_new_today": false,
-      "days_open": 17
+      "days_open": 18
+    },
+    {
+      "title": "טכנאי/ת Help Desk",
+      "company": "Genie",
+      "location": "Ashdod, South District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Bash/Shell, Active Directory",
+      "score": 13,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/%D7%98%D7%9B%D7%A0%D7%90%D7%99-%D7%AA-help-desk-at-genie-4427161897",
+      "first_seen_at": "2026-06-11",
+      "is_new_today": false,
+      "days_open": 1
+    },
+    {
+      "title": "Help Desk Technician",
+      "company": "Extreme",
+      "location": "Petah Tikva, Center District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Bash/Shell, Active Directory",
+      "score": 13,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/help-desk-technician-at-extreme-4426743545",
+      "first_seen_at": "2026-06-11",
+      "is_new_today": false,
+      "days_open": 1
     },
     {
       "title": "Technical Support Specialist",
@@ -731,7 +759,7 @@
       "url": "https://il.linkedin.com/jobs/view/technical-support-specialist-at-intezer-4417050672",
       "first_seen_at": "2026-05-20",
       "is_new_today": false,
-      "days_open": 22
+      "days_open": 23
     },
     {
       "title": "System Engineer",
@@ -745,7 +773,7 @@
       "url": "https://il.linkedin.com/jobs/view/system-engineer-at-iai-israel-aerospace-industries-4418381305",
       "first_seen_at": "2026-06-01",
       "is_new_today": false,
-      "days_open": 10
+      "days_open": 11
     },
     {
       "title": "ProdOps & Support Engineer",
@@ -759,7 +787,7 @@
       "url": "https://job-boards.eu.greenhouse.io/optimove/jobs/4865066101",
       "first_seen_at": "2026-05-24",
       "is_new_today": false,
-      "days_open": 18
+      "days_open": 19
     },
     {
       "title": "Technical Support Engineer",
@@ -772,6 +800,20 @@
       "source": "greenhouse",
       "url": "https://job-boards.eu.greenhouse.io/optimove/jobs/4841210101",
       "first_seen_at": "2026-05-24",
+      "is_new_today": false,
+      "days_open": 19
+    },
+    {
+      "title": "IT Technician",
+      "company": "GlassesUSA.com",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Monitoring, Active Directory, Troubleshooting",
+      "score": 10,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/it-technician-at-glassesusa-com-4400413150",
+      "first_seen_at": "2026-05-25",
       "is_new_today": false,
       "days_open": 18
     },
@@ -787,63 +829,35 @@
       "url": "https://il.linkedin.com/jobs/view/it-specialist-at-realplay-4415648752",
       "first_seen_at": "2026-05-24",
       "is_new_today": false,
-      "days_open": 18
+      "days_open": 19
     },
     {
-      "title": "Help Desk Technician",
-      "company": "AudioCodes",
-      "location": "Or Yehuda, Tel Aviv District, Israel",
+      "title": "NOC & IT Support Specialist",
+      "company": "Unilink Ltd.",
+      "location": "Haifa, Haifa District, Israel",
       "bucket": "Help Desk / IT Support",
-      "stack": "Active Directory, Troubleshooting",
-      "score": 6,
+      "stack": "Monitoring, Active Directory, Troubleshooting",
+      "score": 10,
       "needs_review": false,
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/help-desk-technician-at-audiocodes-4395665709",
+      "url": "https://il.linkedin.com/jobs/view/noc-it-support-specialist-at-unilink-ltd-4427557293",
+      "first_seen_at": "2026-06-12",
+      "is_new_today": true,
+      "days_open": 0
+    },
+    {
+      "title": "System Administrator – WMS | עולם הלוגיסטיקה",
+      "company": "Beth-El Industries Ltd.",
+      "location": "Zikhron Yaakov, Haifa District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Monitoring, Troubleshooting",
+      "score": 8,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/system-administrator-%E2%80%93-wms-%D7%A2%D7%95%D7%9C%D7%9D-%D7%94%D7%9C%D7%95%D7%92%D7%99%D7%A1%D7%98%D7%99%D7%A7%D7%94-at-beth-el-industries-ltd-4353742304",
       "first_seen_at": "2026-05-24",
       "is_new_today": false,
-      "days_open": 18
-    },
-    {
-      "title": "Help Desk Technician - junior",
-      "company": "Mornex",
-      "location": "Hadera, Haifa District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Cloud (any), Automation",
-      "score": 6,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/help-desk-technician-junior-at-mornex-4416807351",
-      "first_seen_at": "2026-05-27",
-      "is_new_today": false,
-      "days_open": 15
-    },
-    {
-      "title": "Technical Support Specialist",
-      "company": "abra",
-      "location": "Center District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Monitoring, Troubleshooting",
-      "score": 6,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/technical-support-specialist-at-abra-4423876931",
-      "first_seen_at": "2026-06-03",
-      "is_new_today": false,
-      "days_open": 8
-    },
-    {
-      "title": "Help Desk- Parental Leave Replacement",
-      "company": "Pagaya",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Networking, Troubleshooting",
-      "score": 6,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/help-desk-parental-leave-replacement-at-pagaya-4418669487",
-      "first_seen_at": "2026-05-25",
-      "is_new_today": false,
-      "days_open": 17
+      "days_open": 19
     },
     {
       "title": "Help Desk",
@@ -857,21 +871,7 @@
       "url": "https://il.linkedin.com/jobs/view/help-desk-at-abra-4425017778",
       "first_seen_at": "2026-06-08",
       "is_new_today": false,
-      "days_open": 3
-    },
-    {
-      "title": "L2 Desktop Support Engineer - IL",
-      "company": "Excis Compliance",
-      "location": "Shoham, Center District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Active Directory, Troubleshooting",
-      "score": 6,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/l2-desktop-support-engineer-il-at-excis-compliance-4413448976",
-      "first_seen_at": "2026-05-24",
-      "is_new_today": false,
-      "days_open": 18
+      "days_open": 4
     },
     {
       "title": "Help Desk Specialist",
@@ -885,7 +885,7 @@
       "url": "https://il.linkedin.com/jobs/view/help-desk-specialist-at-sqlink-group-4422293340",
       "first_seen_at": "2026-06-10",
       "is_new_today": false,
-      "days_open": 1
+      "days_open": 2
     },
     {
       "title": "Help Desk - 239819",
@@ -899,7 +899,91 @@
       "url": "https://il.linkedin.com/jobs/view/help-desk-239819-at-experis-israel-4415278349",
       "first_seen_at": "2026-05-26",
       "is_new_today": false,
+      "days_open": 17
+    },
+    {
+      "title": "Help Desk Technician - junior",
+      "company": "Mornex",
+      "location": "Hadera, Haifa District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Cloud (any), Automation",
+      "score": 6,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/help-desk-technician-junior-at-mornex-4416807351",
+      "first_seen_at": "2026-05-27",
+      "is_new_today": false,
       "days_open": 16
+    },
+    {
+      "title": "Help Desk- Parental Leave Replacement",
+      "company": "Pagaya",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Networking, Troubleshooting",
+      "score": 6,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/help-desk-parental-leave-replacement-at-pagaya-4418669487",
+      "first_seen_at": "2026-05-25",
+      "is_new_today": false,
+      "days_open": 18
+    },
+    {
+      "title": "L2 Desktop Support Engineer - IL",
+      "company": "Excis Compliance",
+      "location": "Shoham, Center District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Active Directory, Troubleshooting",
+      "score": 6,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/l2-desktop-support-engineer-il-at-excis-compliance-4413448976",
+      "first_seen_at": "2026-05-24",
+      "is_new_today": false,
+      "days_open": 19
+    },
+    {
+      "title": "IT Helpdesk",
+      "company": "WSC Sports",
+      "location": "Ramat Gan, Tel Aviv District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Networking, Troubleshooting",
+      "score": 6,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/it-helpdesk-at-wsc-sports-4415703367",
+      "first_seen_at": "2026-05-31",
+      "is_new_today": false,
+      "days_open": 12
+    },
+    {
+      "title": "Technical Support Specialist",
+      "company": "abra",
+      "location": "Center District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Monitoring, Troubleshooting",
+      "score": 6,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/technical-support-specialist-at-abra-4423876931",
+      "first_seen_at": "2026-06-03",
+      "is_new_today": false,
+      "days_open": 9
+    },
+    {
+      "title": "Help Desk Technician",
+      "company": "AudioCodes",
+      "location": "Or Yehuda, Tel Aviv District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Active Directory, Troubleshooting",
+      "score": 6,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/help-desk-technician-at-audiocodes-4395665709",
+      "first_seen_at": "2026-05-24",
+      "is_new_today": false,
+      "days_open": 19
     },
     {
       "title": "IT Specialist (Part time )",
@@ -913,7 +997,7 @@
       "url": "https://il.linkedin.com/jobs/view/it-specialist-part-time-at-nuvei-4421067573",
       "first_seen_at": "2026-05-29",
       "is_new_today": false,
-      "days_open": 13
+      "days_open": 14
     },
     {
       "title": "Technical Support Agent",
@@ -927,7 +1011,7 @@
       "url": "https://il.linkedin.com/jobs/view/technical-support-agent-at-dragontail-systems-4422278367",
       "first_seen_at": "2026-06-10",
       "is_new_today": false,
-      "days_open": 1
+      "days_open": 2
     },
     {
       "title": "Technical Support Representative (Full-Time, On-Site | Be’er Sheva – Gav Yam Park)",
@@ -941,21 +1025,21 @@
       "url": "https://il.linkedin.com/jobs/view/technical-support-representative-full-time-on-site-be%E2%80%99er-sheva-%E2%80%93-gav-yam-park-at-site123-4419228442",
       "first_seen_at": "2026-06-02",
       "is_new_today": false,
-      "days_open": 9
+      "days_open": 10
     },
     {
-      "title": "Technical Service Specialist - Tier 1",
-      "company": "SolarEdge Technologies",
-      "location": "Herzliya, Tel Aviv District, Israel",
+      "title": "Technical Support Engineer",
+      "company": "Heyy",
+      "location": "Tel Aviv District, Israel",
       "bucket": "Help Desk / IT Support",
-      "stack": "Monitoring, Troubleshooting",
+      "stack": "Automation, Troubleshooting",
       "score": 6,
       "needs_review": false,
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/technical-service-specialist-tier-1-at-solaredge-technologies-4408365748",
-      "first_seen_at": "2026-05-26",
-      "is_new_today": false,
-      "days_open": 16
+      "url": "https://il.linkedin.com/jobs/view/technical-support-engineer-at-heyy-4423690488",
+      "first_seen_at": "2026-06-12",
+      "is_new_today": true,
+      "days_open": 0
     },
     {
       "title": "IT Operations Specialist",
@@ -969,7 +1053,7 @@
       "url": "https://unity.com/careers/positions/7860478?gh_jid=7860478",
       "first_seen_at": "2026-05-28",
       "is_new_today": false,
-      "days_open": 14
+      "days_open": 15
     },
     {
       "title": "AI/Systems Engineer: Offensive Cybersecurity",
@@ -983,7 +1067,21 @@
       "url": "https://il.linkedin.com/jobs/view/ai-systems-engineer-offensive-cybersecurity-at-ur-tech-jobs-4425560386",
       "first_seen_at": "2026-06-09",
       "is_new_today": false,
-      "days_open": 2
+      "days_open": 3
+    },
+    {
+      "title": "NOC Analyst (Student Position)",
+      "company": "Confidential",
+      "location": "Tel Aviv District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Networking",
+      "score": 4,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/noc-analyst-student-position-at-confidential-4423670353",
+      "first_seen_at": "2026-06-12",
+      "is_new_today": true,
+      "days_open": 0
     },
     {
       "title": "IT Operations Specialist",
@@ -996,8 +1094,8 @@
       "source": "linkedin",
       "url": "https://il.linkedin.com/jobs/view/it-operations-specialist-at-unity-south-apac-sea-anz-ind-subcont-4423614421",
       "first_seen_at": "2026-06-11",
-      "is_new_today": true,
-      "days_open": 0
+      "is_new_today": false,
+      "days_open": 1
     },
     {
       "title": "IT Operations Specialist",
@@ -1011,7 +1109,7 @@
       "url": "https://il.linkedin.com/jobs/view/it-operations-specialist-at-unity-4419979615",
       "first_seen_at": "2026-05-28",
       "is_new_today": false,
-      "days_open": 14
+      "days_open": 15
     },
     {
       "title": "Developer Support Engineer",
@@ -1025,7 +1123,21 @@
       "url": "https://unity.com/careers/positions/7543658?gh_jid=7543658",
       "first_seen_at": "2026-05-24",
       "is_new_today": false,
-      "days_open": 18
+      "days_open": 19
+    },
+    {
+      "title": "Help Desk",
+      "company": "comblack",
+      "location": "Center District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Troubleshooting",
+      "score": 3,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/help-desk-at-comblack-4427538425",
+      "first_seen_at": "2026-06-12",
+      "is_new_today": true,
+      "days_open": 0
     },
     {
       "title": "Information Technology Help Desk",
@@ -1039,7 +1151,21 @@
       "url": "https://il.linkedin.com/jobs/view/information-technology-help-desk-at-neotech-israel-%D7%A0%D7%99%D7%90%D7%95%D7%98%D7%A7-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-4414860456",
       "first_seen_at": "2026-05-25",
       "is_new_today": false,
-      "days_open": 17
+      "days_open": 18
+    },
+    {
+      "title": "Technical Support Tier 2",
+      "company": "GNESS",
+      "location": "Yavne, Center District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Troubleshooting",
+      "score": 3,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/technical-support-tier-2-at-gness-4426023923",
+      "first_seen_at": "2026-06-10",
+      "is_new_today": false,
+      "days_open": 2
     },
     {
       "title": "IT Support Specialist",
@@ -1053,7 +1179,7 @@
       "url": "https://il.linkedin.com/jobs/view/it-support-specialist-at-oktopost-4425470752",
       "first_seen_at": "2026-06-09",
       "is_new_today": false,
-      "days_open": 2
+      "days_open": 3
     },
     {
       "title": "Technical Support Engineer",
@@ -1067,21 +1193,21 @@
       "url": "https://il.linkedin.com/jobs/view/technical-support-engineer-at-walkme-4374713618",
       "first_seen_at": "2026-05-24",
       "is_new_today": false,
-      "days_open": 18
+      "days_open": 19
     },
     {
-      "title": "Technical Support Specialist",
-      "company": "M.D. Mechanical Devices Ltd.",
-      "location": "Haifa, Haifa District, Israel",
+      "title": "Junior Technical Support & Systems Operations Specialist- position no. 1601",
+      "company": "IBI Investment House",
+      "location": "Tel Aviv District, Israel",
       "bucket": "Help Desk / IT Support",
-      "stack": "Troubleshooting",
+      "stack": "Monitoring",
       "score": 3,
       "needs_review": false,
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/technical-support-specialist-at-m-d-mechanical-devices-ltd-4420118096",
-      "first_seen_at": "2026-06-04",
-      "is_new_today": false,
-      "days_open": 7
+      "url": "https://il.linkedin.com/jobs/view/junior-technical-support-systems-operations-specialist-position-no-1601-at-ibi-investment-house-4423609880",
+      "first_seen_at": "2026-06-12",
+      "is_new_today": true,
+      "days_open": 0
     },
     {
       "title": "Technical Support Engineer",
@@ -1095,49 +1221,21 @@
       "url": "https://il.linkedin.com/jobs/view/technical-support-engineer-at-fireberry-4415491964",
       "first_seen_at": "2026-05-24",
       "is_new_today": false,
-      "days_open": 18
+      "days_open": 19
     },
     {
-      "title": "Developer Support Engineer",
-      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "title": "Technical Support Specialist",
+      "company": "M.D. Mechanical Devices Ltd.",
+      "location": "Haifa, Haifa District, Israel",
       "bucket": "Help Desk / IT Support",
       "stack": "Troubleshooting",
       "score": 3,
       "needs_review": false,
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/developer-support-engineer-at-unity-south-apac-sea-anz-ind-subcont-4390170199",
-      "first_seen_at": "2026-05-25",
+      "url": "https://il.linkedin.com/jobs/view/technical-support-specialist-at-m-d-mechanical-devices-ltd-4420118096",
+      "first_seen_at": "2026-06-04",
       "is_new_today": false,
-      "days_open": 17
-    },
-    {
-      "title": "Support Engineer",
-      "company": "Unframe",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Troubleshooting",
-      "score": 3,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/support-engineer-at-unframe-4425465742",
-      "first_seen_at": "2026-06-10",
-      "is_new_today": false,
-      "days_open": 1
-    },
-    {
-      "title": "Developer Support Engineer",
-      "company": "Unity",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Troubleshooting",
-      "score": 3,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/developer-support-engineer-at-unity-4417759260",
-      "first_seen_at": "2026-05-25",
-      "is_new_today": false,
-      "days_open": 17
+      "days_open": 8
     },
     {
       "title": "System Engineering Student",
@@ -1151,117 +1249,123 @@
       "url": "https://il.linkedin.com/jobs/view/system-engineering-student-at-elbit-systems-israel-4414854587",
       "first_seen_at": "2026-05-25",
       "is_new_today": false,
-      "days_open": 17
-    },
-    {
-      "title": "Programa Trainee 2026",
-      "company": "Universia Argentina",
-      "location": "San Isidro, San Isidro, Provincia de Buenos Aires, Argentina",
-      "bucket": "Trainee / Bootcamp Grad",
-      "stack": "",
-      "score": 0,
-      "needs_review": false,
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-programa-trainee-2026-universia-argentina-1133156",
-      "first_seen_at": "2026-06-11",
-      "is_new_today": true,
-      "days_open": 0
+      "days_open": 18
     }
   ],
   "new_in_last_24h": [
     {
-      "title": "Junior IT / Cloud Specialist - 235226",
-      "company": "Experis Israel",
-      "location": "Haifa, Haifa District, Israel",
-      "bucket": "Junior SRE / Cloud / Platform",
-      "stack": "Linux, Bash/Shell, AWS, Azure, Cloud (any), Networking, Monitoring, Troubleshooting",
-      "score": 83,
-      "url": "https://il.linkedin.com/jobs/view/junior-it-cloud-specialist-235226-at-experis-israel-4423620429",
-      "first_seen_at": "2026-06-11"
-    },
-    {
-      "title": "Cloud Infrastructure & Technical Support Specialist",
-      "company": "The Squadron Israel - Hatayeset",
-      "location": "Ramat HaSharon, Tel Aviv District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "AWS, Cloud (any), Git, Terraform/IaC, Networking, Automation, Troubleshooting",
-      "score": 44,
-      "url": "https://il.linkedin.com/jobs/view/cloud-infrastructure-technical-support-specialist-at-the-squadron-israel-hatayeset-4421938671",
-      "first_seen_at": "2026-06-11"
-    },
-    {
-      "title": "AI Operations Engineer",
-      "company": "Droxi",
-      "location": "Ramat Gan, Tel Aviv District, Israel",
-      "bucket": "SysAdmin / NOC",
-      "stack": "Python, Bash/Shell, Monitoring, Automation",
-      "score": 32,
-      "url": "https://il.linkedin.com/jobs/view/ai-operations-engineer-at-droxi-4426788584",
-      "first_seen_at": "2026-06-11"
-    },
-    {
-      "title": "Linux System Administrator",
-      "company": "comblack",
-      "location": "North District, Israel",
-      "bucket": "SysAdmin / NOC",
-      "stack": "Linux, Bash/Shell, Automation, Troubleshooting",
-      "score": 32,
-      "url": "https://il.linkedin.com/jobs/view/linux-system-administrator-at-comblack-4425486490",
-      "first_seen_at": "2026-06-11"
-    },
-    {
-      "title": "Linux System Administrator",
-      "company": "Extreme",
-      "location": "Center District, Israel",
-      "bucket": "SysAdmin / NOC",
-      "stack": "Linux, Networking",
-      "score": 16,
-      "url": "https://il.linkedin.com/jobs/view/linux-system-administrator-at-extreme-4426735920",
-      "first_seen_at": "2026-06-11"
-    },
-    {
-      "title": "Help Desk Technician",
-      "company": "Extreme",
-      "location": "Petah Tikva, Center District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Bash/Shell, Active Directory",
-      "score": 13,
-      "url": "https://il.linkedin.com/jobs/view/help-desk-technician-at-extreme-4426743545",
-      "first_seen_at": "2026-06-11"
-    },
-    {
-      "title": "טכנאי/ת Help Desk",
-      "company": "Genie",
-      "location": "Ashdod, South District, Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Bash/Shell, Active Directory",
-      "score": 13,
-      "url": "https://il.linkedin.com/jobs/view/%D7%98%D7%9B%D7%A0%D7%90%D7%99-%D7%AA-help-desk-at-genie-4427161897",
-      "first_seen_at": "2026-06-11"
-    },
-    {
-      "title": "IT Operations Specialist",
-      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
+      "title": "System Engineer",
+      "company": "Paragon",
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
       "bucket": "SysAdmin / NOC",
-      "stack": "Troubleshooting",
-      "score": 4,
-      "url": "https://il.linkedin.com/jobs/view/it-operations-specialist-at-unity-south-apac-sea-anz-ind-subcont-4423614421",
-      "first_seen_at": "2026-06-11"
+      "stack": "Linux, Python, Bash/Shell, AWS, GCP, Cloud (any), Docker, Kubernetes, Git, Terraform/IaC, Networking, Monitoring, Virtualization, Active Directory, Automation, Troubleshooting",
+      "score": 100,
+      "url": "https://il.linkedin.com/jobs/view/system-engineer-at-paragon-4425617619",
+      "first_seen_at": "2026-06-12"
     },
     {
-      "title": "Programa Trainee 2026",
-      "company": "Universia Argentina",
-      "location": "San Isidro, San Isidro, Provincia de Buenos Aires, Argentina",
-      "bucket": "Trainee / Bootcamp Grad",
-      "stack": "",
-      "score": 0,
-      "url": "https://remoteOK.com/remote-jobs/remote-programa-trainee-2026-universia-argentina-1133156",
-      "first_seen_at": "2026-06-11"
+      "title": "IT Support Engineer",
+      "company": "Candex",
+      "location": "Ramat Gan, Tel Aviv District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Bash/Shell, AWS, Azure, GCP, Cloud (any), Troubleshooting",
+      "score": 47,
+      "url": "https://il.linkedin.com/jobs/view/it-support-engineer-at-candex-4410031859",
+      "first_seen_at": "2026-06-12"
+    },
+    {
+      "title": "Help Desk Administrator",
+      "company": "Check Point Software",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Linux, Azure, Cloud (any), Active Directory, Troubleshooting",
+      "score": 30,
+      "url": "https://il.linkedin.com/jobs/view/help-desk-administrator-at-check-point-software-4427626178",
+      "first_seen_at": "2026-06-12"
+    },
+    {
+      "title": "Data Center IT Technician",
+      "company": "Nebius",
+      "location": "Modiin-Maccabim-Reut, Center District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Linux, Cloud (any), Monitoring, Troubleshooting",
+      "score": 20,
+      "url": "https://il.linkedin.com/jobs/view/data-center-it-technician-at-nebius-4425236974",
+      "first_seen_at": "2026-06-12"
+    },
+    {
+      "title": "Service Desk Analyst 11am 8pm",
+      "company": "Slipstream Life Sciences",
+      "location": "Pennsylvania, Pennsylvania, United States",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Azure, Networking, Active Directory, Troubleshooting",
+      "score": 20,
+      "url": "https://remoteOK.com/remote-jobs/remote-service-desk-analyst-11am-8pm-slipstream-life-sciences-1133289",
+      "first_seen_at": "2026-06-12"
+    },
+    {
+      "title": "NOC & IT Support Specialist",
+      "company": "Unilink Ltd.",
+      "location": "Haifa, Haifa District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Monitoring, Active Directory, Troubleshooting",
+      "score": 10,
+      "url": "https://il.linkedin.com/jobs/view/noc-it-support-specialist-at-unilink-ltd-4427557293",
+      "first_seen_at": "2026-06-12"
+    },
+    {
+      "title": "Technical Support Engineer",
+      "company": "Heyy",
+      "location": "Tel Aviv District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Automation, Troubleshooting",
+      "score": 6,
+      "url": "https://il.linkedin.com/jobs/view/technical-support-engineer-at-heyy-4423690488",
+      "first_seen_at": "2026-06-12"
+    },
+    {
+      "title": "NOC Analyst (Student Position)",
+      "company": "Confidential",
+      "location": "Tel Aviv District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Networking",
+      "score": 4,
+      "url": "https://il.linkedin.com/jobs/view/noc-analyst-student-position-at-confidential-4423670353",
+      "first_seen_at": "2026-06-12"
+    },
+    {
+      "title": "Help Desk",
+      "company": "comblack",
+      "location": "Center District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Troubleshooting",
+      "score": 3,
+      "url": "https://il.linkedin.com/jobs/view/help-desk-at-comblack-4427538425",
+      "first_seen_at": "2026-06-12"
+    },
+    {
+      "title": "Junior Technical Support & Systems Operations Specialist- position no. 1601",
+      "company": "IBI Investment House",
+      "location": "Tel Aviv District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Monitoring",
+      "score": 3,
+      "url": "https://il.linkedin.com/jobs/view/junior-technical-support-systems-operations-specialist-position-no-1601-at-ibi-investment-house-4423609880",
+      "first_seen_at": "2026-06-12"
     }
   ],
   "new_in_last_7d": [
     {
+      "title": "System Engineer",
+      "company": "Paragon",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Python, Bash/Shell, AWS, GCP, Cloud (any), Docker, Kubernetes, Git, Terraform/IaC, Networking, Monitoring, Virtualization, Active Directory, Automation, Troubleshooting",
+      "score": 100,
+      "url": "https://il.linkedin.com/jobs/view/system-engineer-at-paragon-4425617619",
+      "first_seen_at": "2026-06-12"
+    },
+    {
       "title": "Junior IT / Cloud Specialist - 235226",
       "company": "Experis Israel",
       "location": "Haifa, Haifa District, Israel",
@@ -1272,14 +1376,14 @@
       "first_seen_at": "2026-06-11"
     },
     {
-      "title": "Cloud Infrastructure & Technical Support Specialist",
-      "company": "The Squadron Israel - Hatayeset",
-      "location": "Ramat HaSharon, Tel Aviv District, Israel",
+      "title": "IT Support Engineer",
+      "company": "Candex",
+      "location": "Ramat Gan, Tel Aviv District, Israel",
       "bucket": "Help Desk / IT Support",
-      "stack": "AWS, Cloud (any), Git, Terraform/IaC, Networking, Automation, Troubleshooting",
-      "score": 44,
-      "url": "https://il.linkedin.com/jobs/view/cloud-infrastructure-technical-support-specialist-at-the-squadron-israel-hatayeset-4421938671",
-      "first_seen_at": "2026-06-11"
+      "stack": "Bash/Shell, AWS, Azure, GCP, Cloud (any), Troubleshooting",
+      "score": 47,
+      "url": "https://il.linkedin.com/jobs/view/it-support-engineer-at-candex-4410031859",
+      "first_seen_at": "2026-06-12"
     },
     {
       "title": "AI Operations Engineer",
@@ -1289,16 +1393,6 @@
       "stack": "Python, Bash/Shell, Monitoring, Automation",
       "score": 32,
       "url": "https://il.linkedin.com/jobs/view/ai-operations-engineer-at-droxi-4426788584",
-      "first_seen_at": "2026-06-11"
-    },
-    {
-      "title": "Linux System Administrator",
-      "company": "comblack",
-      "location": "North District, Israel",
-      "bucket": "SysAdmin / NOC",
-      "stack": "Linux, Bash/Shell, Automation, Troubleshooting",
-      "score": 32,
-      "url": "https://il.linkedin.com/jobs/view/linux-system-administrator-at-comblack-4425486490",
       "first_seen_at": "2026-06-11"
     },
     {
@@ -1322,6 +1416,16 @@
       "first_seen_at": "2026-06-09"
     },
     {
+      "title": "Help Desk Administrator",
+      "company": "Check Point Software",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Linux, Azure, Cloud (any), Active Directory, Troubleshooting",
+      "score": 30,
+      "url": "https://il.linkedin.com/jobs/view/help-desk-administrator-at-check-point-software-4427626178",
+      "first_seen_at": "2026-06-12"
+    },
+    {
       "title": "System Administrator (10156)",
       "company": "Bynet Data Communications",
       "location": "Center District, Israel",
@@ -1330,6 +1434,26 @@
       "score": 20,
       "url": "https://il.linkedin.com/jobs/view/system-administrator-10156-at-bynet-data-communications-4422796719",
       "first_seen_at": "2026-06-10"
+    },
+    {
+      "title": "Data Center IT Technician",
+      "company": "Nebius",
+      "location": "Modiin-Maccabim-Reut, Center District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Linux, Cloud (any), Monitoring, Troubleshooting",
+      "score": 20,
+      "url": "https://il.linkedin.com/jobs/view/data-center-it-technician-at-nebius-4425236974",
+      "first_seen_at": "2026-06-12"
+    },
+    {
+      "title": "Service Desk Analyst 11am 8pm",
+      "company": "Slipstream Life Sciences",
+      "location": "Pennsylvania, Pennsylvania, United States",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Azure, Networking, Active Directory, Troubleshooting",
+      "score": 20,
+      "url": "https://remoteOK.com/remote-jobs/remote-service-desk-analyst-11am-8pm-slipstream-life-sciences-1133289",
+      "first_seen_at": "2026-06-12"
     },
     {
       "title": "Linux Software Embedded Engineer (Junior position)",
@@ -1342,16 +1466,6 @@
       "first_seen_at": "2026-06-10"
     },
     {
-      "title": "Linux System Administrator",
-      "company": "Extreme",
-      "location": "Center District, Israel",
-      "bucket": "SysAdmin / NOC",
-      "stack": "Linux, Networking",
-      "score": 16,
-      "url": "https://il.linkedin.com/jobs/view/linux-system-administrator-at-extreme-4426735920",
-      "first_seen_at": "2026-06-11"
-    },
-    {
       "title": "Student for Strength and Dynamics Analysis team",
       "company": "Elbit Systems Israel",
       "location": "Haifa District, Israel",
@@ -1362,14 +1476,14 @@
       "first_seen_at": "2026-06-08"
     },
     {
-      "title": "Help Desk Technician",
-      "company": "Extreme",
-      "location": "Petah Tikva, Center District, Israel",
+      "title": "Help Desk Technician (IT Support Specialist)",
+      "company": "Unilink Ltd.",
+      "location": "Tel Aviv District, Israel",
       "bucket": "Help Desk / IT Support",
-      "stack": "Bash/Shell, Active Directory",
+      "stack": "Cloud (any), Networking, Active Directory, Troubleshooting",
       "score": 13,
-      "url": "https://il.linkedin.com/jobs/view/help-desk-technician-at-extreme-4426743545",
-      "first_seen_at": "2026-06-11"
+      "url": "https://il.linkedin.com/jobs/view/help-desk-technician-it-support-specialist-at-unilink-ltd-4426750419",
+      "first_seen_at": "2026-06-10"
     },
     {
       "title": "טכנאי/ת Help Desk",
@@ -1382,14 +1496,24 @@
       "first_seen_at": "2026-06-11"
     },
     {
-      "title": "Help Desk Technician (IT Support Specialist)",
-      "company": "Unilink Ltd.",
-      "location": "Tel Aviv District, Israel",
+      "title": "Help Desk Technician",
+      "company": "Extreme",
+      "location": "Petah Tikva, Center District, Israel",
       "bucket": "Help Desk / IT Support",
-      "stack": "Cloud (any), Networking, Active Directory, Troubleshooting",
+      "stack": "Bash/Shell, Active Directory",
       "score": 13,
-      "url": "https://il.linkedin.com/jobs/view/help-desk-technician-it-support-specialist-at-unilink-ltd-4426750419",
-      "first_seen_at": "2026-06-10"
+      "url": "https://il.linkedin.com/jobs/view/help-desk-technician-at-extreme-4426743545",
+      "first_seen_at": "2026-06-11"
+    },
+    {
+      "title": "NOC & IT Support Specialist",
+      "company": "Unilink Ltd.",
+      "location": "Haifa, Haifa District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Monitoring, Active Directory, Troubleshooting",
+      "score": 10,
+      "url": "https://il.linkedin.com/jobs/view/noc-it-support-specialist-at-unilink-ltd-4427557293",
+      "first_seen_at": "2026-06-12"
     },
     {
       "title": "Help Desk",
@@ -1422,6 +1546,16 @@
       "first_seen_at": "2026-06-10"
     },
     {
+      "title": "Technical Support Engineer",
+      "company": "Heyy",
+      "location": "Tel Aviv District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Automation, Troubleshooting",
+      "score": 6,
+      "url": "https://il.linkedin.com/jobs/view/technical-support-engineer-at-heyy-4423690488",
+      "first_seen_at": "2026-06-12"
+    },
+    {
       "title": "AI/Systems Engineer: Offensive Cybersecurity",
       "company": "UR Tech Jobs",
       "location": "Israel",
@@ -1430,6 +1564,16 @@
       "score": 4,
       "url": "https://il.linkedin.com/jobs/view/ai-systems-engineer-offensive-cybersecurity-at-ur-tech-jobs-4425560386",
       "first_seen_at": "2026-06-09"
+    },
+    {
+      "title": "NOC Analyst (Student Position)",
+      "company": "Confidential",
+      "location": "Tel Aviv District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Networking",
+      "score": 4,
+      "url": "https://il.linkedin.com/jobs/view/noc-analyst-student-position-at-confidential-4423670353",
+      "first_seen_at": "2026-06-12"
     },
     {
       "title": "IT Operations Specialist",
@@ -1442,6 +1586,26 @@
       "first_seen_at": "2026-06-11"
     },
     {
+      "title": "Help Desk",
+      "company": "comblack",
+      "location": "Center District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Troubleshooting",
+      "score": 3,
+      "url": "https://il.linkedin.com/jobs/view/help-desk-at-comblack-4427538425",
+      "first_seen_at": "2026-06-12"
+    },
+    {
+      "title": "Technical Support Tier 2",
+      "company": "GNESS",
+      "location": "Yavne, Center District, Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "Troubleshooting",
+      "score": 3,
+      "url": "https://il.linkedin.com/jobs/view/technical-support-tier-2-at-gness-4426023923",
+      "first_seen_at": "2026-06-10"
+    },
+    {
       "title": "IT Support Specialist",
       "company": "Oktopost",
       "location": "Ramat Gan, Tel Aviv District, Israel",
@@ -1452,24 +1616,14 @@
       "first_seen_at": "2026-06-09"
     },
     {
-      "title": "Support Engineer",
-      "company": "Unframe",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "title": "Junior Technical Support & Systems Operations Specialist- position no. 1601",
+      "company": "IBI Investment House",
+      "location": "Tel Aviv District, Israel",
       "bucket": "Help Desk / IT Support",
-      "stack": "Troubleshooting",
+      "stack": "Monitoring",
       "score": 3,
-      "url": "https://il.linkedin.com/jobs/view/support-engineer-at-unframe-4425465742",
-      "first_seen_at": "2026-06-10"
-    },
-    {
-      "title": "Programa Trainee 2026",
-      "company": "Universia Argentina",
-      "location": "San Isidro, San Isidro, Provincia de Buenos Aires, Argentina",
-      "bucket": "Trainee / Bootcamp Grad",
-      "stack": "",
-      "score": 0,
-      "url": "https://remoteOK.com/remote-jobs/remote-programa-trainee-2026-universia-argentina-1133156",
-      "first_seen_at": "2026-06-11"
+      "url": "https://il.linkedin.com/jobs/view/junior-technical-support-systems-operations-specialist-position-no-1601-at-ibi-investment-house-4423609880",
+      "first_seen_at": "2026-06-12"
     }
   ]
 }
