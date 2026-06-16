@@ -2,15 +2,15 @@
 
 I track every open DevOps / SRE / Platform Engineering / Cloud role in Israel and publish the data publicly. Here's what this week looks like:
 
-📊 121 open roles across major Israeli tech companies + global boards
-👥 1 of those (0.8%) are junior-friendly
-📈 +10 jobs vs last week (+9.0%)
+📊 119 open roles across major Israeli tech companies + global boards
+👥 2 of those (1.7%) are junior-friendly
+📈 +8 jobs vs last week (+7.2%)
 
 🔥 Most-demanded skills:
-Security • AWS • CI/CD • Kubernetes • GCP
+Security • AWS • CI/CD • Kubernetes • Azure
 
 🏢 Top hiring companies:
-Nice, Torq, Jfrog, Gongio, Elbit Systems Israel
+Nice, Jfrog, Torq, Gongio, NVIDIA
 
 Why I do this: I mentor 600+ DevOps engineers in @FlipTheScript and they kept asking "what should I learn?" and "who's hiring juniors?" Instead of guessing, I built an automated platform that answers those questions every Sunday — with real data.
 
