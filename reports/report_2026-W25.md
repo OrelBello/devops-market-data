@@ -1,62 +1,61 @@
 # Israeli DevOps Job Market Report — 2026-W25
 
-_Generated June 17, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated June 18, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 ## Executive Summary
 
-We tracked **110 open DevOps / SRE / Platform / Cloud roles** in Israel this week
-across 2 sources. **1 of those (0.9%)
+We tracked **124 open DevOps / SRE / Platform / Cloud roles** in Israel this week
+across 2 sources. **3 of those (2.4%)
 are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Week-over-Week Trends
 
-📉 **Total jobs**: -1 (-0.9%) vs 2026-W24
-📊 **Junior % change**: +0.0 pp
+📈 **Total jobs**: +13 (+11.7%) vs 2026-W24
+📊 **Junior % change**: +1.5 pp
 
 **Rising skills:**
-- Linux: 9 → 10 (+1)
+- Linux: 9 → 12 (+3)
+- Kubernetes: 23 → 25 (+2)
 
 **Falling skills:**
-- Python: 17 → 16 (-1)
-- Security: 29 → 28 (-1)
-- Networking: 11 → 10 (-1)
 - AI/MLOps: 7 → 6 (-1)
 - Observability: 19 → 18 (-1)
+- Networking: 11 → 10 (-1)
 
-**New companies in top 15:** Planck, Sunbit, Radware, BMC Software, Wiz (part of Google Cloud)
+**New companies in top 15:** Taboola, CodeValue, Planck, Gotfriends
 
 ## Top 10 In-Demand Skills
 
-1. **Security** — 28 mentions
+1. **Security** — 29 mentions
 2. **AWS** — 27 mentions
 3. **CI/CD** — 26 mentions
-4. **Kubernetes** — 23 mentions
+4. **Kubernetes** — 25 mentions
 5. **GCP** — 20 mentions
 6. **Azure** — 19 mentions
 7. **Observability** — 18 mentions
 8. **Terraform** — 17 mentions
-9. **Python** — 16 mentions
+9. **Python** — 17 mentions
 10. **Docker** — 16 mentions
 
 ## Top 10 Hiring Companies
 
-1. **Nice** — 6 open roles
-2. **Jfrog** — 6 open roles
-3. **Torq** — 6 open roles
-4. **Gongio** — 5 open roles
-5. **Transmitsecurity** — 4 open roles
-6. **Via** — 3 open roles
-7. **Similarweb** — 2 open roles
-8. **Riskified** — 2 open roles
-9. **Lightricks** — 2 open roles
-10. **Planck** — 2 open roles
+1. **NVIDIA** — 7 open roles
+2. **Nice** — 6 open roles
+3. **Jfrog** — 6 open roles
+4. **Torq** — 6 open roles
+5. **Gongio** — 5 open roles
+6. **Elbit Systems Israel** — 4 open roles
+7. **Via** — 3 open roles
+8. **Transmitsecurity** — 3 open roles
+9. **Taboola** — 2 open roles
+10. **Similarweb** — 2 open roles
 
 ## Seniority Distribution
 
-- **Junior**: 0.9% ``
-- **Mid**: 57.3% `██████████████████████`
-- **Senior**: 41.8% `████████████████`
+- **Junior**: 2.4% ``
+- **Mid**: 53.2% `█████████████████████`
+- **Senior**: 44.4% `█████████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -68,18 +67,18 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Location Breakdown
 
-- **Tel Aviv** — 74
-- **Israel (other)** — 22
-- **Raanana** — 6
+- **Tel Aviv** — 78
+- **Israel (other)** — 24
+- **Raanana** — 8
+- **Petah Tikva** — 5
+- **Haifa** — 4
 - **Jerusalem** — 2
-- **Haifa** — 2
-- **Petah Tikva** — 2
+- **Netanya** — 2
 - **Herzliya** — 1
-- **Netanya** — 1
 
 ## Sources
 
-- linkedin: 70
+- linkedin: 84
 - greenhouse: 40
 
 ## Methodology
