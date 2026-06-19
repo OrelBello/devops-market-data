@@ -1,36 +1,37 @@
 # 🪜 Israeli DevOps — Junior Pipeline Report — 2026-W25
 
-_Generated June 18, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated June 19, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 > **Who this is for:** anyone in IT / Help Desk / Support / SysAdmin / Bootcamp grad / career-switcher who wants to break into DevOps. Every role on this list **requires DevOps stack tech** (Linux, Python, AWS, Docker, K8s, CI/CD…) — meaning you'll be paid to learn the right tools.
 
 ## This week, by the numbers
 
-We tracked **74 junior-pipeline roles** in Israel that mention real DevOps stack:
+We tracked **76 junior-pipeline roles** in Israel that mention real DevOps stack:
 
-- **Help Desk / IT Support** — 51
-- **SysAdmin / NOC** — 12
-- **Trainee / Bootcamp Grad** — 8
+- **Help Desk / IT Support** — 50
+- **SysAdmin / NOC** — 14
+- **Trainee / Bootcamp Grad** — 7
 - **Junior SRE / Cloud / Platform** — 2
-- **Junior SysAdmin / Linux** — 1
+- **Junior SysAdmin / Linux** — 2
+- **Junior DevOps** — 1
 
-(0 additional LinkedIn-only postings need manual JD review for stack — see "All Jobs" tab in the dashboard.)
+(1 additional LinkedIn-only postings need manual JD review for stack — see "All Jobs" tab in the dashboard.)
 
 ## 🔥 What stack do these roles need?
 
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
-1. **Troubleshooting** — required in 47 roles
-2. **Networking** — required in 34 roles
-3. **Cloud (any)** — required in 20 roles
+1. **Troubleshooting** — required in 48 roles
+2. **Networking** — required in 31 roles
+3. **Cloud (any)** — required in 22 roles
 4. **Active Directory** — required in 18 roles
-5. **Automation** — required in 18 roles
-6. **Python** — required in 15 roles
-7. **Bash/Shell** — required in 15 roles
-8. **Linux** — required in 12 roles
-9. **Azure** — required in 12 roles
-10. **Monitoring** — required in 11 roles
+5. **Bash/Shell** — required in 16 roles
+6. **Monitoring** — required in 16 roles
+7. **Python** — required in 14 roles
+8. **Automation** — required in 13 roles
+9. **Linux** — required in 11 roles
+10. **Azure** — required in 10 roles
 
 ## 🏢 Companies hiring for the pipeline
 
@@ -40,10 +41,10 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 4. **Jfrog** — 2 role(s)
 5. **Optimove** — 2 role(s)
 6. **PwC Israel** — 2 role(s)
-7. **מרטנס | Mertens – מקבוצת מלם תים** — 2 role(s)
-8. **Extreme** — 2 role(s)
-9. **WalkMe** — 2 role(s)
-10. **Nice** — 1 role(s)
+7. **Nice** — 1 role(s)
+8. **Similarweb** — 1 role(s)
+9. **Appsflyer** — 1 role(s)
+10. **Transmitsecurity** — 1 role(s)
 
 ## ⭐ Top 15 highest-scoring roles this week
 
@@ -56,26 +57,19 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://join.jfrog.com/job/?job=7563041&gh_jid=7563041)
 
+### Junior IT DevOps Engineer - Temporary Position — Mobileye
+📍 Jerusalem District, Israel • 🎯 Learning Score: 100/100 • 🪜 Junior DevOps
+
+**Stack you'll work with:** Linux, Python, Bash/Shell, Cloud (any), Docker, Kubernetes
+
+🔗 [View role](https://il.linkedin.com/jobs/view/junior-it-devops-engineer-temporary-position-at-mobileye-4417802849)
+
 ### Junior AI SRE Developer — Helfy
 📍 Herzliya, Tel Aviv District, Israel • 🎯 Learning Score: 100/100 • 🪜 Junior SRE / Cloud / Platform
 
 **Stack you'll work with:** Linux, Python, Bash/Shell, AWS, Cloud (any), Docker
 
 🔗 [View role](https://il.linkedin.com/jobs/view/junior-ai-sre-developer-at-helfy-4413461829)
-
-### SW DevOps and Test Infrastructure Student, Nitro SW Team — Amazon Web Services (AWS)
-📍 Haifa, Haifa District, Israel • 🎯 Learning Score: 92/100 • 🪜 Trainee / Bootcamp Grad
-
-**Stack you'll work with:** Linux, Python, Bash/Shell, AWS, Cloud (any), CI/CD
-
-🔗 [View role](https://il.linkedin.com/jobs/view/sw-devops-and-test-infrastructure-student-nitro-sw-team-at-amazon-web-services-aws-4425403074)
-
-### Technical Support Engineer — Voyager Labs
-📍 Petah Tikva, Center District, Israel • 🎯 Learning Score: 88/100 • 🪜 Help Desk / IT Support
-
-**Stack you'll work with:** Linux, Python, AWS, Azure, Cloud (any), Docker
-
-🔗 [View role](https://il.linkedin.com/jobs/view/technical-support-engineer-at-voyager-labs-4420475324)
 
 ### IT Specialist — Anecdotes
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 68/100 • 🪜 Help Desk / IT Support
@@ -105,26 +99,33 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://www.transmitsecurity.com/about/careers/job?gh_jid=8533931002)
 
-### IT Support — Paragon
-📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 44/100 • 🪜 Help Desk / IT Support
+### Technical Support Specialist — Upwind Security
+📍 Ramat Gan, Tel Aviv District, Israel • 🎯 Learning Score: 47/100 • 🪜 Help Desk / IT Support
 
-**Stack you'll work with:** Linux, Python, Bash/Shell, Networking, Active Directory, Automation
+**Stack you'll work with:** Linux, Cloud (any), Docker, Kubernetes, Networking, Monitoring
 
-🔗 [View role](https://il.linkedin.com/jobs/view/it-support-at-paragon-4417886377)
+🔗 [View role](https://il.linkedin.com/jobs/view/technical-support-specialist-at-upwind-security-4377864560)
 
-### IT Support Specialist - Temporary position — Cato Networks
-📍 Tel Aviv District, Israel • 🎯 Learning Score: 44/100 • 🪜 Help Desk / IT Support
+### IT Support Engineer – Microsoft Infrastructure & Cloud (Help Desk + 3rd Tier) — G-MEL
+📍 Israel • 🎯 Learning Score: 37/100 • 🪜 Help Desk / IT Support
 
-**Stack you'll work with:** Python, Bash/Shell, Azure, Cloud (any), Networking, Automation
+**Stack you'll work with:** Bash/Shell, Azure, Cloud (any), Networking, Active Directory, Automation
 
-🔗 [View role](https://il.linkedin.com/jobs/view/it-support-specialist-temporary-position-at-cato-networks-4394155925)
+🔗 [View role](https://il.linkedin.com/jobs/view/it-support-engineer-%E2%80%93-microsoft-infrastructure-cloud-help-desk-%2B-3rd-tier-at-g-mel-4429114041)
 
-### System Engineer (36613) — מרטנס | Mertens – מקבוצת מלם תים
-📍 Center District, Israel • 🎯 Learning Score: 32/100 • 🪜 SysAdmin / NOC
+### AI Operations Engineer — Droxi
+📍 Ramat Gan, Tel Aviv District, Israel • 🎯 Learning Score: 32/100 • 🪜 SysAdmin / NOC
 
-**Stack you'll work with:** Azure, Cloud (any), Kubernetes, Networking
+**Stack you'll work with:** Python, Bash/Shell, Monitoring, Automation
 
-🔗 [View role](https://il.linkedin.com/jobs/view/system-engineer-36613-at-%D7%9E%D7%A8%D7%98%D7%A0%D7%A1-mertens-%E2%80%93-%D7%9E%D7%A7%D7%91%D7%95%D7%A6%D7%AA-%D7%9E%D7%9C%D7%9D-%D7%AA%D7%99%D7%9D-4428823042)
+🔗 [View role](https://il.linkedin.com/jobs/view/ai-operations-engineer-at-droxi-4426788584)
+
+### Junior System Administrator — Impact Networks Group
+📍 Eilat, South District, Israel • 🎯 Learning Score: 32/100 • 🪜 Junior SysAdmin / Linux
+
+**Stack you'll work with:** Azure, Networking, Virtualization, Windows Server, Troubleshooting
+
+🔗 [View role](https://il.linkedin.com/jobs/view/junior-system-administrator-at-impact-networks-group-4429545054)
 
 ### IT Specialist — Jfrog
 📍 Tel Aviv/ Netanya, Israel • 🎯 Learning Score: 30/100 • 🪜 Help Desk / IT Support
@@ -147,12 +148,12 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/it-support-specialist-at-innoviz-technologies-4407119527)
 
-### Junior Network Operations Center Engineer — Extreme
-📍 Center District, Israel • 🎯 Learning Score: 28/100 • 🪜 SysAdmin / NOC
+### Support Engineer — Dream
+📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 30/100 • 🪜 Help Desk / IT Support
 
-**Stack you'll work with:** Linux, Cloud (any), Networking, Virtualization, Active Directory
+**Stack you'll work with:** Docker, Kubernetes, Monitoring, Databases, Troubleshooting
 
-🔗 [View role](https://il.linkedin.com/jobs/view/junior-network-operations-center-engineer-at-extreme-4416668921)
+🔗 [View role](https://il.linkedin.com/jobs/view/support-engineer-at-dream-4427425550)
 
 
 ## How the score works
