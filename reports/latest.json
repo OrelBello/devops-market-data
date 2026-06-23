@@ -1,47 +1,43 @@
 {
-  "generated_at": "2026-06-22T12:21:54",
+  "generated_at": "2026-06-23T09:59:14",
   "week": "2026-W26",
   "stats_for_sheets": {
-    "total_jobs": 114,
+    "total_jobs": 112,
     "by_source": {
       "greenhouse": 36,
-      "linkedin": 78
+      "linkedin": 76
     },
     "top_skills": [
       [
         "Security",
-        26
+        27
       ],
       [
         "AWS",
-        23
+        24
       ],
       [
         "CI/CD",
-        20
-      ],
-      [
-        "Azure",
-        19
+        21
       ],
       [
         "Kubernetes",
         19
       ],
       [
-        "Linux",
-        14
+        "Azure",
+        18
       ],
       [
         "GCP",
-        14
+        15
+      ],
+      [
+        "Linux",
+        15
       ],
       [
         "Observability",
-        13
-      ],
-      [
-        "Python",
         13
       ],
       [
@@ -49,20 +45,24 @@
         12
       ],
       [
+        "Python",
+        12
+      ],
+      [
+        "Terraform",
+        11
+      ],
+      [
         "Docker",
         11
       ],
       [
-        "Terraform",
-        10
+        "Argo CD",
+        8
       ],
       [
         "AI/MLOps",
-        7
-      ],
-      [
-        "Argo CD",
-        7
+        6
       ],
       [
         "Prometheus",
@@ -83,19 +83,19 @@
         5
       ],
       [
+        "NVIDIA",
+        4
+      ],
+      [
         "Via",
         3
       ],
       [
-        "NVIDIA",
+        "Transmitsecurity",
         3
       ],
       [
         "Cato Networks",
-        3
-      ],
-      [
-        "Elbit Systems Israel",
         3
       ],
       [
@@ -115,46 +115,47 @@
         2
       ],
       [
-        "Transmitsecurity",
+        "Zenity",
         2
       ],
       [
-        "Lightricks",
+        "Sela",
         2
       ],
       [
-        "abra",
+        "Applied Materials - Israel",
         2
       ],
       [
-        "Planck",
+        "Elbit Systems Israel",
         2
       ]
     ],
     "seniority_distribution": {
-      "Senior": 46,
-      "Mid": 66,
-      "Junior": 2
+      "Senior": 49,
+      "Mid": 60,
+      "Junior": 3
     },
     "seniority_pct": {
-      "Senior": 40.4,
-      "Mid": 57.9,
-      "Junior": 1.8
+      "Senior": 43.8,
+      "Mid": 53.6,
+      "Junior": 2.7
     },
-    "junior_pct": 1.8,
-    "junior_count": 2,
+    "junior_pct": 2.7,
+    "junior_count": 3,
     "junior_friendly_companies": [
       "Elbit Systems Israel",
+      "Teads",
       "XM Cyber"
     ],
     "location_distribution": {
-      "Tel Aviv": 73,
-      "Israel (other)": 21,
+      "Tel Aviv": 72,
+      "Israel (other)": 20,
       "Raanana": 8,
-      "Haifa": 4,
       "Petah Tikva": 3,
+      "Netanya": 3,
+      "Haifa": 3,
       "Jerusalem": 2,
-      "Netanya": 2,
       "Herzliya": 1
     },
     "salary_summary": {
@@ -179,18 +180,23 @@
         6
       ],
       [
+        "Nice",
+        19.4,
+        6
+      ],
+      [
         "Gongio",
         19.2,
         5
       ],
       [
-        "Nice",
-        17.3,
-        6
-      ],
-      [
         "Via",
         10.9,
+        3
+      ],
+      [
+        "Transmitsecurity",
+        8.8,
         3
       ],
       [
@@ -204,9 +210,9 @@
         2
       ],
       [
-        "Transmitsecurity",
-        5.0,
-        2
+        "NVIDIA",
+        6.2,
+        4
       ],
       [
         "Payoneer",
@@ -224,28 +230,23 @@
         2
       ],
       [
-        "NVIDIA",
-        4.2,
-        3
-      ],
-      [
-        "Elbit Systems Israel",
-        4.2,
-        3
-      ],
-      [
-        "abra",
-        3.1,
-        2
-      ],
-      [
         "Torq",
         2.9,
         1
       ],
       [
-        "Lightricks",
+        "Elbit Systems Israel",
         2.8,
+        2
+      ],
+      [
+        "Axonius",
+        2.6,
+        1
+      ],
+      [
+        "Sela",
+        2.6,
         2
       ]
     ],
@@ -253,8 +254,8 @@
       "Nice": {
         "open_roles": 6,
         "seniority_levels": 1,
-        "skill_breadth": 14,
-        "hiring_strength": 17.3
+        "skill_breadth": 17,
+        "hiring_strength": 19.4
       },
       "Via": {
         "open_roles": 3,
@@ -317,16 +318,16 @@
         "hiring_strength": 2.6
       },
       "Transmitsecurity": {
-        "open_roles": 2,
-        "seniority_levels": 1,
+        "open_roles": 3,
+        "seniority_levels": 2,
         "skill_breadth": 11,
-        "hiring_strength": 5.0
+        "hiring_strength": 8.8
       },
       "Lightricks": {
-        "open_roles": 2,
-        "seniority_levels": 2,
+        "open_roles": 1,
+        "seniority_levels": 1,
         "skill_breadth": 0,
-        "hiring_strength": 2.8
+        "hiring_strength": 1.2
       },
       "Melio": {
         "open_roles": 1,
@@ -335,10 +336,10 @@
         "hiring_strength": 1.3
       },
       "abra": {
-        "open_roles": 2,
-        "seniority_levels": 2,
+        "open_roles": 1,
+        "seniority_levels": 1,
         "skill_breadth": 1,
-        "hiring_strength": 3.1
+        "hiring_strength": 1.3
       },
       "Kaltura": {
         "open_roles": 1,
@@ -346,19 +347,49 @@
         "skill_breadth": 0,
         "hiring_strength": 1.2
       },
+      "NVIDIA": {
+        "open_roles": 4,
+        "seniority_levels": 2,
+        "skill_breadth": 1,
+        "hiring_strength": 6.2
+      },
       "SessionCam": {
         "open_roles": 1,
         "seniority_levels": 1,
         "skill_breadth": 0,
         "hiring_strength": 1.2
       },
-      "NVIDIA": {
-        "open_roles": 3,
-        "seniority_levels": 2,
+      "KPMG Israel": {
+        "open_roles": 1,
+        "seniority_levels": 1,
+        "skill_breadth": 1,
+        "hiring_strength": 1.3
+      },
+      "Sharpies PRO": {
+        "open_roles": 1,
+        "seniority_levels": 1,
         "skill_breadth": 0,
-        "hiring_strength": 4.2
+        "hiring_strength": 1.2
       },
       "Kela Technologies": {
+        "open_roles": 1,
+        "seniority_levels": 1,
+        "skill_breadth": 0,
+        "hiring_strength": 1.2
+      },
+      "CodSec": {
+        "open_roles": 1,
+        "seniority_levels": 1,
+        "skill_breadth": 0,
+        "hiring_strength": 1.2
+      },
+      "Teads": {
+        "open_roles": 1,
+        "seniority_levels": 1,
+        "skill_breadth": 0,
+        "hiring_strength": 1.2
+      },
+      "Buildots": {
         "open_roles": 1,
         "seniority_levels": 1,
         "skill_breadth": 0,
@@ -370,29 +401,17 @@
         "skill_breadth": 0,
         "hiring_strength": 1.2
       },
-      "Planck": {
-        "open_roles": 2,
-        "seniority_levels": 2,
-        "skill_breadth": 0,
-        "hiring_strength": 2.8
-      },
       "Contguard": {
         "open_roles": 1,
         "seniority_levels": 1,
         "skill_breadth": 0,
         "hiring_strength": 1.2
       },
-      "Moveo Source": {
-        "open_roles": 1,
+      "Zenity": {
+        "open_roles": 2,
         "seniority_levels": 1,
         "skill_breadth": 0,
-        "hiring_strength": 1.2
-      },
-      "amp": {
-        "open_roles": 1,
-        "seniority_levels": 1,
-        "skill_breadth": 0,
-        "hiring_strength": 1.2
+        "hiring_strength": 2.4
       },
       "Playtika": {
         "open_roles": 1,
@@ -401,18 +420,6 @@
         "hiring_strength": 1.3
       },
       "Logica-IT": {
-        "open_roles": 1,
-        "seniority_levels": 1,
-        "skill_breadth": 0,
-        "hiring_strength": 1.2
-      },
-      "Intel": {
-        "open_roles": 1,
-        "seniority_levels": 1,
-        "skill_breadth": 0,
-        "hiring_strength": 1.2
-      },
-      "Personetics": {
         "open_roles": 1,
         "seniority_levels": 1,
         "skill_breadth": 0,
@@ -430,29 +437,35 @@
         "skill_breadth": 1,
         "hiring_strength": 1.3
       },
-      "Ludeo": {
-        "open_roles": 1,
-        "seniority_levels": 1,
-        "skill_breadth": 1,
-        "hiring_strength": 1.3
-      },
       "Razor Labs": {
         "open_roles": 1,
         "seniority_levels": 1,
         "skill_breadth": 0,
         "hiring_strength": 1.2
       },
-      "Lendbuzz": {
+      "Noma Security": {
         "open_roles": 1,
         "seniority_levels": 1,
         "skill_breadth": 0,
         "hiring_strength": 1.2
       },
-      "Sela": {
-        "open_roles": 2,
+      "Intel": {
+        "open_roles": 1,
+        "seniority_levels": 1,
+        "skill_breadth": 0,
+        "hiring_strength": 1.2
+      },
+      "Ludeo": {
+        "open_roles": 1,
         "seniority_levels": 1,
         "skill_breadth": 1,
-        "hiring_strength": 2.6
+        "hiring_strength": 1.3
+      },
+      "Lendbuzz": {
+        "open_roles": 1,
+        "seniority_levels": 1,
+        "skill_breadth": 0,
+        "hiring_strength": 1.2
       },
       "Cato Networks": {
         "open_roles": 3,
@@ -466,23 +479,17 @@
         "skill_breadth": 0,
         "hiring_strength": 1.2
       },
-      "Paragon": {
-        "open_roles": 2,
-        "seniority_levels": 1,
-        "skill_breadth": 0,
-        "hiring_strength": 2.4
-      },
       "AnyClip": {
         "open_roles": 1,
         "seniority_levels": 1,
         "skill_breadth": 0,
         "hiring_strength": 1.2
       },
-      "Blink": {
-        "open_roles": 1,
+      "Sela": {
+        "open_roles": 2,
         "seniority_levels": 1,
-        "skill_breadth": 0,
-        "hiring_strength": 1.2
+        "skill_breadth": 1,
+        "hiring_strength": 2.6
       },
       "Qualitest": {
         "open_roles": 1,
@@ -490,25 +497,7 @@
         "skill_breadth": 0,
         "hiring_strength": 1.2
       },
-      "Moovit": {
-        "open_roles": 1,
-        "seniority_levels": 1,
-        "skill_breadth": 0,
-        "hiring_strength": 1.2
-      },
-      "InfinityLabs R&D": {
-        "open_roles": 1,
-        "seniority_levels": 1,
-        "skill_breadth": 0,
-        "hiring_strength": 1.2
-      },
       "מרטנס | Mertens – מקבוצת מלם תים": {
-        "open_roles": 1,
-        "seniority_levels": 1,
-        "skill_breadth": 0,
-        "hiring_strength": 1.2
-      },
-      "AMAREL LTD": {
         "open_roles": 1,
         "seniority_levels": 1,
         "skill_breadth": 0,
@@ -526,13 +515,31 @@
         "skill_breadth": 0,
         "hiring_strength": 1.2
       },
-      "Radware": {
+      "Applied Materials - Israel": {
+        "open_roles": 2,
+        "seniority_levels": 1,
+        "skill_breadth": 0,
+        "hiring_strength": 2.4
+      },
+      "AMAREL LTD": {
         "open_roles": 1,
         "seniority_levels": 1,
         "skill_breadth": 0,
         "hiring_strength": 1.2
       },
-      "XM Cyber": {
+      "Utila": {
+        "open_roles": 1,
+        "seniority_levels": 1,
+        "skill_breadth": 0,
+        "hiring_strength": 1.2
+      },
+      "Paragon": {
+        "open_roles": 1,
+        "seniority_levels": 1,
+        "skill_breadth": 0,
+        "hiring_strength": 1.2
+      },
+      "Fluent Trade Technologies": {
         "open_roles": 1,
         "seniority_levels": 1,
         "skill_breadth": 0,
@@ -544,13 +551,43 @@
         "skill_breadth": 0,
         "hiring_strength": 1.2
       },
-      "Bridgify": {
+      "Rhino Federated Computing": {
         "open_roles": 1,
         "seniority_levels": 1,
-        "skill_breadth": 3,
-        "hiring_strength": 1.6
+        "skill_breadth": 0,
+        "hiring_strength": 1.2
+      },
+      "Palo Alto Networks": {
+        "open_roles": 1,
+        "seniority_levels": 1,
+        "skill_breadth": 0,
+        "hiring_strength": 1.2
       },
       "Matia": {
+        "open_roles": 1,
+        "seniority_levels": 1,
+        "skill_breadth": 0,
+        "hiring_strength": 1.2
+      },
+      "HPE Aruba Networking": {
+        "open_roles": 1,
+        "seniority_levels": 1,
+        "skill_breadth": 0,
+        "hiring_strength": 1.2
+      },
+      "Bagira": {
+        "open_roles": 1,
+        "seniority_levels": 1,
+        "skill_breadth": 0,
+        "hiring_strength": 1.2
+      },
+      "Keshet Media Group": {
+        "open_roles": 1,
+        "seniority_levels": 1,
+        "skill_breadth": 0,
+        "hiring_strength": 1.2
+      },
+      "Harmonic": {
         "open_roles": 1,
         "seniority_levels": 1,
         "skill_breadth": 0,
@@ -562,13 +599,19 @@
         "skill_breadth": 0,
         "hiring_strength": 1.2
       },
-      "Zenity": {
+      "evoke": {
         "open_roles": 1,
         "seniority_levels": 1,
         "skill_breadth": 0,
         "hiring_strength": 1.2
       },
-      "Applied Materials - Israel": {
+      "stepscale.io": {
+        "open_roles": 1,
+        "seniority_levels": 1,
+        "skill_breadth": 0,
+        "hiring_strength": 1.2
+      },
+      "Hyro": {
         "open_roles": 1,
         "seniority_levels": 1,
         "skill_breadth": 0,
@@ -585,18 +628,6 @@
         "seniority_levels": 1,
         "skill_breadth": 0,
         "hiring_strength": 1.2
-      },
-      "Harmonic": {
-        "open_roles": 1,
-        "seniority_levels": 1,
-        "skill_breadth": 0,
-        "hiring_strength": 1.2
-      },
-      "Elbit Systems Israel": {
-        "open_roles": 3,
-        "seniority_levels": 2,
-        "skill_breadth": 0,
-        "hiring_strength": 4.2
       },
       "Directeam": {
         "open_roles": 1,
@@ -616,7 +647,7 @@
         "skill_breadth": 0,
         "hiring_strength": 1.2
       },
-      "Utila": {
+      "SQLink Group": {
         "open_roles": 1,
         "seniority_levels": 1,
         "skill_breadth": 0,
@@ -627,18 +658,6 @@
         "seniority_levels": 1,
         "skill_breadth": 1,
         "hiring_strength": 1.3
-      },
-      "Samsung Semiconductor": {
-        "open_roles": 1,
-        "seniority_levels": 1,
-        "skill_breadth": 0,
-        "hiring_strength": 1.2
-      },
-      "Jobgether": {
-        "open_roles": 1,
-        "seniority_levels": 1,
-        "skill_breadth": 0,
-        "hiring_strength": 1.2
       },
       "Tekgence Inc": {
         "open_roles": 1,
@@ -652,25 +671,19 @@
         "skill_breadth": 0,
         "hiring_strength": 1.2
       },
-      "Keshet Media Group": {
-        "open_roles": 1,
-        "seniority_levels": 1,
-        "skill_breadth": 0,
-        "hiring_strength": 1.2
-      },
       "Galil Software Ltd.": {
         "open_roles": 1,
         "seniority_levels": 1,
         "skill_breadth": 1,
         "hiring_strength": 1.3
       },
-      "Nebius": {
-        "open_roles": 1,
-        "seniority_levels": 1,
+      "Elbit Systems Israel": {
+        "open_roles": 2,
+        "seniority_levels": 2,
         "skill_breadth": 0,
-        "hiring_strength": 1.2
+        "hiring_strength": 2.8
       },
-      "Rafael Advanced Defense Systems": {
+      "Nexite": {
         "open_roles": 1,
         "seniority_levels": 1,
         "skill_breadth": 0,
@@ -694,25 +707,7 @@
         "skill_breadth": 0,
         "hiring_strength": 1.2
       },
-      "Rhino Federated Computing": {
-        "open_roles": 1,
-        "seniority_levels": 1,
-        "skill_breadth": 0,
-        "hiring_strength": 1.2
-      },
-      "Palo Alto Networks": {
-        "open_roles": 1,
-        "seniority_levels": 1,
-        "skill_breadth": 0,
-        "hiring_strength": 1.2
-      },
-      "Varonis": {
-        "open_roles": 1,
-        "seniority_levels": 1,
-        "skill_breadth": 0,
-        "hiring_strength": 1.2
-      },
-      "Experis Israel": {
+      "XM Cyber": {
         "open_roles": 1,
         "seniority_levels": 1,
         "skill_breadth": 0,
@@ -724,114 +719,124 @@
         "skill_breadth": 0,
         "hiring_strength": 1.2
       },
-      "HPE Aruba Networking": {
-        "open_roles": 1,
-        "seniority_levels": 1,
-        "skill_breadth": 0,
-        "hiring_strength": 1.2
-      },
       "ZOLL Medical Corporation": {
         "open_roles": 1,
         "seniority_levels": 1,
         "skill_breadth": 0,
         "hiring_strength": 1.2
       },
-      "HAAT Delivery": {
+      "Oasis Security": {
+        "open_roles": 1,
+        "seniority_levels": 1,
+        "skill_breadth": 0,
+        "hiring_strength": 1.2
+      },
+      "SciPlay": {
         "open_roles": 1,
         "seniority_levels": 1,
         "skill_breadth": 0,
         "hiring_strength": 1.2
       }
     },
-    "new_count_24h": 15,
-    "new_count_7d": 53,
-    "total_tracked_jobs": 700
+    "new_count_24h": 16,
+    "new_count_7d": 55,
+    "total_tracked_jobs": 716
   },
   "deltas": {
     "is_first_run": false,
     "previous_week": "2026-W25",
     "current_week": "2026-W26",
-    "total_jobs_delta": 2,
-    "total_jobs_pct": 1.8,
-    "junior_pct_delta": -0.9,
+    "total_jobs_delta": 0,
+    "total_jobs_pct": 0.0,
+    "junior_pct_delta": 0.0,
     "rising_skills": [
       [
         "AWS",
-        23,
+        24,
         21,
-        2
-      ],
-      [
-        "Networking",
-        12,
-        10,
-        2
+        3
       ],
       [
         "CI/CD",
-        20,
+        21,
         19,
-        1
+        2
       ],
       [
-        "Azure",
-        19,
-        18,
-        1
+        "Security",
+        27,
+        25,
+        2
       ],
       [
-        "Python",
+        "GCP",
+        15,
         13,
-        12,
-        1
+        2
+      ],
+      [
+        "Linux",
+        15,
+        13,
+        2
       ]
     ],
-    "falling_skills": [],
+    "falling_skills": [
+      [
+        "AI/MLOps",
+        6,
+        7,
+        -1
+      ]
+    ],
     "new_top_companies": [
-      "Elbit Systems Israel",
-      "Payoneer"
+      "Payoneer",
+      "Zenity",
+      "Sela",
+      "Applied Materials - Israel",
+      "Elbit Systems Israel"
     ]
   },
   "diagnostics": {
     "greenhouse": {
       "jobs": 38,
-      "elapsed_s": 12.4,
+      "elapsed_s": 13.3,
       "ok": true
     },
     "linkedin": {
-      "jobs": 83,
-      "elapsed_s": 37.9,
+      "jobs": 81,
+      "elapsed_s": 35.9,
       "ok": true
     },
     "indeed_il": {
       "jobs": 0,
-      "elapsed_s": 7.1,
+      "elapsed_s": 8.9,
       "ok": true
     },
     "lever": {
       "jobs": 0,
-      "elapsed_s": 3.2,
+      "elapsed_s": 2.5,
       "ok": true
     },
     "alljobs": {
       "jobs": 0,
-      "elapsed_s": 31.0,
+      "elapsed_s": 31.8,
       "ok": true
     },
     "drushim": {
       "jobs": 0,
-      "elapsed_s": 16.4,
+      "elapsed_s": 15.3,
       "ok": true
     },
     "jobmaster": {
       "jobs": 0,
-      "elapsed_s": 13.3,
+      "elapsed_s": 14.6,
       "ok": true
     }
   },
   "report_md_path": "/home/runner/work/devops-market-data/devops-market-data/reports/report_2026-W26.md",
   "linkedin_md_path": "/home/runner/work/devops-market-data/devops-market-data/reports/linkedin_2026-W26.md",
-  "snapshot_path": "/home/runner/work/devops-market-data/devops-market-data/data/snapshots/jobs_20260622_122154.json",
+  "snapshot_path": "/home/runner/work/devops-market-data/devops-market-data/data/snapshots/jobs_20260623_095914.json",
   "jobs_for_sheet": [
     {
       "title": "AI Automation Architect",
@@ -845,7 +850,7 @@
       "posted_at": "2026-06-10T03:15:59-04:00",
       "first_seen_at": "2026-05-12",
       "is_new_today": false,
-      "days_open": 41
+      "days_open": 42
     },
     {
       "title": "AI Quality Architect",
@@ -859,7 +864,7 @@
       "posted_at": "2026-06-10T03:15:59-04:00",
       "first_seen_at": "2026-05-15",
       "is_new_today": false,
-      "days_open": 38
+      "days_open": 39
     },
     {
       "title": "Cloud Architect",
@@ -867,13 +872,13 @@
       "location": "Israel - Raanana",
       "location_bucket": "Raanana",
       "seniority": "Senior",
-      "skills": "Azure, Networking, Security, AI/MLOps",
+      "skills": "Kubernetes, AWS, Azure, GCP, Terraform, CI/CD, Networking, Security, Argo CD",
       "source": "greenhouse",
-      "url": "https://boards.eu.greenhouse.io/nice/jobs/4888525101?gh_jid=4888525101",
+      "url": "https://boards.eu.greenhouse.io/nice/jobs/4855504101?gh_jid=4855504101",
       "posted_at": "2026-06-10T03:15:59-04:00",
-      "first_seen_at": "2026-06-08",
+      "first_seen_at": "2026-05-12",
       "is_new_today": false,
-      "days_open": 14
+      "days_open": 42
     },
     {
       "title": "Lead DevOps Engineer",
@@ -887,7 +892,7 @@
       "posted_at": "2026-06-14T09:15:41-04:00",
       "first_seen_at": "2026-05-12",
       "is_new_today": false,
-      "days_open": 41
+      "days_open": 42
     },
     {
       "title": "Senior Cloud Architect",
@@ -901,7 +906,7 @@
       "posted_at": "2026-06-10T03:15:59-04:00",
       "first_seen_at": "2026-06-08",
       "is_new_today": false,
-      "days_open": 14
+      "days_open": 15
     },
     {
       "title": "Solution Architect",
@@ -915,7 +920,7 @@
       "posted_at": "2026-06-10T03:15:59-04:00",
       "first_seen_at": "2026-06-08",
       "is_new_today": false,
-      "days_open": 14
+      "days_open": 15
     },
     {
       "title": "DevSecOps Engineer",
@@ -929,7 +934,7 @@
       "posted_at": "2026-06-02T15:55:11-04:00",
       "first_seen_at": "2026-06-03",
       "is_new_today": false,
-      "days_open": 19
+      "days_open": 20
     },
     {
       "title": "Senior DevOps Engineer",
@@ -943,7 +948,7 @@
       "posted_at": "2026-05-19T13:19:09-04:00",
       "first_seen_at": "2026-05-12",
       "is_new_today": false,
-      "days_open": 41
+      "days_open": 42
     },
     {
       "title": "Senior Platform Engineer",
@@ -957,7 +962,7 @@
       "posted_at": "2026-05-19T13:19:09-04:00",
       "first_seen_at": "2026-05-12",
       "is_new_today": false,
-      "days_open": 41
+      "days_open": 42
     },
     {
       "title": "DevOps Infrastructure Engineer",
@@ -971,7 +976,7 @@
       "posted_at": "2026-06-22T07:18:01-04:00",
       "first_seen_at": "2026-05-12",
       "is_new_today": false,
-      "days_open": 41
+      "days_open": 42
     },
     {
       "title": "IT Corp System Administrator",
@@ -982,10 +987,10 @@
       "skills": "Azure, Security",
       "source": "greenhouse",
       "url": "https://www.payoneer.com/careers/position/7916835/?gh_jid=7916835",
-      "posted_at": "2026-06-21T07:55:02-04:00",
+      "posted_at": "2026-06-22T11:08:25-04:00",
       "first_seen_at": "2026-05-19",
       "is_new_today": false,
-      "days_open": 34
+      "days_open": 35
     },
     {
       "title": "AI Cloud Architect",
@@ -999,7 +1004,7 @@
       "posted_at": "2026-06-16T10:20:48-04:00",
       "first_seen_at": "2026-05-12",
       "is_new_today": false,
-      "days_open": 41
+      "days_open": 42
     },
     {
       "title": "Developer Advocate",
@@ -1013,7 +1018,7 @@
       "posted_at": "2026-06-14T08:39:08-04:00",
       "first_seen_at": "2026-05-12",
       "is_new_today": false,
-      "days_open": 41
+      "days_open": 42
     },
     {
       "title": "Director of AI Engineering",
@@ -1027,7 +1032,7 @@
       "posted_at": "2026-06-14T08:39:08-04:00",
       "first_seen_at": "2026-05-12",
       "is_new_today": false,
-      "days_open": 41
+      "days_open": 42
     },
     {
       "title": "Professional Services DevOps Architect",
@@ -1041,7 +1046,7 @@
       "posted_at": "2026-06-14T08:39:08-04:00",
       "first_seen_at": "2026-06-02",
       "is_new_today": false,
-      "days_open": 20
+      "days_open": 21
     },
     {
       "title": "Professional Services DevOps Engineer",
@@ -1055,7 +1060,7 @@
       "posted_at": "2026-06-14T08:39:08-04:00",
       "first_seen_at": "2026-05-12",
       "is_new_today": false,
-      "days_open": 41
+      "days_open": 42
     },
     {
       "title": "Site Reliability Engineer",
@@ -1069,7 +1074,7 @@
       "posted_at": "2026-06-16T04:36:54-04:00",
       "first_seen_at": "2026-06-10",
       "is_new_today": false,
-      "days_open": 12
+      "days_open": 13
     },
     {
       "title": "Senior AI Infrastructure Engineer",
@@ -1080,10 +1085,10 @@
       "skills": "CI/CD, Python, AI/MLOps",
       "source": "greenhouse",
       "url": "https://job-boards.greenhouse.io/gongio/jobs/4684943006",
-      "posted_at": "2026-06-14T04:01:24-04:00",
+      "posted_at": "2026-06-22T17:34:23-04:00",
       "first_seen_at": "2026-06-14",
       "is_new_today": false,
-      "days_open": 8
+      "days_open": 9
     },
     {
       "title": "Senior DevOps Engineer",
@@ -1094,10 +1099,10 @@
       "skills": "Kubernetes, AWS, Azure, GCP, Terraform, Docker, CI/CD, Linux, Python, Bash/Shell, Helm, Prometheus, Grafana, Datadog, Security, Argo CD, Observability, Crossplane, FinOps",
       "source": "greenhouse",
       "url": "https://job-boards.greenhouse.io/gongio/jobs/4668077006",
-      "posted_at": "2026-06-11T04:21:24-04:00",
+      "posted_at": "2026-06-22T17:33:07-04:00",
       "first_seen_at": "2026-06-11",
       "is_new_today": false,
-      "days_open": 11
+      "days_open": 12
     },
     {
       "title": "Senior Director of Platform Security",
@@ -1108,10 +1113,10 @@
       "skills": "Kubernetes, AWS, Azure, Docker, CI/CD, Security, WAF/CDN",
       "source": "greenhouse",
       "url": "https://job-boards.greenhouse.io/gongio/jobs/4672099006",
-      "posted_at": "2026-05-28T12:11:36-04:00",
+      "posted_at": "2026-06-22T17:33:18-04:00",
       "first_seen_at": "2026-05-28",
       "is_new_today": false,
-      "days_open": 25
+      "days_open": 26
     },
     {
       "title": "Senior SRE Engineer",
@@ -1122,10 +1127,10 @@
       "skills": "Kubernetes, AWS, CI/CD, Observability",
       "source": "greenhouse",
       "url": "https://job-boards.greenhouse.io/gongio/jobs/4673075006",
-      "posted_at": "2026-06-14T02:48:32-04:00",
+      "posted_at": "2026-06-22T17:33:29-04:00",
       "first_seen_at": "2026-06-14",
       "is_new_today": false,
-      "days_open": 8
+      "days_open": 9
     },
     {
       "title": "Software Architect - DevOps Group",
@@ -1136,10 +1141,10 @@
       "skills": "Kubernetes, Networking, Security, Observability, FinOps",
       "source": "greenhouse",
       "url": "https://job-boards.greenhouse.io/gongio/jobs/4668071006",
-      "posted_at": "2026-06-08T09:15:29-04:00",
+      "posted_at": "2026-06-22T17:33:03-04:00",
       "first_seen_at": "2026-05-15",
       "is_new_today": false,
-      "days_open": 38
+      "days_open": 39
     },
     {
       "title": "Data Platform Engineering Team Leader",
@@ -1153,7 +1158,7 @@
       "posted_at": "2026-06-18T06:06:55-04:00",
       "first_seen_at": "2026-06-18",
       "is_new_today": false,
-      "days_open": 4
+      "days_open": 5
     },
     {
       "title": "Software Development Team Leader – Production Engineering",
@@ -1167,7 +1172,7 @@
       "posted_at": "2026-05-28T15:41:00-04:00",
       "first_seen_at": "2026-05-29",
       "is_new_today": false,
-      "days_open": 24
+      "days_open": 25
     },
     {
       "title": "Production Engineer",
@@ -1181,7 +1186,7 @@
       "posted_at": "2026-05-18T04:20:06-04:00",
       "first_seen_at": "2026-05-18",
       "is_new_today": false,
-      "days_open": 35
+      "days_open": 36
     },
     {
       "title": "Senior Backend Engineer, Platform Foundations",
@@ -1195,7 +1200,7 @@
       "posted_at": "2026-05-28T04:31:09-04:00",
       "first_seen_at": "2026-05-28",
       "is_new_today": false,
-      "days_open": 25
+      "days_open": 26
     },
     {
       "title": "Cloud Architect",
@@ -1209,7 +1214,7 @@
       "posted_at": "2026-02-18T09:07:42-05:00",
       "first_seen_at": "2026-05-12",
       "is_new_today": false,
-      "days_open": 41
+      "days_open": 42
     },
     {
       "title": "DevOps Engineer",
@@ -1223,7 +1228,7 @@
       "posted_at": "2026-02-23T11:03:43-05:00",
       "first_seen_at": "2026-05-12",
       "is_new_today": false,
-      "days_open": 41
+      "days_open": 42
     },
     {
       "title": "DevSecOps Engineer",
@@ -1237,7 +1242,7 @@
       "posted_at": "2026-06-11T14:13:53-04:00",
       "first_seen_at": "2026-06-12",
       "is_new_today": false,
-      "days_open": 10
+      "days_open": 11
     },
     {
       "title": "Senior Data Platform Engineer",
@@ -1251,7 +1256,7 @@
       "posted_at": "2026-05-26T01:37:39-04:00",
       "first_seen_at": "2026-05-12",
       "is_new_today": false,
-      "days_open": 41
+      "days_open": 42
     },
     {
       "title": "Senior Data Infra Engineer",
@@ -1265,7 +1270,7 @@
       "posted_at": "2026-05-13T14:11:02-04:00",
       "first_seen_at": "2026-05-12",
       "is_new_today": false,
-      "days_open": 41
+      "days_open": 42
     },
     {
       "title": "Data Science & ML-Ops Team Lead",
@@ -1279,7 +1284,21 @@
       "posted_at": "2026-06-09T03:55:40-04:00",
       "first_seen_at": "2026-06-07",
       "is_new_today": false,
-      "days_open": 15
+      "days_open": 16
+    },
+    {
+      "title": "QA Automation Engineer (Temporary Position)",
+      "company": "Transmitsecurity",
+      "location": "Tel Aviv-Yafo, Gush Dan, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Mid",
+      "skills": "",
+      "source": "greenhouse",
+      "url": "https://www.transmitsecurity.com/about/careers/job?gh_jid=8542303002",
+      "posted_at": "2026-06-23T03:37:55-04:00",
+      "first_seen_at": "2026-05-27",
+      "is_new_today": false,
+      "days_open": 27
     },
     {
       "title": "Senior Devops Engineer",
@@ -1293,21 +1312,7 @@
       "posted_at": "2026-01-07T08:39:10-05:00",
       "first_seen_at": "2026-05-12",
       "is_new_today": false,
-      "days_open": 41
-    },
-    {
-      "title": "Research Scientist – LTX Model Evaluation",
-      "company": "Lightricks",
-      "location": "Jerusalem",
-      "location_bucket": "Jerusalem",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "greenhouse",
-      "url": "https://careers.lightricks.com/position?gh_jid=8392230002&gh_jid=8392230002",
-      "posted_at": "2026-06-11T05:47:17-04:00",
-      "first_seen_at": "2026-05-15",
-      "is_new_today": false,
-      "days_open": 38
+      "days_open": 42
     },
     {
       "title": "Senior Talent Acquisition Partner - R&D",
@@ -1321,7 +1326,7 @@
       "posted_at": "2026-06-10T11:31:39-04:00",
       "first_seen_at": "2026-06-04",
       "is_new_today": false,
-      "days_open": 18
+      "days_open": 19
     },
     {
       "title": "Engineering Manager, AI Platform Enablement",
@@ -1335,7 +1340,7 @@
       "posted_at": "2026-06-02T09:19:39-04:00",
       "first_seen_at": "2026-05-28",
       "is_new_today": false,
-      "days_open": 25
+      "days_open": 26
     },
     {
       "title": "AWS DevOps Engineer",
@@ -1349,7 +1354,7 @@
       "posted_at": "2026-06-21",
       "first_seen_at": "2026-06-21",
       "is_new_today": false,
-      "days_open": 1
+      "days_open": 2
     },
     {
       "title": "DevOps Engineer",
@@ -1362,22 +1367,8 @@
       "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-kaltura-4430717128",
       "posted_at": "2026-06-18",
       "first_seen_at": "2026-06-22",
-      "is_new_today": true,
-      "days_open": 0
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": "SessionCam",
-      "location": "Petah Tikva, Center District, Israel",
-      "location_bucket": "Petah Tikva",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-sessioncam-4430430529",
-      "posted_at": "2026-06-18",
-      "first_seen_at": "2026-06-18",
       "is_new_today": false,
-      "days_open": 4
+      "days_open": 1
     },
     {
       "title": "DevOps Engineer",
@@ -1391,7 +1382,49 @@
       "posted_at": "2026-06-17",
       "first_seen_at": "2026-05-28",
       "is_new_today": false,
-      "days_open": 25
+      "days_open": 26
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "SessionCam",
+      "location": "Petah Tikva, Center District, Israel",
+      "location_bucket": "Petah Tikva",
+      "seniority": "Mid",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-sessioncam-4430430529",
+      "posted_at": "2026-06-18",
+      "first_seen_at": "2026-06-18",
+      "is_new_today": false,
+      "days_open": 5
+    },
+    {
+      "title": "Cloud Security Engineer",
+      "company": "KPMG Israel",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Mid",
+      "skills": "Security",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/cloud-security-engineer-at-kpmg-israel-4430569211",
+      "posted_at": "2026-06-22",
+      "first_seen_at": "2026-06-23",
+      "is_new_today": true,
+      "days_open": 0
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Sharpies PRO",
+      "location": "Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Mid",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-sharpies-pro-4431207225",
+      "posted_at": "2026-06-23",
+      "first_seen_at": "2026-06-23",
+      "is_new_today": true,
+      "days_open": 0
     },
     {
       "title": "DevOps Engineer",
@@ -1405,7 +1438,49 @@
       "posted_at": "2026-06-21",
       "first_seen_at": "2026-06-21",
       "is_new_today": false,
-      "days_open": 1
+      "days_open": 2
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "CodSec",
+      "location": "Ramat Gan, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Mid",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-codsec-4430893634",
+      "posted_at": "2026-06-23",
+      "first_seen_at": "2026-06-23",
+      "is_new_today": true,
+      "days_open": 0
+    },
+    {
+      "title": "Junior Cloud Engineer (DevOps)",
+      "company": "Teads",
+      "location": "Netanya, Center District, Israel",
+      "location_bucket": "Netanya",
+      "seniority": "Junior",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/junior-cloud-engineer-devops-at-teads-4431209410",
+      "posted_at": "2026-06-23",
+      "first_seen_at": "2026-06-23",
+      "is_new_today": true,
+      "days_open": 0
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Buildots",
+      "location": "Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Mid",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-buildots-4428946633",
+      "posted_at": "2026-06-22",
+      "first_seen_at": "2026-06-23",
+      "is_new_today": true,
+      "days_open": 0
     },
     {
       "title": "DevOps Engineer (Core)",
@@ -1418,22 +1493,8 @@
       "url": "https://il.linkedin.com/jobs/view/devops-engineer-core-at-island-4431638784",
       "posted_at": "2026-06-22",
       "first_seen_at": "2026-06-22",
-      "is_new_today": true,
-      "days_open": 0
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": "Planck",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-planck-4427718090",
-      "posted_at": "2026-06-15",
-      "first_seen_at": "2026-06-16",
       "is_new_today": false,
-      "days_open": 6
+      "days_open": 1
     },
     {
       "title": "DevOps & IT Manager",
@@ -1447,35 +1508,21 @@
       "posted_at": "2026-06-17",
       "first_seen_at": "2026-06-17",
       "is_new_today": false,
-      "days_open": 5
+      "days_open": 6
     },
     {
-      "title": "DevOps & CloudOps",
-      "company": "Moveo Source",
-      "location": "Ramat Gan, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-cloudops-at-moveo-source-4427499835",
-      "posted_at": "2026-06-15",
-      "first_seen_at": "2026-06-18",
-      "is_new_today": false,
-      "days_open": 4
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": "amp",
+      "title": "Senior DevOps Engineer",
+      "company": "Zenity",
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
       "location_bucket": "Tel Aviv",
-      "seniority": "Mid",
+      "seniority": "Senior",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-amp-4429235005",
-      "posted_at": "2026-06-16",
-      "first_seen_at": "2026-06-16",
-      "is_new_today": false,
-      "days_open": 6
+      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-zenity-4430560470",
+      "posted_at": "2026-06-22",
+      "first_seen_at": "2026-06-23",
+      "is_new_today": true,
+      "days_open": 0
     },
     {
       "title": "DevSecOps",
@@ -1489,7 +1536,7 @@
       "posted_at": "2026-06-19",
       "first_seen_at": "2026-05-28",
       "is_new_today": false,
-      "days_open": 25
+      "days_open": 26
     },
     {
       "title": "DevOps Engineer",
@@ -1503,35 +1550,7 @@
       "posted_at": "2026-06-18",
       "first_seen_at": "2026-06-19",
       "is_new_today": false,
-      "days_open": 3
-    },
-    {
-      "title": "Infrastructure and DevOps Engineer",
-      "company": "Intel",
-      "location": "Haifa District, Israel",
-      "location_bucket": "Haifa",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/infrastructure-and-devops-engineer-at-intel-4430330413",
-      "posted_at": "2026-06-21",
-      "first_seen_at": "2026-06-22",
-      "is_new_today": true,
-      "days_open": 0
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": "Personetics",
-      "location": "Givatayim, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-personetics-4428829912",
-      "posted_at": "2026-06-15",
-      "first_seen_at": "2026-06-15",
-      "is_new_today": false,
-      "days_open": 7
+      "days_open": 4
     },
     {
       "title": "DevOps Team Leader, Israel",
@@ -1541,9 +1560,9 @@
       "seniority": "Mid",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-team-leader-israel-at-algosec-4431627578",
-      "posted_at": "2026-06-22",
-      "first_seen_at": "2026-06-22",
+      "url": "https://il.linkedin.com/jobs/view/devops-team-leader-israel-at-algosec-4432073801",
+      "posted_at": "2026-06-23",
+      "first_seen_at": "2026-06-23",
       "is_new_today": true,
       "days_open": 0
     },
@@ -1558,8 +1577,50 @@
       "url": "https://il.linkedin.com/jobs/view/cloud-infrastructure-engineer%C2%A0-aws-at-comblack-4431673887",
       "posted_at": "2026-06-22",
       "first_seen_at": "2026-06-22",
+      "is_new_today": false,
+      "days_open": 1
+    },
+    {
+      "title": "Infrastructure & DevOps Team Lead",
+      "company": "Razor Labs",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Senior",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/infrastructure-devops-team-lead-at-razor-labs-4431373956",
+      "posted_at": "2026-06-21",
+      "first_seen_at": "2026-06-22",
+      "is_new_today": false,
+      "days_open": 1
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Noma Security",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Senior",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-noma-security-4431203415",
+      "posted_at": "2026-06-23",
+      "first_seen_at": "2026-06-23",
       "is_new_today": true,
       "days_open": 0
+    },
+    {
+      "title": "Infrastructure and DevOps Engineer",
+      "company": "Intel",
+      "location": "Haifa District, Israel",
+      "location_bucket": "Haifa",
+      "seniority": "Mid",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/infrastructure-and-devops-engineer-at-intel-4430330413",
+      "posted_at": "2026-06-21",
+      "first_seen_at": "2026-06-22",
+      "is_new_today": false,
+      "days_open": 1
     },
     {
       "title": "DevSecOps Engineer",
@@ -1573,49 +1634,7 @@
       "posted_at": "2026-06-21",
       "first_seen_at": "2026-06-02",
       "is_new_today": false,
-      "days_open": 20
-    },
-    {
-      "title": "Infrastructure & DevOps Team Lead",
-      "company": "Razor Labs",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Senior",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/infrastructure-devops-team-lead-at-razor-labs-4431373956",
-      "posted_at": "2026-06-21",
-      "first_seen_at": "2026-06-22",
-      "is_new_today": true,
-      "days_open": 0
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": "abra",
-      "location": "Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Senior",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-abra-4428846132",
-      "posted_at": "2026-06-15",
-      "first_seen_at": "2026-06-15",
-      "is_new_today": false,
-      "days_open": 7
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": "Planck",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Senior",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-planck-4427703990",
-      "posted_at": "2026-06-15",
-      "first_seen_at": "2026-06-16",
-      "is_new_today": false,
-      "days_open": 6
+      "days_open": 21
     },
     {
       "title": "Cloud Engineer",
@@ -1629,21 +1648,7 @@
       "posted_at": "2026-06-18",
       "first_seen_at": "2026-05-24",
       "is_new_today": false,
-      "days_open": 29
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "company": "Sela",
-      "location": "Center District, Israel",
-      "location_bucket": "Israel (other)",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/site-reliability-engineer-at-sela-4428586431",
-      "posted_at": "2026-06-21",
-      "first_seen_at": "2026-06-22",
-      "is_new_today": true,
-      "days_open": 0
+      "days_open": 30
     },
     {
       "title": "DevOps Engineer",
@@ -1657,7 +1662,7 @@
       "posted_at": "2026-06-18",
       "first_seen_at": "2026-06-19",
       "is_new_today": false,
-      "days_open": 3
+      "days_open": 4
     },
     {
       "title": "DevOps Engineer",
@@ -1670,20 +1675,6 @@
       "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-cisco-4410016662",
       "posted_at": "2026-06-16",
       "first_seen_at": "2026-05-26",
-      "is_new_today": false,
-      "days_open": 27
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": "Paragon",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-paragon-4400922396",
-      "posted_at": "2026-06-15",
-      "first_seen_at": "2026-05-25",
       "is_new_today": false,
       "days_open": 28
     },
@@ -1699,21 +1690,21 @@
       "posted_at": "2026-06-16",
       "first_seen_at": "2026-06-17",
       "is_new_today": false,
-      "days_open": 5
+      "days_open": 6
     },
     {
-      "title": "DevOps Engineer",
-      "company": "Blink",
-      "location": "Herzliya, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
+      "title": "Site Reliability Engineer",
+      "company": "Sela",
+      "location": "Center District, Israel",
+      "location_bucket": "Israel (other)",
       "seniority": "Mid",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-blink-4428874884",
-      "posted_at": "2026-06-15",
-      "first_seen_at": "2026-06-16",
+      "url": "https://il.linkedin.com/jobs/view/site-reliability-engineer-at-sela-4428586431",
+      "posted_at": "2026-06-21",
+      "first_seen_at": "2026-06-22",
       "is_new_today": false,
-      "days_open": 6
+      "days_open": 1
     },
     {
       "title": "21936 - DevOps Engineer",
@@ -1726,34 +1717,6 @@
       "url": "https://il.linkedin.com/jobs/view/21936-devops-engineer-at-qualitest-4426800318",
       "posted_at": "2026-06-16",
       "first_seen_at": "2026-06-17",
-      "is_new_today": false,
-      "days_open": 5
-    },
-    {
-      "title": "Senior Devops Engineer",
-      "company": "Moovit",
-      "location": "Ness Ziona, Center District, Israel",
-      "location_bucket": "Israel (other)",
-      "seniority": "Senior",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-moovit-4431683310",
-      "posted_at": "2026-06-22",
-      "first_seen_at": "2026-06-22",
-      "is_new_today": true,
-      "days_open": 0
-    },
-    {
-      "title": "DevOps & Cloud Engineer - Specialized Career Path (Prior Coding or IT Exp. Required)",
-      "company": "InfinityLabs R&D",
-      "location": "Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-cloud-engineer-specialized-career-path-prior-coding-or-it-exp-required-at-infinitylabs-r-d-4429134082",
-      "posted_at": "2026-06-15",
-      "first_seen_at": "2026-06-16",
       "is_new_today": false,
       "days_open": 6
     },
@@ -1769,21 +1732,7 @@
       "posted_at": "2026-06-18",
       "first_seen_at": "2026-06-19",
       "is_new_today": false,
-      "days_open": 3
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": "AMAREL LTD",
-      "location": "North District, Israel",
-      "location_bucket": "Israel (other)",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-amarel-ltd-4418248357",
-      "posted_at": "2026-06-22",
-      "first_seen_at": "2026-05-26",
-      "is_new_today": false,
-      "days_open": 27
+      "days_open": 4
     },
     {
       "title": "DevOps Manager",
@@ -1797,7 +1746,7 @@
       "posted_at": "2026-06-16",
       "first_seen_at": "2026-05-21",
       "is_new_today": false,
-      "days_open": 32
+      "days_open": 33
     },
     {
       "title": "DevOps Engineer",
@@ -1811,119 +1760,21 @@
       "posted_at": "2026-06-18",
       "first_seen_at": "2026-06-19",
       "is_new_today": false,
-      "days_open": 3
+      "days_open": 4
     },
     {
-      "title": "DevOps Team Leader",
-      "company": "Paragon",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
+      "title": "DevOps Engineer",
+      "company": "Applied Materials - Israel",
+      "location": "Rehovot, Center District, Israel",
+      "location_bucket": "Israel (other)",
       "seniority": "Mid",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-team-leader-at-paragon-4429026973",
-      "posted_at": "2026-06-18",
-      "first_seen_at": "2026-06-21",
-      "is_new_today": false,
-      "days_open": 1
-    },
-    {
-      "title": "Site Reliability Team Leader",
-      "company": "Radware",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/site-reliability-team-leader-at-radware-4407756951",
-      "posted_at": "2026-06-15",
-      "first_seen_at": "2026-05-26",
-      "is_new_today": false,
-      "days_open": 27
-    },
-    {
-      "title": "SRE Intern ( Magshimim )",
-      "company": "XM Cyber",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Junior",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/sre-intern-magshimim-at-xm-cyber-4429504320",
-      "posted_at": "2026-06-16",
-      "first_seen_at": "2026-06-17",
-      "is_new_today": false,
-      "days_open": 5
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "company": "BMC Software",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/site-reliability-engineer-at-bmc-software-4418686351",
-      "posted_at": "2026-06-18",
-      "first_seen_at": "2026-05-24",
-      "is_new_today": false,
-      "days_open": 29
-    },
-    {
-      "title": "Senior DevOps Engineer (Azure | Kubernetes | Python | React)",
-      "company": "Bridgify",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Senior",
-      "skills": "Kubernetes, Azure, Python",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-azure-kubernetes-python-react-at-bridgify-4428851792",
-      "posted_at": "2026-06-15",
-      "first_seen_at": "2026-06-16",
-      "is_new_today": false,
-      "days_open": 6
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": "Matia",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Senior",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-matia-4329699733",
-      "posted_at": "2026-06-17",
-      "first_seen_at": "2026-05-15",
-      "is_new_today": false,
-      "days_open": 38
-    },
-    {
-      "title": "Cloud Engineering Group Tech Lead",
-      "company": "monday.com",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Senior",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/cloud-engineering-group-tech-lead-at-monday-com-4430704843",
-      "posted_at": "2026-06-18",
-      "first_seen_at": "2026-06-19",
-      "is_new_today": false,
-      "days_open": 3
-    },
-    {
-      "title": "DevOps Tech Lead",
-      "company": "Zenity",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Senior",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-tech-lead-at-zenity-4416339934",
-      "posted_at": "2026-06-19",
-      "first_seen_at": "2026-05-21",
-      "is_new_today": false,
-      "days_open": 32
+      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-applied-materials-israel-4428998732",
+      "posted_at": "2026-06-22",
+      "first_seen_at": "2026-06-23",
+      "is_new_today": true,
+      "days_open": 0
     },
     {
       "title": "Devops Infra/cloud Engineer",
@@ -1933,123 +1784,25 @@
       "seniority": "Mid",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-infra-cloud-engineer-at-applied-materials-israel-4412804832",
-      "posted_at": "2026-06-15",
-      "first_seen_at": "2026-05-19",
-      "is_new_today": false,
-      "days_open": 34
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": "Elementor",
-      "location": "Ramat Gan, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Senior",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-elementor-4429298687",
-      "posted_at": "2026-06-16",
-      "first_seen_at": "2026-06-17",
-      "is_new_today": false,
-      "days_open": 5
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": "Aidoc",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Senior",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-aidoc-4430450699",
-      "posted_at": "2026-06-18",
-      "first_seen_at": "2026-06-19",
-      "is_new_today": false,
-      "days_open": 3
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": "Harmonic",
-      "location": "Caesarea, Haifa District, Israel",
-      "location_bucket": "Haifa",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-harmonic-4360460066",
-      "posted_at": "2026-06-17",
-      "first_seen_at": "2026-05-27",
-      "is_new_today": false,
-      "days_open": 26
-    },
-    {
-      "title": "Automation Infrastructure Engineer",
-      "company": "Cato Networks",
-      "location": "Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/automation-infrastructure-engineer-at-cato-networks-4427845609",
-      "posted_at": "2026-06-18",
-      "first_seen_at": "2026-06-19",
-      "is_new_today": false,
-      "days_open": 3
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": "Elbit Systems Israel",
-      "location": "Haifa District, Israel",
-      "location_bucket": "Haifa",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-elbit-systems-israel-4394529806",
+      "url": "https://il.linkedin.com/jobs/view/devops-infra-cloud-engineer-at-applied-materials-israel-4429415734",
       "posted_at": "2026-06-22",
-      "first_seen_at": "2026-06-05",
-      "is_new_today": false,
-      "days_open": 17
-    },
-    {
-      "title": "Cloud Architect",
-      "company": "Directeam",
-      "location": "Ramat Gan, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Senior",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/cloud-architect-at-directeam-4427337476",
-      "posted_at": "2026-06-17",
-      "first_seen_at": "2026-06-17",
-      "is_new_today": false,
-      "days_open": 5
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": "Gotfriends",
-      "location": "Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-gotfriends-4428940001",
-      "posted_at": "2026-06-22",
-      "first_seen_at": "2026-06-22",
+      "first_seen_at": "2026-06-23",
       "is_new_today": true,
       "days_open": 0
     },
     {
       "title": "DevOps Engineer",
-      "company": "Dialog",
-      "location": "Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
+      "company": "AMAREL LTD",
+      "location": "North District, Israel",
+      "location_bucket": "Israel (other)",
       "seniority": "Mid",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-dialog-4427345124",
-      "posted_at": "2026-06-17",
-      "first_seen_at": "2026-06-17",
+      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-amarel-ltd-4418248357",
+      "posted_at": "2026-06-22",
+      "first_seen_at": "2026-05-26",
       "is_new_today": false,
-      "days_open": 5
+      "days_open": 28
     },
     {
       "title": "Senior DevOps Engineer",
@@ -2063,231 +1816,49 @@
       "posted_at": "2026-06-18",
       "first_seen_at": "2026-06-19",
       "is_new_today": false,
-      "days_open": 3
+      "days_open": 4
     },
     {
-      "title": "Cloud Security Engineer (DevSecOps)",
-      "company": "Teva Pharmaceuticals",
+      "title": "DevOps Team Leader",
+      "company": "Paragon",
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
       "location_bucket": "Tel Aviv",
       "seniority": "Mid",
-      "skills": "Security",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/cloud-security-engineer-devsecops-at-teva-pharmaceuticals-4429916500",
-      "posted_at": "2026-06-17",
-      "first_seen_at": "2026-06-18",
-      "is_new_today": false,
-      "days_open": 4
-    },
-    {
-      "title": "DevOps Engineer Sub Contractor",
-      "company": "Samsung Semiconductor",
-      "location": "Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Mid",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-engineer-sub-contractor-at-samsung-semiconductor-4428639232",
-      "posted_at": "2026-06-16",
-      "first_seen_at": "2026-06-15",
-      "is_new_today": false,
-      "days_open": 7
-    },
-    {
-      "title": "Senior System Engineer",
-      "company": "Jobgether",
-      "location": "Israel",
-      "location_bucket": "Israel (other)",
-      "seniority": "Senior",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-system-engineer-at-jobgether-4428039366",
-      "posted_at": "2026-06-16",
-      "first_seen_at": "2026-06-16",
-      "is_new_today": false,
-      "days_open": 6
-    },
-    {
-      "title": "Information Technology Infrastructure Engineer",
-      "company": "Tekgence Inc",
-      "location": "Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/information-technology-infrastructure-engineer-at-tekgence-inc-4429373530",
+      "url": "https://il.linkedin.com/jobs/view/devops-team-leader-at-paragon-4429026973",
       "posted_at": "2026-06-18",
-      "first_seen_at": "2026-06-19",
-      "is_new_today": false,
-      "days_open": 3
-    },
-    {
-      "title": "Automation Infrastructure Engineer",
-      "company": "NVIDIA",
-      "location": "Yokneam Ilit, North District, Israel",
-      "location_bucket": "Israel (other)",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/automation-infrastructure-engineer-at-nvidia-4427778531",
-      "posted_at": "2026-06-16",
-      "first_seen_at": "2026-06-16",
-      "is_new_today": false,
-      "days_open": 6
-    },
-    {
-      "title": "System Engineer (533457)",
-      "company": "MalamTeam",
-      "location": "Petah Tikva, Center District, Israel",
-      "location_bucket": "Petah Tikva",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/system-engineer-533457-at-malamteam-4429959988",
-      "posted_at": "2026-06-17",
-      "first_seen_at": "2026-06-18",
-      "is_new_today": false,
-      "days_open": 4
-    },
-    {
-      "title": "Infrastructure Engineer",
-      "company": "Keshet Media Group",
-      "location": "Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/infrastructure-engineer-at-keshet-media-group-4417611355",
-      "posted_at": "2026-06-21",
-      "first_seen_at": "2026-05-28",
-      "is_new_today": false,
-      "days_open": 25
-    },
-    {
-      "title": "Experience Linux Engineer",
-      "company": "Galil Software Ltd.",
-      "location": "North District, Israel",
-      "location_bucket": "Israel (other)",
-      "seniority": "Mid",
-      "skills": "Linux",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/experience-linux-engineer-at-galil-software-ltd-4430379128",
-      "posted_at": "2026-06-22",
-      "first_seen_at": "2026-06-22",
-      "is_new_today": true,
-      "days_open": 0
-    },
-    {
-      "title": "Junior Technology Infrastructure Engineer",
-      "company": "Elbit Systems Israel",
-      "location": "Holon, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Junior",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/junior-technology-infrastructure-engineer-at-elbit-systems-israel-4399544922",
-      "posted_at": "2026-06-16",
-      "first_seen_at": "2026-05-26",
-      "is_new_today": false,
-      "days_open": 27
-    },
-    {
-      "title": "Data Center IT Infrastructure Engineer",
-      "company": "Nebius",
-      "location": "Modiin-Maccabim-Reut, Center District, Israel",
-      "location_bucket": "Israel (other)",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/data-center-it-infrastructure-engineer-at-nebius-4429338126",
-      "posted_at": "2026-06-18",
-      "first_seen_at": "2026-06-19",
-      "is_new_today": false,
-      "days_open": 3
-    },
-    {
-      "title": "Linux System Engineer",
-      "company": "Sela",
-      "location": "Center District, Israel",
-      "location_bucket": "Israel (other)",
-      "seniority": "Mid",
-      "skills": "Linux",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/linux-system-engineer-at-sela-4428931319",
-      "posted_at": "2026-06-22",
-      "first_seen_at": "2026-06-22",
-      "is_new_today": true,
-      "days_open": 0
-    },
-    {
-      "title": "System Engineer",
-      "company": "Rafael Advanced Defense Systems",
-      "location": "North District, Israel",
-      "location_bucket": "Israel (other)",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/system-engineer-at-rafael-advanced-defense-systems-4429211666",
-      "posted_at": "2026-06-16",
       "first_seen_at": "2026-06-21",
       "is_new_today": false,
-      "days_open": 1
+      "days_open": 2
     },
     {
-      "title": "System Engineer",
-      "company": "D-Fend Solutions",
-      "location": "Raanana, Center District, Israel",
-      "location_bucket": "Raanana",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/system-engineer-at-d-fend-solutions-4429992083",
-      "posted_at": "2026-06-17",
-      "first_seen_at": "2026-06-18",
-      "is_new_today": false,
-      "days_open": 4
-    },
-    {
-      "title": "Senior System Engineer (620127)",
-      "company": "SpearUAV",
-      "location": "Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
+      "title": "Head of DevOps",
+      "company": "Fluent Trade Technologies",
+      "location": "West Jerusalem, Jerusalem District, Israel",
+      "location_bucket": "Jerusalem",
       "seniority": "Senior",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-system-engineer-620127-at-spearuav-4427344299",
-      "posted_at": "2026-06-17",
-      "first_seen_at": "2026-06-22",
-      "is_new_today": true,
-      "days_open": 0
-    },
-    {
-      "title": "System Engineer",
-      "company": "Elbit Systems Israel",
-      "location": "Netanya, Center District, Israel",
-      "location_bucket": "Netanya",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/system-engineer-at-elbit-systems-israel-4377765290",
-      "posted_at": "2026-06-18",
-      "first_seen_at": "2026-05-28",
+      "url": "https://il.linkedin.com/jobs/view/head-of-devops-at-fluent-trade-technologies-4372997510",
+      "posted_at": "2026-06-22",
+      "first_seen_at": "2026-05-15",
       "is_new_today": false,
-      "days_open": 25
+      "days_open": 39
     },
     {
-      "title": "System Engineer",
-      "company": "CONTROP Precision Technologies Ltd.",
-      "location": "Kfar Saba, Center District, Israel",
-      "location_bucket": "Israel (other)",
+      "title": "Site Reliability Engineer",
+      "company": "BMC Software",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
       "seniority": "Mid",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/system-engineer-at-controp-precision-technologies-ltd-4424404648",
+      "url": "https://il.linkedin.com/jobs/view/site-reliability-engineer-at-bmc-software-4418686351",
       "posted_at": "2026-06-18",
-      "first_seen_at": "2026-06-22",
-      "is_new_today": true,
-      "days_open": 0
+      "first_seen_at": "2026-05-24",
+      "is_new_today": false,
+      "days_open": 30
     },
     {
       "title": "DevOps Production Engineer",
@@ -2301,105 +1872,21 @@
       "posted_at": "2026-06-19",
       "first_seen_at": "2026-05-29",
       "is_new_today": false,
-      "days_open": 24
-    },
-    {
-      "title": "Senior SRE (IT Infrastructure)",
-      "company": "Palo Alto Networks",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Senior",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-sre-it-infrastructure-at-palo-alto-networks-4387086808",
-      "posted_at": "2026-06-18",
-      "first_seen_at": "2026-05-28",
-      "is_new_today": false,
       "days_open": 25
     },
     {
-      "title": "SRE Project Manager",
-      "company": "Varonis",
-      "location": "Herzliya, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Mid",
+      "title": "Senior DevOps Engineer",
+      "company": "NVIDIA",
+      "location": "Yokneam Ilit, North District, Israel",
+      "location_bucket": "Israel (other)",
+      "seniority": "Senior",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/sre-project-manager-at-varonis-4431384600",
-      "posted_at": "2026-06-21",
-      "first_seen_at": "2026-06-22",
-      "is_new_today": true,
-      "days_open": 0
-    },
-    {
-      "title": "Cloud DevOps Team Leader 229534",
-      "company": "Experis Israel",
-      "location": "Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/cloud-devops-team-leader-229534-at-experis-israel-4428945098",
+      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-nvidia-4422598024",
       "posted_at": "2026-06-22",
-      "first_seen_at": "2026-06-22",
-      "is_new_today": true,
-      "days_open": 0
-    },
-    {
-      "title": "Head of DevOps",
-      "company": "NoTraffic",
-      "location": "Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Senior",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/head-of-devops-at-notraffic-4430412124",
-      "posted_at": "2026-06-18",
-      "first_seen_at": "2026-06-19",
+      "first_seen_at": "2026-06-01",
       "is_new_today": false,
-      "days_open": 3
-    },
-    {
-      "title": "Senior Automation Engineer - Networking",
-      "company": "Cato Networks",
-      "location": "Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Senior",
-      "skills": "Networking",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-automation-engineer-networking-at-cato-networks-4378169465",
-      "posted_at": "2026-06-19",
-      "first_seen_at": "2026-05-29",
-      "is_new_today": false,
-      "days_open": 24
-    },
-    {
-      "title": "Senior CloudOps Engineer",
-      "company": "HPE Aruba Networking",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Senior",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-cloudops-engineer-at-hpe-aruba-networking-4429567275",
-      "posted_at": "2026-06-16",
-      "first_seen_at": "2026-06-17",
-      "is_new_today": false,
-      "days_open": 5
-    },
-    {
-      "title": "DevOps Team Leader",
-      "company": "ZOLL Medical Corporation",
-      "location": "Herzliya, Tel Aviv District, Israel",
-      "location_bucket": "Tel Aviv",
-      "seniority": "Mid",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-team-leader-at-zoll-medical-corporation-4399156755",
-      "posted_at": "2026-06-17",
-      "first_seen_at": "2026-05-27",
-      "is_new_today": false,
-      "days_open": 26
+      "days_open": 22
     },
     {
       "title": "Senior Research-Ops & DevOps Engineer",
@@ -2413,53 +1900,573 @@
       "posted_at": "2026-06-19",
       "first_seen_at": "2026-05-31",
       "is_new_today": false,
-      "days_open": 22
+      "days_open": 23
+    },
+    {
+      "title": "Senior SRE (IT Infrastructure)",
+      "company": "Palo Alto Networks",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Senior",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/senior-sre-it-infrastructure-at-palo-alto-networks-4387086808",
+      "posted_at": "2026-06-18",
+      "first_seen_at": "2026-05-28",
+      "is_new_today": false,
+      "days_open": 26
     },
     {
       "title": "Senior DevOps Engineer",
-      "company": "HAAT Delivery",
-      "location": "North District, Israel",
+      "company": "Matia",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Senior",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-matia-4329699733",
+      "posted_at": "2026-06-17",
+      "first_seen_at": "2026-05-15",
+      "is_new_today": false,
+      "days_open": 39
+    },
+    {
+      "title": "Senior CloudOps Engineer",
+      "company": "HPE Aruba Networking",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Senior",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/senior-cloudops-engineer-at-hpe-aruba-networking-4429567275",
+      "posted_at": "2026-06-16",
+      "first_seen_at": "2026-06-17",
+      "is_new_today": false,
+      "days_open": 6
+    },
+    {
+      "title": "DevOps Lead",
+      "company": "Bagira",
+      "location": "Modiin-Maccabim-Reut, Center District, Israel",
       "location_bucket": "Israel (other)",
       "seniority": "Senior",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-haat-delivery-4426484215",
-      "posted_at": "2026-06-16",
+      "url": "https://il.linkedin.com/jobs/view/devops-lead-at-bagira-4368663100",
+      "posted_at": "2026-06-21",
+      "first_seen_at": "2026-06-23",
+      "is_new_today": true,
+      "days_open": 0
+    },
+    {
+      "title": "Infrastructure Engineer",
+      "company": "Keshet Media Group",
+      "location": "Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Mid",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/infrastructure-engineer-at-keshet-media-group-4417611355",
+      "posted_at": "2026-06-21",
+      "first_seen_at": "2026-05-28",
+      "is_new_today": false,
+      "days_open": 26
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Harmonic",
+      "location": "Caesarea, Haifa District, Israel",
+      "location_bucket": "Haifa",
+      "seniority": "Mid",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-harmonic-4360460066",
+      "posted_at": "2026-06-17",
+      "first_seen_at": "2026-05-27",
+      "is_new_today": false,
+      "days_open": 27
+    },
+    {
+      "title": "Cloud Engineering Group Tech Lead",
+      "company": "monday.com",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Senior",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/cloud-engineering-group-tech-lead-at-monday-com-4430704843",
+      "posted_at": "2026-06-18",
       "first_seen_at": "2026-06-19",
       "is_new_today": false,
-      "days_open": 3
+      "days_open": 4
+    },
+    {
+      "title": "DevOps Tech Lead",
+      "company": "Zenity",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Senior",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/devops-tech-lead-at-zenity-4416339934",
+      "posted_at": "2026-06-23",
+      "first_seen_at": "2026-05-21",
+      "is_new_today": false,
+      "days_open": 33
+    },
+    {
+      "title": "Data Infrastructure Team Leader",
+      "company": "evoke",
+      "location": "Herzliya, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Mid",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/data-infrastructure-team-leader-at-evoke-4431694215",
+      "posted_at": "2026-06-22",
+      "first_seen_at": "2026-06-23",
+      "is_new_today": true,
+      "days_open": 0
+    },
+    {
+      "title": "Founding Platform Engineer",
+      "company": "stepscale.io",
+      "location": "Israel",
+      "location_bucket": "Israel (other)",
+      "seniority": "Mid",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/founding-platform-engineer-at-stepscale-io-4432091419",
+      "posted_at": "2026-06-23",
+      "first_seen_at": "2026-06-23",
+      "is_new_today": true,
+      "days_open": 0
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Hyro",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Senior",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-hyro-4418385319",
+      "posted_at": "2026-06-18",
+      "first_seen_at": "2026-06-18",
+      "is_new_today": false,
+      "days_open": 5
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Elementor",
+      "location": "Ramat Gan, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Senior",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-elementor-4429298687",
+      "posted_at": "2026-06-16",
+      "first_seen_at": "2026-06-17",
+      "is_new_today": false,
+      "days_open": 6
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Aidoc",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Senior",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-aidoc-4430450699",
+      "posted_at": "2026-06-18",
+      "first_seen_at": "2026-06-19",
+      "is_new_today": false,
+      "days_open": 4
+    },
+    {
+      "title": "Automation Infrastructure Engineer",
+      "company": "Cato Networks",
+      "location": "Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Mid",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/automation-infrastructure-engineer-at-cato-networks-4427845609",
+      "posted_at": "2026-06-18",
+      "first_seen_at": "2026-06-19",
+      "is_new_today": false,
+      "days_open": 4
+    },
+    {
+      "title": "Cloud Architect",
+      "company": "Directeam",
+      "location": "Ramat Gan, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Senior",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/cloud-architect-at-directeam-4427337476",
+      "posted_at": "2026-06-17",
+      "first_seen_at": "2026-06-17",
+      "is_new_today": false,
+      "days_open": 6
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Gotfriends",
+      "location": "Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Mid",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-gotfriends-4428940001",
+      "posted_at": "2026-06-22",
+      "first_seen_at": "2026-06-22",
+      "is_new_today": false,
+      "days_open": 1
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Dialog",
+      "location": "Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Mid",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-dialog-4427345124",
+      "posted_at": "2026-06-17",
+      "first_seen_at": "2026-06-17",
+      "is_new_today": false,
+      "days_open": 6
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "SQLink Group",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Mid",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-sqlink-group-4432211748",
+      "posted_at": "2026-06-23",
+      "first_seen_at": "2026-06-23",
+      "is_new_today": true,
+      "days_open": 0
+    },
+    {
+      "title": "Senior Linux Infrastructure and Automation Engineer",
+      "company": "NVIDIA",
+      "location": "Yokneam Ilit, North District, Israel",
+      "location_bucket": "Israel (other)",
+      "seniority": "Senior",
+      "skills": "Linux",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/senior-linux-infrastructure-and-automation-engineer-at-nvidia-4399101600",
+      "posted_at": "2026-06-16",
+      "first_seen_at": "2026-06-18",
+      "is_new_today": false,
+      "days_open": 5
+    },
+    {
+      "title": "Cloud Security Engineer (DevSecOps)",
+      "company": "Teva Pharmaceuticals",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Mid",
+      "skills": "Security",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/cloud-security-engineer-devsecops-at-teva-pharmaceuticals-4429916500",
+      "posted_at": "2026-06-17",
+      "first_seen_at": "2026-06-18",
+      "is_new_today": false,
+      "days_open": 5
+    },
+    {
+      "title": "Information Technology Infrastructure Engineer",
+      "company": "Tekgence Inc",
+      "location": "Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Mid",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/information-technology-infrastructure-engineer-at-tekgence-inc-4429373530",
+      "posted_at": "2026-06-18",
+      "first_seen_at": "2026-06-19",
+      "is_new_today": false,
+      "days_open": 4
+    },
+    {
+      "title": "System Engineer (533457)",
+      "company": "MalamTeam",
+      "location": "Petah Tikva, Center District, Israel",
+      "location_bucket": "Petah Tikva",
+      "seniority": "Mid",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/system-engineer-533457-at-malamteam-4429959988",
+      "posted_at": "2026-06-17",
+      "first_seen_at": "2026-06-18",
+      "is_new_today": false,
+      "days_open": 5
+    },
+    {
+      "title": "Experience Linux Engineer",
+      "company": "Galil Software Ltd.",
+      "location": "North District, Israel",
+      "location_bucket": "Israel (other)",
+      "seniority": "Mid",
+      "skills": "Linux",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/experience-linux-engineer-at-galil-software-ltd-4430379128",
+      "posted_at": "2026-06-22",
+      "first_seen_at": "2026-06-22",
+      "is_new_today": false,
+      "days_open": 1
+    },
+    {
+      "title": "Junior Technology Infrastructure Engineer",
+      "company": "Elbit Systems Israel",
+      "location": "Holon, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Junior",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/junior-technology-infrastructure-engineer-at-elbit-systems-israel-4399544922",
+      "posted_at": "2026-06-16",
+      "first_seen_at": "2026-05-26",
+      "is_new_today": false,
+      "days_open": 28
+    },
+    {
+      "title": "Linux System Engineer",
+      "company": "Sela",
+      "location": "Center District, Israel",
+      "location_bucket": "Israel (other)",
+      "seniority": "Mid",
+      "skills": "Linux",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/linux-system-engineer-at-sela-4428931319",
+      "posted_at": "2026-06-22",
+      "first_seen_at": "2026-06-22",
+      "is_new_today": false,
+      "days_open": 1
+    },
+    {
+      "title": "System Engineer",
+      "company": "Nexite",
+      "location": "Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Mid",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/system-engineer-at-nexite-4431715362",
+      "posted_at": "2026-06-22",
+      "first_seen_at": "2026-06-23",
+      "is_new_today": true,
+      "days_open": 0
+    },
+    {
+      "title": "System Engineer",
+      "company": "D-Fend Solutions",
+      "location": "Raanana, Center District, Israel",
+      "location_bucket": "Raanana",
+      "seniority": "Mid",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/system-engineer-at-d-fend-solutions-4429992083",
+      "posted_at": "2026-06-17",
+      "first_seen_at": "2026-06-18",
+      "is_new_today": false,
+      "days_open": 5
+    },
+    {
+      "title": "Senior System Engineer (620127)",
+      "company": "SpearUAV",
+      "location": "Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Senior",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/senior-system-engineer-620127-at-spearuav-4427344299",
+      "posted_at": "2026-06-17",
+      "first_seen_at": "2026-06-22",
+      "is_new_today": false,
+      "days_open": 1
+    },
+    {
+      "title": "System Engineer",
+      "company": "Elbit Systems Israel",
+      "location": "Netanya, Center District, Israel",
+      "location_bucket": "Netanya",
+      "seniority": "Mid",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/system-engineer-at-elbit-systems-israel-4377765290",
+      "posted_at": "2026-06-18",
+      "first_seen_at": "2026-05-28",
+      "is_new_today": false,
+      "days_open": 26
+    },
+    {
+      "title": "System Engineer",
+      "company": "CONTROP Precision Technologies Ltd.",
+      "location": "Kfar Saba, Center District, Israel",
+      "location_bucket": "Israel (other)",
+      "seniority": "Mid",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/system-engineer-at-controp-precision-technologies-ltd-4424404648",
+      "posted_at": "2026-06-18",
+      "first_seen_at": "2026-06-22",
+      "is_new_today": false,
+      "days_open": 1
+    },
+    {
+      "title": "SRE Intern ( Magshimim )",
+      "company": "XM Cyber",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Junior",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/sre-intern-magshimim-at-xm-cyber-4429504320",
+      "posted_at": "2026-06-16",
+      "first_seen_at": "2026-06-17",
+      "is_new_today": false,
+      "days_open": 6
+    },
+    {
+      "title": "Head of DevOps",
+      "company": "NoTraffic",
+      "location": "Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Senior",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/head-of-devops-at-notraffic-4430412124",
+      "posted_at": "2026-06-18",
+      "first_seen_at": "2026-06-19",
+      "is_new_today": false,
+      "days_open": 4
+    },
+    {
+      "title": "Senior Automation Engineer - Networking",
+      "company": "Cato Networks",
+      "location": "Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Senior",
+      "skills": "Networking",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/senior-automation-engineer-networking-at-cato-networks-4378169465",
+      "posted_at": "2026-06-19",
+      "first_seen_at": "2026-05-29",
+      "is_new_today": false,
+      "days_open": 25
+    },
+    {
+      "title": "DevOps Team Leader",
+      "company": "ZOLL Medical Corporation",
+      "location": "Herzliya, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Mid",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/devops-team-leader-at-zoll-medical-corporation-4399156755",
+      "posted_at": "2026-06-17",
+      "first_seen_at": "2026-05-27",
+      "is_new_today": false,
+      "days_open": 27
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Oasis Security",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Senior",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-oasis-security-4431605535",
+      "posted_at": "2026-06-21",
+      "first_seen_at": "2026-06-23",
+      "is_new_today": true,
+      "days_open": 0
+    },
+    {
+      "title": "Senior Platform Engineer",
+      "company": "SciPlay",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "location_bucket": "Tel Aviv",
+      "seniority": "Senior",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/senior-platform-engineer-at-sciplay-4391151881",
+      "posted_at": "2026-06-20",
+      "first_seen_at": "2026-05-15",
+      "is_new_today": false,
+      "days_open": 39
     }
   ],
   "new_in_last_24h": [
     {
-      "title": "DevOps Engineer",
-      "company": "Kaltura",
-      "location": "Bnei Brak, Tel Aviv District, Israel",
-      "seniority": "",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-kaltura-4430717128",
-      "first_seen_at": "2026-06-22"
-    },
-    {
-      "title": "DevOps Engineer (Core)",
-      "company": "Island",
+      "title": "Cloud Security Engineer",
+      "company": "KPMG Israel",
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
       "seniority": "",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-engineer-core-at-island-4431638784",
-      "first_seen_at": "2026-06-22"
+      "url": "https://il.linkedin.com/jobs/view/cloud-security-engineer-at-kpmg-israel-4430569211",
+      "first_seen_at": "2026-06-23"
     },
     {
-      "title": "Infrastructure and DevOps Engineer",
-      "company": "Intel",
-      "location": "Haifa District, Israel",
+      "title": "DevOps Engineer",
+      "company": "Sharpies PRO",
+      "location": "Tel Aviv District, Israel",
       "seniority": "",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/infrastructure-and-devops-engineer-at-intel-4430330413",
-      "first_seen_at": "2026-06-22"
+      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-sharpies-pro-4431207225",
+      "first_seen_at": "2026-06-23"
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "CodSec",
+      "location": "Ramat Gan, Tel Aviv District, Israel",
+      "seniority": "",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-codsec-4430893634",
+      "first_seen_at": "2026-06-23"
+    },
+    {
+      "title": "Junior Cloud Engineer (DevOps)",
+      "company": "Teads",
+      "location": "Netanya, Center District, Israel",
+      "seniority": "",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/junior-cloud-engineer-devops-at-teads-4431209410",
+      "first_seen_at": "2026-06-23"
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Buildots",
+      "location": "Tel Aviv District, Israel",
+      "seniority": "",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-buildots-4428946633",
+      "first_seen_at": "2026-06-23"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Zenity",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "seniority": "",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-zenity-4430560470",
+      "first_seen_at": "2026-06-23"
     },
     {
       "title": "DevOps Team Leader, Israel",
@@ -2468,118 +2475,98 @@
       "seniority": "",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-team-leader-israel-at-algosec-4431627578",
-      "first_seen_at": "2026-06-22"
+      "url": "https://il.linkedin.com/jobs/view/devops-team-leader-israel-at-algosec-4432073801",
+      "first_seen_at": "2026-06-23"
     },
     {
-      "title": "Cloud Infrastructure Engineer (AWS)",
-      "company": "comblack",
-      "location": "Center District, Israel",
-      "seniority": "",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/cloud-infrastructure-engineer%C2%A0-aws-at-comblack-4431673887",
-      "first_seen_at": "2026-06-22"
-    },
-    {
-      "title": "Infrastructure & DevOps Team Lead",
-      "company": "Razor Labs",
+      "title": "Senior DevOps Engineer",
+      "company": "Noma Security",
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
       "seniority": "",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/infrastructure-devops-team-lead-at-razor-labs-4431373956",
-      "first_seen_at": "2026-06-22"
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "company": "Sela",
-      "location": "Center District, Israel",
-      "seniority": "",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/site-reliability-engineer-at-sela-4428586431",
-      "first_seen_at": "2026-06-22"
-    },
-    {
-      "title": "Senior Devops Engineer",
-      "company": "Moovit",
-      "location": "Ness Ziona, Center District, Israel",
-      "seniority": "",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-moovit-4431683310",
-      "first_seen_at": "2026-06-22"
+      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-noma-security-4431203415",
+      "first_seen_at": "2026-06-23"
     },
     {
       "title": "DevOps Engineer",
-      "company": "Gotfriends",
-      "location": "Tel Aviv District, Israel",
+      "company": "Applied Materials - Israel",
+      "location": "Rehovot, Center District, Israel",
       "seniority": "",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-gotfriends-4428940001",
-      "first_seen_at": "2026-06-22"
+      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-applied-materials-israel-4428998732",
+      "first_seen_at": "2026-06-23"
     },
     {
-      "title": "Experience Linux Engineer",
-      "company": "Galil Software Ltd.",
-      "location": "North District, Israel",
+      "title": "Devops Infra/cloud Engineer",
+      "company": "Applied Materials - Israel",
+      "location": "Rehovot, Center District, Israel",
       "seniority": "",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/experience-linux-engineer-at-galil-software-ltd-4430379128",
-      "first_seen_at": "2026-06-22"
+      "url": "https://il.linkedin.com/jobs/view/devops-infra-cloud-engineer-at-applied-materials-israel-4429415734",
+      "first_seen_at": "2026-06-23"
     },
     {
-      "title": "Linux System Engineer",
-      "company": "Sela",
-      "location": "Center District, Israel",
+      "title": "DevOps Lead",
+      "company": "Bagira",
+      "location": "Modiin-Maccabim-Reut, Center District, Israel",
       "seniority": "",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/linux-system-engineer-at-sela-4428931319",
-      "first_seen_at": "2026-06-22"
+      "url": "https://il.linkedin.com/jobs/view/devops-lead-at-bagira-4368663100",
+      "first_seen_at": "2026-06-23"
     },
     {
-      "title": "Senior System Engineer (620127)",
-      "company": "SpearUAV",
-      "location": "Tel Aviv District, Israel",
-      "seniority": "",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-system-engineer-620127-at-spearuav-4427344299",
-      "first_seen_at": "2026-06-22"
-    },
-    {
-      "title": "System Engineer",
-      "company": "CONTROP Precision Technologies Ltd.",
-      "location": "Kfar Saba, Center District, Israel",
-      "seniority": "",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/system-engineer-at-controp-precision-technologies-ltd-4424404648",
-      "first_seen_at": "2026-06-22"
-    },
-    {
-      "title": "SRE Project Manager",
-      "company": "Varonis",
+      "title": "Data Infrastructure Team Leader",
+      "company": "evoke",
       "location": "Herzliya, Tel Aviv District, Israel",
       "seniority": "",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/sre-project-manager-at-varonis-4431384600",
-      "first_seen_at": "2026-06-22"
+      "url": "https://il.linkedin.com/jobs/view/data-infrastructure-team-leader-at-evoke-4431694215",
+      "first_seen_at": "2026-06-23"
     },
     {
-      "title": "Cloud DevOps Team Leader 229534",
-      "company": "Experis Israel",
+      "title": "Founding Platform Engineer",
+      "company": "stepscale.io",
+      "location": "Israel",
+      "seniority": "",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/founding-platform-engineer-at-stepscale-io-4432091419",
+      "first_seen_at": "2026-06-23"
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "SQLink Group",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "seniority": "",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-sqlink-group-4432211748",
+      "first_seen_at": "2026-06-23"
+    },
+    {
+      "title": "System Engineer",
+      "company": "Nexite",
       "location": "Tel Aviv District, Israel",
       "seniority": "",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/cloud-devops-team-leader-229534-at-experis-israel-4428945098",
-      "first_seen_at": "2026-06-22"
+      "url": "https://il.linkedin.com/jobs/view/system-engineer-at-nexite-4431715362",
+      "first_seen_at": "2026-06-23"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Oasis Security",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "seniority": "",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-oasis-security-4431605535",
+      "first_seen_at": "2026-06-23"
     }
   ],
   "new_in_last_7d": [
@@ -2624,6 +2611,26 @@
       "first_seen_at": "2026-06-18"
     },
     {
+      "title": "Cloud Security Engineer",
+      "company": "KPMG Israel",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "seniority": "",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/cloud-security-engineer-at-kpmg-israel-4430569211",
+      "first_seen_at": "2026-06-23"
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Sharpies PRO",
+      "location": "Tel Aviv District, Israel",
+      "seniority": "",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-sharpies-pro-4431207225",
+      "first_seen_at": "2026-06-23"
+    },
+    {
       "title": "DevOps Engineer",
       "company": "Kela Technologies",
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
@@ -2632,6 +2639,36 @@
       "source": "linkedin",
       "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-kela-technologies-4431378416",
       "first_seen_at": "2026-06-21"
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "CodSec",
+      "location": "Ramat Gan, Tel Aviv District, Israel",
+      "seniority": "",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-codsec-4430893634",
+      "first_seen_at": "2026-06-23"
+    },
+    {
+      "title": "Junior Cloud Engineer (DevOps)",
+      "company": "Teads",
+      "location": "Netanya, Center District, Israel",
+      "seniority": "",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/junior-cloud-engineer-devops-at-teads-4431209410",
+      "first_seen_at": "2026-06-23"
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Buildots",
+      "location": "Tel Aviv District, Israel",
+      "seniority": "",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-buildots-4428946633",
+      "first_seen_at": "2026-06-23"
     },
     {
       "title": "DevOps Engineer (Core)",
@@ -2644,16 +2681,6 @@
       "first_seen_at": "2026-06-22"
     },
     {
-      "title": "DevOps Engineer",
-      "company": "Planck",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "seniority": "",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-planck-4427718090",
-      "first_seen_at": "2026-06-16"
-    },
-    {
       "title": "DevOps & IT Manager",
       "company": "Contguard",
       "location": "Hod HaSharon, Center District, Israel",
@@ -2664,24 +2691,14 @@
       "first_seen_at": "2026-06-17"
     },
     {
-      "title": "DevOps & CloudOps",
-      "company": "Moveo Source",
-      "location": "Ramat Gan, Tel Aviv District, Israel",
-      "seniority": "",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-cloudops-at-moveo-source-4427499835",
-      "first_seen_at": "2026-06-18"
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": "amp",
+      "title": "Senior DevOps Engineer",
+      "company": "Zenity",
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
       "seniority": "",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-amp-4429235005",
-      "first_seen_at": "2026-06-16"
+      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-zenity-4430560470",
+      "first_seen_at": "2026-06-23"
     },
     {
       "title": "DevOps Engineer",
@@ -2694,24 +2711,14 @@
       "first_seen_at": "2026-06-19"
     },
     {
-      "title": "Infrastructure and DevOps Engineer",
-      "company": "Intel",
-      "location": "Haifa District, Israel",
-      "seniority": "",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/infrastructure-and-devops-engineer-at-intel-4430330413",
-      "first_seen_at": "2026-06-22"
-    },
-    {
       "title": "DevOps Team Leader, Israel",
       "company": "AlgoSec",
       "location": "Petah Tikva, Center District, Israel",
       "seniority": "",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-team-leader-israel-at-algosec-4431627578",
-      "first_seen_at": "2026-06-22"
+      "url": "https://il.linkedin.com/jobs/view/devops-team-leader-israel-at-algosec-4432073801",
+      "first_seen_at": "2026-06-23"
     },
     {
       "title": "Cloud Infrastructure Engineer (AWS)",
@@ -2735,22 +2742,22 @@
     },
     {
       "title": "Senior DevOps Engineer",
-      "company": "Planck",
+      "company": "Noma Security",
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
       "seniority": "",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-planck-4427703990",
-      "first_seen_at": "2026-06-16"
+      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-noma-security-4431203415",
+      "first_seen_at": "2026-06-23"
     },
     {
-      "title": "Site Reliability Engineer",
-      "company": "Sela",
-      "location": "Center District, Israel",
+      "title": "Infrastructure and DevOps Engineer",
+      "company": "Intel",
+      "location": "Haifa District, Israel",
       "seniority": "",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/site-reliability-engineer-at-sela-4428586431",
+      "url": "https://il.linkedin.com/jobs/view/infrastructure-and-devops-engineer-at-intel-4430330413",
       "first_seen_at": "2026-06-22"
     },
     {
@@ -2774,14 +2781,14 @@
       "first_seen_at": "2026-06-17"
     },
     {
-      "title": "DevOps Engineer",
-      "company": "Blink",
-      "location": "Herzliya, Tel Aviv District, Israel",
+      "title": "Site Reliability Engineer",
+      "company": "Sela",
+      "location": "Center District, Israel",
       "seniority": "",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-blink-4428874884",
-      "first_seen_at": "2026-06-16"
+      "url": "https://il.linkedin.com/jobs/view/site-reliability-engineer-at-sela-4428586431",
+      "first_seen_at": "2026-06-22"
     },
     {
       "title": "21936 - DevOps Engineer",
@@ -2792,26 +2799,6 @@
       "source": "linkedin",
       "url": "https://il.linkedin.com/jobs/view/21936-devops-engineer-at-qualitest-4426800318",
       "first_seen_at": "2026-06-17"
-    },
-    {
-      "title": "Senior Devops Engineer",
-      "company": "Moovit",
-      "location": "Ness Ziona, Center District, Israel",
-      "seniority": "",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-moovit-4431683310",
-      "first_seen_at": "2026-06-22"
-    },
-    {
-      "title": "DevOps & Cloud Engineer - Specialized Career Path (Prior Coding or IT Exp. Required)",
-      "company": "InfinityLabs R&D",
-      "location": "Tel Aviv District, Israel",
-      "seniority": "",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/devops-cloud-engineer-specialized-career-path-prior-coding-or-it-exp-required-at-infinitylabs-r-d-4429134082",
-      "first_seen_at": "2026-06-16"
     },
     {
       "title": "DevOps Specialist (36628)",
@@ -2834,6 +2821,36 @@
       "first_seen_at": "2026-06-19"
     },
     {
+      "title": "DevOps Engineer",
+      "company": "Applied Materials - Israel",
+      "location": "Rehovot, Center District, Israel",
+      "seniority": "",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-applied-materials-israel-4428998732",
+      "first_seen_at": "2026-06-23"
+    },
+    {
+      "title": "Devops Infra/cloud Engineer",
+      "company": "Applied Materials - Israel",
+      "location": "Rehovot, Center District, Israel",
+      "seniority": "",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/devops-infra-cloud-engineer-at-applied-materials-israel-4429415734",
+      "first_seen_at": "2026-06-23"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Utila",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "seniority": "",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-utila-4429083966",
+      "first_seen_at": "2026-06-19"
+    },
+    {
       "title": "DevOps Team Leader",
       "company": "Paragon",
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
@@ -2844,24 +2861,24 @@
       "first_seen_at": "2026-06-21"
     },
     {
-      "title": "SRE Intern ( Magshimim )",
-      "company": "XM Cyber",
+      "title": "Senior CloudOps Engineer",
+      "company": "HPE Aruba Networking",
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
       "seniority": "",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/sre-intern-magshimim-at-xm-cyber-4429504320",
+      "url": "https://il.linkedin.com/jobs/view/senior-cloudops-engineer-at-hpe-aruba-networking-4429567275",
       "first_seen_at": "2026-06-17"
     },
     {
-      "title": "Senior DevOps Engineer (Azure | Kubernetes | Python | React)",
-      "company": "Bridgify",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "title": "DevOps Lead",
+      "company": "Bagira",
+      "location": "Modiin-Maccabim-Reut, Center District, Israel",
       "seniority": "",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-azure-kubernetes-python-react-at-bridgify-4428851792",
-      "first_seen_at": "2026-06-16"
+      "url": "https://il.linkedin.com/jobs/view/devops-lead-at-bagira-4368663100",
+      "first_seen_at": "2026-06-23"
     },
     {
       "title": "Cloud Engineering Group Tech Lead",
@@ -2872,6 +2889,36 @@
       "source": "linkedin",
       "url": "https://il.linkedin.com/jobs/view/cloud-engineering-group-tech-lead-at-monday-com-4430704843",
       "first_seen_at": "2026-06-19"
+    },
+    {
+      "title": "Data Infrastructure Team Leader",
+      "company": "evoke",
+      "location": "Herzliya, Tel Aviv District, Israel",
+      "seniority": "",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/data-infrastructure-team-leader-at-evoke-4431694215",
+      "first_seen_at": "2026-06-23"
+    },
+    {
+      "title": "Founding Platform Engineer",
+      "company": "stepscale.io",
+      "location": "Israel",
+      "seniority": "",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/founding-platform-engineer-at-stepscale-io-4432091419",
+      "first_seen_at": "2026-06-23"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Hyro",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "seniority": "",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-hyro-4418385319",
+      "first_seen_at": "2026-06-18"
     },
     {
       "title": "Senior DevOps Engineer",
@@ -2934,14 +2981,24 @@
       "first_seen_at": "2026-06-17"
     },
     {
-      "title": "Senior DevOps Engineer",
-      "company": "Utila",
+      "title": "DevOps Engineer",
+      "company": "SQLink Group",
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
       "seniority": "",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-utila-4429083966",
-      "first_seen_at": "2026-06-19"
+      "url": "https://il.linkedin.com/jobs/view/devops-engineer-at-sqlink-group-4432211748",
+      "first_seen_at": "2026-06-23"
+    },
+    {
+      "title": "Senior Linux Infrastructure and Automation Engineer",
+      "company": "NVIDIA",
+      "location": "Yokneam Ilit, North District, Israel",
+      "seniority": "",
+      "skills": "",
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/senior-linux-infrastructure-and-automation-engineer-at-nvidia-4399101600",
+      "first_seen_at": "2026-06-18"
     },
     {
       "title": "Cloud Security Engineer (DevSecOps)",
@@ -2954,16 +3011,6 @@
       "first_seen_at": "2026-06-18"
     },
     {
-      "title": "Senior System Engineer",
-      "company": "Jobgether",
-      "location": "Israel",
-      "seniority": "",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-system-engineer-at-jobgether-4428039366",
-      "first_seen_at": "2026-06-16"
-    },
-    {
       "title": "Information Technology Infrastructure Engineer",
       "company": "Tekgence Inc",
       "location": "Tel Aviv District, Israel",
@@ -2972,16 +3019,6 @@
       "source": "linkedin",
       "url": "https://il.linkedin.com/jobs/view/information-technology-infrastructure-engineer-at-tekgence-inc-4429373530",
       "first_seen_at": "2026-06-19"
-    },
-    {
-      "title": "Automation Infrastructure Engineer",
-      "company": "NVIDIA",
-      "location": "Yokneam Ilit, North District, Israel",
-      "seniority": "",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/automation-infrastructure-engineer-at-nvidia-4427778531",
-      "first_seen_at": "2026-06-16"
     },
     {
       "title": "System Engineer (533457)",
@@ -3004,16 +3041,6 @@
       "first_seen_at": "2026-06-22"
     },
     {
-      "title": "Data Center IT Infrastructure Engineer",
-      "company": "Nebius",
-      "location": "Modiin-Maccabim-Reut, Center District, Israel",
-      "seniority": "",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/data-center-it-infrastructure-engineer-at-nebius-4429338126",
-      "first_seen_at": "2026-06-19"
-    },
-    {
       "title": "Linux System Engineer",
       "company": "Sela",
       "location": "Center District, Israel",
@@ -3025,13 +3052,13 @@
     },
     {
       "title": "System Engineer",
-      "company": "Rafael Advanced Defense Systems",
-      "location": "North District, Israel",
+      "company": "Nexite",
+      "location": "Tel Aviv District, Israel",
       "seniority": "",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/system-engineer-at-rafael-advanced-defense-systems-4429211666",
-      "first_seen_at": "2026-06-21"
+      "url": "https://il.linkedin.com/jobs/view/system-engineer-at-nexite-4431715362",
+      "first_seen_at": "2026-06-23"
     },
     {
       "title": "System Engineer",
@@ -3064,24 +3091,14 @@
       "first_seen_at": "2026-06-22"
     },
     {
-      "title": "SRE Project Manager",
-      "company": "Varonis",
-      "location": "Herzliya, Tel Aviv District, Israel",
+      "title": "SRE Intern ( Magshimim )",
+      "company": "XM Cyber",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
       "seniority": "",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/sre-project-manager-at-varonis-4431384600",
-      "first_seen_at": "2026-06-22"
-    },
-    {
-      "title": "Cloud DevOps Team Leader 229534",
-      "company": "Experis Israel",
-      "location": "Tel Aviv District, Israel",
-      "seniority": "",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/cloud-devops-team-leader-229534-at-experis-israel-4428945098",
-      "first_seen_at": "2026-06-22"
+      "url": "https://il.linkedin.com/jobs/view/sre-intern-magshimim-at-xm-cyber-4429504320",
+      "first_seen_at": "2026-06-17"
     },
     {
       "title": "Head of DevOps",
@@ -3094,24 +3111,14 @@
       "first_seen_at": "2026-06-19"
     },
     {
-      "title": "Senior CloudOps Engineer",
-      "company": "HPE Aruba Networking",
+      "title": "Senior DevOps Engineer",
+      "company": "Oasis Security",
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
       "seniority": "",
       "skills": "",
       "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-cloudops-engineer-at-hpe-aruba-networking-4429567275",
-      "first_seen_at": "2026-06-17"
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": "HAAT Delivery",
-      "location": "North District, Israel",
-      "seniority": "",
-      "skills": "",
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-haat-delivery-4426484215",
-      "first_seen_at": "2026-06-19"
+      "url": "https://il.linkedin.com/jobs/view/senior-devops-engineer-at-oasis-security-4431605535",
+      "first_seen_at": "2026-06-23"
     }
   ]
 }
