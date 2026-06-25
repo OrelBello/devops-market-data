@@ -1,18 +1,18 @@
 # 🪜 Israeli DevOps — Junior Pipeline Report — 2026-W26
 
-_Generated June 24, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated June 25, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 > **Who this is for:** anyone in IT / Help Desk / Support / SysAdmin / Bootcamp grad / career-switcher who wants to break into DevOps. Every role on this list **requires DevOps stack tech** (Linux, Python, AWS, Docker, K8s, CI/CD…) — meaning you'll be paid to learn the right tools.
 
 ## This week, by the numbers
 
-We tracked **76 junior-pipeline roles** in Israel that mention real DevOps stack:
+We tracked **56 junior-pipeline roles** in Israel that mention real DevOps stack:
 
-- **Help Desk / IT Support** — 50
+- **Help Desk / IT Support** — 28
 - **SysAdmin / NOC** — 19
-- **Trainee / Bootcamp Grad** — 6
-- **Junior SRE / Cloud / Platform** — 1
+- **Trainee / Bootcamp Grad** — 7
+- **Junior SRE / Cloud / Platform** — 2
 
 (0 additional LinkedIn-only postings need manual JD review for stack — see "All Jobs" tab in the dashboard.)
 
@@ -20,21 +20,21 @@ We tracked **76 junior-pipeline roles** in Israel that mention real DevOps stack
 
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
-1. **Troubleshooting** — required in 52 roles
-2. **Networking** — required in 36 roles
-3. **Cloud (any)** — required in 22 roles
-4. **Active Directory** — required in 22 roles
-5. **Bash/Shell** — required in 21 roles
-6. **Python** — required in 18 roles
-7. **Automation** — required in 16 roles
-8. **Linux** — required in 15 roles
-9. **Azure** — required in 12 roles
-10. **Monitoring** — required in 12 roles
+1. **Troubleshooting** — required in 29 roles
+2. **Networking** — required in 26 roles
+3. **Active Directory** — required in 19 roles
+4. **Cloud (any)** — required in 18 roles
+5. **Python** — required in 16 roles
+6. **Bash/Shell** — required in 15 roles
+7. **Linux** — required in 14 roles
+8. **Monitoring** — required in 11 roles
+9. **Virtualization** — required in 10 roles
+10. **Automation** — required in 10 roles
 
 ## 🏢 Companies hiring for the pipeline
 
-1. **abra** — 3 role(s)
-2. **Elbit Systems Israel** — 3 role(s)
+1. **Elbit Systems Israel** — 4 role(s)
+2. **abra** — 3 role(s)
 3. **Unity3D** — 2 role(s)
 4. **SQLink Group** — 2 role(s)
 5. **PwC Israel** — 2 role(s)
@@ -55,26 +55,19 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://join.jfrog.com/job/?job=7563041&gh_jid=7563041)
 
+### Junior AI SRE Developer — Helfy
+📍 Herzliya, Tel Aviv District, Israel • 🎯 Learning Score: 100/100 • 🪜 Junior SRE / Cloud / Platform
+
+**Stack you'll work with:** Linux, Python, Bash/Shell, AWS, Cloud (any), Docker
+
+🔗 [View role](https://il.linkedin.com/jobs/view/junior-ai-sre-developer-at-helfy-4413461829)
+
 ### Linux System Administrator — Nuvoton Technology Israel Ltd
 📍 Herzliya, Tel Aviv District, Israel • 🎯 Learning Score: 100/100 • 🪜 SysAdmin / NOC
 
 **Stack you'll work with:** Linux, Python, Bash/Shell, Docker, Kubernetes, CI/CD
 
 🔗 [View role](https://il.linkedin.com/jobs/view/linux-system-administrator-at-nuvoton-technology-israel-ltd-4417322206)
-
-### Technical Support Engineer — Voyager Labs
-📍 Petah Tikva, Center District, Israel • 🎯 Learning Score: 88/100 • 🪜 Help Desk / IT Support
-
-**Stack you'll work with:** Linux, Python, AWS, Azure, Cloud (any), Docker
-
-🔗 [View role](https://il.linkedin.com/jobs/view/technical-support-engineer-at-voyager-labs-4420475324)
-
-### Linux System Engineer — Sela
-📍 Center District, Israel • 🎯 Learning Score: 80/100 • 🪜 SysAdmin / NOC
-
-**Stack you'll work with:** Linux, Python, Bash/Shell, Kubernetes, Terraform/IaC, Networking
-
-🔗 [View role](https://il.linkedin.com/jobs/view/linux-system-engineer-at-sela-4428931319)
 
 ### AI Inclined Systems Engineer — SB0
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 76/100 • 🪜 SysAdmin / NOC
@@ -83,19 +76,26 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/ai-inclined-systems-engineer-at-sb0-4429860196)
 
+### IT Specialist — Autobrains Technologies
+📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 74/100 • 🪜 Help Desk / IT Support
+
+**Stack you'll work with:** Linux, Python, Bash/Shell, AWS, Cloud (any), Docker
+
+🔗 [View role](https://il.linkedin.com/jobs/view/it-specialist-at-autobrains-technologies-4417872616)
+
+### Technical Support Engineer 2 — DataBank
+📍 Dallas, • 🎯 Learning Score: 64/100 • 🪜 Help Desk / IT Support
+
+**Stack you'll work with:** Linux, Python, Bash/Shell, Cloud (any), Terraform/IaC, Networking
+
+🔗 [View role](https://remoteOK.com/remote-jobs/remote-technical-support-engineer-2-databank-1134066)
+
 ### Junior Emulation Engineer, University Graduate, Google Cloud — Google
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 57/100 • 🪜 Junior SRE / Cloud / Platform
 
 **Stack you'll work with:** Python, Bash/Shell, GCP, Cloud (any), Networking
 
 🔗 [View role](https://il.linkedin.com/jobs/view/junior-emulation-engineer-university-graduate-google-cloud-at-google-4414165506)
-
-### System Administrator – Advanced Data Center and AI Infrastructure — NVIDIA
-📍 Yokneam Ilit, North District, Israel • 🎯 Learning Score: 52/100 • 🪜 SysAdmin / NOC
-
-**Stack you'll work with:** Linux, Python, Bash/Shell, Networking, Monitoring, Automation
-
-🔗 [View role](https://il.linkedin.com/jobs/view/system-administrator-%E2%80%93-advanced-data-center-and-ai-infrastructure-at-nvidia-4428415454)
 
 ### IT Specialist — Transmitsecurity
 📍 Tel Aviv-Yafo, Gush Dan, Israel • 🎯 Learning Score: 47/100 • 🪜 Help Desk / IT Support
@@ -104,27 +104,6 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://www.transmitsecurity.com/about/careers/job?gh_jid=8533931002)
 
-### IT Specialist — Transmit Security
-📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 47/100 • 🪜 Help Desk / IT Support
-
-**Stack you'll work with:** Bash/Shell, AWS, Azure, GCP, Cloud (any), Networking
-
-🔗 [View role](https://il.linkedin.com/jobs/view/it-specialist-at-transmit-security-4409875183)
-
-### IT Support Engineer — Candex
-📍 Ramat Gan, Tel Aviv District, Israel • 🎯 Learning Score: 47/100 • 🪜 Help Desk / IT Support
-
-**Stack you'll work with:** Bash/Shell, AWS, Azure, GCP, Cloud (any), Troubleshooting
-
-🔗 [View role](https://il.linkedin.com/jobs/view/it-support-engineer-at-candex-4410031859)
-
-### Technical Support Specialist — Upwind Security
-📍 Ramat Gan, Tel Aviv District, Israel • 🎯 Learning Score: 47/100 • 🪜 Help Desk / IT Support
-
-**Stack you'll work with:** Linux, Cloud (any), Docker, Kubernetes, Networking, Monitoring
-
-🔗 [View role](https://il.linkedin.com/jobs/view/technical-support-specialist-at-upwind-security-4377864560)
-
 ### IT Corp System Administrator — Payoneer
 📍 Herzliya, Tel Aviv District, Israel • 🎯 Learning Score: 44/100 • 🪜 SysAdmin / NOC
 
@@ -132,26 +111,47 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://www.payoneer.com/careers/position/7916835/?gh_jid=7916835)
 
-### IT Support Specialist - Temporary position — Cato Networks
-📍 Tel Aviv District, Israel • 🎯 Learning Score: 44/100 • 🪜 Help Desk / IT Support
+### System Software Student, Annapurna Labs — Amazon Web Services (AWS)
+📍 Haifa, Haifa District, Israel • 🎯 Learning Score: 44/100 • 🪜 Trainee / Bootcamp Grad
 
-**Stack you'll work with:** Python, Bash/Shell, Azure, Cloud (any), Networking, Automation
+**Stack you'll work with:** Linux, Python, AWS, Cloud (any)
 
-🔗 [View role](https://il.linkedin.com/jobs/view/it-support-specialist-temporary-position-at-cato-networks-4394155925)
+🔗 [View role](https://il.linkedin.com/jobs/view/system-software-student-annapurna-labs-at-amazon-web-services-aws-4431605549)
 
-### IT Operations & Helpdesk Engineer — Claroty
-📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 44/100 • 🪜 Help Desk / IT Support
+### System Engineer — SQLink Group
+📍 Ashdod, South District, Israel • 🎯 Learning Score: 40/100 • 🪜 SysAdmin / NOC
 
-**Stack you'll work with:** Python, Bash/Shell, Azure, Cloud (any), Networking, Automation
+**Stack you'll work with:** Linux, Kubernetes, Networking, Virtualization, Active Directory, Windows Server
 
-🔗 [View role](https://il.linkedin.com/jobs/view/it-operations-helpdesk-engineer-at-claroty-4412805136)
+🔗 [View role](https://il.linkedin.com/jobs/view/system-engineer-at-sqlink-group-4432227642)
 
-### NOC Engineer - Intern position — Align Technology
-📍 Petah Tikva, Center District, Israel • 🎯 Learning Score: 40/100 • 🪜 SysAdmin / NOC
+### NOC Operator — Raft Technologies
+📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 36/100 • 🪜 SysAdmin / NOC
 
-**Stack you'll work with:** Bash/Shell, AWS, Cloud (any), Monitoring, Virtualization, Troubleshooting
+**Stack you'll work with:** Linux, Python, Networking, Monitoring, Troubleshooting
 
-🔗 [View role](https://il.linkedin.com/jobs/view/noc-engineer-intern-position-at-align-technology-4303646784)
+🔗 [View role](https://il.linkedin.com/jobs/view/noc-operator-at-raft-technologies-4429863387)
+
+### Help Desk and System Administrator (Israel) — Zota
+📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 34/100 • 🪜 Help Desk / IT Support
+
+**Stack you'll work with:** Azure, Cloud (any), Terraform/IaC, Networking, Active Directory, Troubleshooting
+
+🔗 [View role](https://il.linkedin.com/jobs/view/help-desk-and-system-administrator-israel-at-zota-4431223683)
+
+### AI Operations Engineer — Droxi
+📍 Ramat Gan, Tel Aviv District, Israel • 🎯 Learning Score: 32/100 • 🪜 SysAdmin / NOC
+
+**Stack you'll work with:** Python, Bash/Shell, Monitoring, Automation
+
+🔗 [View role](https://il.linkedin.com/jobs/view/ai-operations-engineer-at-droxi-4426788584)
+
+### IT Support Specialist — Spinomenal
+📍 Bnei Brak, Tel Aviv District, Israel • 🎯 Learning Score: 30/100 • 🪜 Help Desk / IT Support
+
+**Stack you'll work with:** Python, Bash/Shell, Networking, Automation, Troubleshooting
+
+🔗 [View role](https://il.linkedin.com/jobs/view/it-support-specialist-at-spinomenal-4431228721)
 
 
 ## How the score works
