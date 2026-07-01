@@ -1,39 +1,40 @@
 # Israeli DevOps Job Market Report — 2026-W27
 
-_Generated June 30, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated July 01, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 ## Executive Summary
 
-We tracked **108 open DevOps / SRE / Platform / Cloud roles** in Israel this week
-across 2 sources. **1 of those (0.9%)
+We tracked **90 open DevOps / SRE / Platform / Cloud roles** in Israel this week
+across 2 sources. **1 of those (1.1%)
 are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Week-over-Week Trends
 
-📈 **Total jobs**: +6 (+5.9%) vs 2026-W26
-📊 **Junior % change**: -0.1 pp
-
-**Rising skills:**
-- GCP: 12 → 13 (+1)
+📉 **Total jobs**: -12 (-11.8%) vs 2026-W26
+📊 **Junior % change**: +0.1 pp
 
 **Falling skills:**
-- Linux: 16 → 14 (-2)
+- Security: 29 → 24 (-5)
+- Linux: 16 → 13 (-3)
+- Argo CD: 8 → 7 (-1)
+- AWS: 20 → 19 (-1)
+- Docker: 12 → 11 (-1)
 
-**New companies in top 15:** SQLink Group, DataTeam, Varonis
+**New companies in top 15:** Elbit Systems Israel, Elad Software Systems, Moon Active, Maytronics
 
 ## Top 10 In-Demand Skills
 
-1. **Security** — 29 mentions
-2. **CI/CD** — 21 mentions
-3. **AWS** — 20 mentions
-4. **Kubernetes** — 18 mentions
+1. **Security** — 24 mentions
+2. **CI/CD** — 20 mentions
+3. **AWS** — 19 mentions
+4. **Kubernetes** — 17 mentions
 5. **Azure** — 16 mentions
-6. **Observability** — 14 mentions
-7. **Linux** — 14 mentions
-8. **GCP** — 13 mentions
-9. **Networking** — 12 mentions
-10. **Docker** — 12 mentions
+6. **Observability** — 13 mentions
+7. **Linux** — 13 mentions
+8. **GCP** — 12 mentions
+9. **Networking** — 11 mentions
+10. **Docker** — 11 mentions
 
 ## Top 10 Hiring Companies
 
@@ -41,18 +42,18 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 2. **Gongio** — 5 open roles
 3. **Jfrog** — 4 open roles
 4. **Via** — 3 open roles
-5. **Payoneer** — 3 open roles
-6. **comblack** — 3 open roles
-7. **SQLink Group** — 3 open roles
-8. **Taboola** — 2 open roles
-9. **Similarweb** — 2 open roles
-10. **Riskified** — 2 open roles
+5. **Elbit Systems Israel** — 3 open roles
+6. **Payoneer** — 2 open roles
+7. **Taboola** — 2 open roles
+8. **Similarweb** — 2 open roles
+9. **Riskified** — 2 open roles
+10. **Transmitsecurity** — 2 open roles
 
 ## Seniority Distribution
 
-- **Junior**: 0.9% ``
-- **Mid**: 63.9% `█████████████████████████`
-- **Senior**: 35.2% `██████████████`
+- **Junior**: 1.1% ``
+- **Mid**: 58.9% `███████████████████████`
+- **Senior**: 40.0% `████████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -64,19 +65,19 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Location Breakdown
 
-- **Tel Aviv** — 65
-- **Israel (other)** — 31
+- **Tel Aviv** — 53
+- **Israel (other)** — 22
 - **Raanana** — 6
-- **Haifa** — 2
+- **Haifa** — 4
+- **Petah Tikva** — 2
 - **Herzliya** — 1
 - **Jerusalem** — 1
-- **Petah Tikva** — 1
 - **Netanya** — 1
 
 ## Sources
 
-- linkedin: 74
-- greenhouse: 34
+- linkedin: 57
+- greenhouse: 33
 
 ## Methodology
 
