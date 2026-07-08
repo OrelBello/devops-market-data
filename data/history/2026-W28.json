@@ -1,25 +1,25 @@
 {
-  "total_jobs": 93,
+  "total_jobs": 90,
   "by_source": {
-    "greenhouse": 30,
-    "linkedin": 63
+    "greenhouse": 29,
+    "linkedin": 61
   },
   "top_skills": [
-    [
-      "Security",
-      22
-    ],
     [
       "AWS",
       21
     ],
     [
       "CI/CD",
-      20
+      19
+    ],
+    [
+      "Security",
+      19
     ],
     [
       "Kubernetes",
-      19
+      18
     ],
     [
       "Azure",
@@ -27,18 +27,14 @@
     ],
     [
       "GCP",
-      14
+      13
     ],
     [
       "Linux",
-      12
+      13
     ],
     [
       "Python",
-      12
-    ],
-    [
-      "Terraform",
       11
     ],
     [
@@ -46,7 +42,7 @@
       11
     ],
     [
-      "Networking",
+      "Terraform",
       10
     ],
     [
@@ -54,8 +50,12 @@
       10
     ],
     [
-      "Argo CD",
+      "Networking",
       9
+    ],
+    [
+      "Argo CD",
+      8
     ],
     [
       "Grafana",
@@ -69,22 +69,14 @@
   "top_companies": [
     [
       "Gongio",
-      6
+      5
     ],
     [
       "Jfrog",
       4
     ],
     [
-      "Elbit Systems Israel",
-      4
-    ],
-    [
       "Via",
-      3
-    ],
-    [
-      "NVIDIA AI",
       3
     ],
     [
@@ -124,26 +116,38 @@
       2
     ],
     [
-      "Gong",
+      "Elbit Systems Israel",
+      2
+    ],
+    [
+      "BMC Software",
+      2
+    ],
+    [
+      "NVIDIA",
       2
     ]
   ],
   "seniority_distribution": {
-    "Senior": 44,
-    "Mid": 49
+    "Senior": 41,
+    "Mid": 48,
+    "Junior": 1
   },
   "seniority_pct": {
-    "Senior": 47.3,
-    "Mid": 52.7
+    "Senior": 45.6,
+    "Mid": 53.3,
+    "Junior": 1.1
   },
-  "junior_pct": 0.0,
-  "junior_count": 0,
-  "junior_friendly_companies": [],
+  "junior_pct": 1.1,
+  "junior_count": 1,
+  "junior_friendly_companies": [
+    "Silk"
+  ],
   "location_distribution": {
-    "Tel Aviv": 67,
-    "Israel (other)": 12,
-    "Raanana": 4,
-    "Petah Tikva": 4,
+    "Tel Aviv": 57,
+    "Israel (other)": 21,
+    "Raanana": 3,
+    "Petah Tikva": 3,
     "Herzliya": 2,
     "Haifa": 2,
     "Jerusalem": 1,
@@ -191,10 +195,10 @@
       "hiring_strength": 15.1
     },
     "Gongio": {
-      "open_roles": 6,
-      "seniority_levels": 2,
+      "open_roles": 5,
+      "seniority_levels": 1,
       "skill_breadth": 22,
-      "hiring_strength": 26.9
+      "hiring_strength": 19.2
     },
     "Taboola": {
       "open_roles": 2,
@@ -250,6 +254,12 @@
       "skill_breadth": 1,
       "hiring_strength": 1.3
     },
+    "Natural Intelligence": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
     "Connecteam": {
       "open_roles": 1,
       "seniority_levels": 1,
@@ -257,6 +267,12 @@
       "hiring_strength": 1.2
     },
     "Buildots": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Agora": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -298,7 +314,37 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
+    "Mobileye": {
+      "open_roles": 2,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 2.4
+    },
     "AudioCodes": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Personetics": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Elbit Systems Israel": {
+      "open_roles": 2,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 2.4
+    },
+    "Gotfriends": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Matia": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -310,37 +356,7 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "DataTeam": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "AlgoSec": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "Mobileye": {
-      "open_roles": 2,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 2.4
-    },
-    "Riverside": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 1,
-      "hiring_strength": 1.3
-    },
-    "Personetics": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "OnTarget Communications": {
+    "Aidoc": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -352,61 +368,19 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Gong": {
-      "open_roles": 2,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 2.4
-    },
-    "Pipl": {
+    "OnTarget Communications": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Moon Active": {
+    "CloudBuzz": {
       "open_roles": 1,
       "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
+      "skill_breadth": 2,
+      "hiring_strength": 1.4
     },
-    "Nexxen": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "Infinidat": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "Armis": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "Elbit Systems Israel": {
-      "open_roles": 4,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 4.8
-    },
-    "Skai": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "Fetcherr": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "MatchPointIT": {
+    "Sela": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -417,18 +391,6 @@
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 2.4
-    },
-    "NVIDIA": {
-      "open_roles": 2,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 2.4
-    },
-    "Palo Alto Networks": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
     },
     "Navan": {
       "open_roles": 1,
@@ -442,35 +404,29 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
+    "NVIDIA": {
+      "open_roles": 2,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 2.4
+    },
+    "Fetcherr": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
     "Confidential": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "Matia": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "QuantHealth": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 1,
-      "hiring_strength": 1.3
-    },
-    "Elad Software Systems": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "NVIDIA AI": {
-      "open_roles": 3,
+      "open_roles": 2,
       "seniority_levels": 2,
       "skill_breadth": 0,
-      "hiring_strength": 4.2
+      "hiring_strength": 2.8
+    },
+    "DriveNets": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
     },
     "Commit": {
       "open_roles": 1,
@@ -484,73 +440,49 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
+    "DataTeam": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
     "Matrix": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Gotfriends": {
+    "Elad Software Systems": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Medulla": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "Varonis": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "4M Analytics": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "1GLOBAL": {
+    "QuantHealth": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 1,
       "hiring_strength": 1.3
     },
-    "Prisma Photonics": {
+    "Amazon Web Services (AWS)": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Descope": {
+    "INGIMA": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "מרטנס | Mertens – מקבוצת מלם תים": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 1,
-      "hiring_strength": 1.3
-    },
-    "Camtek": {
+    "Chamelio": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Recruitx": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "XTEND": {
+    "MatchPointIT": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -561,13 +493,91 @@
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
+    },
+    "SQLink Group": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Pipl": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "abra": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Vega-In": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "comblack": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Cyera": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "E2E Solutions IL": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Silk": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Camtek": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Gong": {
+      "open_roles": 2,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 2.4
+    },
+    "Palo Alto Networks": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Parallel Wireless": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Riverbed Technology": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
     }
   },
   "top_hiring_strength": [
     [
       "Gongio",
-      26.9,
-      6
+      19.2,
+      5
     ],
     [
       "Jfrog",
@@ -600,19 +610,9 @@
       2
     ],
     [
-      "Elbit Systems Israel",
-      4.8,
-      4
-    ],
-    [
       "Payoneer",
       4.6,
       2
-    ],
-    [
-      "NVIDIA AI",
-      4.2,
-      3
     ],
     [
       "Taboola",
@@ -623,6 +623,11 @@
       "Torq",
       2.9,
       1
+    ],
+    [
+      "Confidential",
+      2.8,
+      2
     ],
     [
       "Axonius",
@@ -638,47 +643,52 @@
       "Wiz",
       2.4,
       2
+    ],
+    [
+      "Mobileye",
+      2.4,
+      2
     ]
   ],
   "week": "2026-W28",
   "diagnostics": {
     "greenhouse": {
-      "jobs": 30,
-      "elapsed_s": 13.8,
+      "jobs": 29,
+      "elapsed_s": 12.3,
       "ok": true
     },
     "linkedin": {
-      "jobs": 74,
-      "elapsed_s": 34.3,
+      "jobs": 73,
+      "elapsed_s": 33.4,
       "ok": true
     },
     "indeed_il": {
       "jobs": 0,
-      "elapsed_s": 8.6,
+      "elapsed_s": 9.2,
       "ok": true
     },
     "lever": {
       "jobs": 0,
-      "elapsed_s": 1.8,
+      "elapsed_s": 3.0,
       "ok": true
     },
     "alljobs": {
       "jobs": 0,
-      "elapsed_s": 35.8,
+      "elapsed_s": 34.1,
       "ok": true
     },
     "drushim": {
       "jobs": 0,
-      "elapsed_s": 17.6,
+      "elapsed_s": 20.0,
       "ok": true
     },
     "jobmaster": {
       "jobs": 0,
-      "elapsed_s": 15.2,
+      "elapsed_s": 15.0,
       "ok": true
     }
   },
-  "raw_count": 104,
-  "deduped_count": 93,
-  "saved_at": "2026-07-07T09:59:24"
+  "raw_count": 102,
+  "deduped_count": 90,
+  "saved_at": "2026-07-08T08:43:40"
 }
