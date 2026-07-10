@@ -1,62 +1,63 @@
 # Israeli DevOps Job Market Report — 2026-W28
 
-_Generated July 09, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated July 10, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 ## Executive Summary
 
-We tracked **94 open DevOps / SRE / Platform / Cloud roles** in Israel this week
-across 2 sources. **2 of those (2.1%)
+We tracked **97 open DevOps / SRE / Platform / Cloud roles** in Israel this week
+across 2 sources. **3 of those (3.1%)
 are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Week-over-Week Trends
 
-📉 **Total jobs**: -5 (-5.1%) vs 2026-W27
-📊 **Junior % change**: +2.1 pp
+📉 **Total jobs**: -2 (-2.0%) vs 2026-W27
+📊 **Junior % change**: +3.1 pp
 
 **Rising skills:**
-- Python: 11 → 12 (+1)
+- Helm: 0 → 4 (+4)
+- WAF/CDN: 0 → 4 (+4)
 
 **Falling skills:**
-- CI/CD: 21 → 17 (-4)
-- Kubernetes: 18 → 15 (-3)
-- Linux: 12 → 10 (-2)
-- Docker: 11 → 9 (-2)
-- Security: 21 → 19 (-2)
+- CI/CD: 21 → 15 (-6)
+- Grafana: 5 → 0 (-5)
+- Observability: 12 → 8 (-4)
+- Prometheus: 4 → 0 (-4)
+- Kubernetes: 18 → 14 (-4)
 
-**New companies in top 15:** Infinidat, Paragon, Mobileye, Gotfriends
+**New companies in top 15:** Infinidat, Jobgether, Gotfriends, Paragon
 
 ## Top 10 In-Demand Skills
 
-1. **Security** — 19 mentions
-2. **AWS** — 18 mentions
-3. **CI/CD** — 17 mentions
-4. **Kubernetes** — 15 mentions
-5. **Azure** — 13 mentions
-6. **Python** — 12 mentions
-7. **GCP** — 11 mentions
-8. **Terraform** — 10 mentions
-9. **Linux** — 10 mentions
-10. **Observability** — 10 mentions
+1. **Security** — 18 mentions
+2. **AWS** — 16 mentions
+3. **CI/CD** — 15 mentions
+4. **Kubernetes** — 14 mentions
+5. **Azure** — 11 mentions
+6. **GCP** — 10 mentions
+7. **Python** — 10 mentions
+8. **Terraform** — 9 mentions
+9. **Docker** — 9 mentions
+10. **Linux** — 9 mentions
 
 ## Top 10 Hiring Companies
 
 1. **Gongio** — 5 open roles
 2. **Via** — 3 open roles
 3. **NVIDIA** — 3 open roles
-4. **Nice** — 2 open roles
+4. **Elbit Systems Israel** — 3 open roles
 5. **Payoneer** — 2 open roles
-6. **Jfrog** — 2 open roles
-7. **Taboola** — 2 open roles
-8. **Similarweb** — 2 open roles
-9. **Appsflyer** — 2 open roles
-10. **Transmitsecurity** — 2 open roles
+6. **Taboola** — 2 open roles
+7. **Similarweb** — 2 open roles
+8. **Appsflyer** — 2 open roles
+9. **Transmitsecurity** — 2 open roles
+10. **NVIDIA AI** — 2 open roles
 
 ## Seniority Distribution
 
-- **Junior**: 2.1% ``
-- **Mid**: 55.3% `██████████████████████`
-- **Senior**: 42.6% `█████████████████`
+- **Junior**: 3.1% `█`
+- **Mid**: 53.6% `█████████████████████`
+- **Senior**: 43.3% `█████████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -68,18 +69,19 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Location Breakdown
 
-- **Tel Aviv** — 65
-- **Israel (other)** — 18
+- **Tel Aviv** — 67
+- **Israel (other)** — 17
 - **Raanana** — 3
 - **Petah Tikva** — 3
 - **Herzliya** — 2
+- **Jerusalem** — 2
 - **Haifa** — 2
-- **Jerusalem** — 1
+- **Netanya** — 1
 
 ## Sources
 
-- linkedin: 67
-- greenhouse: 27
+- linkedin: 72
+- greenhouse: 25
 
 ## Methodology
 
