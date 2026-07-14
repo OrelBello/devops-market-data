@@ -2,15 +2,15 @@
 
 I track every open DevOps / SRE / Platform Engineering / Cloud role in Israel and publish the data publicly. Here's what this week looks like:
 
-📊 99 open roles across major Israeli tech companies + global boards
-👥 2 of those (2.0%) are junior-friendly
-📈 +3 jobs vs last week (+3.1%)
+📊 92 open roles across major Israeli tech companies + global boards
+👥 2 of those (2.2%) are junior-friendly
+📉 -4 jobs vs last week (-4.2%)
 
 🔥 Most-demanded skills:
-Security • AWS • CI/CD • Kubernetes • Azure
+Security • AWS • Kubernetes • CI/CD • Azure
 
 🏢 Top hiring companies:
-Gongio, Via, Transmitsecurity, NVIDIA, Mobileye
+Gongio, Via, Gotfriends, Cato Networks, Payoneer
 
 Why I do this: I mentor 600+ DevOps engineers in @FlipTheScript and they kept asking "what should I learn?" and "who's hiring juniors?" Instead of guessing, I built an automated platform that answers those questions every Sunday — with real data.
 
