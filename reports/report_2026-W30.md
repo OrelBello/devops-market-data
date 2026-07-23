@@ -1,44 +1,43 @@
 # Israeli DevOps Job Market Report — 2026-W30
 
-_Generated July 22, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated July 23, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 ## Executive Summary
 
-We tracked **88 open DevOps / SRE / Platform / Cloud roles** in Israel this week
-across 2 sources. **1 of those (1.1%)
+We tracked **85 open DevOps / SRE / Platform / Cloud roles** in Israel this week
+across 2 sources. **2 of those (2.4%)
 are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Week-over-Week Trends
 
-📈 **Total jobs**: +6 (+7.3%) vs 2026-W29
-📊 **Junior % change**: -0.1 pp
+📈 **Total jobs**: +3 (+3.7%) vs 2026-W29
+📊 **Junior % change**: +1.2 pp
 
 **Rising skills:**
 - CloudFormation: 0 → 3 (+3)
-- Azure: 9 → 10 (+1)
 
 **Falling skills:**
 - Kafka: 4 → 0 (-4)
-- Security: 17 → 16 (-1)
-- AWS: 15 → 14 (-1)
+- Linux: 9 → 7 (-2)
 - CI/CD: 14 → 13 (-1)
+- Kubernetes: 13 → 12 (-1)
 - Docker: 8 → 7 (-1)
 
-**New companies in top 15:** Elbit Systems Israel, Dream, Palo Alto Networks, מרטנס | Mertens – מקבוצת מלם תים, Confidential
+**New companies in top 15:** Elbit Systems Israel, מרטנס | Mertens – מקבוצת מלם תים, Dream, Confidential, IAI - Israel Aerospace Industries
 
 ## Top 10 In-Demand Skills
 
-1. **Security** — 16 mentions
+1. **Security** — 17 mentions
 2. **AWS** — 14 mentions
 3. **CI/CD** — 13 mentions
 4. **Kubernetes** — 12 mentions
-5. **Azure** — 10 mentions
+5. **Azure** — 9 mentions
 6. **GCP** — 9 mentions
 7. **Networking** — 8 mentions
-8. **Linux** — 8 mentions
-9. **Terraform** — 7 mentions
-10. **Docker** — 7 mentions
+8. **Terraform** — 7 mentions
+9. **Docker** — 7 mentions
+10. **Linux** — 7 mentions
 
 ## Top 10 Hiring Companies
 
@@ -50,14 +49,14 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 6. **Similarweb** — 2 open roles
 7. **Appsflyer** — 2 open roles
 8. **Elbit Systems Israel** — 2 open roles
-9. **Dream** — 2 open roles
-10. **Palo Alto Networks** — 2 open roles
+9. **מרטנס | Mertens – מקבוצת מלם תים** — 2 open roles
+10. **Dream** — 2 open roles
 
 ## Seniority Distribution
 
-- **Junior**: 1.1% ``
-- **Mid**: 60.2% `████████████████████████`
-- **Senior**: 38.6% `███████████████`
+- **Junior**: 2.4% ``
+- **Mid**: 60.0% `████████████████████████`
+- **Senior**: 37.6% `███████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -69,18 +68,18 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Location Breakdown
 
-- **Tel Aviv** — 53
-- **Israel (other)** — 23
-- **Raanana** — 3
+- **Tel Aviv** — 52
+- **Israel (other)** — 18
+- **Raanana** — 4
+- **Haifa** — 3
+- **Petah Tikva** — 3
 - **Herzliya** — 2
-- **Jerusalem** — 2
 - **Netanya** — 2
-- **Haifa** — 2
-- **Petah Tikva** — 1
+- **Jerusalem** — 1
 
 ## Sources
 
-- linkedin: 64
+- linkedin: 61
 - greenhouse: 24
 
 ## Methodology
