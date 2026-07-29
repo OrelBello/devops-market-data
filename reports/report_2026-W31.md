@@ -1,33 +1,33 @@
 # Israeli DevOps Job Market Report — 2026-W31
 
-_Generated July 28, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated July 29, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 ## Executive Summary
 
-We tracked **84 open DevOps / SRE / Platform / Cloud roles** in Israel this week
-across 2 sources. **3 of those (3.6%)
+We tracked **83 open DevOps / SRE / Platform / Cloud roles** in Israel this week
+across 2 sources. **2 of those (2.4%)
 are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Week-over-Week Trends
 
-📈 **Total jobs**: +5 (+6.3%) vs 2026-W30
-📊 **Junior % change**: +2.3 pp
+📈 **Total jobs**: +4 (+5.1%) vs 2026-W30
+📊 **Junior % change**: +1.1 pp
 
 **Rising skills:**
 - AI/MLOps: 0 → 4 (+4)
-- Python: 6 → 9 (+3)
 - Docker: 7 → 10 (+3)
+- Python: 6 → 9 (+3)
 - Linux: 6 → 8 (+2)
 - CI/CD: 12 → 14 (+2)
 
 **Falling skills:**
 - CloudFormation: 3 → 0 (-3)
 - Security: 15 → 13 (-2)
-- Azure: 9 → 8 (-1)
 - GCP: 8 → 7 (-1)
+- Azure: 9 → 8 (-1)
 
-**New companies in top 15:** Sela, Palo Alto Networks
+**New companies in top 15:** Sela, Kaltura, מרטנס | Mertens – מקבוצת מלם תים, Applied Materials - Israel
 
 ## Top 10 In-Demand Skills
 
@@ -44,22 +44,22 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Top 10 Hiring Companies
 
-1. **Elbit Systems Israel** — 7 open roles
-2. **Gongio** — 4 open roles
-3. **Taboola** — 4 open roles
-4. **Via** — 3 open roles
-5. **Transmitsecurity** — 3 open roles
-6. **Nice** — 2 open roles
-7. **Similarweb** — 2 open roles
-8. **Jobgether** — 2 open roles
-9. **Sela** — 2 open roles
+1. **Gongio** — 4 open roles
+2. **Taboola** — 4 open roles
+3. **Via** — 3 open roles
+4. **Transmitsecurity** — 3 open roles
+5. **Sela** — 3 open roles
+6. **Elbit Systems Israel** — 3 open roles
+7. **Nice** — 2 open roles
+8. **Similarweb** — 2 open roles
+9. **Kaltura** — 2 open roles
 10. **Wiz** — 2 open roles
 
 ## Seniority Distribution
 
-- **Junior**: 3.6% `█`
-- **Mid**: 64.3% `█████████████████████████`
-- **Senior**: 32.1% `████████████`
+- **Junior**: 2.4% ``
+- **Mid**: 61.4% `████████████████████████`
+- **Senior**: 36.1% `██████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -71,18 +71,17 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Location Breakdown
 
-- **Tel Aviv** — 46
+- **Tel Aviv** — 48
 - **Israel (other)** — 23
-- **Raanana** — 4
-- **Haifa** — 4
-- **Petah Tikva** — 4
+- **Petah Tikva** — 5
+- **Haifa** — 3
+- **Raanana** — 2
 - **Herzliya** — 1
 - **Jerusalem** — 1
-- **Netanya** — 1
 
 ## Sources
 
-- linkedin: 59
+- linkedin: 58
 - greenhouse: 25
 
 ## Methodology
