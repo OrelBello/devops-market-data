@@ -1,18 +1,18 @@
 # 🪜 Israeli DevOps — Junior Pipeline Report — 2026-W32
 
-_Generated August 05, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated August 06, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 > **Who this is for:** anyone in IT / Help Desk / Support / SysAdmin / Bootcamp grad / career-switcher who wants to break into DevOps. Every role on this list **requires DevOps stack tech** (Linux, Python, AWS, Docker, K8s, CI/CD…) — meaning you'll be paid to learn the right tools.
 
 ## This week, by the numbers
 
-We tracked **77 junior-pipeline roles** in Israel that mention real DevOps stack:
+We tracked **70 junior-pipeline roles** in Israel that mention real DevOps stack:
 
-- **Help Desk / IT Support** — 41
+- **Help Desk / IT Support** — 45
 - **SysAdmin / NOC** — 18
-- **Trainee / Bootcamp Grad** — 16
-- **Junior SRE / Cloud / Platform** — 2
+- **Trainee / Bootcamp Grad** — 6
+- **Junior SRE / Cloud / Platform** — 1
 
 (0 additional LinkedIn-only postings need manual JD review for stack — see "All Jobs" tab in the dashboard.)
 
@@ -20,27 +20,27 @@ We tracked **77 junior-pipeline roles** in Israel that mention real DevOps stack
 
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
-1. **Troubleshooting** — required in 48 roles
-2. **Networking** — required in 45 roles
-3. **Linux** — required in 27 roles
-4. **Bash/Shell** — required in 26 roles
-5. **Cloud (any)** — required in 26 roles
+1. **Troubleshooting** — required in 50 roles
+2. **Networking** — required in 46 roles
+3. **Linux** — required in 30 roles
+4. **Bash/Shell** — required in 28 roles
+5. **Cloud (any)** — required in 28 roles
 6. **Automation** — required in 26 roles
-7. **Python** — required in 25 roles
-8. **Active Directory** — required in 24 roles
-9. **Monitoring** — required in 16 roles
-10. **Azure** — required in 12 roles
+7. **Active Directory** — required in 25 roles
+8. **Python** — required in 24 roles
+9. **Monitoring** — required in 19 roles
+10. **Azure** — required in 14 roles
 
 ## 🏢 Companies hiring for the pipeline
 
-1. **Elbit Systems Israel** — 6 role(s)
-2. **מרטנס | Mertens – מקבוצת מלם תים** — 4 role(s)
-3. **Nice** — 3 role(s)
-4. **Radware** — 3 role(s)
+1. **Nice** — 3 role(s)
+2. **abra** — 3 role(s)
+3. **Nebius** — 3 role(s)
+4. **מרטנס | Mertens – מקבוצת מלם תים** — 3 role(s)
 5. **Taboola** — 2 role(s)
-6. **abra** — 2 role(s)
-7. **SISL Global** — 2 role(s)
-8. **Confidential** — 2 role(s)
+6. **RAD** — 2 role(s)
+7. **Unilink Ltd.** — 2 role(s)
+8. **SISL Global** — 2 role(s)
 9. **Via** — 1 role(s)
 10. **Payoneer** — 1 role(s)
 
@@ -68,6 +68,13 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 **Stack you'll work with:** Linux, Python, Bash/Shell, Docker, Kubernetes, CI/CD
 
 🔗 [View role](https://il.linkedin.com/jobs/view/linux-system-engineer-at-calanit-by-one-4448158765)
+
+### System Administrator - Linux, Windows #1350 — RAD
+📍 Tel Aviv District, Israel • 🎯 Learning Score: 100/100 • 🪜 SysAdmin / NOC
+
+**Stack you'll work with:** Linux, Python, Bash/Shell, AWS, Azure, GCP
+
+🔗 [View role](https://il.linkedin.com/jobs/view/system-administrator-linux-windows-%231350-at-rad-4443763825)
 
 ### System Engineer — Paragon
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 100/100 • 🪜 SysAdmin / NOC
@@ -97,6 +104,13 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://boards.eu.greenhouse.io/nice/jobs/4850412101?gh_jid=4850412101)
 
+### Test Environment Support Engineer — abra
+📍 Center District, Israel • 🎯 Learning Score: 81/100 • 🪜 Help Desk / IT Support
+
+**Stack you'll work with:** Linux, Python, Bash/Shell, AWS, Cloud (any), CI/CD
+
+🔗 [View role](https://il.linkedin.com/jobs/view/test-environment-support-engineer-at-abra-4442615924)
+
 ### Junior Technical Operations Engineer — iGATES - INFORMATION GATES Ltd
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 80/100 • 🪜 SysAdmin / NOC
 
@@ -104,19 +118,12 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/junior-technical-operations-engineer-at-igates-information-gates-ltd-4442889333)
 
-### Junior QA Engineer - Student Position — Fives Intralogistics
-📍 Binyamina, Haifa District, Israel • 🎯 Learning Score: 74/100 • 🪜 Trainee / Bootcamp Grad
+### Infrastructure System Engineer — Experis Israel
+📍 Herzliya, Tel Aviv District, Israel • 🎯 Learning Score: 76/100 • 🪜 SysAdmin / NOC
 
-**Stack you'll work with:** Linux, Python, Bash/Shell, Cloud (any), CI/CD, Git
+**Stack you'll work with:** Linux, Python, Bash/Shell, Azure, CI/CD, Virtualization
 
-🔗 [View role](https://il.linkedin.com/jobs/view/junior-qa-engineer-student-position-at-fives-intralogistics-4446042176)
-
-### Junior QA Engineer - Student Position — Fives
-📍 Binyamina, Haifa District, Israel • 🎯 Learning Score: 74/100 • 🪜 Trainee / Bootcamp Grad
-
-**Stack you'll work with:** Linux, Python, Bash/Shell, Cloud (any), CI/CD, Git
-
-🔗 [View role](https://il.linkedin.com/jobs/view/junior-qa-engineer-student-position-at-fives-4436801163)
+🔗 [View role](https://il.linkedin.com/jobs/view/infrastructure-system-engineer-at-experis-israel-4437265103)
 
 ### IT Specialist — Autobrains Technologies
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 74/100 • 🪜 Help Desk / IT Support
@@ -125,20 +132,6 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/it-specialist-at-autobrains-technologies-4440209390)
 
-### Automation student- Jerusalem — Radware
-📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 70/100 • 🪜 Trainee / Bootcamp Grad
-
-**Stack you'll work with:** Linux, Python, Bash/Shell, Cloud (any), Git, Networking
-
-🔗 [View role](https://il.linkedin.com/jobs/view/automation-student-jerusalem-at-radware-4440152008)
-
-### Automation Student — Radware
-📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 70/100 • 🪜 Trainee / Bootcamp Grad
-
-**Stack you'll work with:** Linux, Python, Bash/Shell, Cloud (any), Git, Networking
-
-🔗 [View role](https://il.linkedin.com/jobs/view/automation-student-at-radware-4437695096)
-
 ### Cloud & AI Security Operations Engineer — Nice
 📍 Israel - Raanana • 🎯 Learning Score: 60/100 • 🪜 SysAdmin / NOC
 
@@ -146,12 +139,19 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://boards.eu.greenhouse.io/nice/jobs/4932015101?gh_jid=4932015101)
 
-### Junior Emulation Engineer, University Graduate, Google Cloud — Google
-📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 57/100 • 🪜 Junior SRE / Cloud / Platform
+### Computer System Engineer — Camtek
+📍 Migdal HaEmek, North District, Israel • 🎯 Learning Score: 56/100 • 🪜 SysAdmin / NOC
 
-**Stack you'll work with:** Python, Bash/Shell, GCP, Cloud (any), Networking
+**Stack you'll work with:** Linux, Python, Bash/Shell, Networking, Monitoring, Virtualization
 
-🔗 [View role](https://il.linkedin.com/jobs/view/junior-emulation-engineer-university-graduate-google-cloud-at-google-4414165506)
+🔗 [View role](https://il.linkedin.com/jobs/view/computer-system-engineer-at-camtek-4432772061)
+
+### System Administrator – Advanced Data Center and AI Infrastructure — NVIDIA
+📍 Yokneam Ilit, North District, Israel • 🎯 Learning Score: 52/100 • 🪜 SysAdmin / NOC
+
+**Stack you'll work with:** Linux, Python, Bash/Shell, Networking, Monitoring, Automation
+
+🔗 [View role](https://il.linkedin.com/jobs/view/system-administrator-%E2%80%93-advanced-data-center-and-ai-infrastructure-at-nvidia-4428415454)
 
 
 ## How the score works
