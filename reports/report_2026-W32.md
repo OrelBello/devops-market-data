@@ -1,34 +1,34 @@
 # Israeli DevOps Job Market Report — 2026-W32
 
-_Generated August 06, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated August 07, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 ## Executive Summary
 
-We tracked **91 open DevOps / SRE / Platform / Cloud roles** in Israel this week
+We tracked **93 open DevOps / SRE / Platform / Cloud roles** in Israel this week
 across 2 sources. **2 of those (2.2%)
 are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Week-over-Week Trends
 
-📉 **Total jobs**: -9 (-9.0%) vs 2026-W31
+📉 **Total jobs**: -7 (-7.0%) vs 2026-W31
 📊 **Junior % change**: +0.2 pp
 
 **Rising skills:**
-- Security: 14 → 18 (+4)
+- Security: 14 → 19 (+5)
 - Linux: 9 → 12 (+3)
 - GCP: 7 → 9 (+2)
-- CI/CD: 14 → 15 (+1)
-- AWS: 14 → 15 (+1)
+- Terraform: 8 → 9 (+1)
+- Python: 9 → 10 (+1)
 
 **Falling skills:**
 - Networking: 8 → 7 (-1)
 
-**New companies in top 15:** ArtAc, TAIRC, Thales, Gotfriends, Nebius
+**New companies in top 15:** ArtAc, TAIRC, Thales, Gotfriends, מרטנס | Mertens – מקבוצת מלם תים
 
 ## Top 10 In-Demand Skills
 
-1. **Security** — 18 mentions
+1. **Security** — 19 mentions
 2. **AWS** — 15 mentions
 3. **CI/CD** — 15 mentions
 4. **Kubernetes** — 14 mentions
@@ -55,8 +55,8 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 ## Seniority Distribution
 
 - **Junior**: 2.2% ``
-- **Mid**: 49.5% `███████████████████`
-- **Senior**: 48.4% `███████████████████`
+- **Mid**: 48.4% `███████████████████`
+- **Senior**: 49.5% `███████████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -68,17 +68,17 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Location Breakdown
 
-- **Tel Aviv** — 61
-- **Israel (other)** — 21
-- **Haifa** — 3
+- **Tel Aviv** — 57
+- **Israel (other)** — 24
+- **Haifa** — 4
+- **Petah Tikva** — 3
 - **Raanana** — 2
 - **Jerusalem** — 2
 - **Herzliya** — 1
-- **Petah Tikva** — 1
 
 ## Sources
 
-- linkedin: 66
+- linkedin: 68
 - greenhouse: 25
 
 ## Methodology
