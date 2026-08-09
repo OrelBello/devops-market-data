@@ -1,16 +1,16 @@
 # 🪜 Israeli DevOps — Junior Pipeline Report — 2026-W32
 
-_Generated August 07, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated August 09, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 > **Who this is for:** anyone in IT / Help Desk / Support / SysAdmin / Bootcamp grad / career-switcher who wants to break into DevOps. Every role on this list **requires DevOps stack tech** (Linux, Python, AWS, Docker, K8s, CI/CD…) — meaning you'll be paid to learn the right tools.
 
 ## This week, by the numbers
 
-We tracked **70 junior-pipeline roles** in Israel that mention real DevOps stack:
+We tracked **71 junior-pipeline roles** in Israel that mention real DevOps stack:
 
 - **Help Desk / IT Support** — 46
-- **SysAdmin / NOC** — 17
+- **SysAdmin / NOC** — 18
 - **Trainee / Bootcamp Grad** — 6
 - **Junior SRE / Cloud / Platform** — 1
 
@@ -20,16 +20,16 @@ We tracked **70 junior-pipeline roles** in Israel that mention real DevOps stack
 
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
-1. **Troubleshooting** — required in 51 roles
-2. **Networking** — required in 42 roles
-3. **Linux** — required in 30 roles
-4. **Bash/Shell** — required in 26 roles
-5. **Cloud (any)** — required in 26 roles
+1. **Troubleshooting** — required in 53 roles
+2. **Networking** — required in 43 roles
+3. **Linux** — required in 31 roles
+4. **Bash/Shell** — required in 27 roles
+5. **Cloud (any)** — required in 27 roles
 6. **Automation** — required in 25 roles
-7. **Python** — required in 23 roles
-8. **Active Directory** — required in 23 roles
+7. **Active Directory** — required in 24 roles
+8. **Python** — required in 23 roles
 9. **Monitoring** — required in 21 roles
-10. **Azure** — required in 15 roles
+10. **Virtualization** — required in 16 roles
 
 ## 🏢 Companies hiring for the pipeline
 
@@ -39,10 +39,10 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 4. **Taboola** — 2 role(s)
 5. **abra** — 2 role(s)
 6. **מרטנס | Mertens – מקבוצת מלם תים** — 2 role(s)
-7. **SISL Global** — 2 role(s)
-8. **Via** — 1 role(s)
-9. **Payoneer** — 1 role(s)
-10. **Appsflyer** — 1 role(s)
+7. **Via** — 1 role(s)
+8. **Payoneer** — 1 role(s)
+9. **Appsflyer** — 1 role(s)
+10. **Optimove** — 1 role(s)
 
 ## ⭐ Top 15 highest-scoring roles this week
 
@@ -62,12 +62,12 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/linux-system-administrator-at-nuvoton-technology-israel-ltd-4417322206)
 
-### Linux System Engineer — Calanit by one
+### Linux System Administrator — Calanit by one
 📍 North District, Israel • 🎯 Learning Score: 100/100 • 🪜 SysAdmin / NOC
 
 **Stack you'll work with:** Linux, Python, Bash/Shell, Docker, Kubernetes, CI/CD
 
-🔗 [View role](https://il.linkedin.com/jobs/view/linux-system-engineer-at-calanit-by-one-4448158765)
+🔗 [View role](https://il.linkedin.com/jobs/view/linux-system-administrator-at-calanit-by-one-4448158765)
 
 ### System Administrator - Linux, Windows #1350 — RAD
 📍 Tel Aviv District, Israel • 🎯 Learning Score: 100/100 • 🪜 SysAdmin / NOC
