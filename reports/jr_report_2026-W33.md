@@ -1,15 +1,15 @@
 # 🪜 Israeli DevOps — Junior Pipeline Report — 2026-W33
 
-_Generated August 10, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated August 11, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 > **Who this is for:** anyone in IT / Help Desk / Support / SysAdmin / Bootcamp grad / career-switcher who wants to break into DevOps. Every role on this list **requires DevOps stack tech** (Linux, Python, AWS, Docker, K8s, CI/CD…) — meaning you'll be paid to learn the right tools.
 
 ## This week, by the numbers
 
-We tracked **64 junior-pipeline roles** in Israel that mention real DevOps stack:
+We tracked **60 junior-pipeline roles** in Israel that mention real DevOps stack:
 
-- **Help Desk / IT Support** — 41
+- **Help Desk / IT Support** — 37
 - **SysAdmin / NOC** — 16
 - **Trainee / Bootcamp Grad** — 6
 - **Junior SRE / Cloud / Platform** — 1
@@ -20,29 +20,29 @@ We tracked **64 junior-pipeline roles** in Israel that mention real DevOps stack
 
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
-1. **Troubleshooting** — required in 46 roles
-2. **Networking** — required in 36 roles
-3. **Linux** — required in 28 roles
-4. **Bash/Shell** — required in 25 roles
-5. **Automation** — required in 25 roles
-6. **Python** — required in 23 roles
-7. **Cloud (any)** — required in 23 roles
-8. **Active Directory** — required in 20 roles
-9. **Monitoring** — required in 19 roles
-10. **CI/CD** — required in 13 roles
+1. **Troubleshooting** — required in 44 roles
+2. **Networking** — required in 35 roles
+3. **Linux** — required in 26 roles
+4. **Bash/Shell** — required in 23 roles
+5. **Cloud (any)** — required in 22 roles
+6. **Automation** — required in 22 roles
+7. **Active Directory** — required in 20 roles
+8. **Python** — required in 19 roles
+9. **Monitoring** — required in 17 roles
+10. **Virtualization** — required in 12 roles
 
 ## 🏢 Companies hiring for the pipeline
 
 1. **Nice** — 3 role(s)
-2. **Nebius** — 3 role(s)
-3. **Taboola** — 2 role(s)
+2. **Taboola** — 2 role(s)
+3. **Nebius** — 2 role(s)
 4. **RAD** — 2 role(s)
 5. **abra** — 2 role(s)
-6. **Via** — 1 role(s)
-7. **Appsflyer** — 1 role(s)
-8. **Optimove** — 1 role(s)
-9. **Helfy** — 1 role(s)
-10. **Waterfall Security Solutions** — 1 role(s)
+6. **מרטנס | Mertens – מקבוצת מלם תים** — 2 role(s)
+7. **Via** — 1 role(s)
+8. **Appsflyer** — 1 role(s)
+9. **Optimove** — 1 role(s)
+10. **Helfy** — 1 role(s)
 
 ## ⭐ Top 15 highest-scoring roles this week
 
@@ -74,7 +74,7 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 **Stack you'll work with:** Linux, Python, Bash/Shell, AWS, Azure, GCP
 
-🔗 [View role](https://il.linkedin.com/jobs/view/system-administrator-linux-windows-%231350-at-rad-4443763825)
+🔗 [View role](https://il.linkedin.com/jobs/view/system-administrator-linux-windows-%231350-at-rad-4452408106)
 
 ### System Engineer — Paragon
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 100/100 • 🪜 SysAdmin / NOC
@@ -97,12 +97,12 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/devops-student-position-at-waterfall-security-solutions-4444878648)
 
-### System Engineer 24246 — comblack
+### System Engineer — comblack
 📍 Center District, Israel • 🎯 Learning Score: 88/100 • 🪜 SysAdmin / NOC
 
 **Stack you'll work with:** Linux, Python, Bash/Shell, AWS, Cloud (any), CI/CD
 
-🔗 [View role](https://il.linkedin.com/jobs/view/system-engineer-24246-at-comblack-4450246628)
+🔗 [View role](https://il.linkedin.com/jobs/view/system-engineer-at-comblack-4451564107)
 
 ### IT System Administrator — Peak Innovation
 📍 Center District, Israel • 🎯 Learning Score: 88/100 • 🪜 SysAdmin / NOC
@@ -125,13 +125,6 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/junior-technical-operations-engineer-at-igates-information-gates-ltd-4442889333)
 
-### Infrastructure System Engineer — Experis Israel
-📍 Herzliya, Tel Aviv District, Israel • 🎯 Learning Score: 76/100 • 🪜 SysAdmin / NOC
-
-**Stack you'll work with:** Linux, Python, Bash/Shell, Azure, CI/CD, Virtualization
-
-🔗 [View role](https://il.linkedin.com/jobs/view/infrastructure-system-engineer-at-experis-israel-4437265103)
-
 ### Cloud & AI Security Operations Engineer — Nice
 📍 Israel - Raanana • 🎯 Learning Score: 60/100 • 🪜 SysAdmin / NOC
 
@@ -139,19 +132,26 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://boards.eu.greenhouse.io/nice/jobs/4932015101?gh_jid=4932015101)
 
-### Computer System Engineer — Camtek
-📍 Migdal HaEmek, North District, Israel • 🎯 Learning Score: 56/100 • 🪜 SysAdmin / NOC
-
-**Stack you'll work with:** Linux, Python, Bash/Shell, Networking, Monitoring, Virtualization
-
-🔗 [View role](https://il.linkedin.com/jobs/view/computer-system-engineer-at-camtek-4432772061)
-
 ### System Administrator – Advanced Data Center and AI Infrastructure — NVIDIA
 📍 Yokneam Ilit, North District, Israel • 🎯 Learning Score: 52/100 • 🪜 SysAdmin / NOC
 
 **Stack you'll work with:** Linux, Python, Bash/Shell, Networking, Monitoring, Automation
 
 🔗 [View role](https://il.linkedin.com/jobs/view/system-administrator-%E2%80%93-advanced-data-center-and-ai-infrastructure-at-nvidia-4428415454)
+
+### System Administrator & IT — inManage
+📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 52/100 • 🪜 SysAdmin / NOC
+
+**Stack you'll work with:** Linux, AWS, Azure, GCP, Active Directory
+
+🔗 [View role](https://il.linkedin.com/jobs/view/system-administrator-it-at-inmanage-4431693143)
+
+### IT Specialist — etoro
+📍 Bnei Brak, Tel Aviv District, Israel • 🎯 Learning Score: 51/100 • 🪜 Help Desk / IT Support
+
+**Stack you'll work with:** Bash/Shell, Azure, Cloud (any), CI/CD, Networking, Monitoring
+
+🔗 [View role](https://il.linkedin.com/jobs/view/it-specialist-at-etoro-4434952696)
 
 
 ## How the score works
