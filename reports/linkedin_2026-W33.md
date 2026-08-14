@@ -7,10 +7,10 @@ I track every open DevOps / SRE / Platform Engineering / Cloud role in Israel an
 📉 -9 jobs vs last week (-10.0%)
 
 🔥 Most-demanded skills:
-CI/CD • Kubernetes • AWS • Security • Docker
+CI/CD • AWS • Security • Kubernetes • Docker
 
 🏢 Top hiring companies:
-Taboola, Via, Gongio, Elbit Systems Israel, Nice
+Taboola, Via, Gongio, NVIDIA AI, NVIDIA
 
 Why I do this: I mentor 600+ DevOps engineers in @FlipTheScript and they kept asking "what should I learn?" and "who's hiring juniors?" Instead of guessing, I built an automated platform that answers those questions every Sunday — with real data.
 

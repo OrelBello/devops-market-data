@@ -1,6 +1,6 @@
 # Israeli DevOps Job Market Report — 2026-W33
 
-_Generated August 13, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated August 14, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 ## Executive Summary
@@ -15,50 +15,48 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 📊 **Junior % change**: -0.8 pp
 
 **Rising skills:**
+- CI/CD: 15 → 17 (+2)
+- Terraform: 9 → 11 (+2)
 - Kubernetes: 13 → 15 (+2)
-- Python: 10 → 11 (+1)
-- CI/CD: 15 → 16 (+1)
-- Argo CD: 6 → 7 (+1)
-- Networking: 6 → 7 (+1)
+- Observability: 6 → 8 (+2)
+- Python: 10 → 12 (+2)
 
 **Falling skills:**
-- Security: 16 → 14 (-2)
-- Linux: 11 → 10 (-1)
 - Azure: 8 → 7 (-1)
 
-**New companies in top 15:** Appsflyer, NVIDIA AI, SQLink Group, Fetcherr, Jfrog
+**New companies in top 15:** NVIDIA AI, comblack, Appsflyer, Axonius, SQLink Group
 
 ## Top 10 In-Demand Skills
 
-1. **CI/CD** — 16 mentions
-2. **Kubernetes** — 15 mentions
-3. **AWS** — 15 mentions
-4. **Security** — 14 mentions
-5. **Docker** — 11 mentions
-6. **Python** — 11 mentions
-7. **Terraform** — 10 mentions
-8. **Linux** — 10 mentions
+1. **CI/CD** — 17 mentions
+2. **AWS** — 16 mentions
+3. **Security** — 16 mentions
+4. **Kubernetes** — 15 mentions
+5. **Docker** — 12 mentions
+6. **Python** — 12 mentions
+7. **Terraform** — 11 mentions
+8. **Linux** — 11 mentions
 9. **GCP** — 9 mentions
-10. **Azure** — 7 mentions
+10. **Observability** — 8 mentions
 
 ## Top 10 Hiring Companies
 
 1. **Taboola** — 4 open roles
 2. **Via** — 3 open roles
 3. **Gongio** — 3 open roles
-4. **Elbit Systems Israel** — 3 open roles
-5. **Nice** — 2 open roles
-6. **Similarweb** — 2 open roles
-7. **Appsflyer** — 2 open roles
-8. **Transmitsecurity** — 2 open roles
-9. **NVIDIA AI** — 2 open roles
-10. **NVIDIA** — 2 open roles
+4. **NVIDIA AI** — 3 open roles
+5. **NVIDIA** — 3 open roles
+6. **comblack** — 3 open roles
+7. **Nice** — 2 open roles
+8. **Similarweb** — 2 open roles
+9. **Appsflyer** — 2 open roles
+10. **Axonius** — 2 open roles
 
 ## Seniority Distribution
 
 - **Junior**: 2.5% `█`
-- **Mid**: 54.3% `█████████████████████`
-- **Senior**: 43.2% `█████████████████`
+- **Mid**: 49.4% `███████████████████`
+- **Senior**: 48.1% `███████████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -70,18 +68,19 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Location Breakdown
 
-- **Tel Aviv** — 50
+- **Tel Aviv** — 49
 - **Israel (other)** — 18
-- **Netanya** — 5
-- **Raanana** — 3
+- **Raanana** — 4
+- **Netanya** — 4
 - **Herzliya** — 2
-- **Haifa** — 2
+- **Petah Tikva** — 2
+- **Haifa** — 1
 - **Jerusalem** — 1
 
 ## Sources
 
-- linkedin: 59
-- greenhouse: 22
+- linkedin: 58
+- greenhouse: 23
 
 ## Methodology
 
