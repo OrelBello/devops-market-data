@@ -1,20 +1,20 @@
 # Israeli DevOps Job Market Report — 2026-W34
 
-_Generated August 17, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated August 18, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 ## Executive Summary
 
-We tracked **82 open DevOps / SRE / Platform / Cloud roles** in Israel this week
+We tracked **85 open DevOps / SRE / Platform / Cloud roles** in Israel this week
 across 2 sources. **1 of those (1.2%)
 are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Week-over-Week Trends
 
-📈 **Total jobs**: +0 (+0.0%) vs 2026-W33
+📈 **Total jobs**: +3 (+3.7%) vs 2026-W33
 📊 **Junior % change**: +0.0 pp
 
-**New companies in top 15:** Palo Alto Networks
+**New companies in top 15:** Palo Alto Networks, מרטנס | Mertens – מקבוצת מלם תים, DriveNets, TeraSky
 
 ## Top 10 In-Demand Skills
 
@@ -34,19 +34,19 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 1. **Taboola** — 4 open roles
 2. **Via** — 3 open roles
 3. **Gongio** — 3 open roles
-4. **Elbit Systems Israel** — 3 open roles
-5. **NVIDIA** — 3 open roles
-6. **comblack** — 3 open roles
-7. **Nice** — 2 open roles
-8. **Similarweb** — 2 open roles
-9. **Appsflyer** — 2 open roles
-10. **Axonius** — 2 open roles
+4. **Transmitsecurity** — 3 open roles
+5. **Palo Alto Networks** — 3 open roles
+6. **Nice** — 2 open roles
+7. **Similarweb** — 2 open roles
+8. **Appsflyer** — 2 open roles
+9. **Axonius** — 2 open roles
+10. **Elbit Systems Israel** — 2 open roles
 
 ## Seniority Distribution
 
 - **Junior**: 1.2% ``
-- **Mid**: 47.6% `███████████████████`
-- **Senior**: 51.2% `████████████████████`
+- **Mid**: 47.1% `██████████████████`
+- **Senior**: 51.8% `████████████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -58,19 +58,18 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Location Breakdown
 
-- **Tel Aviv** — 51
-- **Israel (other)** — 13
-- **Petah Tikva** — 5
-- **Raanana** — 4
-- **Netanya** — 4
+- **Tel Aviv** — 54
+- **Israel (other)** — 12
+- **Petah Tikva** — 6
+- **Raanana** — 5
+- **Haifa** — 4
 - **Herzliya** — 2
-- **Haifa** — 2
-- **Jerusalem** — 1
+- **Netanya** — 2
 
 ## Sources
 
-- linkedin: 59
-- greenhouse: 23
+- linkedin: 61
+- greenhouse: 24
 
 ## Methodology
 
