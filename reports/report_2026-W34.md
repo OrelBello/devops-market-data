@@ -1,33 +1,40 @@
 # Israeli DevOps Job Market Report — 2026-W34
 
-_Generated August 18, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated August 19, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 ## Executive Summary
 
-We tracked **85 open DevOps / SRE / Platform / Cloud roles** in Israel this week
-across 2 sources. **1 of those (1.2%)
+We tracked **88 open DevOps / SRE / Platform / Cloud roles** in Israel this week
+across 2 sources. **1 of those (1.1%)
 are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Week-over-Week Trends
 
-📈 **Total jobs**: +3 (+3.7%) vs 2026-W33
-📊 **Junior % change**: +0.0 pp
+📈 **Total jobs**: +6 (+7.3%) vs 2026-W33
+📊 **Junior % change**: -0.1 pp
 
-**New companies in top 15:** Palo Alto Networks, מרטנס | Mertens – מקבוצת מלם תים, DriveNets, TeraSky
+**Rising skills:**
+- Observability: 8 → 9 (+1)
+
+**Falling skills:**
+- Kubernetes: 15 → 14 (-1)
+- GCP: 9 → 8 (-1)
+
+**New companies in top 15:** מרטנס | Mertens – מקבוצת מלם תים, DriveNets, Palo Alto Networks
 
 ## Top 10 In-Demand Skills
 
 1. **CI/CD** — 17 mentions
 2. **AWS** — 16 mentions
-3. **Kubernetes** — 15 mentions
-4. **Security** — 15 mentions
+3. **Security** — 15 mentions
+4. **Kubernetes** — 14 mentions
 5. **Docker** — 12 mentions
 6. **Python** — 12 mentions
 7. **Terraform** — 11 mentions
 8. **Linux** — 11 mentions
-9. **GCP** — 9 mentions
-10. **Observability** — 8 mentions
+9. **Observability** — 9 mentions
+10. **GCP** — 8 mentions
 
 ## Top 10 Hiring Companies
 
@@ -35,18 +42,18 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 2. **Via** — 3 open roles
 3. **Gongio** — 3 open roles
 4. **Transmitsecurity** — 3 open roles
-5. **Palo Alto Networks** — 3 open roles
-6. **Nice** — 2 open roles
-7. **Similarweb** — 2 open roles
-8. **Appsflyer** — 2 open roles
-9. **Axonius** — 2 open roles
-10. **Elbit Systems Israel** — 2 open roles
+5. **Nice** — 2 open roles
+6. **Similarweb** — 2 open roles
+7. **Appsflyer** — 2 open roles
+8. **Axonius** — 2 open roles
+9. **Elbit Systems Israel** — 2 open roles
+10. **מרטנס | Mertens – מקבוצת מלם תים** — 2 open roles
 
 ## Seniority Distribution
 
-- **Junior**: 1.2% ``
-- **Mid**: 47.1% `██████████████████`
-- **Senior**: 51.8% `████████████████████`
+- **Junior**: 1.1% ``
+- **Mid**: 47.7% `███████████████████`
+- **Senior**: 51.1% `████████████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -58,18 +65,18 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Location Breakdown
 
-- **Tel Aviv** — 54
-- **Israel (other)** — 12
-- **Petah Tikva** — 6
-- **Raanana** — 5
-- **Haifa** — 4
+- **Tel Aviv** — 57
+- **Israel (other)** — 13
+- **Haifa** — 5
+- **Petah Tikva** — 5
+- **Raanana** — 4
 - **Herzliya** — 2
 - **Netanya** — 2
 
 ## Sources
 
-- linkedin: 61
-- greenhouse: 24
+- linkedin: 63
+- greenhouse: 25
 
 ## Methodology
 

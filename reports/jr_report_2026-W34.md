@@ -1,17 +1,17 @@
 # 🪜 Israeli DevOps — Junior Pipeline Report — 2026-W34
 
-_Generated August 18, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated August 19, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 > **Who this is for:** anyone in IT / Help Desk / Support / SysAdmin / Bootcamp grad / career-switcher who wants to break into DevOps. Every role on this list **requires DevOps stack tech** (Linux, Python, AWS, Docker, K8s, CI/CD…) — meaning you'll be paid to learn the right tools.
 
 ## This week, by the numbers
 
-We tracked **55 junior-pipeline roles** in Israel that mention real DevOps stack:
+We tracked **63 junior-pipeline roles** in Israel that mention real DevOps stack:
 
-- **Help Desk / IT Support** — 29
-- **SysAdmin / NOC** — 16
-- **Trainee / Bootcamp Grad** — 7
+- **Help Desk / IT Support** — 37
+- **SysAdmin / NOC** — 17
+- **Trainee / Bootcamp Grad** — 6
 - **Junior SRE / Cloud / Platform** — 2
 - **Junior SysAdmin / Linux** — 1
 
@@ -21,22 +21,22 @@ We tracked **55 junior-pipeline roles** in Israel that mention real DevOps stack
 
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
-1. **Troubleshooting** — required in 37 roles
-2. **Networking** — required in 31 roles
-3. **Linux** — required in 26 roles
-4. **Cloud (any)** — required in 24 roles
-5. **Automation** — required in 21 roles
-6. **Bash/Shell** — required in 19 roles
-7. **Python** — required in 18 roles
-8. **Active Directory** — required in 18 roles
-9. **Monitoring** — required in 17 roles
+1. **Troubleshooting** — required in 42 roles
+2. **Networking** — required in 35 roles
+3. **Linux** — required in 28 roles
+4. **Cloud (any)** — required in 25 roles
+5. **Automation** — required in 22 roles
+6. **Active Directory** — required in 21 roles
+7. **Monitoring** — required in 19 roles
+8. **Bash/Shell** — required in 18 roles
+9. **Python** — required in 17 roles
 10. **AWS** — required in 13 roles
 
 ## 🏢 Companies hiring for the pipeline
 
 1. **Nice** — 3 role(s)
-2. **Taboola** — 2 role(s)
-3. **Check Point Software** — 2 role(s)
+2. **abra** — 3 role(s)
+3. **Taboola** — 2 role(s)
 4. **Nebius** — 2 role(s)
 5. **RAD** — 2 role(s)
 6. **Via** — 1 role(s)
@@ -77,19 +77,12 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/linux-system-administrator-at-nuvoton-technology-israel-ltd-4417322206)
 
-### Linux System Administrator — Calanit by one
-📍 North District, Israel • 🎯 Learning Score: 100/100 • 🪜 SysAdmin / NOC
-
-**Stack you'll work with:** Linux, Python, Bash/Shell, Docker, Kubernetes, CI/CD
-
-🔗 [View role](https://il.linkedin.com/jobs/view/linux-system-administrator-at-calanit-by-one-4448158765)
-
 ### System Administrator - Linux, Windows #1350 — RAD
 📍 Tel Aviv District, Israel • 🎯 Learning Score: 100/100 • 🪜 SysAdmin / NOC
 
 **Stack you'll work with:** Linux, Python, Bash/Shell, AWS, Azure, GCP
 
-🔗 [View role](https://il.linkedin.com/jobs/view/system-administrator-linux-windows-%231350-at-rad-4455203355)
+🔗 [View role](https://il.linkedin.com/jobs/view/system-administrator-linux-windows-%231350-at-rad-4455765409)
 
 ### System Engineer — Paragon
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 100/100 • 🪜 SysAdmin / NOC
@@ -147,12 +140,19 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://boards.eu.greenhouse.io/nice/jobs/4932015101?gh_jid=4932015101)
 
-### Automation Student — Radware
-📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 52/100 • 🪜 Trainee / Bootcamp Grad
+### System Administrator & IT — inManage
+📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 52/100 • 🪜 SysAdmin / NOC
 
-**Stack you'll work with:** Linux, Python, Cloud (any), Kubernetes, Networking, Automation
+**Stack you'll work with:** Linux, AWS, Azure, GCP, Active Directory
 
-🔗 [View role](https://il.linkedin.com/jobs/view/automation-student-at-radware-4452294600)
+🔗 [View role](https://il.linkedin.com/jobs/view/system-administrator-it-at-inmanage-4431693143)
+
+### IT Specialist — etoro
+📍 Bnei Brak, Tel Aviv District, Israel • 🎯 Learning Score: 51/100 • 🪜 Help Desk / IT Support
+
+**Stack you'll work with:** Bash/Shell, Azure, Cloud (any), CI/CD, Networking, Monitoring
+
+🔗 [View role](https://il.linkedin.com/jobs/view/it-specialist-at-etoro-4434952696)
 
 
 ## How the score works
