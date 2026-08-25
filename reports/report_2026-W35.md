@@ -1,6 +1,6 @@
 # Israeli DevOps Job Market Report — 2026-W35
 
-_Generated August 24, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated August 25, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 ## Executive Summary
@@ -14,42 +14,46 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 📉 **Total jobs**: -5 (-5.4%) vs 2026-W34
 📊 **Junior % change**: +0.0 pp
 
-**Rising skills:**
-- Security: 16 → 17 (+1)
+**Falling skills:**
+- Observability: 11 → 10 (-1)
+- Kubernetes: 18 → 17 (-1)
+- Azure: 10 → 9 (-1)
+- Argo CD: 8 → 7 (-1)
+- GCP: 10 → 9 (-1)
 
-**New companies in top 15:** Radware, Dream
+**New companies in top 15:** Dream, Kaltura, comblack, Jobgether
 
 ## Top 10 In-Demand Skills
 
-1. **CI/CD** — 20 mentions
-2. **AWS** — 19 mentions
-3. **Kubernetes** — 18 mentions
-4. **Security** — 17 mentions
-5. **Docker** — 14 mentions
-6. **Python** — 13 mentions
-7. **Terraform** — 12 mentions
-8. **Linux** — 12 mentions
-9. **Observability** — 11 mentions
-10. **Azure** — 10 mentions
+1. **CI/CD** — 19 mentions
+2. **AWS** — 18 mentions
+3. **Kubernetes** — 17 mentions
+4. **Security** — 15 mentions
+5. **Docker** — 13 mentions
+6. **Python** — 12 mentions
+7. **Linux** — 12 mentions
+8. **Terraform** — 11 mentions
+9. **Observability** — 10 mentions
+10. **Azure** — 9 mentions
 
 ## Top 10 Hiring Companies
 
 1. **Gongio** — 5 open roles
 2. **Taboola** — 4 open roles
-3. **Via** — 3 open roles
-4. **Paragon** — 3 open roles
-5. **Nice** — 2 open roles
-6. **Similarweb** — 2 open roles
-7. **Appsflyer** — 2 open roles
-8. **Axonius** — 2 open roles
-9. **Transmitsecurity** — 2 open roles
-10. **Moon Active** — 2 open roles
+3. **NVIDIA** — 4 open roles
+4. **Via** — 3 open roles
+5. **Palo Alto Networks** — 3 open roles
+6. **Nice** — 2 open roles
+7. **Similarweb** — 2 open roles
+8. **Appsflyer** — 2 open roles
+9. **Axonius** — 2 open roles
+10. **Transmitsecurity** — 2 open roles
 
 ## Seniority Distribution
 
 - **Junior**: 1.1% ``
-- **Mid**: 51.7% `████████████████████`
-- **Senior**: 47.1% `██████████████████`
+- **Mid**: 46.0% `██████████████████`
+- **Senior**: 52.9% `█████████████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -61,18 +65,17 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Location Breakdown
 
-- **Tel Aviv** — 63
-- **Israel (other)** — 11
-- **Raanana** — 4
-- **Haifa** — 4
+- **Tel Aviv** — 61
+- **Israel (other)** — 16
+- **Raanana** — 3
+- **Haifa** — 3
 - **Herzliya** — 2
 - **Netanya** — 2
-- **Petah Tikva** — 1
 
 ## Sources
 
-- linkedin: 59
-- greenhouse: 28
+- linkedin: 60
+- greenhouse: 27
 
 ## Methodology
 
