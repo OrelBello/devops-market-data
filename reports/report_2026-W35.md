@@ -1,25 +1,25 @@
 # Israeli DevOps Job Market Report — 2026-W35
 
-_Generated August 27, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated August 28, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 ## Executive Summary
 
-We tracked **91 open DevOps / SRE / Platform / Cloud roles** in Israel this week
+We tracked **94 open DevOps / SRE / Platform / Cloud roles** in Israel this week
 across 2 sources. **0 of those (0.0%)
 are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Week-over-Week Trends
 
-📉 **Total jobs**: -1 (-1.1%) vs 2026-W34
+📈 **Total jobs**: +2 (+2.2%) vs 2026-W34
 📊 **Junior % change**: -1.1 pp
 
 **Rising skills:**
 - Security: 16 → 20 (+4)
 - AWS: 19 → 22 (+3)
 - Terraform: 12 → 14 (+2)
+- Python: 13 → 14 (+1)
 - Networking: 7 → 8 (+1)
-- CI/CD: 20 → 21 (+1)
 
 **New companies in top 15:** Payoneer, Dream, Log-On Software, ControlUp, Kaltura
 
@@ -40,9 +40,9 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 1. **Gongio** — 5 open roles
 2. **Axonius** — 4 open roles
-3. **Via** — 3 open roles
-4. **Taboola** — 3 open roles
-5. **Palo Alto Networks** — 3 open roles
+3. **Palo Alto Networks** — 4 open roles
+4. **Via** — 3 open roles
+5. **Taboola** — 3 open roles
 6. **Nice** — 2 open roles
 7. **Payoneer** — 2 open roles
 8. **Similarweb** — 2 open roles
@@ -52,8 +52,8 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 ## Seniority Distribution
 
 - **Junior**: 0.0% ``
-- **Mid**: 42.9% `█████████████████`
-- **Senior**: 57.1% `██████████████████████`
+- **Mid**: 46.8% `██████████████████`
+- **Senior**: 53.2% `█████████████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -65,18 +65,18 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Location Breakdown
 
-- **Tel Aviv** — 61
+- **Tel Aviv** — 60
 - **Israel (other)** — 17
+- **Netanya** — 4
 - **Petah Tikva** — 4
 - **Raanana** — 3
+- **Haifa** — 3
 - **Herzliya** — 2
-- **Jerusalem** — 2
-- **Netanya** — 1
-- **Haifa** — 1
+- **Jerusalem** — 1
 
 ## Sources
 
-- linkedin: 62
+- linkedin: 65
 - greenhouse: 29
 
 ## Methodology
