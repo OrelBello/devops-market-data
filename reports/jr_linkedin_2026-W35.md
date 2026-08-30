@@ -4,14 +4,14 @@ For the FlipTheScript mentees asking "how do I break into DevOps?" — here's th
 
 I tracked every entry-level / IT / Help Desk / SysAdmin / Junior DevOps role in Israel this week that requires REAL DevOps stack tech (Linux, Python, AWS, Docker, K8s, CI/CD…) — meaning you'll be paid to learn the right tools while you're in the role.
 
-🔢 44 junior-pipeline roles this week
-🪜 Help Desk / IT Support: 21 • SysAdmin / NOC: 13 • Trainee / Bootcamp Grad: 7
+🔢 24 junior-pipeline roles this week
+🪜 SysAdmin / NOC: 9 • Trainee / Bootcamp Grad: 6 • Help Desk / IT Support: 5
 
 🛠️ The stack these roles want you to know:
-Troubleshooting • Networking • Cloud (any) • Monitoring • Linux
+Monitoring • Troubleshooting • Cloud (any) • Networking • Python
 
 🏢 Companies hiring junior pipeline:
-Nice, SAP, abra, Nebius
+Nice, Via, Taboola, Optimove
 
 If you're an IT/Help Desk/SysAdmin and you want to land a DevOps job in 12-24 months, your career path is right here. Apply to roles where you'll be working with the tools you want to grow into — not roles that just keep you on Windows tickets forever.
 
