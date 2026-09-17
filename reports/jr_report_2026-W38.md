@@ -1,15 +1,15 @@
 # 🪜 Israeli DevOps — Junior Pipeline Report — 2026-W38
 
-_Generated September 16, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated September 17, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 > **Who this is for:** anyone in IT / Help Desk / Support / SysAdmin / Bootcamp grad / career-switcher who wants to break into DevOps. Every role on this list **requires DevOps stack tech** (Linux, Python, AWS, Docker, K8s, CI/CD…) — meaning you'll be paid to learn the right tools.
 
 ## This week, by the numbers
 
-We tracked **35 junior-pipeline roles** in Israel that mention real DevOps stack:
+We tracked **32 junior-pipeline roles** in Israel that mention real DevOps stack:
 
-- **SysAdmin / NOC** — 18
+- **SysAdmin / NOC** — 15
 - **Trainee / Bootcamp Grad** — 7
 - **Help Desk / IT Support** — 7
 - **Junior DevOps** — 1
@@ -22,14 +22,14 @@ We tracked **35 junior-pipeline roles** in Israel that mention real DevOps stack
 
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
-1. **Troubleshooting** — required in 21 roles
-2. **Monitoring** — required in 20 roles
+1. **Monitoring** — required in 18 roles
+2. **Troubleshooting** — required in 18 roles
 3. **Cloud (any)** — required in 17 roles
-4. **Linux** — required in 15 roles
-5. **Networking** — required in 14 roles
-6. **Automation** — required in 13 roles
-7. **Python** — required in 12 roles
-8. **Bash/Shell** — required in 10 roles
+4. **Linux** — required in 14 roles
+5. **Automation** — required in 13 roles
+6. **Networking** — required in 13 roles
+7. **Python** — required in 10 roles
+8. **Bash/Shell** — required in 9 roles
 9. **AWS** — required in 8 roles
 10. **CI/CD** — required in 8 roles
 
@@ -40,15 +40,22 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 3. **Via** — 1 role(s)
 4. **Torq** — 1 role(s)
 5. **Optimove** — 1 role(s)
-6. **iGATES - INFORMATION GATES Ltd** — 1 role(s)
-7. **Amazon Web Services (AWS)** — 1 role(s)
-8. **F5** — 1 role(s)
-9. **OnCloud** — 1 role(s)
-10. **Clarivate** — 1 role(s)
+6. **Clarivate** — 1 role(s)
+7. **iGATES - INFORMATION GATES Ltd** — 1 role(s)
+8. **Amazon Web Services (AWS)** — 1 role(s)
+9. **F5** — 1 role(s)
+10. **OnCloud** — 1 role(s)
 
 ## ⭐ Top 15 highest-scoring roles this week
 
 (Score = breadth of DevOps stack × bucket relevance. Higher = more learning value.)
+
+### Associate Development Operations Engineer — Clarivate
+📍 Jerusalem District, Israel • 🎯 Learning Score: 100/100 • 🪜 SysAdmin / NOC
+
+**Stack you'll work with:** Linux, Python, Bash/Shell, Cloud (any), Docker, Kubernetes
+
+🔗 [View role](https://il.linkedin.com/jobs/view/associate-development-operations-engineer-at-clarivate-4467992253)
 
 ### Student DevOps Engineer- CxP Commercial Foundation Services — SAP
 📍 Raanana, Center District, Israel • 🎯 Learning Score: 100/100 • 🪜 Trainee / Bootcamp Grad
@@ -63,13 +70,6 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 **Stack you'll work with:** Linux, Python, Bash/Shell, AWS, Azure, GCP
 
 🔗 [View role](https://il.linkedin.com/jobs/view/devops-cloud-infrastructure-intern-at-f5-4464650168)
-
-### Associate Development Operations Engineer — Clarivate
-📍 Jerusalem District, Israel • 🎯 Learning Score: 100/100 • 🪜 SysAdmin / NOC
-
-**Stack you'll work with:** Linux, Python, Bash/Shell, Cloud (any), Docker, Kubernetes
-
-🔗 [View role](https://il.linkedin.com/jobs/view/associate-development-operations-engineer-at-clarivate-4467992253)
 
 ### NOC Team Leader — Rapyd
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 100/100 • 🪜 SysAdmin / NOC
@@ -148,12 +148,12 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/software-engineering-intern-at-microsoft-4451071541)
 
-### NOC Operator — Raft Technologies
-📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 36/100 • 🪜 SysAdmin / NOC
+### System Administrator 7992 — Sysnet part of Amanet Tec
+📍 West Jerusalem, Jerusalem District, Israel • 🎯 Learning Score: 32/100 • 🪜 SysAdmin / NOC
 
-**Stack you'll work with:** Linux, Python, Networking, Monitoring, Troubleshooting
+**Stack you'll work with:** Bash/Shell, Cloud (any), Virtualization, Active Directory, Windows Server, Automation
 
-🔗 [View role](https://il.linkedin.com/jobs/view/noc-operator-at-raft-technologies-4433796227)
+🔗 [View role](https://il.linkedin.com/jobs/view/system-administrator-7992-at-sysnet-part-of-amanet-tec-4467053868)
 
 
 ## How the score works
