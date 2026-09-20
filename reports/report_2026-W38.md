@@ -1,6 +1,6 @@
 # Israeli DevOps Job Market Report — 2026-W38
 
-_Generated September 18, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated September 20, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 ## Executive Summary
@@ -16,18 +16,18 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 **Rising skills:**
 - Linux: 10 → 13 (+3)
-- GCP: 13 → 14 (+1)
-- Security: 20 → 21 (+1)
 - WAF/CDN: 5 → 6 (+1)
+- Security: 20 → 21 (+1)
+- GCP: 13 → 14 (+1)
 
 **Falling skills:**
 - CI/CD: 20 → 18 (-2)
 - Azure: 14 → 12 (-2)
-- AWS: 20 → 18 (-2)
 - Python: 12 → 10 (-2)
+- AWS: 20 → 18 (-2)
 - Argo CD: 9 → 8 (-1)
 
-**New companies in top 15:** NVIDIA, Yotpo, Dream, ScaleOps, Elbit Systems Israel
+**New companies in top 15:** Yotpo, Dream, ScaleOps, Elbit Systems Israel, NVIDIA
 
 ## Top 10 In-Demand Skills
 
@@ -46,14 +46,14 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 1. **Gongio** — 7 open roles
 2. **Taboola** — 5 open roles
-3. **Via** — 3 open roles
-4. **Jfrog** — 3 open roles
-5. **Similarweb** — 3 open roles
-6. **NVIDIA** — 3 open roles
-7. **Palo Alto Networks** — 3 open roles
-8. **Yotpo** — 2 open roles
-9. **Dream** — 2 open roles
-10. **ScaleOps** — 2 open roles
+3. **Palo Alto Networks** — 4 open roles
+4. **Via** — 3 open roles
+5. **Jfrog** — 3 open roles
+6. **Similarweb** — 3 open roles
+7. **Yotpo** — 2 open roles
+8. **Dream** — 2 open roles
+9. **ScaleOps** — 2 open roles
+10. **Elbit Systems Israel** — 2 open roles
 
 ## Seniority Distribution
 
@@ -71,13 +71,13 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Location Breakdown
 
-- **Tel Aviv** — 71
-- **Israel (other)** — 17
+- **Tel Aviv** — 68
+- **Israel (other)** — 18
 - **Haifa** — 4
-- **Netanya** — 2
-- **Raanana** — 1
+- **Netanya** — 3
+- **Petah Tikva** — 2
 - **Jerusalem** — 1
-- **Petah Tikva** — 1
+- **Raanana** — 1
 
 ## Sources
 
