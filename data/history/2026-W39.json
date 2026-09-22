@@ -1,16 +1,17 @@
 {
-  "total_jobs": 101,
+  "total_jobs": 100,
   "by_source": {
     "greenhouse": 30,
-    "linkedin": 71
+    "linkedin": 69,
+    "lever": 1
   },
   "top_skills": [
     [
-      "Security",
-      22
+      "Kubernetes",
+      21
     ],
     [
-      "Kubernetes",
+      "Security",
       21
     ],
     [
@@ -76,10 +77,6 @@
       5
     ],
     [
-      "Palo Alto Networks",
-      4
-    ],
-    [
       "Via",
       3
     ],
@@ -92,15 +89,15 @@
       3
     ],
     [
+      "Palo Alto Networks",
+      3
+    ],
+    [
       "Elbit Systems Israel",
       3
     ],
     [
       "NVIDIA",
-      3
-    ],
-    [
-      "Jobgether",
       3
     ],
     [
@@ -112,41 +109,45 @@
       2
     ],
     [
-      "ScaleOps",
+      "Sela",
       2
     ],
     [
-      "Dream",
+      "SQLink Group",
       2
     ],
     [
-      "Sunbit",
+      "Jobgether",
       2
     ],
     [
       "Payoneer",
       1
+    ],
+    [
+      "Riskified",
+      1
     ]
   ],
   "seniority_distribution": {
-    "Mid": 42,
-    "Senior": 59
+    "Mid": 44,
+    "Senior": 56
   },
   "seniority_pct": {
-    "Mid": 41.6,
-    "Senior": 58.4
+    "Mid": 44.0,
+    "Senior": 56.0
   },
   "junior_pct": 0.0,
   "junior_count": 0,
   "junior_friendly_companies": [],
   "location_distribution": {
-    "Tel Aviv": 68,
-    "Israel (other)": 22,
+    "Tel Aviv": 63,
+    "Israel (other)": 23,
+    "Netanya": 4,
     "Haifa": 4,
-    "Netanya": 3,
-    "Petah Tikva": 2,
-    "Jerusalem": 1,
-    "Raanana": 1
+    "Petah Tikva": 3,
+    "Raanana": 2,
+    "Jerusalem": 1
   },
   "salaries_parsed_count": 0,
   "salary_disclosure_rate": 0.0,
@@ -268,16 +269,22 @@
       "hiring_strength": 1.2
     },
     "Palo Alto Networks": {
-      "open_roles": 4,
+      "open_roles": 3,
       "seniority_levels": 1,
       "skill_breadth": 1,
-      "hiring_strength": 5.3
+      "hiring_strength": 4.0
     },
     "Checkmarx": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
+    },
+    "Sela": {
+      "open_roles": 2,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 2.4
     },
     "Infinidat": {
       "open_roles": 1,
@@ -298,6 +305,12 @@
       "hiring_strength": 1.2
     },
     "Wix": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "ARAN Software": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -333,17 +346,23 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Sela": {
+    "Cellebrite": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "ScaleOps": {
-      "open_roles": 2,
+    "Assured Allies": {
+      "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
-      "hiring_strength": 2.4
+      "hiring_strength": 1.2
+    },
+    "ZyG": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
     },
     "Dialog": {
       "open_roles": 1,
@@ -352,12 +371,6 @@
       "hiring_strength": 1.2
     },
     "Gotfriends": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "Cust2Mate - A2Z (NASDAQ: AZ)": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -405,13 +418,19 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "SQLink Group": {
+    "AllCloud": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "april": {
+    "SQLink Group": {
+      "open_roles": 2,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 2.4
+    },
+    "monday.com": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -423,41 +442,11 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "DriveNets": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "NVIDIA": {
-      "open_roles": 3,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 3.6
-    },
-    "Dream": {
-      "open_roles": 2,
-      "seniority_levels": 2,
-      "skill_breadth": 1,
-      "hiring_strength": 3.1
-    },
-    "Rhino Federated Computing": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "Zadara": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
     "Jobgether": {
-      "open_roles": 3,
+      "open_roles": 2,
       "seniority_levels": 1,
       "skill_breadth": 0,
-      "hiring_strength": 3.6
+      "hiring_strength": 2.4
     },
     "DRW": {
       "open_roles": 1,
@@ -471,7 +460,25 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
+    "NVIDIA": {
+      "open_roles": 3,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 3.6
+    },
     "Conifers.ai": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Rhino Federated Computing": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Calanit by one": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -482,12 +489,6 @@
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
-    },
-    "Sunbit": {
-      "open_roles": 2,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 2.4
     },
     "Cyera": {
       "open_roles": 1,
@@ -514,6 +515,18 @@
       "hiring_strength": 1.2
     },
     "Fiverr": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Sunbit": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Dream": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -555,12 +568,6 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Credo": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
     "Wayve": {
       "open_roles": 1,
       "seniority_levels": 1,
@@ -586,6 +593,12 @@
       "hiring_strength": 1.2
     },
     "Talent Integration": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Mendix": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -619,13 +632,13 @@
       3
     ],
     [
-      "Palo Alto Networks",
-      5.3,
-      4
-    ],
-    [
       "Elbit Systems Israel",
       4.3,
+      3
+    ],
+    [
+      "Palo Alto Networks",
+      4.0,
       3
     ],
     [
@@ -637,16 +650,6 @@
       "NVIDIA",
       3.6,
       3
-    ],
-    [
-      "Jobgether",
-      3.6,
-      3
-    ],
-    [
-      "Dream",
-      3.1,
-      2
     ],
     [
       "Payoneer",
@@ -667,47 +670,57 @@
       "Jeen.ai",
       2.4,
       2
+    ],
+    [
+      "Sela",
+      2.4,
+      2
+    ],
+    [
+      "SQLink Group",
+      2.4,
+      2
     ]
   ],
   "week": "2026-W39",
   "diagnostics": {
     "greenhouse": {
       "jobs": 30,
-      "elapsed_s": 15.7,
+      "elapsed_s": 12.9,
       "ok": true
     },
     "linkedin": {
-      "jobs": 75,
-      "elapsed_s": 38.1,
+      "jobs": 74,
+      "elapsed_s": 38.3,
       "ok": true
     },
     "indeed_il": {
       "jobs": 0,
-      "elapsed_s": 8.8,
+      "elapsed_s": 8.1,
       "ok": true
     },
     "lever": {
-      "jobs": 0,
-      "elapsed_s": 2.1,
+      "jobs": 2,
+      "elapsed_s": 1.6,
       "ok": true
     },
     "alljobs": {
       "jobs": 0,
-      "elapsed_s": 31.4,
+      "elapsed_s": 36.1,
       "ok": true
     },
     "drushim": {
       "jobs": 0,
-      "elapsed_s": 14.0,
+      "elapsed_s": 17.0,
       "ok": true
     },
     "jobmaster": {
       "jobs": 0,
-      "elapsed_s": 29.2,
+      "elapsed_s": 22.4,
       "ok": true
     }
   },
-  "raw_count": 105,
-  "deduped_count": 101,
-  "saved_at": "2026-09-21T12:41:34"
+  "raw_count": 106,
+  "deduped_count": 100,
+  "saved_at": "2026-09-22T11:27:56"
 }

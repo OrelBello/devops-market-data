@@ -1,15 +1,15 @@
 # 🪜 Israeli DevOps — Junior Pipeline Report — 2026-W39
 
-_Generated September 21, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated September 22, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 > **Who this is for:** anyone in IT / Help Desk / Support / SysAdmin / Bootcamp grad / career-switcher who wants to break into DevOps. Every role on this list **requires DevOps stack tech** (Linux, Python, AWS, Docker, K8s, CI/CD…) — meaning you'll be paid to learn the right tools.
 
 ## This week, by the numbers
 
-We tracked **33 junior-pipeline roles** in Israel that mention real DevOps stack:
+We tracked **32 junior-pipeline roles** in Israel that mention real DevOps stack:
 
-- **SysAdmin / NOC** — 16
+- **SysAdmin / NOC** — 15
 - **Trainee / Bootcamp Grad** — 7
 - **Help Desk / IT Support** — 7
 - **Junior DevOps** — 1
@@ -25,8 +25,8 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 1. **Monitoring** — required in 19 roles
 2. **Troubleshooting** — required in 19 roles
 3. **Cloud (any)** — required in 17 roles
-4. **Linux** — required in 15 roles
-5. **Networking** — required in 14 roles
+4. **Networking** — required in 14 roles
+5. **Linux** — required in 14 roles
 6. **Automation** — required in 13 roles
 7. **Python** — required in 11 roles
 8. **Bash/Shell** — required in 9 roles
@@ -50,12 +50,12 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 (Score = breadth of DevOps stack × bucket relevance. Higher = more learning value.)
 
-### Associate Development Operations Engineer — Clarivate
+### Development Operations Engineer — Clarivate
 📍 Jerusalem District, Israel • 🎯 Learning Score: 100/100 • 🪜 SysAdmin / NOC
 
 **Stack you'll work with:** Linux, Python, Bash/Shell, Cloud (any), Docker, Kubernetes
 
-🔗 [View role](https://il.linkedin.com/jobs/view/associate-development-operations-engineer-at-clarivate-4467992253)
+🔗 [View role](https://il.linkedin.com/jobs/view/development-operations-engineer-at-clarivate-4467992253)
 
 ### Student DevOps Engineer- CxP Commercial Foundation Services — SAP
 📍 Raanana, Center District, Israel • 🎯 Learning Score: 100/100 • 🪜 Trainee / Bootcamp Grad
