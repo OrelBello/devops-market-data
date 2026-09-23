@@ -1,6 +1,6 @@
 # 🪜 Israeli DevOps — Junior Pipeline Report — 2026-W39
 
-_Generated September 22, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated September 23, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 > **Who this is for:** anyone in IT / Help Desk / Support / SysAdmin / Bootcamp grad / career-switcher who wants to break into DevOps. Every role on this list **requires DevOps stack tech** (Linux, Python, AWS, Docker, K8s, CI/CD…) — meaning you'll be paid to learn the right tools.
@@ -9,9 +9,9 @@ _Generated September 22, 2026 • Maintained by [Orel Bello](https://www.linkedi
 
 We tracked **32 junior-pipeline roles** in Israel that mention real DevOps stack:
 
-- **SysAdmin / NOC** — 15
+- **SysAdmin / NOC** — 16
 - **Trainee / Bootcamp Grad** — 7
-- **Help Desk / IT Support** — 7
+- **Help Desk / IT Support** — 6
 - **Junior DevOps** — 1
 - **Junior SRE / Cloud / Platform** — 1
 - **Junior SysAdmin / Linux** — 1
@@ -22,12 +22,12 @@ We tracked **32 junior-pipeline roles** in Israel that mention real DevOps stack
 
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
-1. **Monitoring** — required in 19 roles
-2. **Troubleshooting** — required in 19 roles
-3. **Cloud (any)** — required in 17 roles
-4. **Networking** — required in 14 roles
-5. **Linux** — required in 14 roles
-6. **Automation** — required in 13 roles
+1. **Monitoring** — required in 18 roles
+2. **Troubleshooting** — required in 18 roles
+3. **Cloud (any)** — required in 16 roles
+4. **Linux** — required in 15 roles
+5. **Networking** — required in 13 roles
+6. **Automation** — required in 12 roles
 7. **Python** — required in 11 roles
 8. **Bash/Shell** — required in 9 roles
 9. **AWS** — required in 8 roles
@@ -57,19 +57,19 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/development-operations-engineer-at-clarivate-4467992253)
 
-### Student DevOps Engineer- CxP Commercial Foundation Services — SAP
-📍 Raanana, Center District, Israel • 🎯 Learning Score: 100/100 • 🪜 Trainee / Bootcamp Grad
-
-**Stack you'll work with:** AWS, Azure, GCP, Cloud (any), Kubernetes, CI/CD
-
-🔗 [View role](https://il.linkedin.com/jobs/view/student-devops-engineer-cxp-commercial-foundation-services-at-sap-4436819328)
-
 ### DevOps & Cloud Infrastructure Intern — F5
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 100/100 • 🪜 Junior DevOps
 
 **Stack you'll work with:** Linux, Python, Bash/Shell, AWS, Azure, GCP
 
 🔗 [View role](https://il.linkedin.com/jobs/view/devops-cloud-infrastructure-intern-at-f5-4464650168)
+
+### Student DevOps Engineer- CxP Commercial Foundation Services — SAP
+📍 Raanana, Center District, Israel • 🎯 Learning Score: 100/100 • 🪜 Trainee / Bootcamp Grad
+
+**Stack you'll work with:** AWS, Azure, GCP, Cloud (any), Kubernetes, CI/CD
+
+🔗 [View role](https://il.linkedin.com/jobs/view/student-devops-engineer-cxp-commercial-foundation-services-at-sap-4436819328)
 
 ### NOC Team Leader — Rapyd
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 100/100 • 🪜 SysAdmin / NOC
