@@ -1,32 +1,40 @@
 {
-  "total_jobs": 93,
+  "total_jobs": 94,
   "by_source": {
-    "greenhouse": 28,
-    "linkedin": 65
+    "greenhouse": 30,
+    "linkedin": 64
   },
   "top_skills": [
+    [
+      "Kubernetes",
+      22
+    ],
     [
       "Security",
       20
     ],
     [
-      "Kubernetes",
+      "AWS",
       19
     ],
     [
-      "AWS",
-      17
-    ],
-    [
       "CI/CD",
-      16
+      18
     ],
     [
       "Docker",
-      13
+      14
     ],
     [
       "GCP",
+      14
+    ],
+    [
+      "Azure",
+      13
+    ],
+    [
+      "Terraform",
       12
     ],
     [
@@ -34,20 +42,16 @@
       12
     ],
     [
-      "Terraform",
-      11
-    ],
-    [
-      "Azure",
-      11
-    ],
-    [
       "Observability",
       11
     ],
     [
       "Python",
-      9
+      10
+    ],
+    [
+      "Helm",
+      8
     ],
     [
       "Networking",
@@ -55,11 +59,7 @@
     ],
     [
       "Argo CD",
-      7
-    ],
-    [
-      "Helm",
-      6
+      8
     ],
     [
       "WAF/CDN",
@@ -72,11 +72,11 @@
       7
     ],
     [
-      "Taboola",
-      5
+      "Palo Alto Networks",
+      6
     ],
     [
-      "Palo Alto Networks",
+      "Taboola",
       5
     ],
     [
@@ -84,11 +84,11 @@
       3
     ],
     [
-      "Similarweb",
+      "Jfrog",
       3
     ],
     [
-      "Jeen.ai",
+      "Similarweb",
       3
     ],
     [
@@ -100,11 +100,11 @@
       3
     ],
     [
-      "Jfrog",
+      "Yotpo",
       2
     ],
     [
-      "Yotpo",
+      "Jeen.ai",
       2
     ],
     [
@@ -116,7 +116,7 @@
       2
     ],
     [
-      "Jobgether",
+      "Elbit Systems Israel",
       2
     ],
     [
@@ -130,22 +130,22 @@
   ],
   "seniority_distribution": {
     "Mid": 43,
-    "Senior": 50
+    "Senior": 51
   },
   "seniority_pct": {
-    "Mid": 46.2,
-    "Senior": 53.8
+    "Mid": 45.7,
+    "Senior": 54.3
   },
   "junior_pct": 0.0,
   "junior_count": 0,
   "junior_friendly_companies": [],
   "location_distribution": {
-    "Tel Aviv": 64,
+    "Tel Aviv": 68,
     "Israel (other)": 15,
-    "Petah Tikva": 8,
-    "Haifa": 3,
-    "Netanya": 2,
-    "Raanana": 1
+    "Petah Tikva": 5,
+    "Haifa": 4,
+    "Raanana": 1,
+    "Netanya": 1
   },
   "salaries_parsed_count": 0,
   "salary_disclosure_rate": 0.0,
@@ -177,10 +177,10 @@
       "hiring_strength": 3.0
     },
     "Jfrog": {
-      "open_roles": 2,
+      "open_roles": 3,
       "seniority_levels": 2,
-      "skill_breadth": 8,
-      "hiring_strength": 5.0
+      "skill_breadth": 14,
+      "hiring_strength": 10.1
     },
     "Gongio": {
       "open_roles": 7,
@@ -224,6 +224,12 @@
       "skill_breadth": 10,
       "hiring_strength": 2.4
     },
+    "Orcasecurity": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 8,
+      "hiring_strength": 2.2
+    },
     "Optimove": {
       "open_roles": 1,
       "seniority_levels": 1,
@@ -236,11 +242,11 @@
       "skill_breadth": 7,
       "hiring_strength": 2.0
     },
-    "Viz.ai": {
-      "open_roles": 1,
+    "Palo Alto Networks": {
+      "open_roles": 6,
       "seniority_levels": 1,
       "skill_breadth": 0,
-      "hiring_strength": 1.2
+      "hiring_strength": 7.2
     },
     "Parallel Wireless": {
       "open_roles": 1,
@@ -254,6 +260,12 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
+    "Echo": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
     "CommBox": {
       "open_roles": 1,
       "seniority_levels": 1,
@@ -261,10 +273,10 @@
       "hiring_strength": 1.2
     },
     "Jeen.ai": {
-      "open_roles": 3,
+      "open_roles": 2,
       "seniority_levels": 1,
       "skill_breadth": 0,
-      "hiring_strength": 3.6
+      "hiring_strength": 2.4
     },
     "Play Perfect": {
       "open_roles": 1,
@@ -290,7 +302,7 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Connecteam": {
+    "Transmit Security": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -302,19 +314,7 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Palo Alto Networks": {
-      "open_roles": 5,
-      "seniority_levels": 1,
-      "skill_breadth": 1,
-      "hiring_strength": 6.6
-    },
     "Sela": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "FireArc Technologies .LTD": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -326,13 +326,19 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
+    "FireArc Technologies .LTD": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
     "Akeyless Security": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Ethosia": {
+    "DriveNets": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -410,13 +416,7 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "CrowdStrike": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "Stealth Startup": {
+    "BioCatch": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -440,19 +440,13 @@
       "skill_breadth": 0,
       "hiring_strength": 2.4
     },
-    "monday.com": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "Jobgether": {
+    "Elbit Systems Israel": {
       "open_roles": 2,
       "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 2.4
+      "skill_breadth": 2,
+      "hiring_strength": 2.9
     },
-    "DRW": {
+    "Elad Software Systems": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -463,12 +457,6 @@
       "seniority_levels": 2,
       "skill_breadth": 0,
       "hiring_strength": 2.8
-    },
-    "IgniteTech": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
     },
     "Crusoe": {
       "open_roles": 1,
@@ -488,13 +476,37 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
+    "Jobgether": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Oriient": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 1,
+      "hiring_strength": 1.3
+    },
     "evoke": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Dream": {
+    "Blast Security": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Nimble": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "TeraCyte Analytics": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -506,25 +518,13 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Elbit Systems Israel": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 2,
-      "hiring_strength": 1.4
-    },
-    "QuantumBlack, AI by McKinsey": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 1,
-      "hiring_strength": 1.3
-    },
     "Genpact": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Semperis": {
+    "QuantumBlack, AI by McKinsey": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 1,
@@ -560,29 +560,24 @@
       3
     ],
     [
+      "Jfrog",
+      10.1,
+      3
+    ],
+    [
       "Similarweb",
       10.1,
       3
     ],
     [
       "Palo Alto Networks",
-      6.6,
-      5
-    ],
-    [
-      "Jfrog",
-      5.0,
-      2
+      7.2,
+      6
     ],
     [
       "Yotpo",
       3.6,
       2
-    ],
-    [
-      "Jeen.ai",
-      3.6,
-      3
     ],
     [
       "NVIDIA",
@@ -600,6 +595,11 @@
       1
     ],
     [
+      "Elbit Systems Israel",
+      2.9,
+      2
+    ],
+    [
       "Oracle",
       2.8,
       2
@@ -615,7 +615,7 @@
       1
     ],
     [
-      "Bank Hapoalim בנק הפועלים",
+      "Jeen.ai",
       2.4,
       2
     ]
@@ -623,18 +623,18 @@
   "week": "2026-W39",
   "diagnostics": {
     "greenhouse": {
-      "jobs": 28,
-      "elapsed_s": 13.6,
+      "jobs": 30,
+      "elapsed_s": 28.7,
       "ok": true
     },
     "linkedin": {
-      "jobs": 69,
-      "elapsed_s": 35.7,
+      "jobs": 67,
+      "elapsed_s": 34.7,
       "ok": true
     },
     "indeed_il": {
       "jobs": 0,
-      "elapsed_s": 8.6,
+      "elapsed_s": 8.5,
       "ok": true
     },
     "lever": {
@@ -644,21 +644,21 @@
     },
     "alljobs": {
       "jobs": 0,
-      "elapsed_s": 30.8,
+      "elapsed_s": 30.9,
       "ok": true
     },
     "drushim": {
       "jobs": 0,
-      "elapsed_s": 15.8,
+      "elapsed_s": 15.7,
       "ok": true
     },
     "jobmaster": {
       "jobs": 0,
-      "elapsed_s": 21.0,
+      "elapsed_s": 21.2,
       "ok": true
     }
   },
   "raw_count": 97,
-  "deduped_count": 93,
-  "saved_at": "2026-09-25T11:43:54"
+  "deduped_count": 94,
+  "saved_at": "2026-09-27T11:56:19"
 }

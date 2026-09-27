@@ -1,6 +1,6 @@
 # 🪜 Israeli DevOps — Junior Pipeline Report — 2026-W39
 
-_Generated September 25, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated September 27, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 > **Who this is for:** anyone in IT / Help Desk / Support / SysAdmin / Bootcamp grad / career-switcher who wants to break into DevOps. Every role on this list **requires DevOps stack tech** (Linux, Python, AWS, Docker, K8s, CI/CD…) — meaning you'll be paid to learn the right tools.
@@ -9,9 +9,9 @@ _Generated September 25, 2026 • Maintained by [Orel Bello](https://www.linkedi
 
 We tracked **32 junior-pipeline roles** in Israel that mention real DevOps stack:
 
-- **SysAdmin / NOC** — 14
+- **SysAdmin / NOC** — 15
 - **Trainee / Bootcamp Grad** — 7
-- **Help Desk / IT Support** — 7
+- **Help Desk / IT Support** — 6
 - **Junior SysAdmin / Linux** — 2
 - **Junior DevOps** — 1
 - **Junior SRE / Cloud / Platform** — 1
@@ -22,12 +22,12 @@ We tracked **32 junior-pipeline roles** in Israel that mention real DevOps stack
 
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
-1. **Troubleshooting** — required in 20 roles
-2. **Monitoring** — required in 18 roles
-3. **Cloud (any)** — required in 14 roles
-4. **Networking** — required in 13 roles
-5. **Linux** — required in 13 roles
-6. **Automation** — required in 12 roles
+1. **Troubleshooting** — required in 21 roles
+2. **Monitoring** — required in 19 roles
+3. **Linux** — required in 14 roles
+4. **Cloud (any)** — required in 13 roles
+5. **Networking** — required in 13 roles
+6. **Automation** — required in 11 roles
 7. **Python** — required in 11 roles
 8. **Bash/Shell** — required in 9 roles
 9. **CI/CD** — required in 8 roles
@@ -41,10 +41,10 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 4. **Torq** — 1 role(s)
 5. **Optimove** — 1 role(s)
 6. **Clarivate** — 1 role(s)
-7. **iGATES - INFORMATION GATES Ltd** — 1 role(s)
-8. **Amazon Web Services (AWS)** — 1 role(s)
-9. **F5** — 1 role(s)
-10. **OnCloud** — 1 role(s)
+7. **Amazon Web Services (AWS)** — 1 role(s)
+8. **F5** — 1 role(s)
+9. **OnCloud** — 1 role(s)
+10. **TytoCare** — 1 role(s)
 
 ## ⭐ Top 15 highest-scoring roles this week
 
