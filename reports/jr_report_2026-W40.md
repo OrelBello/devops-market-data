@@ -1,6 +1,6 @@
 # 🪜 Israeli DevOps — Junior Pipeline Report — 2026-W40
 
-_Generated October 01, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated October 02, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 > **Who this is for:** anyone in IT / Help Desk / Support / SysAdmin / Bootcamp grad / career-switcher who wants to break into DevOps. Every role on this list **requires DevOps stack tech** (Linux, Python, AWS, Docker, K8s, CI/CD…) — meaning you'll be paid to learn the right tools.
@@ -11,8 +11,8 @@ We tracked **33 junior-pipeline roles** in Israel that mention real DevOps stack
 
 - **SysAdmin / NOC** — 14
 - **Trainee / Bootcamp Grad** — 8
-- **Help Desk / IT Support** — 6
-- **Junior SysAdmin / Linux** — 3
+- **Help Desk / IT Support** — 7
+- **Junior SysAdmin / Linux** — 2
 - **Junior DevOps** — 1
 - **Junior SRE / Cloud / Platform** — 1
 
@@ -22,11 +22,11 @@ We tracked **33 junior-pipeline roles** in Israel that mention real DevOps stack
 
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
-1. **Monitoring** — required in 20 roles
-2. **Troubleshooting** — required in 20 roles
-3. **Linux** — required in 15 roles
-4. **Networking** — required in 14 roles
-5. **Cloud (any)** — required in 13 roles
+1. **Troubleshooting** — required in 21 roles
+2. **Monitoring** — required in 20 roles
+3. **Linux** — required in 16 roles
+4. **Networking** — required in 15 roles
+5. **Cloud (any)** — required in 14 roles
 6. **Bash/Shell** — required in 12 roles
 7. **Automation** — required in 12 roles
 8. **Python** — required in 12 roles
@@ -35,8 +35,8 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 ## 🏢 Companies hiring for the pipeline
 
-1. **Upwind Security** — 2 role(s)
-2. **SAP** — 2 role(s)
+1. **SAP** — 2 role(s)
+2. **Upwind Security** — 2 role(s)
 3. **Nice** — 1 role(s)
 4. **Via** — 1 role(s)
 5. **Gongio** — 1 role(s)
