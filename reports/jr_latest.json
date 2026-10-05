@@ -1,53 +1,61 @@
 {
-  "generated_at": "2026-10-04T12:16:13",
-  "week": "2026-W40",
+  "generated_at": "2026-10-05T14:26:43",
+  "week": "2026-W41",
   "stats_for_sheets": {
-    "total_jobs": 33,
+    "total_jobs": 39,
     "by_source": {
       "greenhouse": 5,
-      "linkedin": 26,
+      "linkedin": 32,
       "remoteok": 2
     },
     "bucket_distribution": {
-      "SysAdmin / NOC": 12,
-      "Trainee / Bootcamp Grad": 8,
+      "SysAdmin / NOC": 17,
+      "Trainee / Bootcamp Grad": 9,
       "Help Desk / IT Support": 8,
-      "Junior SysAdmin / Linux": 3,
-      "Junior DevOps": 1,
-      "Junior SRE / Cloud / Platform": 1
+      "Junior SRE / Cloud / Platform": 2,
+      "Junior SysAdmin / Linux": 2,
+      "Junior DevOps": 1
     },
     "top_stack": [
       [
-        "Troubleshooting",
-        21
+        "Monitoring",
+        22
       ],
       [
-        "Monitoring",
+        "Troubleshooting",
+        22
+      ],
+      [
+        "Linux",
         19
       ],
       [
         "Cloud (any)",
-        15
+        18
       ],
       [
         "Networking",
-        15
-      ],
-      [
-        "Linux",
-        15
+        18
       ],
       [
         "Automation",
-        12
-      ],
-      [
-        "Python",
-        12
+        15
       ],
       [
         "Bash/Shell",
-        11
+        14
+      ],
+      [
+        "Python",
+        14
+      ],
+      [
+        "AWS",
+        8
+      ],
+      [
+        "Azure",
+        8
       ],
       [
         "Docker",
@@ -62,20 +70,12 @@
         8
       ],
       [
-        "AWS",
+        "Terraform/IaC",
         6
       ],
       [
-        "Azure",
-        5
-      ],
-      [
         "GCP",
-        4
-      ],
-      [
-        "Git",
-        4
+        5
       ]
     ],
     "top_companies": [
@@ -112,6 +112,10 @@
         1
       ],
       [
+        "Final",
+        1
+      ],
+      [
         "Clarivate",
         1
       ],
@@ -134,46 +138,42 @@
       [
         "OnCloud",
         1
-      ],
-      [
-        "Microsoft",
-        1
       ]
     ],
     "location_distribution": {
-      "Israel (other)": 13,
-      "Tel Aviv": 13,
+      "Israel (other)": 15,
+      "Tel Aviv": 15,
       "Raanana": 3,
+      "Netanya": 2,
+      "Petah Tikva": 2,
       "Jerusalem": 1,
-      "Haifa": 1,
-      "Netanya": 1,
-      "Petah Tikva": 1
+      "Haifa": 1
     },
-    "needs_review_count": 0,
-    "new_count_24h": 1,
-    "new_count_7d": 7,
-    "total_tracked_jobs": 383
+    "needs_review_count": 1,
+    "new_count_24h": 7,
+    "new_count_7d": 14,
+    "total_tracked_jobs": 382
   },
   "diagnostics": {
     "greenhouse": {
       "jobs": 6,
-      "elapsed_s": 12.7,
+      "elapsed_s": 12.5,
       "ok": true
     },
     "linkedin": {
-      "jobs": 28,
-      "elapsed_s": 82.1,
+      "jobs": 34,
+      "elapsed_s": 95.5,
       "ok": true
     },
     "remoteok": {
       "jobs": 2,
-      "elapsed_s": 1.0,
+      "elapsed_s": 0.8,
       "ok": true
     }
   },
-  "report_md_path": "/home/runner/work/devops-market-data/devops-market-data/reports/jr_report_2026-W40.md",
-  "linkedin_md_path": "/home/runner/work/devops-market-data/devops-market-data/reports/jr_linkedin_2026-W40.md",
-  "snapshot_path": "/home/runner/work/devops-market-data/devops-market-data/data/snapshots/jr_jobs_20261004_121613.json",
+  "report_md_path": "/home/runner/work/devops-market-data/devops-market-data/reports/jr_report_2026-W41.md",
+  "linkedin_md_path": "/home/runner/work/devops-market-data/devops-market-data/reports/jr_linkedin_2026-W41.md",
+  "snapshot_path": "/home/runner/work/devops-market-data/devops-market-data/data/snapshots/jr_jobs_20261005_142643.json",
   "jobs_for_sheet": [
     {
       "title": "Development Operations Engineer",
@@ -187,7 +187,7 @@
       "url": "https://il.linkedin.com/jobs/view/development-operations-engineer-at-clarivate-4467992253",
       "first_seen_at": "2026-09-16",
       "is_new_today": false,
-      "days_open": 18
+      "days_open": 19
     },
     {
       "title": "DevOps & Cloud Infrastructure Intern",
@@ -201,7 +201,7 @@
       "url": "https://il.linkedin.com/jobs/view/devops-cloud-infrastructure-intern-at-f5-4464650168",
       "first_seen_at": "2026-09-09",
       "is_new_today": false,
-      "days_open": 25
+      "days_open": 26
     },
     {
       "title": "Student DevOps Engineer- CxP Commercial Foundation Services",
@@ -215,7 +215,7 @@
       "url": "https://il.linkedin.com/jobs/view/student-devops-engineer-cxp-commercial-foundation-services-at-sap-4436819328",
       "first_seen_at": "2026-08-20",
       "is_new_today": false,
-      "days_open": 45
+      "days_open": 46
     },
     {
       "title": "NOC Team Leader",
@@ -229,7 +229,21 @@
       "url": "https://il.linkedin.com/jobs/view/noc-team-leader-at-rapyd-4428470164",
       "first_seen_at": "2026-08-20",
       "is_new_today": false,
-      "days_open": 45
+      "days_open": 46
+    },
+    {
+      "title": "Junior System & Infrastructure Engineer",
+      "company": "Final",
+      "location": "Ramat HaSharon, Tel Aviv District, Israel",
+      "bucket": "Junior SRE / Cloud / Platform",
+      "stack": "Linux, Python, Bash/Shell, Cloud (any), Terraform/IaC, Networking, Monitoring, Automation, Troubleshooting",
+      "score": 88,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/junior-system-infrastructure-engineer-at-final-4475581791",
+      "first_seen_at": "2026-10-05",
+      "is_new_today": true,
+      "days_open": 0
     },
     {
       "title": "HPC Operations Engineer",
@@ -243,7 +257,7 @@
       "url": "https://il.linkedin.com/jobs/view/hpc-operations-engineer-at-nvidia-4471977303",
       "first_seen_at": "2026-09-30",
       "is_new_today": false,
-      "days_open": 4
+      "days_open": 5
     },
     {
       "title": "Junior Technical Operations Engineer",
@@ -257,7 +271,7 @@
       "url": "https://il.linkedin.com/jobs/view/junior-technical-operations-engineer-at-igates-information-gates-ltd-4452212223",
       "first_seen_at": "2026-08-18",
       "is_new_today": false,
-      "days_open": 47
+      "days_open": 48
     },
     {
       "title": "Security Analyst (Student Position)",
@@ -271,7 +285,7 @@
       "url": "https://il.linkedin.com/jobs/view/security-analyst-student-position-at-upwind-security-4473525994",
       "first_seen_at": "2026-09-30",
       "is_new_today": false,
-      "days_open": 4
+      "days_open": 5
     },
     {
       "title": "Software Engineer Student, SPIV team",
@@ -285,7 +299,7 @@
       "url": "https://il.linkedin.com/jobs/view/software-engineer-student-spiv-team-at-amazon-web-services-aws-4456348779",
       "first_seen_at": "2026-08-20",
       "is_new_today": false,
-      "days_open": 45
+      "days_open": 46
     },
     {
       "title": "Production Operations Engineer",
@@ -299,7 +313,7 @@
       "url": "https://job-boards.greenhouse.io/torq/jobs/6179167004",
       "first_seen_at": "2026-09-04",
       "is_new_today": false,
-      "days_open": 30
+      "days_open": 31
     },
     {
       "title": "Support Engineer (NOC / Tier 1)",
@@ -313,7 +327,35 @@
       "url": "https://il.linkedin.com/jobs/view/support-engineer-noc-tier-1-at-kela-technologies-4461059776",
       "first_seen_at": "2026-08-31",
       "is_new_today": false,
-      "days_open": 34
+      "days_open": 35
+    },
+    {
+      "title": "Infrastructure System Engineer",
+      "company": "Logica-IT",
+      "location": "Holon, Tel Aviv District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "AWS, Azure, GCP, Cloud (any), Terraform/IaC, Networking, Automation",
+      "score": 60,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/infrastructure-system-engineer-at-logica-it-4473666027",
+      "first_seen_at": "2026-10-05",
+      "is_new_today": true,
+      "days_open": 0
+    },
+    {
+      "title": "System Administrator",
+      "company": "Stealth Startup",
+      "location": "Tel Aviv District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Bash/Shell, Terraform/IaC, Networking, Virtualization, Automation",
+      "score": 48,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/system-administrator-at-stealth-startup-4473602938",
+      "first_seen_at": "2026-10-05",
+      "is_new_today": true,
+      "days_open": 0
     },
     {
       "title": "Technical Support Specialist",
@@ -327,7 +369,7 @@
       "url": "https://il.linkedin.com/jobs/view/technical-support-specialist-at-upwind-security-4460871956",
       "first_seen_at": "2026-08-30",
       "is_new_today": false,
-      "days_open": 35
+      "days_open": 36
     },
     {
       "title": "Junior Cloud Security Engineer (Entry-Level)",
@@ -341,7 +383,35 @@
       "url": "https://il.linkedin.com/jobs/view/junior-cloud-security-engineer-entry-level-at-oncloud-4456904380",
       "first_seen_at": "2026-08-26",
       "is_new_today": false,
-      "days_open": 39
+      "days_open": 40
+    },
+    {
+      "title": "System Administrator",
+      "company": "TytoCare",
+      "location": "Netanya, Center District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, AWS, Azure, Cloud (any), Troubleshooting",
+      "score": 44,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/system-administrator-at-tytocare-4475569150",
+      "first_seen_at": "2026-10-05",
+      "is_new_today": true,
+      "days_open": 0
+    },
+    {
+      "title": "Data Operations Student - Nights & Weekend shifts",
+      "company": "Voyantis",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "bucket": "Trainee / Bootcamp Grad",
+      "stack": "Python, Bash/Shell, Git, Monitoring",
+      "score": 44,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/data-operations-student-nights-weekend-shifts-at-voyantis-4473649691",
+      "first_seen_at": "2026-10-05",
+      "is_new_today": true,
+      "days_open": 0
     },
     {
       "title": "Junior System Administrator (Monitoring Team)",
@@ -355,7 +425,7 @@
       "url": "https://il.linkedin.com/jobs/view/junior-system-administrator-monitoring-team-at-jobgether-4471710321",
       "first_seen_at": "2026-09-29",
       "is_new_today": false,
-      "days_open": 5
+      "days_open": 6
     },
     {
       "title": "Software Engineering INTERN",
@@ -369,7 +439,7 @@
       "url": "https://il.linkedin.com/jobs/view/software-engineering-intern-at-microsoft-4451071541",
       "first_seen_at": "2026-08-20",
       "is_new_today": false,
-      "days_open": 45
+      "days_open": 46
     },
     {
       "title": "NOC Operator",
@@ -383,7 +453,7 @@
       "url": "https://il.linkedin.com/jobs/view/noc-operator-at-raft-technologies-4433796227",
       "first_seen_at": "2026-07-13",
       "is_new_today": false,
-      "days_open": 83
+      "days_open": 84
     },
     {
       "title": "NOC Operator",
@@ -397,7 +467,21 @@
       "url": "https://il.linkedin.com/jobs/view/noc-operator-at-gini-apps-4440026223",
       "first_seen_at": "2026-08-20",
       "is_new_today": false,
-      "days_open": 45
+      "days_open": 46
+    },
+    {
+      "title": "Junior System Administrator",
+      "company": "Hozek Technologies Ltd.",
+      "location": "Petah Tikva, Center District, Israel",
+      "bucket": "Junior SysAdmin / Linux",
+      "stack": "Azure, Cloud (any), Virtualization, Troubleshooting",
+      "score": 27,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/junior-system-administrator-at-hozek-technologies-ltd-4473634499",
+      "first_seen_at": "2026-10-05",
+      "is_new_today": true,
+      "days_open": 0
     },
     {
       "title": "Support Engineer",
@@ -411,7 +495,7 @@
       "url": "https://il.linkedin.com/jobs/view/support-engineer-at-fetcherr-4449296509",
       "first_seen_at": "2026-08-14",
       "is_new_today": false,
-      "days_open": 51
+      "days_open": 52
     },
     {
       "title": "NOC Operator (24/7 Shift-Based)",
@@ -425,7 +509,21 @@
       "url": "https://il.linkedin.com/jobs/view/noc-operator-24-7-shift-based-at-evoke-4462157700",
       "first_seen_at": "2026-09-02",
       "is_new_today": false,
-      "days_open": 32
+      "days_open": 33
+    },
+    {
+      "title": "NOC Operator (37577)",
+      "company": "מרטנס | Mertens – מקבוצת מלם תים",
+      "location": "Center District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Networking, Monitoring, Virtualization",
+      "score": 24,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/noc-operator-37577-at-%D7%9E%D7%A8%D7%98%D7%A0%D7%A1-mertens-%E2%80%93-%D7%9E%D7%A7%D7%91%D7%95%D7%A6%D7%AA-%D7%9E%D7%9C%D7%9D-%D7%AA%D7%99%D7%9D-4475562487",
+      "first_seen_at": "2026-10-05",
+      "is_new_today": true,
+      "days_open": 0
     },
     {
       "title": "NOC Operator",
@@ -439,7 +537,7 @@
       "url": "https://il.linkedin.com/jobs/view/noc-operator-at-abra-4413899531",
       "first_seen_at": "2026-08-19",
       "is_new_today": false,
-      "days_open": 46
+      "days_open": 47
     },
     {
       "title": "Monitoring Technical Support Specialist (NOC)",
@@ -453,7 +551,7 @@
       "url": "https://il.linkedin.com/jobs/view/monitoring-technical-support-specialist-noc-at-supercom-nasdaq-spcb-4465838312",
       "first_seen_at": "2026-09-11",
       "is_new_today": false,
-      "days_open": 23
+      "days_open": 24
     },
     {
       "title": "Technical Support Engineer Tier 3",
@@ -467,7 +565,7 @@
       "url": "https://job-boards.greenhouse.io/gongio/jobs/4713260006",
       "first_seen_at": "2026-09-29",
       "is_new_today": false,
-      "days_open": 5
+      "days_open": 6
     },
     {
       "title": "Data Center IT Technician - Beit Shemesh",
@@ -481,21 +579,7 @@
       "url": "https://il.linkedin.com/jobs/view/data-center-it-technician-beit-shemesh-at-nebius-4437673265",
       "first_seen_at": "2026-08-14",
       "is_new_today": false,
-      "days_open": 51
-    },
-    {
-      "title": "Data Center IT Technician - Masmiya",
-      "company": "Nebius",
-      "location": "Israel",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Linux, Cloud (any), Networking, Troubleshooting",
-      "score": 20,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/data-center-it-technician-masmiya-at-nebius-4437672340",
-      "first_seen_at": "2026-07-17",
-      "is_new_today": false,
-      "days_open": 79
+      "days_open": 52
     },
     {
       "title": "NOC Analyst",
@@ -509,7 +593,21 @@
       "url": "https://il.linkedin.com/jobs/view/noc-analyst-at-confidential-careers-4471735300",
       "first_seen_at": "2026-09-30",
       "is_new_today": false,
-      "days_open": 4
+      "days_open": 5
+    },
+    {
+      "title": "NOC Israel",
+      "company": "WaveBL",
+      "location": "Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux",
+      "score": 12,
+      "needs_review": false,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/noc%0A%09%09%09%09%09%09%09%09%09%0A%09%09%09%09%09%09%09%09%0A%09%09%09%09%09%09%09%09%09%09israel-at-wavebl-4443917908",
+      "first_seen_at": "2026-08-14",
+      "is_new_today": false,
+      "days_open": 52
     },
     {
       "title": "ProdOps & Support Engineer",
@@ -522,22 +620,8 @@
       "source": "greenhouse",
       "url": "https://job-boards.eu.greenhouse.io/optimove/jobs/4978622101",
       "first_seen_at": "2026-10-04",
-      "is_new_today": true,
-      "days_open": 0
-    },
-    {
-      "title": "Junior System Administrator",
-      "company": "COM-C-TECH LTD",
-      "location": "Herzliya, Tel Aviv District, Israel",
-      "bucket": "Junior SysAdmin / Linux",
-      "stack": "Active Directory, Windows Server",
-      "score": 9,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/junior-system-administrator-at-com-c-tech-ltd-4457234117",
-      "first_seen_at": "2026-08-26",
       "is_new_today": false,
-      "days_open": 39
+      "days_open": 1
     },
     {
       "title": "Cloud Platform Engineer - Student (Java)",
@@ -551,7 +635,7 @@
       "url": "https://il.linkedin.com/jobs/view/cloud-platform-engineer-student-java-at-sap-4457493270",
       "first_seen_at": "2026-08-26",
       "is_new_today": false,
-      "days_open": 39
+      "days_open": 40
     },
     {
       "title": "NOC Engineer- Student Position",
@@ -565,7 +649,7 @@
       "url": "https://il.linkedin.com/jobs/view/noc-engineer-student-position-at-global-e-4467707893",
       "first_seen_at": "2026-09-15",
       "is_new_today": false,
-      "days_open": 19
+      "days_open": 20
     },
     {
       "title": "Employer Branding Student (Temporary )",
@@ -579,21 +663,7 @@
       "url": "https://boards.eu.greenhouse.io/nice/jobs/4912601101?gh_jid=4912601101",
       "first_seen_at": "2026-10-01",
       "is_new_today": false,
-      "days_open": 3
-    },
-    {
-      "title": "Junior Power Control System Engineer",
-      "company": "SolarEdge Technologies",
-      "location": "Herzliya, Tel Aviv District, Israel",
-      "bucket": "Junior SysAdmin / Linux",
-      "stack": "Troubleshooting",
-      "score": 4,
-      "needs_review": false,
-      "source": "linkedin",
-      "url": "https://il.linkedin.com/jobs/view/junior-power-control-system-engineer-at-solaredge-technologies-4438264844",
-      "first_seen_at": "2026-08-18",
-      "is_new_today": false,
-      "days_open": 47
+      "days_open": 4
     },
     {
       "title": "Operations Engineer II",
@@ -607,7 +677,7 @@
       "url": "https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778",
       "first_seen_at": "2026-09-10",
       "is_new_today": false,
-      "days_open": 24
+      "days_open": 25
     },
     {
       "title": "Working Student, Legal (German-speaking)",
@@ -621,7 +691,21 @@
       "url": "https://job-boards.greenhouse.io/via/jobs/8585955002",
       "first_seen_at": "2026-07-29",
       "is_new_today": false,
-      "days_open": 67
+      "days_open": 68
+    },
+    {
+      "title": "Data Center IT Technician - Masmiya",
+      "company": "Nebius",
+      "location": "Israel",
+      "bucket": "Help Desk / IT Support",
+      "stack": "",
+      "score": 0,
+      "needs_review": true,
+      "source": "linkedin",
+      "url": "https://il.linkedin.com/jobs/view/data-center-it-technician-masmiya-at-nebius-4437672340",
+      "first_seen_at": "2026-07-17",
+      "is_new_today": false,
+      "days_open": 80
     },
     {
       "title": "Student Success Coach",
@@ -635,22 +719,92 @@
       "url": "https://remoteOK.com/remote-jobs/remote-student-success-coach-findtutors-1136086",
       "first_seen_at": "2026-08-05",
       "is_new_today": false,
-      "days_open": 60
+      "days_open": 61
     }
   ],
   "new_in_last_24h": [
     {
-      "title": "ProdOps & Support Engineer",
-      "company": "Optimove",
-      "location": "Dundee, Scotland",
-      "bucket": "Help Desk / IT Support",
-      "stack": "Networking, Monitoring, Troubleshooting",
-      "score": 10,
-      "url": "https://job-boards.eu.greenhouse.io/optimove/jobs/4978622101",
-      "first_seen_at": "2026-10-04"
+      "title": "Junior System & Infrastructure Engineer",
+      "company": "Final",
+      "location": "Ramat HaSharon, Tel Aviv District, Israel",
+      "bucket": "Junior SRE / Cloud / Platform",
+      "stack": "Linux, Python, Bash/Shell, Cloud (any), Terraform/IaC, Networking, Monitoring, Automation, Troubleshooting",
+      "score": 88,
+      "url": "https://il.linkedin.com/jobs/view/junior-system-infrastructure-engineer-at-final-4475581791",
+      "first_seen_at": "2026-10-05"
+    },
+    {
+      "title": "Infrastructure System Engineer",
+      "company": "Logica-IT",
+      "location": "Holon, Tel Aviv District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "AWS, Azure, GCP, Cloud (any), Terraform/IaC, Networking, Automation",
+      "score": 60,
+      "url": "https://il.linkedin.com/jobs/view/infrastructure-system-engineer-at-logica-it-4473666027",
+      "first_seen_at": "2026-10-05"
+    },
+    {
+      "title": "System Administrator",
+      "company": "Stealth Startup",
+      "location": "Tel Aviv District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Bash/Shell, Terraform/IaC, Networking, Virtualization, Automation",
+      "score": 48,
+      "url": "https://il.linkedin.com/jobs/view/system-administrator-at-stealth-startup-4473602938",
+      "first_seen_at": "2026-10-05"
+    },
+    {
+      "title": "System Administrator",
+      "company": "TytoCare",
+      "location": "Netanya, Center District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, AWS, Azure, Cloud (any), Troubleshooting",
+      "score": 44,
+      "url": "https://il.linkedin.com/jobs/view/system-administrator-at-tytocare-4475569150",
+      "first_seen_at": "2026-10-05"
+    },
+    {
+      "title": "Data Operations Student - Nights & Weekend shifts",
+      "company": "Voyantis",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "bucket": "Trainee / Bootcamp Grad",
+      "stack": "Python, Bash/Shell, Git, Monitoring",
+      "score": 44,
+      "url": "https://il.linkedin.com/jobs/view/data-operations-student-nights-weekend-shifts-at-voyantis-4473649691",
+      "first_seen_at": "2026-10-05"
+    },
+    {
+      "title": "Junior System Administrator",
+      "company": "Hozek Technologies Ltd.",
+      "location": "Petah Tikva, Center District, Israel",
+      "bucket": "Junior SysAdmin / Linux",
+      "stack": "Azure, Cloud (any), Virtualization, Troubleshooting",
+      "score": 27,
+      "url": "https://il.linkedin.com/jobs/view/junior-system-administrator-at-hozek-technologies-ltd-4473634499",
+      "first_seen_at": "2026-10-05"
+    },
+    {
+      "title": "NOC Operator (37577)",
+      "company": "מרטנס | Mertens – מקבוצת מלם תים",
+      "location": "Center District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Networking, Monitoring, Virtualization",
+      "score": 24,
+      "url": "https://il.linkedin.com/jobs/view/noc-operator-37577-at-%D7%9E%D7%A8%D7%98%D7%A0%D7%A1-mertens-%E2%80%93-%D7%9E%D7%A7%D7%91%D7%95%D7%A6%D7%AA-%D7%9E%D7%9C%D7%9D-%D7%AA%D7%99%D7%9D-4475562487",
+      "first_seen_at": "2026-10-05"
     }
   ],
   "new_in_last_7d": [
+    {
+      "title": "Junior System & Infrastructure Engineer",
+      "company": "Final",
+      "location": "Ramat HaSharon, Tel Aviv District, Israel",
+      "bucket": "Junior SRE / Cloud / Platform",
+      "stack": "Linux, Python, Bash/Shell, Cloud (any), Terraform/IaC, Networking, Monitoring, Automation, Troubleshooting",
+      "score": 88,
+      "url": "https://il.linkedin.com/jobs/view/junior-system-infrastructure-engineer-at-final-4475581791",
+      "first_seen_at": "2026-10-05"
+    },
     {
       "title": "HPC Operations Engineer",
       "company": "NVIDIA",
@@ -672,6 +826,46 @@
       "first_seen_at": "2026-09-30"
     },
     {
+      "title": "Infrastructure System Engineer",
+      "company": "Logica-IT",
+      "location": "Holon, Tel Aviv District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "AWS, Azure, GCP, Cloud (any), Terraform/IaC, Networking, Automation",
+      "score": 60,
+      "url": "https://il.linkedin.com/jobs/view/infrastructure-system-engineer-at-logica-it-4473666027",
+      "first_seen_at": "2026-10-05"
+    },
+    {
+      "title": "System Administrator",
+      "company": "Stealth Startup",
+      "location": "Tel Aviv District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Bash/Shell, Terraform/IaC, Networking, Virtualization, Automation",
+      "score": 48,
+      "url": "https://il.linkedin.com/jobs/view/system-administrator-at-stealth-startup-4473602938",
+      "first_seen_at": "2026-10-05"
+    },
+    {
+      "title": "System Administrator",
+      "company": "TytoCare",
+      "location": "Netanya, Center District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, AWS, Azure, Cloud (any), Troubleshooting",
+      "score": 44,
+      "url": "https://il.linkedin.com/jobs/view/system-administrator-at-tytocare-4475569150",
+      "first_seen_at": "2026-10-05"
+    },
+    {
+      "title": "Data Operations Student - Nights & Weekend shifts",
+      "company": "Voyantis",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "bucket": "Trainee / Bootcamp Grad",
+      "stack": "Python, Bash/Shell, Git, Monitoring",
+      "score": 44,
+      "url": "https://il.linkedin.com/jobs/view/data-operations-student-nights-weekend-shifts-at-voyantis-4473649691",
+      "first_seen_at": "2026-10-05"
+    },
+    {
       "title": "Junior System Administrator (Monitoring Team)",
       "company": "Jobgether",
       "location": "Israel",
@@ -680,6 +874,26 @@
       "score": 41,
       "url": "https://il.linkedin.com/jobs/view/junior-system-administrator-monitoring-team-at-jobgether-4471710321",
       "first_seen_at": "2026-09-29"
+    },
+    {
+      "title": "Junior System Administrator",
+      "company": "Hozek Technologies Ltd.",
+      "location": "Petah Tikva, Center District, Israel",
+      "bucket": "Junior SysAdmin / Linux",
+      "stack": "Azure, Cloud (any), Virtualization, Troubleshooting",
+      "score": 27,
+      "url": "https://il.linkedin.com/jobs/view/junior-system-administrator-at-hozek-technologies-ltd-4473634499",
+      "first_seen_at": "2026-10-05"
+    },
+    {
+      "title": "NOC Operator (37577)",
+      "company": "מרטנס | Mertens – מקבוצת מלם תים",
+      "location": "Center District, Israel",
+      "bucket": "SysAdmin / NOC",
+      "stack": "Linux, Networking, Monitoring, Virtualization",
+      "score": 24,
+      "url": "https://il.linkedin.com/jobs/view/noc-operator-37577-at-%D7%9E%D7%A8%D7%98%D7%A0%D7%A1-mertens-%E2%80%93-%D7%9E%D7%A7%D7%91%D7%95%D7%A6%D7%AA-%D7%9E%D7%9C%D7%9D-%D7%AA%D7%99%D7%9D-4475562487",
+      "first_seen_at": "2026-10-05"
     },
     {
       "title": "Technical Support Engineer Tier 3",
