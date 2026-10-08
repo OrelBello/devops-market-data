@@ -2,15 +2,15 @@
 
 I track every open DevOps / SRE / Platform Engineering / Cloud role in Israel and publish the data publicly. Here's what this week looks like:
 
-📊 99 open roles across major Israeli tech companies + global boards
-👥 2 of those (2.0%) are junior-friendly
-📈 +1 jobs vs last week (+1.0%)
+📊 103 open roles across major Israeli tech companies + global boards
+👥 1 of those (1.0%) are junior-friendly
+📈 +5 jobs vs last week (+5.1%)
 
 🔥 Most-demanded skills:
-Kubernetes • CI/CD • Security • AWS • Observability
+Kubernetes • CI/CD • Security • AWS • GCP
 
 🏢 Top hiring companies:
-Gongio, Taboola, Jfrog, Nice, NVIDIA
+Gongio, Taboola, Jfrog, Nice, Similarweb
 
 Why I do this: I mentor 600+ DevOps engineers in @FlipTheScript and they kept asking "what should I learn?" and "who's hiring juniors?" Instead of guessing, I built an automated platform that answers those questions every Sunday — with real data.
 
