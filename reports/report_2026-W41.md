@@ -1,17 +1,17 @@
 # Israeli DevOps Job Market Report — 2026-W41
 
-_Generated October 08, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated October 09, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 ## Executive Summary
 
-We tracked **103 open DevOps / SRE / Platform / Cloud roles** in Israel this week
+We tracked **105 open DevOps / SRE / Platform / Cloud roles** in Israel this week
 across 2 sources. **1 of those (1.0%)
 are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Week-over-Week Trends
 
-📈 **Total jobs**: +5 (+5.1%) vs 2026-W40
+📈 **Total jobs**: +7 (+7.1%) vs 2026-W40
 📊 **Junior % change**: +1.0 pp
 
 **Rising skills:**
@@ -20,12 +20,12 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 **Falling skills:**
 - WAF/CDN: 6 → 0 (-6)
-- Terraform: 11 → 9 (-2)
 - Security: 22 → 20 (-2)
-- Linux: 11 → 10 (-1)
-- Docker: 13 → 12 (-1)
+- Terraform: 11 → 9 (-2)
+- AWS: 20 → 19 (-1)
+- Networking: 7 → 6 (-1)
 
-**New companies in top 15:** SQLink Group, Shavit Software, מרטנס | Mertens – מקבוצת מלם תים
+**New companies in top 15:** מרטנס | Mertens – מקבוצת מלם תים, comblack, Elbit Systems Israel, SQLink Group
 
 ## Top 10 In-Demand Skills
 
@@ -47,17 +47,17 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 3. **Jfrog** — 4 open roles
 4. **Nice** — 3 open roles
 5. **Similarweb** — 3 open roles
-6. **NVIDIA** — 3 open roles
-7. **Via** — 2 open roles
-8. **Yotpo** — 2 open roles
-9. **Palo Alto Networks** — 2 open roles
-10. **Moon Active** — 2 open roles
+6. **מרטנס | Mertens – מקבוצת מלם תים** — 3 open roles
+7. **NVIDIA** — 3 open roles
+8. **Via** — 2 open roles
+9. **Yotpo** — 2 open roles
+10. **Palo Alto Networks** — 2 open roles
 
 ## Seniority Distribution
 
 - **Junior**: 1.0% ``
-- **Mid**: 52.4% `████████████████████`
-- **Senior**: 46.6% `██████████████████`
+- **Mid**: 55.2% `██████████████████████`
+- **Senior**: 43.8% `█████████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -69,16 +69,16 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Location Breakdown
 
-- **Tel Aviv** — 74
+- **Tel Aviv** — 75
 - **Israel (other)** — 18
 - **Raanana** — 5
+- **Petah Tikva** — 3
 - **Netanya** — 2
 - **Haifa** — 2
-- **Petah Tikva** — 2
 
 ## Sources
 
-- linkedin: 73
+- linkedin: 75
 - greenhouse: 30
 
 ## Methodology

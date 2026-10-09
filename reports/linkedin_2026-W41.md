@@ -2,9 +2,9 @@
 
 I track every open DevOps / SRE / Platform Engineering / Cloud role in Israel and publish the data publicly. Here's what this week looks like:
 
-📊 103 open roles across major Israeli tech companies + global boards
+📊 105 open roles across major Israeli tech companies + global boards
 👥 1 of those (1.0%) are junior-friendly
-📈 +5 jobs vs last week (+5.1%)
+📈 +7 jobs vs last week (+7.1%)
 
 🔥 Most-demanded skills:
 Kubernetes • CI/CD • Security • AWS • GCP
