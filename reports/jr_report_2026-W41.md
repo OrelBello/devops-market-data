@@ -1,17 +1,17 @@
 # 🪜 Israeli DevOps — Junior Pipeline Report — 2026-W41
 
-_Generated October 09, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated October 11, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 > **Who this is for:** anyone in IT / Help Desk / Support / SysAdmin / Bootcamp grad / career-switcher who wants to break into DevOps. Every role on this list **requires DevOps stack tech** (Linux, Python, AWS, Docker, K8s, CI/CD…) — meaning you'll be paid to learn the right tools.
 
 ## This week, by the numbers
 
-We tracked **42 junior-pipeline roles** in Israel that mention real DevOps stack:
+We tracked **40 junior-pipeline roles** in Israel that mention real DevOps stack:
 
-- **SysAdmin / NOC** — 18
+- **SysAdmin / NOC** — 17
 - **Trainee / Bootcamp Grad** — 11
-- **Help Desk / IT Support** — 8
+- **Help Desk / IT Support** — 7
 - **Junior SRE / Cloud / Platform** — 3
 - **Junior DevOps** — 1
 - **Junior SysAdmin / Linux** — 1
@@ -23,13 +23,13 @@ We tracked **42 junior-pipeline roles** in Israel that mention real DevOps stack
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
 1. **Monitoring** — required in 25 roles
-2. **Troubleshooting** — required in 25 roles
-3. **Cloud (any)** — required in 24 roles
-4. **Automation** — required in 20 roles
+2. **Troubleshooting** — required in 24 roles
+3. **Cloud (any)** — required in 21 roles
+4. **Automation** — required in 19 roles
 5. **Python** — required in 19 roles
-6. **Linux** — required in 19 roles
-7. **Networking** — required in 18 roles
-8. **Bash/Shell** — required in 16 roles
+6. **Linux** — required in 18 roles
+7. **Bash/Shell** — required in 16 roles
+8. **Networking** — required in 16 roles
 9. **Docker** — required in 11 roles
 10. **Kubernetes** — required in 11 roles
 
@@ -37,14 +37,14 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 1. **SAP** — 3 role(s)
 2. **Upwind Security** — 2 role(s)
-3. **Nebius** — 2 role(s)
-4. **Nice** — 1 role(s)
-5. **Via** — 1 role(s)
-6. **Gongio** — 1 role(s)
-7. **Appsflyer** — 1 role(s)
-8. **Torq** — 1 role(s)
-9. **Final** — 1 role(s)
-10. **Clarivate** — 1 role(s)
+3. **Nice** — 1 role(s)
+4. **Via** — 1 role(s)
+5. **Gongio** — 1 role(s)
+6. **Appsflyer** — 1 role(s)
+7. **Torq** — 1 role(s)
+8. **Final** — 1 role(s)
+9. **Clarivate** — 1 role(s)
+10. **iGATES - INFORMATION GATES Ltd** — 1 role(s)
 
 ## ⭐ Top 15 highest-scoring roles this week
 
@@ -78,12 +78,12 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/noc-team-leader-at-rapyd-4428470164)
 
-### System Engineer — Paragon
-📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 100/100 • 🪜 SysAdmin / NOC
+### Linux System Administrator — Calanit by one
+📍 North District, Israel • 🎯 Learning Score: 96/100 • 🪜 SysAdmin / NOC
 
-**Stack you'll work with:** Linux, Python, Bash/Shell, AWS, GCP, Cloud (any)
+**Stack you'll work with:** Linux, Python, Bash/Shell, Docker, Kubernetes, Terraform/IaC
 
-🔗 [View role](https://il.linkedin.com/jobs/view/system-engineer-at-paragon-4425617619)
+🔗 [View role](https://il.linkedin.com/jobs/view/linux-system-administrator-at-calanit-by-one-4478305717)
 
 ### Junior System & Infrastructure Engineer — Final
 📍 Ramat HaSharon, Tel Aviv District, Israel • 🎯 Learning Score: 88/100 • 🪜 Junior SRE / Cloud / Platform
@@ -148,12 +148,12 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/support-engineer-noc-tier-1-at-kela-technologies-4461059776)
 
-### Infrastructure System Engineer — Logica-IT
-📍 Holon, Tel Aviv District, Israel • 🎯 Learning Score: 60/100 • 🪜 SysAdmin / NOC
+### Junior CAD Engineer, University Graduate, Google Cloud — Google
+📍 Haifa District, Israel • 🎯 Learning Score: 57/100 • 🪜 Junior SRE / Cloud / Platform
 
-**Stack you'll work with:** AWS, Azure, GCP, Cloud (any), Terraform/IaC, Networking
+**Stack you'll work with:** Python, Bash/Shell, GCP, Cloud (any), Automation
 
-🔗 [View role](https://il.linkedin.com/jobs/view/infrastructure-system-engineer-at-logica-it-4473666027)
+🔗 [View role](https://il.linkedin.com/jobs/view/junior-cad-engineer-university-graduate-google-cloud-at-google-4475452638)
 
 
 ## How the score works
