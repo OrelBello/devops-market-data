@@ -1,48 +1,50 @@
 # 🪜 Israeli DevOps — Junior Pipeline Report — 2026-W42
 
-_Generated October 14, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated October 15, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 > **Who this is for:** anyone in IT / Help Desk / Support / SysAdmin / Bootcamp grad / career-switcher who wants to break into DevOps. Every role on this list **requires DevOps stack tech** (Linux, Python, AWS, Docker, K8s, CI/CD…) — meaning you'll be paid to learn the right tools.
 
 ## This week, by the numbers
 
-We tracked **38 junior-pipeline roles** in Israel that mention real DevOps stack:
+We tracked **44 junior-pipeline roles** in Israel that mention real DevOps stack:
 
-- **SysAdmin / NOC** — 22
-- **Help Desk / IT Support** — 8
-- **Trainee / Bootcamp Grad** — 5
+- **SysAdmin / NOC** — 21
+- **Trainee / Bootcamp Grad** — 9
+- **Help Desk / IT Support** — 9
 - **Junior SRE / Cloud / Platform** — 3
+- **Junior SysAdmin / Linux** — 1
+- **Junior DevOps** — 1
 
-(2 additional LinkedIn-only postings need manual JD review for stack — see "All Jobs" tab in the dashboard.)
+(0 additional LinkedIn-only postings need manual JD review for stack — see "All Jobs" tab in the dashboard.)
 
 ## 🔥 What stack do these roles need?
 
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
-1. **Linux** — required in 20 roles
-2. **Troubleshooting** — required in 20 roles
-3. **Monitoring** — required in 19 roles
-4. **Networking** — required in 19 roles
-5. **Cloud (any)** — required in 17 roles
-6. **Automation** — required in 17 roles
-7. **Bash/Shell** — required in 16 roles
-8. **Python** — required in 15 roles
-9. **AWS** — required in 9 roles
-10. **Kubernetes** — required in 9 roles
+1. **Troubleshooting** — required in 28 roles
+2. **Monitoring** — required in 26 roles
+3. **Cloud (any)** — required in 23 roles
+4. **Linux** — required in 22 roles
+5. **Python** — required in 22 roles
+6. **Automation** — required in 20 roles
+7. **Networking** — required in 20 roles
+8. **Bash/Shell** — required in 19 roles
+9. **Docker** — required in 12 roles
+10. **Kubernetes** — required in 11 roles
 
 ## 🏢 Companies hiring for the pipeline
 
-1. **Nice** — 1 role(s)
-2. **Via** — 1 role(s)
-3. **Jfrog** — 1 role(s)
-4. **Gongio** — 1 role(s)
-5. **Taboola** — 1 role(s)
-6. **Appsflyer** — 1 role(s)
-7. **Torq** — 1 role(s)
-8. **Final** — 1 role(s)
-9. **Clarivate** — 1 role(s)
-10. **iGATES - INFORMATION GATES Ltd** — 1 role(s)
+1. **Upwind Security** — 2 role(s)
+2. **Nice** — 1 role(s)
+3. **Via** — 1 role(s)
+4. **Jfrog** — 1 role(s)
+5. **Gongio** — 1 role(s)
+6. **Taboola** — 1 role(s)
+7. **Appsflyer** — 1 role(s)
+8. **Forter** — 1 role(s)
+9. **Torq** — 1 role(s)
+10. **Final** — 1 role(s)
 
 ## ⭐ Top 15 highest-scoring roles this week
 
@@ -62,12 +64,26 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/development-operations-engineer-at-clarivate-4467992253)
 
+### DevOps & Cloud Infrastructure Intern — F5
+📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 100/100 • 🪜 Junior DevOps
+
+**Stack you'll work with:** Linux, Python, Bash/Shell, AWS, Azure, GCP
+
+🔗 [View role](https://il.linkedin.com/jobs/view/devops-cloud-infrastructure-intern-at-f5-4464650168)
+
 ### NOC Team Leader — Rapyd
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 100/100 • 🪜 SysAdmin / NOC
 
 **Stack you'll work with:** Linux, Python, Bash/Shell, AWS, Azure, GCP
 
 🔗 [View role](https://il.linkedin.com/jobs/view/noc-team-leader-at-rapyd-4428470164)
+
+### Linux & HPC Systems Engineer — Novocure
+📍 Tirat HaCarmel, Haifa District, Israel • 🎯 Learning Score: 100/100 • 🪜 SysAdmin / NOC
+
+**Stack you'll work with:** Linux, Python, Bash/Shell, Azure, Cloud (any), Docker
+
+🔗 [View role](https://il.linkedin.com/jobs/view/linux-hpc-systems-engineer-at-novocure-4478872342)
 
 ### System Engineer — Paragon
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 100/100 • 🪜 SysAdmin / NOC
@@ -97,6 +113,13 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/noc-engineer-at-cross-river-4478788112)
 
+### HPC Operations Engineer — NVIDIA
+📍 Yokneam Ilit, North District, Israel • 🎯 Learning Score: 84/100 • 🪜 SysAdmin / NOC
+
+**Stack you'll work with:** Linux, Python, Bash/Shell, Cloud (any), Docker, Terraform/IaC
+
+🔗 [View role](https://il.linkedin.com/jobs/view/hpc-operations-engineer-at-nvidia-4471977303)
+
 ### Cloud Monitoring Engineer (Student Position) — Upwind Security
 📍 Ramat Gan, Tel Aviv District, Israel • 🎯 Learning Score: 83/100 • 🪜 Trainee / Bootcamp Grad
 
@@ -111,6 +134,13 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 🔗 [View role](https://il.linkedin.com/jobs/view/junior-technical-operations-engineer-at-igates-information-gates-ltd-4452212223)
 
+### Security Analyst (Student Position) — Upwind Security
+📍 Ramat Gan, Tel Aviv District, Israel • 🎯 Learning Score: 74/100 • 🪜 Trainee / Bootcamp Grad
+
+**Stack you'll work with:** Linux, Python, Bash/Shell, Cloud (any), Docker, Kubernetes
+
+🔗 [View role](https://il.linkedin.com/jobs/view/security-analyst-student-position-at-upwind-security-4473525994)
+
 ### Software Engineer Student, SPIV team — Amazon
 📍 Haifa, Haifa District, Israel • 🎯 Learning Score: 70/100 • 🪜 Trainee / Bootcamp Grad
 
@@ -124,34 +154,6 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 **Stack you'll work with:** AWS, Azure, GCP, Cloud (any), Docker, Kubernetes
 
 🔗 [View role](https://job-boards.greenhouse.io/torq/jobs/6179167004)
-
-### System Administrator — Medulla
-📍 Netanya, Center District, Israel • 🎯 Learning Score: 64/100 • 🪜 SysAdmin / NOC
-
-**Stack you'll work with:** Linux, Python, Bash/Shell, Azure, Cloud (any), Networking
-
-🔗 [View role](https://il.linkedin.com/jobs/view/system-administrator-at-medulla-4468207460)
-
-### Support Engineer (NOC / Tier 1) — Kela Technologies
-📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 61/100 • 🪜 Help Desk / IT Support
-
-**Stack you'll work with:** Linux, Python, Bash/Shell, Docker, Kubernetes, Networking
-
-🔗 [View role](https://il.linkedin.com/jobs/view/support-engineer-noc-tier-1-at-kela-technologies-4461059776)
-
-### Junior CAD Engineer, University Graduate, Google Cloud — Google
-📍 Haifa District, Israel • 🎯 Learning Score: 57/100 • 🪜 Junior SRE / Cloud / Platform
-
-**Stack you'll work with:** Python, Bash/Shell, GCP, Cloud (any), Automation
-
-🔗 [View role](https://il.linkedin.com/jobs/view/junior-cad-engineer-university-graduate-google-cloud-at-google-4475452638)
-
-### Technical Support Engineer — Jobgether
-📍 Israel • 🎯 Learning Score: 51/100 • 🪜 Help Desk / IT Support
-
-**Stack you'll work with:** Linux, Python, Cloud (any), Kubernetes, Networking, Monitoring
-
-🔗 [View role](https://il.linkedin.com/jobs/view/technical-support-engineer-at-jobgether-4477100901)
 
 
 ## How the score works
