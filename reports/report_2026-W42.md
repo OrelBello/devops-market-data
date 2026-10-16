@@ -1,17 +1,17 @@
 # Israeli DevOps Job Market Report — 2026-W42
 
-_Generated October 15, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated October 16, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 ## Executive Summary
 
-We tracked **101 open DevOps / SRE / Platform / Cloud roles** in Israel this week
+We tracked **95 open DevOps / SRE / Platform / Cloud roles** in Israel this week
 across 2 sources. **0 of those (0.0%)
 are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Week-over-Week Trends
 
-📉 **Total jobs**: -3 (-2.9%) vs 2026-W41
+📉 **Total jobs**: -9 (-8.7%) vs 2026-W41
 📊 **Junior % change**: -1.0 pp
 
 **Rising skills:**
@@ -27,7 +27,7 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 - GCP: 14 → 12 (-2)
 - Observability: 13 → 12 (-1)
 
-**New companies in top 15:** Lenovo, DriveNets, Fiverr, TAIRC
+**New companies in top 15:** Lenovo, DriveNets, TAIRC, Payoneer
 
 ## Top 10 In-Demand Skills
 
@@ -50,16 +50,16 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 4. **Nice** — 3 open roles
 5. **Jfrog** — 3 open roles
 6. **Similarweb** — 3 open roles
-7. **NVIDIA** — 3 open roles
-8. **מרטנס | Mertens – מקבוצת מלם תים** — 3 open roles
-9. **DriveNets** — 3 open roles
-10. **Via** — 2 open roles
+7. **DriveNets** — 3 open roles
+8. **Via** — 2 open roles
+9. **Yotpo** — 2 open roles
+10. **Palo Alto Networks** — 2 open roles
 
 ## Seniority Distribution
 
 - **Junior**: 0.0% ``
-- **Mid**: 51.5% `████████████████████`
-- **Senior**: 48.5% `███████████████████`
+- **Mid**: 48.4% `███████████████████`
+- **Senior**: 51.6% `████████████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -72,15 +72,15 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 ## Location Breakdown
 
 - **Tel Aviv** — 63
-- **Israel (other)** — 23
+- **Israel (other)** — 18
 - **Haifa** — 8
 - **Raanana** — 4
-- **Petah Tikva** — 2
 - **Herzliya** — 1
+- **Petah Tikva** — 1
 
 ## Sources
 
-- linkedin: 72
+- linkedin: 66
 - greenhouse: 29
 
 ## Methodology
