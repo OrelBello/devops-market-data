@@ -1,12 +1,12 @@
 # Israeli DevOps Job Market Report — 2026-W43
 
-_Generated October 21, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated October 22, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 ## Executive Summary
 
 We tracked **93 open DevOps / SRE / Platform / Cloud roles** in Israel this week
-across 3 sources. **0 of those (0.0%)
+across 2 sources. **0 of those (0.0%)
 are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Week-over-Week Trends
@@ -16,34 +16,34 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 **Falling skills:**
 - Security: 21 → 14 (-7)
-- CI/CD: 20 → 16 (-4)
+- Linux: 11 → 6 (-5)
+- Observability: 12 → 7 (-5)
 - AWS: 18 → 14 (-4)
-- Linux: 11 → 7 (-4)
-- Observability: 12 → 8 (-4)
+- CI/CD: 20 → 16 (-4)
 
-**New companies in top 15:** Paragon, comblack, Lendbuzz, Elad Software Systems, Pacaya HR Experts
+**New companies in top 15:** Paragon, comblack, Jeen.ai, Lendbuzz, Elad Software Systems
 
 ## Top 10 In-Demand Skills
 
-1. **Kubernetes** — 17 mentions
+1. **Kubernetes** — 16 mentions
 2. **CI/CD** — 16 mentions
 3. **AWS** — 14 mentions
 4. **Security** — 14 mentions
 5. **GCP** — 10 mentions
-6. **Docker** — 10 mentions
-7. **Argo CD** — 9 mentions
-8. **Observability** — 8 mentions
-9. **Azure** — 8 mentions
+6. **Argo CD** — 9 mentions
+7. **Docker** — 9 mentions
+8. **Azure** — 8 mentions
+9. **Observability** — 7 mentions
 10. **Terraform** — 7 mentions
 
 ## Top 10 Hiring Companies
 
 1. **Palo Alto Networks** — 6 open roles
-2. **Taboola** — 4 open roles
+2. **NVIDIA** — 5 open roles
 3. **Nice** — 3 open roles
 4. **Gongio** — 3 open roles
-5. **Similarweb** — 3 open roles
-6. **NVIDIA** — 3 open roles
+5. **Taboola** — 3 open roles
+6. **Similarweb** — 3 open roles
 7. **Paragon** — 3 open roles
 8. **Via** — 2 open roles
 9. **Yotpo** — 2 open roles
@@ -52,8 +52,8 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 ## Seniority Distribution
 
 - **Junior**: 0.0% ``
-- **Mid**: 44.1% `█████████████████`
-- **Senior**: 55.9% `██████████████████████`
+- **Mid**: 47.3% `██████████████████`
+- **Senior**: 52.7% `█████████████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -65,19 +65,18 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Location Breakdown
 
-- **Tel Aviv** — 62
-- **Israel (other)** — 19
-- **Raanana** — 5
-- **Haifa** — 4
+- **Tel Aviv** — 59
+- **Israel (other)** — 21
+- **Raanana** — 6
+- **Haifa** — 3
+- **Jerusalem** — 2
 - **Herzliya** — 1
-- **Jerusalem** — 1
 - **Petah Tikva** — 1
 
 ## Sources
 
-- linkedin: 69
-- greenhouse: 23
-- lever: 1
+- linkedin: 71
+- greenhouse: 22
 
 ## Methodology
 

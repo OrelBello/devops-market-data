@@ -10,7 +10,7 @@ I track every open DevOps / SRE / Platform Engineering / Cloud role in Israel an
 Kubernetes • CI/CD • AWS • Security • GCP
 
 🏢 Top hiring companies:
-Palo Alto Networks, Taboola, Nice, Gongio, Similarweb
+Palo Alto Networks, NVIDIA, Nice, Gongio, Taboola
 
 Why I do this: I mentor 600+ DevOps engineers in @FlipTheScript and they kept asking "what should I learn?" and "who's hiring juniors?" Instead of guessing, I built an automated platform that answers those questions every Sunday — with real data.
 
