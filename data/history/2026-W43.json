@@ -1,8 +1,8 @@
 {
-  "total_jobs": 90,
+  "total_jobs": 98,
   "by_source": {
     "greenhouse": 22,
-    "linkedin": 68
+    "linkedin": 76
   },
   "top_skills": [
     [
@@ -14,11 +14,11 @@
       16
     ],
     [
-      "Security",
-      15
+      "AWS",
+      14
     ],
     [
-      "AWS",
+      "Security",
       14
     ],
     [
@@ -46,12 +46,12 @@
       7
     ],
     [
-      "Python",
+      "Linux",
       7
     ],
     [
-      "Linux",
-      6
+      "Python",
+      7
     ],
     [
       "Helm",
@@ -104,6 +104,10 @@
       2
     ],
     [
+      "Wix",
+      2
+    ],
+    [
       "Jeen.ai",
       2
     ],
@@ -122,28 +126,28 @@
     [
       "Confidential Careers",
       2
-    ],
-    [
-      "Moveo Source",
-      2
     ]
   ],
   "seniority_distribution": {
-    "Mid": 42,
-    "Senior": 48
+    "Mid": 48,
+    "Senior": 49,
+    "Junior": 1
   },
   "seniority_pct": {
-    "Mid": 46.7,
-    "Senior": 53.3
+    "Mid": 49.0,
+    "Senior": 50.0,
+    "Junior": 1.0
   },
-  "junior_pct": 0.0,
-  "junior_count": 0,
-  "junior_friendly_companies": [],
+  "junior_pct": 1.0,
+  "junior_count": 1,
+  "junior_friendly_companies": [
+    "The Vault"
+  ],
   "location_distribution": {
-    "Tel Aviv": 57,
-    "Israel (other)": 20,
+    "Tel Aviv": 62,
+    "Israel (other)": 22,
     "Raanana": 5,
-    "Haifa": 4,
+    "Haifa": 5,
     "Jerusalem": 2,
     "Herzliya": 1,
     "Petah Tikva": 1
@@ -255,7 +259,19 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
+    "Harmonic": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
     "Deloitte": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Check Point Software": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -286,10 +302,10 @@
       "hiring_strength": 1.2
     },
     "Wix": {
-      "open_roles": 1,
+      "open_roles": 2,
       "seniority_levels": 1,
       "skill_breadth": 0,
-      "hiring_strength": 1.2
+      "hiring_strength": 2.4
     },
     "Upstream Security": {
       "open_roles": 1,
@@ -339,6 +355,12 @@
       "skill_breadth": 0,
       "hiring_strength": 2.4
     },
+    "Elementor": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
     "Cellebrite": {
       "open_roles": 1,
       "seniority_levels": 1,
@@ -351,17 +373,17 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Paragon": {
-      "open_roles": 3,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 3.6
-    },
     "Gotfriends": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
+    },
+    "Paragon": {
+      "open_roles": 3,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 3.6
     },
     "Pontera": {
       "open_roles": 1,
@@ -369,13 +391,7 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Cust2Mate - A2Z (NASDAQ: AZ)": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "BioCatch": {
+    "Personetics": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -387,13 +403,13 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Webiks": {
+    "AllCloud": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "AllCloud": {
+    "Aiven": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -417,6 +433,12 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
+    "Medulla": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
     "CONTROP Precision Technologies Ltd.": {
       "open_roles": 1,
       "seniority_levels": 1,
@@ -435,12 +457,6 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Antidote Health": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 1,
-      "hiring_strength": 1.3
-    },
     "Navan": {
       "open_roles": 1,
       "seniority_levels": 1,
@@ -450,8 +466,14 @@
     "Confidential Careers": {
       "open_roles": 2,
       "seniority_levels": 1,
+      "skill_breadth": 1,
+      "hiring_strength": 2.6
+    },
+    "Compie Technologies": {
+      "open_roles": 1,
+      "seniority_levels": 1,
       "skill_breadth": 0,
-      "hiring_strength": 2.4
+      "hiring_strength": 1.2
     },
     "Moveo Source": {
       "open_roles": 2,
@@ -460,6 +482,12 @@
       "hiring_strength": 2.8
     },
     "Akamai Technologies": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Viz.ai": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -478,10 +506,10 @@
       "hiring_strength": 1.3
     },
     "Jobgether": {
-      "open_roles": 1,
+      "open_roles": 2,
       "seniority_levels": 1,
       "skill_breadth": 0,
-      "hiring_strength": 1.2
+      "hiring_strength": 2.4
     },
     "Nimble": {
       "open_roles": 1,
@@ -507,13 +535,25 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
+    "Moon Active": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
     "MyOps by Yael Group": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 1,
       "hiring_strength": 1.3
     },
-    "E2E Solutions IL": {
+    "Cato Networks": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "The Vault": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -624,17 +664,17 @@
       2
     ],
     [
+      "Confidential Careers",
+      2.6,
+      2
+    ],
+    [
       "Transmitsecurity",
       2.4,
       1
     ],
     [
-      "Jeen.ai",
-      2.4,
-      2
-    ],
-    [
-      "comblack",
+      "Wix",
       2.4,
       2
     ]
@@ -643,41 +683,41 @@
   "diagnostics": {
     "greenhouse": {
       "jobs": 22,
-      "elapsed_s": 13.1,
+      "elapsed_s": 11.2,
       "ok": true
     },
     "linkedin": {
-      "jobs": 70,
-      "elapsed_s": 36.7,
+      "jobs": 77,
+      "elapsed_s": 35.0,
       "ok": true
     },
     "indeed_il": {
       "jobs": 0,
-      "elapsed_s": 8.2,
+      "elapsed_s": 8.5,
       "ok": true
     },
     "lever": {
       "jobs": 0,
-      "elapsed_s": 3.1,
+      "elapsed_s": 1.6,
       "ok": true
     },
     "alljobs": {
       "jobs": 0,
-      "elapsed_s": 30.3,
+      "elapsed_s": 40.1,
       "ok": true
     },
     "drushim": {
       "jobs": 0,
-      "elapsed_s": 15.0,
+      "elapsed_s": 17.9,
       "ok": true
     },
     "jobmaster": {
       "jobs": 0,
-      "elapsed_s": 32.6,
+      "elapsed_s": 35.1,
       "ok": true
     }
   },
-  "raw_count": 92,
-  "deduped_count": 90,
-  "saved_at": "2026-10-23T11:30:13"
+  "raw_count": 99,
+  "deduped_count": 98,
+  "saved_at": "2026-10-25T11:15:37"
 }
