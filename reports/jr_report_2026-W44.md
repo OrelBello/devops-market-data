@@ -1,36 +1,36 @@
 # 🪜 Israeli DevOps — Junior Pipeline Report — 2026-W44
 
-_Generated October 27, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated October 28, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 > **Who this is for:** anyone in IT / Help Desk / Support / SysAdmin / Bootcamp grad / career-switcher who wants to break into DevOps. Every role on this list **requires DevOps stack tech** (Linux, Python, AWS, Docker, K8s, CI/CD…) — meaning you'll be paid to learn the right tools.
 
 ## This week, by the numbers
 
-We tracked **41 junior-pipeline roles** in Israel that mention real DevOps stack:
+We tracked **43 junior-pipeline roles** in Israel that mention real DevOps stack:
 
-- **SysAdmin / NOC** — 23
-- **Help Desk / IT Support** — 7
+- **SysAdmin / NOC** — 24
+- **Help Desk / IT Support** — 8
 - **Trainee / Bootcamp Grad** — 6
 - **Junior SRE / Cloud / Platform** — 3
 - **Junior SysAdmin / Linux** — 2
 
-(1 additional LinkedIn-only postings need manual JD review for stack — see "All Jobs" tab in the dashboard.)
+(0 additional LinkedIn-only postings need manual JD review for stack — see "All Jobs" tab in the dashboard.)
 
 ## 🔥 What stack do these roles need?
 
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
-1. **Troubleshooting** — required in 26 roles
-2. **Linux** — required in 24 roles
-3. **Monitoring** — required in 24 roles
-4. **Cloud (any)** — required in 23 roles
-5. **Networking** — required in 23 roles
+1. **Troubleshooting** — required in 28 roles
+2. **Monitoring** — required in 26 roles
+3. **Linux** — required in 25 roles
+4. **Networking** — required in 24 roles
+5. **Cloud (any)** — required in 23 roles
 6. **Python** — required in 20 roles
-7. **Bash/Shell** — required in 17 roles
-8. **Automation** — required in 17 roles
-9. **Docker** — required in 12 roles
-10. **Kubernetes** — required in 12 roles
+7. **Automation** — required in 18 roles
+8. **Bash/Shell** — required in 17 roles
+9. **AWS** — required in 10 roles
+10. **Azure** — required in 10 roles
 
 ## 🏢 Companies hiring for the pipeline
 
@@ -76,13 +76,6 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 **Stack you'll work with:** Linux, Python, Bash/Shell, Azure, Cloud (any), Docker
 
 🔗 [View role](https://il.linkedin.com/jobs/view/linux-hpc-systems-engineer-at-novocure-4478872342)
-
-### Linux System Administrator — Calanit by one
-📍 North District, Israel • 🎯 Learning Score: 96/100 • 🪜 SysAdmin / NOC
-
-**Stack you'll work with:** Linux, Python, Bash/Shell, Docker, Kubernetes, Terraform/IaC
-
-🔗 [View role](https://il.linkedin.com/jobs/view/linux-system-administrator-at-calanit-by-one-4478305717)
 
 ### Junior System & Infrastructure Engineer — Final
 📍 Ramat HaSharon, Tel Aviv District, Israel • 🎯 Learning Score: 88/100 • 🪜 Junior SRE / Cloud / Platform
@@ -132,6 +125,13 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 **Stack you'll work with:** Linux, Python, Bash/Shell, Cloud (any), Docker, Kubernetes
 
 🔗 [View role](https://il.linkedin.com/jobs/view/security-analyst-student-position-at-upwind-security-4473525994)
+
+### System Integration Student, SPIV team — Annapurna Labs
+📍 Haifa, Haifa District, Israel • 🎯 Learning Score: 70/100 • 🪜 Trainee / Bootcamp Grad
+
+**Stack you'll work with:** Linux, Python, Bash/Shell, AWS, CI/CD, Automation
+
+🔗 [View role](https://il.linkedin.com/jobs/view/system-integration-student-spiv-team-at-annapurna-labs-4456348779)
 
 ### Student Software Engineer – Cloud, Big Data, Billing & AI — SAP
 📍 Raanana, Center District, Israel • 🎯 Learning Score: 70/100 • 🪜 Trainee / Bootcamp Grad
