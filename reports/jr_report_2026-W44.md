@@ -1,19 +1,20 @@
 # 🪜 Israeli DevOps — Junior Pipeline Report — 2026-W44
 
-_Generated October 28, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated October 29, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 > **Who this is for:** anyone in IT / Help Desk / Support / SysAdmin / Bootcamp grad / career-switcher who wants to break into DevOps. Every role on this list **requires DevOps stack tech** (Linux, Python, AWS, Docker, K8s, CI/CD…) — meaning you'll be paid to learn the right tools.
 
 ## This week, by the numbers
 
-We tracked **43 junior-pipeline roles** in Israel that mention real DevOps stack:
+We tracked **41 junior-pipeline roles** in Israel that mention real DevOps stack:
 
-- **SysAdmin / NOC** — 24
-- **Help Desk / IT Support** — 8
+- **SysAdmin / NOC** — 22
+- **Help Desk / IT Support** — 7
 - **Trainee / Bootcamp Grad** — 6
 - **Junior SRE / Cloud / Platform** — 3
 - **Junior SysAdmin / Linux** — 2
+- **Junior DevOps** — 1
 
 (0 additional LinkedIn-only postings need manual JD review for stack — see "All Jobs" tab in the dashboard.)
 
@@ -21,29 +22,29 @@ We tracked **43 junior-pipeline roles** in Israel that mention real DevOps stack
 
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
-1. **Troubleshooting** — required in 28 roles
-2. **Monitoring** — required in 26 roles
-3. **Linux** — required in 25 roles
-4. **Networking** — required in 24 roles
-5. **Cloud (any)** — required in 23 roles
+1. **Troubleshooting** — required in 26 roles
+2. **Linux** — required in 25 roles
+3. **Monitoring** — required in 24 roles
+4. **Networking** — required in 23 roles
+5. **Cloud (any)** — required in 22 roles
 6. **Python** — required in 20 roles
-7. **Automation** — required in 18 roles
-8. **Bash/Shell** — required in 17 roles
-9. **AWS** — required in 10 roles
+7. **Bash/Shell** — required in 17 roles
+8. **Automation** — required in 17 roles
+9. **Docker** — required in 11 roles
 10. **Azure** — required in 10 roles
 
 ## 🏢 Companies hiring for the pipeline
 
 1. **מרטנס | Mertens – מקבוצת מלם תים** — 3 role(s)
 2. **Upwind Security** — 2 role(s)
-3. **Confidential Careers** — 2 role(s)
-4. **Nice** — 1 role(s)
-5. **Via** — 1 role(s)
-6. **Jfrog** — 1 role(s)
-7. **Taboola** — 1 role(s)
-8. **Appsflyer** — 1 role(s)
-9. **Torq** — 1 role(s)
-10. **Melio** — 1 role(s)
+3. **Nice** — 1 role(s)
+4. **Via** — 1 role(s)
+5. **Jfrog** — 1 role(s)
+6. **Taboola** — 1 role(s)
+7. **Appsflyer** — 1 role(s)
+8. **Torq** — 1 role(s)
+9. **Final** — 1 role(s)
+10. **Clarivate** — 1 role(s)
 
 ## ⭐ Top 15 highest-scoring roles this week
 
@@ -62,6 +63,13 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 **Stack you'll work with:** Linux, Python, Bash/Shell, Cloud (any), Docker, Kubernetes
 
 🔗 [View role](https://il.linkedin.com/jobs/view/development-operations-engineer-at-clarivate-4467992253)
+
+### BLE System Test DevOps Intern — Texas Instruments Europe
+📍 Raanana, Center District, Israel • 🎯 Learning Score: 100/100 • 🪜 Junior DevOps
+
+**Stack you'll work with:** Linux, Python, Bash/Shell, Docker, CI/CD, Git
+
+🔗 [View role](https://il.linkedin.com/jobs/view/ble-system-test-devops-intern-at-texas-instruments-europe-4484112036)
 
 ### NOC Team Leader — Rapyd
 📍 Tel Aviv-Yafo, Tel Aviv District, Israel • 🎯 Learning Score: 100/100 • 🪜 SysAdmin / NOC
@@ -111,13 +119,6 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 **Stack you'll work with:** Linux, Python, Bash/Shell, Docker, CI/CD, Git
 
 🔗 [View role](https://il.linkedin.com/jobs/view/junior-technical-operations-engineer-at-igates-information-gates-ltd-4452212223)
-
-### IT Specialist — Melio
-📍 New York City • 🎯 Learning Score: 74/100 • 🪜 Help Desk / IT Support
-
-**Stack you'll work with:** Python, Bash/Shell, AWS, GCP, Cloud (any), Git
-
-🔗 [View role](https://job-boards.greenhouse.io/melio/jobs/7995568003)
 
 ### Security Analyst (Student Position) — Upwind Security
 📍 Ramat Gan, Tel Aviv District, Israel • 🎯 Learning Score: 74/100 • 🪜 Trainee / Bootcamp Grad
