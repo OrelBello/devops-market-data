@@ -1,40 +1,40 @@
 # Israeli DevOps Job Market Report — 2026-W44
 
-_Generated October 30, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated November 01, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 ## Executive Summary
 
-We tracked **104 open DevOps / SRE / Platform / Cloud roles** in Israel this week
+We tracked **99 open DevOps / SRE / Platform / Cloud roles** in Israel this week
 across 2 sources. **1 of those (1.0%)
 are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Week-over-Week Trends
 
-📈 **Total jobs**: +6 (+6.1%) vs 2026-W43
+📈 **Total jobs**: +1 (+1.0%) vs 2026-W43
 📊 **Junior % change**: +0.0 pp
 
 **Rising skills:**
 - Observability: 7 → 10 (+3)
-- Security: 14 → 15 (+1)
-- Networking: 6 → 7 (+1)
-- AWS: 14 → 15 (+1)
+- Security: 14 → 16 (+2)
 - Azure: 8 → 9 (+1)
+- AWS: 14 → 15 (+1)
+- Networking: 6 → 7 (+1)
 
 **Falling skills:**
+- GCP: 10 → 9 (-1)
+- Docker: 9 → 8 (-1)
 - Helm: 6 → 5 (-1)
 - Kubernetes: 16 → 15 (-1)
-- Docker: 9 → 8 (-1)
-- GCP: 10 → 9 (-1)
 
-**New companies in top 15:** Appsflyer, Bitsight, Dream, Logica-IT, Stealth AI Startup
+**New companies in top 15:** Dream, Appsflyer, Bitsight, Stealth AI Startup, Elbit Systems Israel
 
 ## Top 10 In-Demand Skills
 
 1. **CI/CD** — 16 mentions
-2. **Kubernetes** — 15 mentions
-3. **AWS** — 15 mentions
-4. **Security** — 15 mentions
+2. **Security** — 16 mentions
+3. **Kubernetes** — 15 mentions
+4. **AWS** — 15 mentions
 5. **Observability** — 10 mentions
 6. **Argo CD** — 9 mentions
 7. **Azure** — 9 mentions
@@ -45,21 +45,21 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 ## Top 10 Hiring Companies
 
 1. **Gongio** — 4 open roles
-2. **Nice** — 3 open roles
-3. **Taboola** — 3 open roles
-4. **Palo Alto Networks** — 3 open roles
-5. **NVIDIA** — 3 open roles
-6. **comblack** — 3 open roles
-7. **Via** — 2 open roles
-8. **Similarweb** — 2 open roles
-9. **Appsflyer** — 2 open roles
-10. **Yotpo** — 2 open roles
+2. **comblack** — 4 open roles
+3. **Nice** — 3 open roles
+4. **Taboola** — 3 open roles
+5. **Dream** — 3 open roles
+6. **Palo Alto Networks** — 3 open roles
+7. **NVIDIA** — 3 open roles
+8. **Via** — 2 open roles
+9. **Similarweb** — 2 open roles
+10. **Appsflyer** — 2 open roles
 
 ## Seniority Distribution
 
 - **Junior**: 1.0% ``
-- **Mid**: 46.2% `██████████████████`
-- **Senior**: 52.9% `█████████████████████`
+- **Mid**: 44.4% `█████████████████`
+- **Senior**: 54.5% `█████████████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -71,18 +71,17 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 
 ## Location Breakdown
 
-- **Tel Aviv** — 75
+- **Tel Aviv** — 70
 - **Israel (other)** — 15
 - **Raanana** — 5
-- **Haifa** — 3
+- **Haifa** — 4
 - **Herzliya** — 2
 - **Petah Tikva** — 2
-- **Netanya** — 1
 - **Jerusalem** — 1
 
 ## Sources
 
-- linkedin: 82
+- linkedin: 77
 - greenhouse: 22
 
 ## Methodology
