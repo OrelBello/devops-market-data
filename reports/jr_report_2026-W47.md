@@ -1,15 +1,15 @@
 # 🪜 Israeli DevOps — Junior Pipeline Report — 2026-W47
 
-_Generated November 17, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated November 18, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 > **Who this is for:** anyone in IT / Help Desk / Support / SysAdmin / Bootcamp grad / career-switcher who wants to break into DevOps. Every role on this list **requires DevOps stack tech** (Linux, Python, AWS, Docker, K8s, CI/CD…) — meaning you'll be paid to learn the right tools.
 
 ## This week, by the numbers
 
-We tracked **45 junior-pipeline roles** in Israel that mention real DevOps stack:
+We tracked **44 junior-pipeline roles** in Israel that mention real DevOps stack:
 
-- **SysAdmin / NOC** — 25
+- **SysAdmin / NOC** — 24
 - **Help Desk / IT Support** — 8
 - **Trainee / Bootcamp Grad** — 4
 - **Junior SRE / Cloud / Platform** — 3
@@ -23,9 +23,9 @@ We tracked **45 junior-pipeline roles** in Israel that mention real DevOps stack
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
 1. **Linux** — required in 29 roles
-2. **Monitoring** — required in 26 roles
-3. **Networking** — required in 26 roles
-4. **Troubleshooting** — required in 24 roles
+2. **Networking** — required in 26 roles
+3. **Monitoring** — required in 25 roles
+4. **Troubleshooting** — required in 23 roles
 5. **Cloud (any)** — required in 22 roles
 6. **Bash/Shell** — required in 20 roles
 7. **Python** — required in 19 roles
@@ -93,11 +93,11 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 🔗 [View role](https://il.linkedin.com/jobs/view/noc-engineer-at-cross-river-4478788112)
 
 ### HPC Operations Engineer — NVIDIA
-📍 Tel Aviv District, Israel • 🎯 Learning Score: 84/100 • 🪜 SysAdmin / NOC
+📍 Yokneam Ilit, North District, Israel • 🎯 Learning Score: 84/100 • 🪜 SysAdmin / NOC
 
 **Stack you'll work with:** Linux, Python, Bash/Shell, Cloud (any), Docker, Terraform/IaC
 
-🔗 [View role](https://il.linkedin.com/jobs/view/hpc-operations-engineer-at-nvidia-4471963869)
+🔗 [View role](https://il.linkedin.com/jobs/view/hpc-operations-engineer-at-nvidia-4471977303)
 
 ### Cloud Monitoring Engineer (Student Position) — Upwind Security
 📍 Ramat Gan, Tel Aviv District, Israel • 🎯 Learning Score: 83/100 • 🪜 Trainee / Bootcamp Grad
