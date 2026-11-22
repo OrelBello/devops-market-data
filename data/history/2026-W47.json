@@ -1,12 +1,20 @@
 {
-  "total_jobs": 82,
+  "total_jobs": 86,
   "by_source": {
-    "greenhouse": 19,
-    "linkedin": 63
+    "greenhouse": 18,
+    "linkedin": 68
   },
   "top_skills": [
     [
       "Security",
+      12
+    ],
+    [
+      "AWS",
+      11
+    ],
+    [
+      "Python",
       11
     ],
     [
@@ -14,16 +22,8 @@
       10
     ],
     [
-      "AWS",
-      10
-    ],
-    [
-      "Python",
-      10
-    ],
-    [
       "CI/CD",
-      9
+      10
     ],
     [
       "Linux",
@@ -34,15 +34,15 @@
       9
     ],
     [
-      "Observability",
-      9
+      "GCP",
+      8
     ],
     [
       "Terraform",
       8
     ],
     [
-      "GCP",
+      "Observability",
       7
     ],
     [
@@ -68,11 +68,15 @@
   ],
   "top_companies": [
     [
+      "Appsflyer",
+      4
+    ],
+    [
       "Taboola",
       3
     ],
     [
-      "Appsflyer",
+      "NVIDIA",
       3
     ],
     [
@@ -84,19 +88,11 @@
       2
     ],
     [
-      "Gongio",
-      2
-    ],
-    [
-      "Yotpo",
-      2
-    ],
-    [
       "Riskified",
       2
     ],
     [
-      "NVIDIA",
+      "Palo Alto Networks",
       2
     ],
     [
@@ -116,37 +112,41 @@
       2
     ],
     [
+      "Confidental",
+      2
+    ],
+    [
       "Payoneer",
+      1
+    ],
+    [
+      "Gongio",
       1
     ],
     [
       "Similarweb",
       1
-    ],
-    [
-      "Transmitsecurity",
-      1
     ]
   ],
   "seniority_distribution": {
-    "Senior": 42,
+    "Senior": 46,
     "Mid": 40
   },
   "seniority_pct": {
-    "Senior": 51.2,
-    "Mid": 48.8
+    "Senior": 53.5,
+    "Mid": 46.5
   },
   "junior_pct": 0.0,
   "junior_count": 0,
   "junior_friendly_companies": [],
   "location_distribution": {
-    "Tel Aviv": 53,
-    "Israel (other)": 19,
-    "Herzliya": 3,
+    "Tel Aviv": 54,
+    "Israel (other)": 21,
+    "Herzliya": 4,
     "Petah Tikva": 3,
     "Jerusalem": 2,
-    "Haifa": 1,
-    "Netanya": 1
+    "Netanya": 1,
+    "Haifa": 1
   },
   "salaries_parsed_count": 0,
   "salary_disclosure_rate": 0.0,
@@ -178,10 +178,10 @@
       "hiring_strength": 1.4
     },
     "Gongio": {
-      "open_roles": 2,
+      "open_roles": 1,
       "seniority_levels": 1,
-      "skill_breadth": 9,
-      "hiring_strength": 4.6
+      "skill_breadth": 5,
+      "hiring_strength": 1.8
     },
     "Taboola": {
       "open_roles": 3,
@@ -196,16 +196,16 @@
       "hiring_strength": 2.0
     },
     "Appsflyer": {
-      "open_roles": 3,
+      "open_roles": 4,
       "seniority_levels": 2,
-      "skill_breadth": 15,
-      "hiring_strength": 10.5
+      "skill_breadth": 18,
+      "hiring_strength": 15.7
     },
     "Yotpo": {
-      "open_roles": 2,
-      "seniority_levels": 2,
-      "skill_breadth": 3,
-      "hiring_strength": 3.6
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 2,
+      "hiring_strength": 1.4
     },
     "Riskified": {
       "open_roles": 2,
@@ -250,10 +250,10 @@
       "hiring_strength": 1.2
     },
     "NVIDIA": {
-      "open_roles": 2,
+      "open_roles": 3,
       "seniority_levels": 1,
       "skill_breadth": 0,
-      "hiring_strength": 2.4
+      "hiring_strength": 3.6
     },
     "Deloitte": {
       "open_roles": 1,
@@ -267,7 +267,25 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
+    "Check Point Software": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
     "Island": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Connecteam": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Stealth AI Startup": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -280,12 +298,18 @@
       "hiring_strength": 1.2
     },
     "Palo Alto Networks": {
+      "open_roles": 2,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 2.4
+    },
+    "Gotfriends": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Gotfriends": {
+    "Fetcherr": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -298,12 +322,6 @@
       "hiring_strength": 1.2
     },
     "Priority Software": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "TechSee": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -333,13 +351,79 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
+    "Finout": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
     "Bridgify": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 3,
       "hiring_strength": 1.6
     },
-    "Port.io": {
+    "Zenity": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Zscaler": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "abra": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "imper.ai": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Milestone Systems": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Compie Technologies": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Claroty for Healthcare": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "PwC | NEXT Technology Solutions": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Quantum Machines": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Ness Technologies | נס טכנולוגיות": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Pacaya HR Experts": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -351,17 +435,17 @@
       "skill_breadth": 0,
       "hiring_strength": 3.6
     },
-    "AppCard, Inc.": {
+    "Port.io": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Gong": {
+    "AppCard, Inc.": {
       "open_roles": 1,
       "seniority_levels": 1,
-      "skill_breadth": 1,
-      "hiring_strength": 1.3
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
     },
     "ServiceNow": {
       "open_roles": 1,
@@ -370,12 +454,6 @@
       "hiring_strength": 1.2
     },
     "april": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "Milestone Systems": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -393,35 +471,11 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "imper.ai": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
     "Oracle": {
       "open_roles": 2,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 2.4
-    },
-    "Viz.ai": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "Finout": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "Personetics": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
     },
     "BioCatch": {
       "open_roles": 2,
@@ -435,19 +489,13 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Ness Technologies | נס טכנולוגיות": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
     "Millennium": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "abra": {
+    "Liacom Systems Ltd.": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -464,24 +512,6 @@
       "seniority_levels": 1,
       "skill_breadth": 1,
       "hiring_strength": 1.3
-    },
-    "Claroty for Healthcare": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "Sapiens": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "Surecomp": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
     },
     "comblack": {
       "open_roles": 2,
@@ -507,11 +537,11 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Compie Technologies": {
-      "open_roles": 1,
+    "Confidental": {
+      "open_roles": 2,
       "seniority_levels": 1,
       "skill_breadth": 0,
-      "hiring_strength": 1.2
+      "hiring_strength": 2.4
     },
     "TLVTech": {
       "open_roles": 1,
@@ -526,12 +556,6 @@
       "hiring_strength": 1.3
     },
     "COMDA": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "BDO Israel": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -554,29 +578,17 @@
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
-    },
-    "Yael Group": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "Kaltura": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
     }
   },
   "top_hiring_strength": [
     [
-      "Taboola",
-      13.4,
-      3
+      "Appsflyer",
+      15.7,
+      4
     ],
     [
-      "Appsflyer",
-      10.5,
+      "Taboola",
+      13.4,
       3
     ],
     [
@@ -590,14 +602,9 @@
       2
     ],
     [
-      "Gongio",
-      4.6,
-      2
-    ],
-    [
-      "Yotpo",
+      "NVIDIA",
       3.6,
-      2
+      3
     ],
     [
       "monday.com",
@@ -615,7 +622,7 @@
       2
     ],
     [
-      "NVIDIA",
+      "Palo Alto Networks",
       2.4,
       2
     ],
@@ -635,6 +642,11 @@
       2
     ],
     [
+      "Confidental",
+      2.4,
+      2
+    ],
+    [
       "Orcasecurity",
       2.2,
       1
@@ -648,13 +660,13 @@
   "week": "2026-W47",
   "diagnostics": {
     "greenhouse": {
-      "jobs": 19,
-      "elapsed_s": 10.7,
+      "jobs": 18,
+      "elapsed_s": 11.4,
       "ok": true
     },
     "linkedin": {
-      "jobs": 69,
-      "elapsed_s": 43.4,
+      "jobs": 73,
+      "elapsed_s": 41.6,
       "ok": true
     },
     "indeed_il": {
@@ -664,26 +676,26 @@
     },
     "lever": {
       "jobs": 0,
-      "elapsed_s": 5.1,
+      "elapsed_s": 2.2,
       "ok": true
     },
     "alljobs": {
       "jobs": 0,
-      "elapsed_s": 34.6,
+      "elapsed_s": 30.5,
       "ok": true
     },
     "drushim": {
       "jobs": 0,
-      "elapsed_s": 16.7,
+      "elapsed_s": 15.4,
       "ok": true
     },
     "jobmaster": {
       "jobs": 0,
-      "elapsed_s": 31.6,
+      "elapsed_s": 29.8,
       "ok": true
     }
   },
-  "raw_count": 88,
-  "deduped_count": 82,
-  "saved_at": "2026-11-20T15:20:49"
+  "raw_count": 91,
+  "deduped_count": 86,
+  "saved_at": "2026-11-22T14:29:37"
 }
