@@ -1,6 +1,6 @@
 # Israeli DevOps Job Market Report — 2026-W48
 
-_Generated November 25, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated November 26, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 ## Executive Summary
@@ -15,52 +15,49 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 📊 **Junior % change**: +1.1 pp
 
 **Rising skills:**
-- Security: 12 → 17 (+5)
-- AWS: 11 → 13 (+2)
-- GCP: 8 → 9 (+1)
-- CI/CD: 10 → 11 (+1)
+- Security: 12 → 15 (+3)
 - Azure: 6 → 7 (+1)
 
 **Falling skills:**
-- Python: 11 → 8 (-3)
-- Networking: 9 → 6 (-3)
-- Observability: 7 → 5 (-2)
+- Python: 11 → 7 (-4)
+- Networking: 9 → 5 (-4)
 - Linux: 9 → 7 (-2)
-- Argo CD: 6 → 5 (-1)
+- Observability: 7 → 5 (-2)
+- Terraform: 8 → 6 (-2)
 
-**New companies in top 15:** Elad Software Systems, Parallel Wireless, Cato Networks, abra, Elbit Systems Israel
+**New companies in top 15:** מרטנס | Mertens – מקבוצת מלם תים, Elad Software Systems, Parallel Wireless, Cato Networks, Elbit Systems Israel
 
 ## Top 10 In-Demand Skills
 
-1. **Security** — 17 mentions
-2. **AWS** — 13 mentions
-3. **CI/CD** — 11 mentions
+1. **Security** — 15 mentions
+2. **AWS** — 11 mentions
+3. **CI/CD** — 10 mentions
 4. **Kubernetes** — 9 mentions
-5. **GCP** — 9 mentions
-6. **Python** — 8 mentions
-7. **Azure** — 7 mentions
-8. **Terraform** — 7 mentions
-9. **Linux** — 7 mentions
-10. **Networking** — 6 mentions
+5. **GCP** — 8 mentions
+6. **Azure** — 7 mentions
+7. **Linux** — 7 mentions
+8. **Python** — 7 mentions
+9. **Terraform** — 6 mentions
+10. **Networking** — 5 mentions
 
 ## Top 10 Hiring Companies
 
-1. **Appsflyer** — 4 open roles
-2. **Elad Software Systems** — 3 open roles
-3. **comblack** — 3 open roles
+1. **Appsflyer** — 3 open roles
+2. **מרטנס | Mertens – מקבוצת מלם תים** — 3 open roles
+3. **Elad Software Systems** — 3 open roles
 4. **Via** — 2 open roles
 5. **Payoneer** — 2 open roles
 6. **Riskified** — 2 open roles
 7. **Parallel Wireless** — 2 open roles
 8. **Cato Networks** — 2 open roles
-9. **abra** — 2 open roles
+9. **Palo Alto Networks** — 2 open roles
 10. **Elbit Systems Israel** — 2 open roles
 
 ## Seniority Distribution
 
 - **Junior**: 1.1% ``
-- **Mid**: 58.0% `███████████████████████`
-- **Senior**: 40.9% `████████████████`
+- **Mid**: 54.5% `█████████████████████`
+- **Senior**: 44.3% `█████████████████`
 
 ## Salary Insights (USD, where parseable)
 
@@ -73,17 +70,17 @@ are junior-friendly** — a key metric for FlipTheScript's 600+ mentees.
 ## Location Breakdown
 
 - **Tel Aviv** — 47
-- **Israel (other)** — 28
-- **Herzliya** — 4
-- **Haifa** — 4
+- **Israel (other)** — 26
+- **Haifa** — 5
+- **Herzliya** — 3
+- **Petah Tikva** — 3
 - **Jerusalem** — 3
-- **Petah Tikva** — 1
 - **Raanana** — 1
 
 ## Sources
 
-- linkedin: 72
-- greenhouse: 16
+- linkedin: 73
+- greenhouse: 15
 
 ## Methodology
 

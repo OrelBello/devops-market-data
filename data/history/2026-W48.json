@@ -1,21 +1,21 @@
 {
   "total_jobs": 88,
   "by_source": {
-    "greenhouse": 16,
-    "linkedin": 72
+    "greenhouse": 15,
+    "linkedin": 73
   },
   "top_skills": [
     [
       "Security",
-      17
+      15
     ],
     [
       "AWS",
-      13
+      11
     ],
     [
       "CI/CD",
-      11
+      10
     ],
     [
       "Kubernetes",
@@ -23,10 +23,6 @@
     ],
     [
       "GCP",
-      9
-    ],
-    [
-      "Python",
       8
     ],
     [
@@ -34,16 +30,20 @@
       7
     ],
     [
-      "Terraform",
-      7
-    ],
-    [
       "Linux",
       7
     ],
     [
-      "Networking",
+      "Python",
+      7
+    ],
+    [
+      "Terraform",
       6
+    ],
+    [
+      "Networking",
+      5
     ],
     [
       "Argo CD",
@@ -54,29 +54,29 @@
       5
     ],
     [
-      "Docker",
-      4
-    ],
-    [
       "Helm",
       4
     ],
     [
       "WAF/CDN",
       4
+    ],
+    [
+      "Docker",
+      3
     ]
   ],
   "top_companies": [
     [
       "Appsflyer",
-      4
-    ],
-    [
-      "Elad Software Systems",
       3
     ],
     [
-      "comblack",
+      "מרטנס | Mertens – מקבוצת מלם תים",
+      3
+    ],
+    [
+      "Elad Software Systems",
       3
     ],
     [
@@ -100,11 +100,15 @@
       2
     ],
     [
-      "abra",
+      "Palo Alto Networks",
       2
     ],
     [
       "Elbit Systems Israel",
+      2
+    ],
+    [
+      "Riverside",
       2
     ],
     [
@@ -122,20 +126,16 @@
     [
       "Lenovo",
       2
-    ],
-    [
-      "evoke",
-      2
     ]
   ],
   "seniority_distribution": {
-    "Senior": 36,
-    "Mid": 51,
+    "Senior": 39,
+    "Mid": 48,
     "Junior": 1
   },
   "seniority_pct": {
-    "Senior": 40.9,
-    "Mid": 58.0,
+    "Senior": 44.3,
+    "Mid": 54.5,
     "Junior": 1.1
   },
   "junior_pct": 1.1,
@@ -145,11 +145,11 @@
   ],
   "location_distribution": {
     "Tel Aviv": 47,
-    "Israel (other)": 28,
-    "Herzliya": 4,
-    "Haifa": 4,
+    "Israel (other)": 26,
+    "Haifa": 5,
+    "Herzliya": 3,
+    "Petah Tikva": 3,
     "Jerusalem": 3,
-    "Petah Tikva": 1,
     "Raanana": 1
   },
   "salaries_parsed_count": 0,
@@ -200,10 +200,10 @@
       "hiring_strength": 1.9
     },
     "Appsflyer": {
-      "open_roles": 4,
+      "open_roles": 3,
       "seniority_levels": 2,
-      "skill_breadth": 18,
-      "hiring_strength": 15.7
+      "skill_breadth": 16,
+      "hiring_strength": 10.9
     },
     "Yotpo": {
       "open_roles": 1,
@@ -259,6 +259,12 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
+    "מרטנס | Mertens – מקבוצת מלם תים": {
+      "open_roles": 3,
+      "seniority_levels": 1,
+      "skill_breadth": 1,
+      "hiring_strength": 4.0
+    },
     "Connecteam": {
       "open_roles": 1,
       "seniority_levels": 1,
@@ -271,11 +277,17 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "abra": {
+    "Palo Alto Networks": {
       "open_roles": 2,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 2.4
+    },
+    "abra": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
     },
     "Priority Software": {
       "open_roles": 1,
@@ -284,12 +296,6 @@
       "hiring_strength": 1.2
     },
     "Fetcherr": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "Claroty": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -313,17 +319,11 @@
       "skill_breadth": 2,
       "hiring_strength": 2.9
     },
-    "PICK HR": {
-      "open_roles": 1,
+    "Riverside": {
+      "open_roles": 2,
       "seniority_levels": 1,
       "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "Datafy.io": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
+      "hiring_strength": 2.4
     },
     "Varonis": {
       "open_roles": 1,
@@ -349,6 +349,12 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
+    "Akeyless Security": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
     "Zscaler": {
       "open_roles": 1,
       "seniority_levels": 1,
@@ -361,6 +367,12 @@
       "skill_breadth": 1,
       "hiring_strength": 4.6
     },
+    "Applied Materials - Israel": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
     "Bridgify": {
       "open_roles": 1,
       "seniority_levels": 1,
@@ -372,12 +384,6 @@
       "seniority_levels": 2,
       "skill_breadth": 0,
       "hiring_strength": 2.8
-    },
-    "Palo Alto Networks": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
     },
     "Paragon": {
       "open_roles": 2,
@@ -397,12 +403,6 @@
       "skill_breadth": 1,
       "hiring_strength": 2.6
     },
-    "Claroty for Healthcare": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
     "Bagira": {
       "open_roles": 1,
       "seniority_levels": 1,
@@ -415,13 +415,13 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Ness Technologies | נס טכנולוגיות": {
+    "Cisco": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Cisco": {
+    "Pacaya HR Experts": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -469,19 +469,13 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "april": {
+    "HARMAN International": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
     "Oriient": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "BioCatch": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -499,11 +493,17 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Sysnet part of Amanet Tec": {
-      "open_roles": 2,
+    "Orca Security": {
+      "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
-      "hiring_strength": 2.4
+      "hiring_strength": 1.2
+    },
+    "SeeTrue AI": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
     },
     "YL Ventures": {
       "open_roles": 1,
@@ -511,19 +511,7 @@
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "comblack": {
-      "open_roles": 3,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 3.6
-    },
     "DriveNets": {
-      "open_roles": 1,
-      "seniority_levels": 1,
-      "skill_breadth": 0,
-      "hiring_strength": 1.2
-    },
-    "Matrix": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -535,25 +523,49 @@
       "skill_breadth": 3,
       "hiring_strength": 3.1
     },
-    "מרטנס | Mertens – מקבוצת מלם תים": {
-      "open_roles": 2,
-      "seniority_levels": 1,
-      "skill_breadth": 3,
-      "hiring_strength": 3.1
-    },
     "SQLink Group": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "TLVTech": {
+    "Mize": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 1,
+      "hiring_strength": 1.3
+    },
+    "Final": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
       "hiring_strength": 1.2
     },
-    "Final": {
+    "COMDA": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Commit": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Sysnet part of Amanet Tec": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Linnovate": {
+      "open_roles": 1,
+      "seniority_levels": 1,
+      "skill_breadth": 0,
+      "hiring_strength": 1.2
+    },
+    "Yael Group": {
       "open_roles": 1,
       "seniority_levels": 1,
       "skill_breadth": 0,
@@ -569,8 +581,8 @@
   "top_hiring_strength": [
     [
       "Appsflyer",
-      15.7,
-      4
+      10.9,
+      3
     ],
     [
       "Via",
@@ -588,14 +600,14 @@
       3
     ],
     [
+      "מרטנס | Mertens – מקבוצת מלם תים",
+      4.0,
+      3
+    ],
+    [
       "Payoneer",
       3.8,
       2
-    ],
-    [
-      "comblack",
-      3.6,
-      3
     ],
     [
       "Cato Networks",
@@ -604,11 +616,6 @@
     ],
     [
       "Log-On Software",
-      3.1,
-      2
-    ],
-    [
-      "מרטנס | Mertens – מקבוצת מלם תים",
       3.1,
       2
     ],
@@ -641,47 +648,52 @@
       "Parallel Wireless",
       2.4,
       2
+    ],
+    [
+      "Palo Alto Networks",
+      2.4,
+      2
     ]
   ],
   "week": "2026-W48",
   "diagnostics": {
     "greenhouse": {
-      "jobs": 16,
-      "elapsed_s": 10.7,
+      "jobs": 15,
+      "elapsed_s": 11.4,
       "ok": true
     },
     "linkedin": {
       "jobs": 76,
-      "elapsed_s": 37.9,
+      "elapsed_s": 40.4,
       "ok": true
     },
     "indeed_il": {
       "jobs": 0,
-      "elapsed_s": 8.0,
+      "elapsed_s": 8.1,
       "ok": true
     },
     "lever": {
       "jobs": 0,
-      "elapsed_s": 5.6,
+      "elapsed_s": 1.7,
       "ok": true
     },
     "alljobs": {
       "jobs": 0,
-      "elapsed_s": 28.2,
+      "elapsed_s": 30.5,
       "ok": true
     },
     "drushim": {
       "jobs": 0,
-      "elapsed_s": 15.4,
+      "elapsed_s": 14.7,
       "ok": true
     },
     "jobmaster": {
       "jobs": 0,
-      "elapsed_s": 31.5,
+      "elapsed_s": 30.7,
       "ok": true
     }
   },
-  "raw_count": 92,
+  "raw_count": 91,
   "deduped_count": 88,
-  "saved_at": "2026-11-25T17:05:47"
+  "saved_at": "2026-11-26T16:46:59"
 }

@@ -10,7 +10,7 @@ I track every open DevOps / SRE / Platform Engineering / Cloud role in Israel an
 Security • AWS • CI/CD • Kubernetes • GCP
 
 🏢 Top hiring companies:
-Appsflyer, Elad Software Systems, comblack, Via, Payoneer
+Appsflyer, מרטנס | Mertens – מקבוצת מלם תים, Elad Software Systems, Via, Payoneer
 
 Why I do this: I mentor 600+ DevOps engineers in @FlipTheScript and they kept asking "what should I learn?" and "who's hiring juniors?" Instead of guessing, I built an automated platform that answers those questions every Sunday — with real data.
 

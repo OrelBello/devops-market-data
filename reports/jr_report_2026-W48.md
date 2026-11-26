@@ -1,36 +1,36 @@
 # 🪜 Israeli DevOps — Junior Pipeline Report — 2026-W48
 
-_Generated November 25, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
+_Generated November 26, 2026 • Maintained by [Orel Bello](https://www.linkedin.com/in/orel-bello/) (FlipTheScript • AWS Community Builder)_
 
 
 > **Who this is for:** anyone in IT / Help Desk / Support / SysAdmin / Bootcamp grad / career-switcher who wants to break into DevOps. Every role on this list **requires DevOps stack tech** (Linux, Python, AWS, Docker, K8s, CI/CD…) — meaning you'll be paid to learn the right tools.
 
 ## This week, by the numbers
 
-We tracked **37 junior-pipeline roles** in Israel that mention real DevOps stack:
+We tracked **36 junior-pipeline roles** in Israel that mention real DevOps stack:
 
-- **SysAdmin / NOC** — 19
+- **SysAdmin / NOC** — 18
 - **Help Desk / IT Support** — 9
 - **Junior SRE / Cloud / Platform** — 3
 - **Junior DevOps** — 2
 - **Trainee / Bootcamp Grad** — 2
 - **Junior SysAdmin / Linux** — 2
 
-(0 additional LinkedIn-only postings need manual JD review for stack — see "All Jobs" tab in the dashboard.)
+(2 additional LinkedIn-only postings need manual JD review for stack — see "All Jobs" tab in the dashboard.)
 
 ## 🔥 What stack do these roles need?
 
 These are the technologies a DevOps-aspiring junior should focus on learning, ranked by demand:
 
-1. **Linux** — required in 24 roles
-2. **Troubleshooting** — required in 22 roles
-3. **Monitoring** — required in 21 roles
+1. **Linux** — required in 22 roles
+2. **Troubleshooting** — required in 21 roles
+3. **Monitoring** — required in 20 roles
 4. **Networking** — required in 20 roles
 5. **Python** — required in 18 roles
 6. **Bash/Shell** — required in 18 roles
-7. **Cloud (any)** — required in 18 roles
+7. **Cloud (any)** — required in 17 roles
 8. **Automation** — required in 16 roles
-9. **Virtualization** — required in 10 roles
+9. **Virtualization** — required in 9 roles
 10. **Active Directory** — required in 8 roles
 
 ## 🏢 Companies hiring for the pipeline
@@ -83,7 +83,7 @@ These are the technologies a DevOps-aspiring junior should focus on learning, ra
 
 **Stack you'll work with:** Linux, Python, Bash/Shell, Docker, Kubernetes, Terraform/IaC
 
-🔗 [View role](https://il.linkedin.com/jobs/view/linux-open-source-system-engineer-38144-at-%D7%9E%D7%A8%D7%98%D7%A0%D7%A1-mertens-%E2%80%93-%D7%9E%D7%A7%D7%91%D7%95%D7%A6%D7%AA-%D7%9E%D7%9C%D7%9D-%D7%AA%D7%99%D7%9D-4493630889)
+🔗 [View role](https://il.linkedin.com/jobs/view/linux-open-source-system-engineer-38144-at-%D7%9E%D7%A8%D7%98%D7%A0%D7%A1-mertens-%E2%80%93-%D7%9E%D7%A7%D7%91%D7%95%D7%A6%D7%AA-%D7%9E%D7%9C%D7%9D-%D7%AA%D7%99%D7%9D-4495295807)
 
 ### NOC Engineer — Cross River
 📍 West Jerusalem, Jerusalem District, Israel • 🎯 Learning Score: 84/100 • 🪜 SysAdmin / NOC
